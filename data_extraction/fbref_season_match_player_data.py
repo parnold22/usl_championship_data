@@ -6,8 +6,11 @@ Adding some default variables like base URLs
 import pandas as pd
 
 FBREF_BASE_URL = "https://fbref.com"
-file_directory = "/Users/parnold/Personal/Personal Projects/usl_championship_data/exports/"
-player_match_stats_file_directory = "/Users/parnold/Personal/Personal Projects/usl_championship_data/exports/player_match_stats/"
+_scraped_data_base = "/Users/parnold/Personal/Personal Projects/github/usl_championship_data/dbt/dbt_soccer/seeds/scraped_data"
+file_directory = _scraped_data_base + "/"
+player_match_stats_file_directory = _scraped_data_base + "/player_match_stats/"
+match_stats_file_directory = _scraped_data_base + "/match_stats/"
+season_dims_file_directory = _scraped_data_base + "/season_dims/"
 
 season_year = [
         #"2025",  # 2025 Season
@@ -32,7 +35,8 @@ MATCH_STAT_TYPES = {
         "attendance": "Attendance", # attendance
         "referee": "Referee", # referee
         "venue": "Venue", # venue
-        "match_report": "Match URL" #match report
+        "match_report": "Match URL",  # match report
+        "notes": "Notes",  # notes (e.g. Match Cancelled, Match awarded)
 }
 
 
@@ -59,7 +63,7 @@ OUTFIELD_PLAYER_MATCH_STAT_TYPES = {
         "own_goals": "Own Goals",
         "pens_won": "Penalties Won",
         "penalties_conceded": "Penalties Conceded",
-        
+
 }
 
 KEEPER_PLAYER_MATCH_STAT_TYPES = {
@@ -69,7 +73,7 @@ KEEPER_PLAYER_MATCH_STAT_TYPES = {
         "gk_goals_against": "Goals Conceded",
         "gk_saves": "Saves",
         "gk_save_pct": "Save Percentage",
-        
+
 }
 
 # Keeper-only columns to join onto outfield (non-keepers get 0)
@@ -113,7 +117,7 @@ print("Number of schedule URLs to scrape:", len(league_fixture_urls))
 for season_id in league_fixture_urls["season_id"].unique():
     subset = league_fixture_urls[league_fixture_urls["season_id"] == season_id]
     safe_id = str(season_id).replace("/", "_").replace(" ", "_")
-    csv_path = file_directory + f"season_data_{safe_id}.csv"
+    csv_path = season_dims_file_directory + f"season_data_{safe_id}.csv"
     subset.to_csv(csv_path, index=False)
     print(f"Exported {len(subset)} row(s) to {csv_path}")
 
@@ -264,7 +268,7 @@ for col in _score_cols:
 for season_id in matches_df["season_id"].unique():
     subset = matches_df[matches_df["season_id"] == season_id]
     safe_id = str(season_id).replace("/", "_").replace(" ", "_")
-    csv_path_2 = file_directory + f"match_level_data_{safe_id}.csv"
+    csv_path_2 = match_stats_file_directory + f"match_level_data_{safe_id}.csv"
     subset.to_csv(csv_path_2, index=False)
     print(f"Exported {len(subset)} rows to {csv_path_2}")
 
@@ -522,11 +526,24 @@ def get_keeper_player_match_data(match_url, date, season_id):
     return get_player_match_data(match_url, date, season_id)
 
 
+# Skip player-level scraping when match-level notes indicate cancelled/awarded (no player stats).
+NOTES_SKIP_PHRASES = ("Match Cancelled", "Match Canceled", "Match awarded")
+
+def _notes_skip_player_scrape(notes_val):
+    if notes_val is None or (isinstance(notes_val, float) and pd.isna(notes_val)):
+        return False
+    s = str(notes_val).strip()
+    return any(phrase.lower() in s.lower() for phrase in NOTES_SKIP_PHRASES)
+
 # Scrape player-level match data per (season_id, date); one CSV per (season_id, date).
 # Process match URLs in chunks of URL_CHUNK_SIZE; open a fresh browser connection per chunk and disconnect after each chunk so the browser resets between batches.
 current_endpoint = sb.get_endpoint_url()
 for (season_id, date), group in matches_df.groupby(["season_id", "date"]):
-    match_urls = group["match_report"].dropna().tolist()
+    if "notes" in group.columns:
+        skip_mask = group["notes"].apply(_notes_skip_player_scrape)
+        match_urls = group.loc[~skip_mask, "match_report"].dropna().tolist()
+    else:
+        match_urls = group["match_report"].dropna().tolist()
     if not match_urls:
         continue
     all_outfield = []
