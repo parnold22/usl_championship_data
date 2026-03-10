@@ -1,0 +1,33 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Orange County,https://fbref.com/en/players/9f39b6cf/Ethan-Zubak,9f39b6cf,f8c96d97,Ethan Zubak,USA,FW,27-183,90,0,0,0,0,0,0,1,0,2,2,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/17e0db3e/Tristan-Trager,17e0db3e,f8c96d97,Tristan Trager,USA,FW,26-048,40,0,0,0,0,1,1,1,0,1,1,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/a8734f4a/Cameron-Dunbar,a8734f4a,f8c96d97,Cameron Dunbar,USA,"FW,MF",22-358,49,0,0,0,0,1,1,0,0,2,1,0,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/141ac095/Tyson-Espy,141ac095,f8c96d97,Tyson Espy,USA,DF,16-195,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/99a6142d/Chris-Hegardt,99a6142d,f8c96d97,Chris Hegardt,USA,LM,23-282,89,0,0,0,0,1,0,0,0,2,4,0,2,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/7a6cf67c/Ashton-Miles,7a6cf67c,f8c96d97,Ashton Miles,USA,DF,20-359,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/a0198fcb/Stephen-Kelly,a0198fcb,f8c96d97,Stephen Kelly,SCO,CM,25-185,90,0,0,0,0,2,1,0,0,2,0,0,7,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/8f5eb74f/Malik-Pinto,8f5eb74f,f8c96d97,Malik Pinto,USA,CM,23-067,68,0,0,0,0,0,0,1,0,3,1,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/dac1adc3/Kevin-Partida,dac1adc3,f8c96d97,Kevin Partida,USA,MF,30-219,22,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/a5c76d49/Mouhamadou-War,a5c76d49,f8c96d97,Mouhamadou War,JPN,RM,25-194,68,0,0,0,0,2,1,0,0,0,1,0,5,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/70ddebc5/Ousmane-Sylla,70ddebc5,f8c96d97,Ousmane Sylla,SEN,MF,24-069,22,1,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/1ec1c986/Ryan-Doghman,1ec1c986,f8c96d97,Ryan Doghman,NOR,LB,28-123,90,0,0,0,0,1,1,0,0,0,0,1,3,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/5c0e047a/Vuk-Latinovich,5c0e047a,f8c96d97,Vuk Latinovich,USA,CB,28-031,90,0,0,0,0,0,0,0,0,1,2,1,0,0,4,0,0,0,CB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/866dc35d/Nico-Benalcazar,866dc35d,f8c96d97,Nico Benalcazar,USA,CB,24-131,90,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/ec4ad474/Pedro-Guimaraes,ec4ad474,f8c96d97,Pedro Guimaraes,USA,RB,17-188,90,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/32be86d0/Colin-Shutler,32be86d0,f8c96d97,Colin Shutler,USA,GK,27-074,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,0.0,3.0,100.0
+San Antonio FC,https://fbref.com/en/players/f40a57b2/Alex-Greive,f40a57b2,f8c96d97,Alex Greive,NZL,FW,26-155,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/47491d74/Kyle-Linhares,47491d74,f8c96d97,Kyle Linhares,USA,MF,23-059,30,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/77d28e45/Luke-Haakenson,77d28e45,f8c96d97,Luke Haakenson,USA,AM,28-035,70,0,0,0,0,2,0,0,0,1,1,1,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/70cb3cf1/Santiago-Patino,70cb3cf1,f8c96d97,Santiago Patino,USA,FW,28-219,20,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/7bf39a2f/Jorge-Hernandez,7bf39a2f,f8c96d97,Jorge Hernandez,USA,AM,24-341,90,0,0,0,0,2,0,0,0,3,5,0,1,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/ed724033/Nicky-Hernandez,ed724033,f8c96d97,Nicky Hernandez,USA,AM,27-024,69,0,0,0,0,3,2,0,0,1,1,0,0,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/6f7ac622/Jimmy-Medranda,6f7ac622,f8c96d97,Jimmy Medranda,COL,"DF,MF",31-250,21,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/ec8c8394/Juan-Osorio,ec8c8394,f8c96d97,Juan Osorio,USA,DM,22-220,61,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/eb193f70/Lucio-Berron,eb193f70,f8c96d97,Lucio Berron,ARG,MF,24-010,29,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/5c44f448/Almir-Soto,5c44f448,f8c96d97,Almir Soto,COL,DM,31-090,90,0,0,0,0,0,0,1,0,3,1,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/92442794/Harvey-Neville,92442794,f8c96d97,Harvey Neville,IRL,LB,23-111,90,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/88691c73/Noah-Dollenmayer,88691c73,f8c96d97,Noah Dollenmayer,DOM,CB,25-354,90,0,0,0,0,1,1,1,0,3,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/65054630/Alexis-Souahy,65054630,f8c96d97,Alexis Souahy,COM,CB,30-275,90,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/6e0d9f17/Rece-Buckmaster,6e0d9f17,f8c96d97,Rece Buckmaster,USA,RB,29-100,85,0,0,0,0,0,0,0,0,1,2,0,1,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/d92f6df9/Abdi-Salim,d92f6df9,f8c96d97,Abdi Salim,SOM,DF,24-197,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/4903c3a6/Richard-Sanchez,4903c3a6,f8c96d97,Richard Sanchez,MEX,GK,31-193,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,5.0,1.0,4.0,80.0

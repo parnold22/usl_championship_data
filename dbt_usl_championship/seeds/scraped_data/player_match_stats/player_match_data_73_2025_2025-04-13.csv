@@ -1,0 +1,33 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+B'ham Legion,https://fbref.com/en/players/4bf9347c/Ronaldo-Damus,4bf9347c,1bed4dd9,Ronaldo Damus,HAI,FW,25-213,90,2,0,1,1,4,2,0,0,1,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/1312c534/Danny-Trejo,1312c534,1bed4dd9,Danny Trejo,USA,LW,26-349,62,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,LW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/b79c816b/Roman-Torres,b79c816b,1bed4dd9,Roman Torres,,MF,0,28,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/3a7bec1b/Tyler-Pasher,3a7bec1b,1bed4dd9,Tyler Pasher,CAN,AM,30-351,45,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/75a0181e/Preston-Tabortetaka,75a0181e,1bed4dd9,Preston Tabortetaka,CMR,"FW,MF",26-307,44,0,0,0,0,2,2,0,0,1,1,1,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/b0da88e8/Santiago-Suarez,b0da88e8,1bed4dd9,Santiago Suarez,USA,DF,19-355,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/a928bb49/Kobe-Hernandez-Foster,a928bb49,1bed4dd9,Kobe Hernandez Foster,USA,AM,22-291,69,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/3b25164d/Sebastian-Tregarthen,3b25164d,1bed4dd9,Sebastian Tregarthen,URU,FW,24-282,21,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/3964401f/Dawson-McCartney,3964401f,1bed4dd9,Dawson McCartney,USA,RW,26-180,90,1,0,0,0,1,1,0,0,2,1,0,0,0,0,0,0,0,RW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/e41bbc5d/Enzo-Martinez,e41bbc5d,1bed4dd9,Enzo Martinez,URU,DM,34-196,90,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/e48f986b/Sam-McIllhatton,e48f986b,1bed4dd9,Sam McIllhatton,AUS,LB,26-288,90,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/aaa630ad/Ramiz-Hamouda,aaa630ad,1bed4dd9,Ramiz Hamouda,USA,CB,16-322,90,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/2ff7465d/Jake-Rufe,2ff7465d,1bed4dd9,Jake Rufe,USA,CB,29-081,90,0,0,0,0,0,0,0,0,3,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/5ef1aaae/Stephen-Turnbull,5ef1aaae,1bed4dd9,Stephen Turnbull,USA,RB,27-031,45,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/c61aafd8/Moses-Mensah,c61aafd8,1bed4dd9,Moses Mensah,GHA,DF,26-241,45,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/6b9a35b3/Matt-Van-Oekel,6b9a35b3,1bed4dd9,Matt Van Oekel,USA,GK,38-205,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,3.0,1.0,2.0,66.7
+El Paso,https://fbref.com/en/players/bb666b57/Roberto-Avila,bb666b57,1bed4dd9,Roberto Avila,USA,FW,24-179,77,0,0,0,0,2,1,0,0,3,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/179f2aa8/Ricardo-Ruiz,179f2aa8,1bed4dd9,Ricardo Ruiz,USA,"DF,FW",28-160,13,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/9dc9b03f/Amando-Moreno,9dc9b03f,1bed4dd9,Amando Moreno,SLV,FW,29-215,86,0,1,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/f09cbc33/Robinson-Moshobane,f09cbc33,1bed4dd9,Robinson Moshobane,RSA,"FW,MF",30-208,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/a612a23b/Wilmer-Cabrera-Jr,a612a23b,1bed4dd9,Wilmer Cabrera Jr,USA,FW,24-258,86,1,0,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/3a2b857c/Daniel-Carter,3a2b857c,1bed4dd9,Daniel Carter,HON,FW,21-213,4,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/97bfcd7f/Gabriel-Torres,97bfcd7f,1bed4dd9,Gabriel Torres,BRA,LM,28-255,90,0,0,0,0,0,0,0,0,3,6,0,8,0,3,0,0,0,LM,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/900f0f6a/Frank-Daroma,900f0f6a,1bed4dd9,Frank Daroma,USA,CM,24-001,90,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/f984f68b/Eric-Calvillo,f984f68b,1bed4dd9,Eric Calvillo,SLV,CM,27-101,90,0,0,0,0,2,0,1,0,1,1,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/56c3edb3/Guillermo-Diaz,56c3edb3,1bed4dd9,Guillermo Diaz,USA,RM,29-179,69,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/621a4365/Alvaro-Quezada,621a4365,1bed4dd9,Alvaro Quezada,USA,"DF,MF",26-040,21,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/b4f8c0ed/Wahab-Ackwei,b4f8c0ed,1bed4dd9,Wahab Ackwei,GHA,CB,28-176,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/b951a1bc/Bryan-Romero,b951a1bc,1bed4dd9,Bryan Romero,MEX,CB,22-079,69,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/ed0f5bba/Robert-Coronado,ed0f5bba,1bed4dd9,Robert Coronado,USA,"DF,MF",28-253,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/d69415a4/Kofi-Twumasi,d69415a4,1bed4dd9,Kofi Twumasi,USA,CB,28-226,90,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/58d392ed/Jahmali-Waite,58d392ed,1bed4dd9,Jahmali Waite,JAM,GK,26-110,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,3.0,3.0,60.0

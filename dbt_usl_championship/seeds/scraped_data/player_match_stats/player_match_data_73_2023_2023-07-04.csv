@@ -1,0 +1,60 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+LV Lights FC,https://fbref.com/en/players/fb7e1eba/Pato-Botello,fb7e1eba,d2bd06b8,Pato Botello,MEX,FW,26-299,90,1,0,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/75a0181e/Preston-Tabortetaka,75a0181e,d2bd06b8,Preston Tabortetaka,CMR,FW,25-024,62,0,0,0,0,4,1,0,0,1,2,1,4,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/5e5d8a10/Azriel-Gonzalez,5e5d8a10,d2bd06b8,Azriel Gonzalez,USA,"DF,MF",22-041,28,1,0,0,0,2,2,1,0,0,0,0,2,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/4666de19/Eric-Oteng,4666de19,d2bd06b8,Eric Oteng,GHA,LM,21-257,90,0,0,0,0,1,0,0,0,3,0,0,3,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/53b90314/Andrew-Carleton,53b90314,d2bd06b8,Andrew Carleton,USA,CM,23-012,90,0,0,0,0,5,3,0,0,1,1,0,3,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/62523933/Jacob-Bushue,62523933,d2bd06b8,Jacob Bushue,USA,CM,31-050,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/2d378ac5/Andres-Jimenez,2d378ac5,d2bd06b8,Andres Jimenez,USA,MF,23-117,72,0,0,0,0,1,0,1,0,2,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/51326de4/Justin-Ingram,51326de4,d2bd06b8,Justin Ingram,USA,RM,24-195,90,0,0,0,0,1,0,1,0,3,0,0,10,0,2,0,0,0,RM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/49cc5379/Jordan-Ayimbila,49cc5379,d2bd06b8,Jordan Ayimbila,GHA,LB,22-140,45,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/ec115d56/Tyler-Bagley,ec115d56,d2bd06b8,Tyler Bagley,USA,MF,24-032,45,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/35b8a023/Alejandro-Mitrano,35b8a023,d2bd06b8,Alejandro Mitrano,VEN,CB,25-091,90,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/f209d2aa/Zach-Carroll,f209d2aa,d2bd06b8,Zach Carroll,USA,CB,29-110,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/fb79af97/Emmanuel-Ledesma,fb79af97,d2bd06b8,Emmanuel Ledesma,ARG,"FW,MF",35-041,7,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/c5e3e29c/Lucas-Stauffer,c5e3e29c,d2bd06b8,Lucas Stauffer,USA,RB,28-074,90,0,0,0,0,1,0,0,0,1,1,0,5,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/345440b9/Leonardo-Diaz,345440b9,d2bd06b8,Leonardo Diaz,ARG,GK,23-158,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,2.0,1.0,33.3
+New Mexico Utd,https://fbref.com/en/players/51ac90d7/Daniel-Bruce,51ac90d7,d2bd06b8,Daniel Bruce,ENG,FW,27-052,90,1,0,0,0,3,2,0,0,0,0,4,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/8d671482/Santi-Moar,8d671482,d2bd06b8,Santi Moar,ESP,LW,29-302,58,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,LW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/212fb935/Will-Seymore,212fb935,d2bd06b8,Will Seymore,USA,"DF,MF",31-125,32,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/3d9e8e17/Greg-Hurst,3d9e8e17,d2bd06b8,Greg Hurst,SCO,AM,26-087,65,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/ed724033/Nicky-Hernandez,ed724033,d2bd06b8,Nicky Hernandez,USA,MF,24-286,25,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/3bd84c13/Sergio-Rivas,3bd84c13,d2bd06b8,Sergio Rivas,MEX,AM,25-274,90,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/9dc9b03f/Amando-Moreno,9dc9b03f,d2bd06b8,Amando Moreno,SLV,RW,27-297,64,1,0,0,0,2,2,1,0,0,1,0,0,0,0,0,0,0,RW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/bef889d7/Milo-Garvanian,bef889d7,d2bd06b8,Milo Garvanian,ARM,MF,23-168,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/b7aa9657/Justin-Portillo,b7aa9657,d2bd06b8,Justin Portillo,USA,DM,30-298,90,0,0,0,0,2,0,0,0,0,2,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/b7d8da4a/Austin-Yearwood,b7d8da4a,d2bd06b8,Austin Yearwood,USA,LB,28-326,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/077e97b3/Kalen-Ryden,077e97b3,d2bd06b8,Kalen Ryden,USA,CB,32-156,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/1e2207ff/Sam-Hamilton,1e2207ff,d2bd06b8,Sam Hamilton,USA,CB,27-342,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/d1b6fe5b/Harry-Swartz,d1b6fe5b,d2bd06b8,Harry Swartz,USA,RB,27-107,90,0,0,0,0,0,0,0,0,0,7,0,1,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/0245fbbf/Alexandros-Tabakis,0245fbbf,d2bd06b8,Alexandros Tabakis,GRE,GK,30-208,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,7.0,2.0,5.0,71.4
+CS Switchbacks,https://fbref.com/en/players/d961761c/Romario-Williams,d961761c,c7d79183,Romario Williams,JAM,FW,28-323,86,1,0,1,1,3,1,0,0,2,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/28b34fe3/Aaron-Wheeler,28b34fe3,c7d79183,Aaron Wheeler,USA,FW,35-054,4,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/473902d6/Juan-Tejada,473902d6,c7d79183,Juan Tejada,PAN,LW,26-171,60,1,0,0,0,2,1,0,0,2,0,0,2,0,0,0,0,0,LW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/a851a29d/Maalique-Foster,a851a29d,c7d79183,Maalique Foster,JAM,"FW,MF",26-241,30,0,0,0,0,1,1,0,0,1,1,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/3bb4d381/Jay-Chapman,3bb4d381,c7d79183,Jay Chapman,CAN,AM,29-184,59,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/95b5b69a/Tyreek-Magee,95b5b69a,c7d79183,Tyreek Magee,JAM,MF,23-311,31,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/a6362b48/Steven-Echeverria,a6362b48,c7d79183,Steven Echeverria,PUR,AM,27-086,90,2,0,0,0,2,2,0,0,0,1,0,0,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/064749ea/Jonas-Fjeldberg,064749ea,c7d79183,Jonas Fjeldberg,NOR,RW,24-277,42,0,1,0,0,1,0,0,0,0,1,0,2,0,0,0,0,0,RW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/a41992b2/Deshane-Beckford,a41992b2,c7d79183,Deshane Beckford,JAM,"FW,MF",25-108,48,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/53974fd2/Devon-Williams,53974fd2,c7d79183,Devon Williams,JAM,DM,31-087,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/00d83db0/Patrick-Seagrist,00d83db0,c7d79183,Patrick Seagrist,USA,LB,25-133,90,0,0,0,0,0,0,0,0,2,0,0,2,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/e176052e/James-Musa,e176052e,c7d79183,James Musa,NZL,CB,31-094,90,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,CB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/5ad77e97/Oskar-Agren,5ad77e97,c7d79183,Oskar Agren,SWE,CB,24-297,90,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/658388b4/Matt-Mahoney,658388b4,c7d79183,Matt Mahoney,USA,RB,28-078,90,0,0,0,0,1,0,0,0,2,0,0,1,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/6a0987cf/Christian-Herrera,6a0987cf,c7d79183,Christian Herrera,MEX,GK,26-075,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,1.0,0.0,1.0,100.0
+Monterey Bay,https://fbref.com/en/players/fa236b87/Sean-Okoli,fa236b87,c7d79183,Sean Okoli,USA,FW,30-151,61,0,0,0,0,1,0,0,0,3,0,1,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/2f65330c/Christian-Volesky,2f65330c,c7d79183,Christian Volesky,ARG,FW,30-292,29,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/59ee1c63/Chase-Boone,59ee1c63,c7d79183,Chase Boone,USA,AM,27-286,90,0,0,0,0,1,0,0,0,0,1,0,2,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/9db762f1/Simon-Dawkins,9db762f1,c7d79183,Simon Dawkins,JAM,AM,35-215,90,0,0,0,0,1,1,0,0,0,1,0,3,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/e1d41993/Jesus-Enriquez,e1d41993,c7d79183,Jesus Enriquez,MEX,AM,25-322,61,0,0,0,0,0,0,0,0,1,1,0,3,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/86626b82/Sam-Gleadle,86626b82,c7d79183,Sam Gleadle,ENG,"DF,MF",27-106,29,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/e33a8a72/Nevelo-Cosmas,e33a8a72,c7d79183,Nevelo Cosmas,SSD,DM,27-109,90,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/52ffb493/James-Murphy,52ffb493,c7d79183,James Murphy,USA,DM,25-290,61,0,0,0,0,0,0,0,0,1,0,0,3,0,5,0,0,0,DM,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/bf3e31aa/Adrian-Rebollar,bf3e31aa,c7d79183,Adrian Rebollar,USA,MF,23-234,29,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,MF,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/d678807a/Grant-Robinson,d678807a,c7d79183,Grant Robinson,USA,LB,24-323,90,0,0,0,0,1,0,0,0,1,1,0,4,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/68d4f83b/Hugh-Roberts,68d4f83b,c7d79183,Hugh Roberts,USA,CB,30-280,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/b5edefd3/Kai-Greene,b5edefd3,c7d79183,Kai Greene,USA,CB,29-362,75,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/8c4c2432/Alex-Lara,8c4c2432,c7d79183,Alex Lara,USA,DF,24-292,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/ccf469ae/Morey-Doner,ccf469ae,c7d79183,Morey Doner,CAN,RB,29-101,90,0,0,0,0,0,0,0,0,0,2,0,6,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/4e17631e/Carlos-Herrera,4e17631e,c7d79183,Carlos Herrera,MEX,GK,25-295,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,4.0,4.0,1.0,25.0

@@ -1,0 +1,63 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Orange County,https://fbref.com/en/players/9f39b6cf/Ethan-Zubak,9f39b6cf,3ce85340,Ethan Zubak,USA,FW,27-106,76,1,1,0,0,3,2,0,0,0,2,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/17e0db3e/Tristan-Trager,17e0db3e,3ce85340,Tristan Trager,USA,"FW,MF",25-336,14,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/99a6142d/Chris-Hegardt,99a6142d,3ce85340,Chris Hegardt,USA,AM,23-205,84,0,2,0,0,1,0,0,0,0,3,0,1,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/ec4ad474/Pedro-Guimaraes,ec4ad474,3ce85340,Pedro Guimaraes,USA,DF,17-111,6,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/70ddebc5/Ousmane-Sylla,70ddebc5,3ce85340,Ousmane Sylla,SEN,AM,23-357,76,0,0,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/7a6cf67c/Ashton-Miles,7a6cf67c,3ce85340,Ashton Miles,USA,DF,20-282,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/a5c76d49/Mouhamadou-War,a5c76d49,3ce85340,Mouhamadou War,JPN,AM,25-117,59,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/43002197/Bryce-Jamison,43002197,3ce85340,Bryce Jamison,USA,MF,19-205,31,1,1,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/a0198fcb/Stephen-Kelly,a0198fcb,3ce85340,Stephen Kelly,SCO,DM,25-108,90,0,0,0,0,2,1,0,0,3,2,0,2,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/dac1adc3/Kevin-Partida,dac1adc3,3ce85340,Kevin Partida,USA,DM,30-142,90,0,0,0,0,0,0,0,0,5,2,0,0,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/1ec1c986/Ryan-Doghman,1ec1c986,3ce85340,Ryan Doghman,NOR,LB,28-046,90,1,0,0,0,2,1,0,0,0,0,0,1,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/866dc35d/Nico-Benalcazar,866dc35d,3ce85340,Nico Benalcazar,USA,CB,24-054,90,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/30c268ea/Tom-Brewitt,30c268ea,3ce85340,Tom Brewitt,ENG,CB,28-169,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/e22439d4/Nicola-Ciotta,e22439d4,3ce85340,Nicola Ciotta,USA,RB,19-009,59,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/c09ddc5e/Koa-Santos,c09ddc5e,3ce85340,Koa Santos,USA,DF,25-312,31,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/32be86d0/Colin-Shutler,32be86d0,3ce85340,Colin Shutler,USA,GK,26-362,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,2.0,1.0,1.0,50.0
+Phx Rising,https://fbref.com/en/players/e855f6b1/Dariusz-Formella,e855f6b1,3ce85340,Dariusz Formella,POL,FW,29-282,90,0,0,0,0,3,0,0,0,3,1,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/9f7f84be/Darius-Johnson,9f7f84be,3ce85340,Darius Johnson,GRN,LW,25-137,75,0,1,0,0,2,1,0,0,1,3,0,3,0,2,0,0,0,LW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/2822f3dd/Damien-Rivera,2822f3dd,3ce85340,Damien Rivera,GUA,MF,22-234,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/ee85b326/Hope-Avayevu,ee85b326,3ce85340,Hope Avayevu,GHA,AM,22-284,90,0,0,0,0,0,0,0,0,1,5,0,6,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/16d887db/Xian-Emmers,16d887db,3ce85340,Xian Emmers,BEL,AM,26-010,58,0,0,0,0,1,0,0,0,2,0,0,2,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/68a87d66/Ihsan-Sacko,68a87d66,3ce85340,Ihsan Sacko,FRA,"FW,MF",28-011,32,1,0,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/be915a68/Jearl-Margaritha,be915a68,3ce85340,Jearl Margaritha,CUW,RW,25-111,62,0,0,0,0,2,0,0,0,2,0,0,4,0,0,0,0,0,RW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/0bee33d7/Charlie-Dennis,0bee33d7,3ce85340,Charlie Dennis,ENG,"FW,MF",29-305,28,0,0,0,0,1,0,0,0,0,1,0,8,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/13b1015b/Pierce-Rizzo,13b1015b,3ce85340,Pierce Rizzo,USA,DM,18-232,75,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/2928c948/Carl-Fred-Sainte,2928c948,3ce85340,Carl Fred Sainte,HAI,MF,22-355,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/d22a46b4/Emil-Cuello,d22a46b4,3ce85340,Emil Cuello,USA,LB,28-209,76,0,0,0,0,0,0,0,0,1,0,0,3,0,4,0,0,0,LB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/1a6bab10/Pape-Boye,1a6bab10,3ce85340,Pape Boye,SEN,DF,21-212,5,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/4e4bc0e4/Ryan-Flood,4e4bc0e4,3ce85340,Ryan Flood,USA,CB,26-286,90,0,0,0,0,0,0,0,0,2,0,0,1,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/980dba3d/Ascel-Essengue,980dba3d,3ce85340,Ascel Essengue,CMR,CB,22-091,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/f3a213ca/Braxton-Montgomery,f3a213ca,3ce85340,Braxton Montgomery,USA,RB,18-129,90,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/cf9bf817/Patrick-Rakovsky,cf9bf817,3ce85340,Patrick Rakovsky,GER,GK,32-058,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,8.0,4.0,4.0,50.0
+Hartford Athletic,https://fbref.com/en/players/31429cca/Mamadou-Dieng,31429cca,d411b371,Mamadou Dieng,SEN,FW,21-176,78,2,0,0,0,5,2,0,0,0,1,2,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/9e8e2b3e/Kyle-Edwards,9e8e2b3e,d411b371,Kyle Edwards,VIN,FW,29-196,12,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/9837830f/Michee-Ngalina,9837830f,d411b371,Michee Ngalina,COD,AM,25-115,90,1,0,0,0,3,1,0,0,0,0,3,1,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/adadda7e/Junior-Moreira,adadda7e,d411b371,Junior Moreira,GNB,AM,22-126,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/569b7d4c/Emmanuel-Samadiya,569b7d4c,d411b371,Emmanuel Samadiya,SLE,DM,24-102,90,0,0,0,0,3,2,0,0,0,3,1,6,0,3,0,0,0,DM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/437fe16f/Jonathan-Jimenez,437fe16f,d411b371,Jonathan Jimenez,USA,DM,24-096,62,0,1,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/35429371/Beverly-Makangila,35429371,d411b371,Beverly Makangila,COD,MF,25-110,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/1d531c57/Marlon-Hairston,1d531c57,d411b371,Marlon Hairston,USA,DM,31-129,67,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/1b34c951/Samuel-Careaga,1b34c951,d411b371,Samuel Careaga,ARG,MF,23-051,23,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/3a9911ce/Sebastian-Anderson,3a9911ce,d411b371,Sebastian Anderson,USA,DM,22-356,90,0,0,0,0,1,0,0,0,0,2,0,4,0,3,0,0,0,DM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/498a8edf/TJ-Presthus,498a8edf,d411b371,TJ Presthus,,CB,0,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/8f87602d/Joe-Farrell,8f87602d,d411b371,Joe Farrell,USA,CB,31-167,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/f4462455/Adrian-Diz-Pe,f4462455,d411b371,Adrian Diz Pe,CUB,CB,31-148,90,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/07666c75/Antony-Siaha,07666c75,d411b371,Antony Siaha,CMR,GK,27-094,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,6.0,0.0,6.0,100.0
+New Mexico Utd,https://fbref.com/en/players/3d9e8e17/Greg-Hurst,3d9e8e17,d411b371,Greg Hurst,SCO,FW,28-113,45,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/295e1e4d/Thomas-Amang,295e1e4d,d411b371,Thomas Amang,CMR,FW,27-171,45,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/ce23c94d/Luiz-Fernando,ce23c94d,d411b371,Luiz Fernando,BRA,AM,28-037,59,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/a2611a0a/Dayonn-Harris,a2611a0a,d411b371,Dayonn Harris,ATG,MF,27-335,31,0,0,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/55975b0c/Valentin-Noel,55975b0c,d411b371,Valentin Noel,FRA,AM,26-094,65,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/730d6dad/Tomas-Pondeca,730d6dad,d411b371,Tomas Pondeca,USA,,23-293,25,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/fbed8396/Mukwelle-Akale,fbed8396,d411b371,Mukwelle Akale,USA,AM,28-193,90,0,0,0,0,3,1,0,0,0,0,0,10,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/b15ac68f/Gedion-Zelalem,b15ac68f,d411b371,Gedion Zelalem,USA,DM,28-185,45,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/e8d67346/Marlon-Vargas,e8d67346,d411b371,Marlon Vargas,SLV,"FW,MF",24-199,45,0,0,0,0,2,0,0,0,0,0,0,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/aa9e1161/Zico-Bailey,aa9e1161,d411b371,Zico Bailey,PHI,DM,24-337,90,0,0,0,0,3,1,0,0,0,1,0,2,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/01cd3c12/Chris-Gloster,01cd3c12,d411b371,Chris Gloster,USA,LB,25-002,90,0,0,0,0,2,1,1,0,1,0,0,6,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/1d5b332d/Talen-Maples,1d5b332d,d411b371,Talen Maples,USA,CB,26-252,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/50a5e230/Ousman-Jabang,50a5e230,d411b371,Ousman Jabang,USA,CB,24-123,90,0,0,0,0,2,1,0,0,2,0,0,1,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/83cb6e59/Jaylin-Lindsey,83cb6e59,d411b371,Jaylin Lindsey,USA,RB,25-125,59,0,0,0,0,2,1,0,0,1,1,0,3,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/212fb935/Will-Seymore,212fb935,d411b371,Will Seymore,USA,"DF,MF",33-151,31,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/0245fbbf/Alexandros-Tabakis,0245fbbf,d411b371,Alexandros Tabakis,GRE,GK,32-234,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,6.0,4.0,2.0,33.3

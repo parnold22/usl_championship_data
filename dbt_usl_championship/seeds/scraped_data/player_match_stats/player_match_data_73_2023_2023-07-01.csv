@@ -1,0 +1,274 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Indy Eleven,https://fbref.com/en/players/fd531ced/Sebastian-Guenzatti,fd531ced,e07ef1ca,Sebastian Guenzatti,URU,FW,31-358,90,0,0,0,0,1,0,0,0,2,1,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/b8a66d06/Roberto-Molina,b8a66d06,e07ef1ca,Roberto Molina,SLV,FW,22-154,73,0,0,0,0,1,0,0,0,1,2,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/1f36ce15/Harrison-Robledo,1f36ce15,e07ef1ca,Harrison Robledo,USA,MF,21-143,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/3e7ebb9a/Douglas-Martinez,3e7ebb9a,e07ef1ca,Douglas Martinez,HON,FW,26-026,90,0,0,0,0,2,1,0,0,3,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/297f64d8/Robby-Dambrot,297f64d8,e07ef1ca,Robby Dambrot,USA,LM,28-255,65,0,0,0,0,0,0,1,0,2,1,0,0,0,1,0,0,0,LM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/b842703c/Jesus-Vazquez,b842703c,e07ef1ca,Jesus Vazquez,MEX,DF,28-101,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/73366dc8/Aodhan-Quinn,73366dc8,e07ef1ca,Aodhan Quinn,USA,CM,31-101,90,2,0,2,2,3,2,0,0,1,2,0,2,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/f03a0471/Cameron-Lindley,f03a0471,e07ef1ca,Cameron Lindley,USA,CM,25-348,90,0,0,0,0,1,0,1,0,1,1,0,2,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/1cdd642f/Younes-Boudadi,1cdd642f,e07ef1ca,Younes Boudadi,MAR,RM,27-159,90,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/376f7f40/Gustavo-Rissi,376f7f40,e07ef1ca,Gustavo Rissi,BRA,CB,25-147,57,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/f4462455/Adrian-Diz-Pe,f4462455,e07ef1ca,Adrian Diz Pe,CUB,CB,29-119,90,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/7081e48f/Macauley-King,7081e48f,e07ef1ca,Macauley King,ENG,CB,27-270,57,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/60b4d213/Solomon-Asante,60b4d213,e07ef1ca,Solomon Asante,GHA,"FW,MF",33-117,33,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/e0571635/Yannik-Oettl,e0571635,e07ef1ca,Yannik Oettl,GER,GK,26-224,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,6.0,2.0,5.0,83.3
+Loyal,https://fbref.com/en/players/c63ae448/Evan-Conway,c63ae448,e07ef1ca,Evan Conway,USA,FW,25-236,61,1,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/4bf9347c/Ronaldo-Damus,4bf9347c,e07ef1ca,Ronaldo Damus,HAI,FW,23-292,29,0,0,0,0,2,1,1,0,1,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/f09cbc33/Robinson-Moshobane,f09cbc33,e07ef1ca,Robinson Moshobane,RSA,FW,28-287,70,0,1,0,0,2,1,0,0,1,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/624ba068/Grant-Stoneman,624ba068,e07ef1ca,Grant Stoneman,USA,DF,27-216,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/6659fa75/Nick-Moon,6659fa75,e07ef1ca,Nick Moon,USA,LM,27-031,89,0,0,0,0,2,1,0,0,1,2,0,1,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/f6918654/Morgan-Hackworth,f6918654,e07ef1ca,Morgan Hackworth,USA,MF,26-180,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/a6d6e9d0/Charlie-Adams,a6d6e9d0,e07ef1ca,Charlie Adams,ENG,CM,29-046,45,1,0,1,1,1,1,0,0,1,1,0,4,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/5804f03b/Elliot-Collier,5804f03b,e07ef1ca,Elliot Collier,NZL,"FW,MF",28-129,45,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/027c0f1a/Collin-Martin,027c0f1a,e07ef1ca,Collin Martin,USA,CM,28-234,90,0,0,0,0,1,0,1,0,4,1,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/470cd24b/Joe-Corona,470cd24b,e07ef1ca,Joe Corona,USA,CM,32-357,90,0,0,0,0,0,0,0,0,1,1,0,4,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/298a167b/Adrien-Perez,298a167b,e07ef1ca,Adrien Perez,USA,RM,27-261,61,0,0,0,0,1,1,1,0,1,4,1,0,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/612a0951/Blake-Bodily,612a0951,e07ef1ca,Blake Bodily,USA,MF,25-169,29,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/ed16da92/Elijah-Martin,ed16da92,e07ef1ca,Elijah Martin,USA,CB,26-362,90,0,0,0,0,0,0,0,0,1,2,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/759a31cd/Kyle-Adams,759a31cd,e07ef1ca,Kyle Adams,NZL,CB,26-223,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/ec5ce41a/Camden-Riley,ec5ce41a,e07ef1ca,Camden Riley,USA,CB,26-315,90,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/bfb15d99/Koke-Vegas,bfb15d99,e07ef1ca,Koke Vegas,ESP,GK,27-277,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,1.0,2.0,1.0,100.0
+Pittsburgh,https://fbref.com/en/players/96d8bcfb/Tola-Showunmi,96d8bcfb,3e95941c,Tola Showunmi,ENG,FW,22-363,90,0,0,0,0,1,0,0,0,3,0,2,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/a493be2d/Danny-Griffin,a493be2d,3e95941c,Danny Griffin,USA,LM,24-352,90,0,0,0,0,3,0,0,0,1,0,0,0,0,1,0,0,0,LM,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/02019ede/Marc-Ybarra,02019ede,3e95941c,Marc Ybarra,USA,CM,24-195,88,0,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/1f28cb11/Trevor-Zwetsloot,1f28cb11,3e95941c,Trevor Zwetsloot,NZL,MF,23-258,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/54f58f49/Junior-Etou,54f58f49,3e95941c,Junior Etou,CGO,CM,29-030,67,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/d57f7428/Langston-Blackstock,d57f7428,3e95941c,Langston Blackstock,USA,DF,23-100,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/3de0d48c/Kenardo-Forbes,3de0d48c,3e95941c,Kenardo Forbes,JAM,RM,35-047,90,0,0,0,0,0,0,1,0,2,1,0,9,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/10d35fa6/Daniel-Rovira,10d35fa6,3e95941c,Daniel Rovira,COL,LB,26-198,67,0,0,0,0,0,0,0,0,1,2,0,2,0,3,0,0,0,LB,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/a68a9609/Burke-Fahling,a68a9609,3e95941c,Burke Fahling,USA,MF,25-332,23,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/16ecce68/Arturo-Ordonez,16ecce68,3e95941c,Arturo Ordonez,ESP,CB,26-040,90,0,0,0,0,0,0,0,0,2,2,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/8f87602d/Joe-Farrell,8f87602d,3e95941c,Joe Farrell,USA,CB,29-138,88,0,0,0,0,2,1,0,0,1,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/4944b644/Patrick-Hogan,4944b644,3e95941c,Patrick Hogan,USA,DF,25-287,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/af3ec88b/Abdul-Illal-Osumanu,af3ec88b,3e95941c,Abdul Illal Osumanu,GHA,CB,26-315,90,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/d81add7a/Luke-Biasi,d81add7a,3e95941c,Luke Biasi,USA,RB,23-351,81,0,0,0,0,0,0,0,0,1,1,0,6,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/2f2c0ab1/Edward-Kizza,2f2c0ab1,3e95941c,Edward Kizza,UGA,FW,24-196,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/f28de463/Luis-Zamudio,f28de463,3e95941c,Luis Zamudio,USA,GK,25-007,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/8a1526a8/Enoch-Mushagalusa,8a1526a8,3e95941c,Enoch Mushagalusa,COD,FW,23-230,87,0,0,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/ffb17329/Carlos-Moguel,ffb17329,3e95941c,Carlos Moguel,USA,MF,20-010,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/ca0756aa/Wilson-Harris,ca0756aa,3e95941c,Wilson Harris,USA,FW,23-215,79,0,0,0,0,1,0,1,0,0,3,2,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/7eadfdd6/Cameron-Lancaster,7eadfdd6,3e95941c,Cameron Lancaster,ENG,FW,30-238,11,0,0,0,0,1,0,1,0,2,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/9110eece/Rasmus-Thellufsen,9110eece,3e95941c,Rasmus Thellufsen,DEN,FW,26-173,73,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/be3c0414/Maarten-Pouwels,be3c0414,3e95941c,Maarten Pouwels,NED,FW,24-307,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/009355ab/Paolo-DelPiccolo,009355ab,3e95941c,Paolo DelPiccolo,USA,CM,32-034,90,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/3c850ce0/Tyler-Gibson,3c850ce0,3e95941c,Tyler Gibson,USA,CM,32-170,73,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/4fbfe62d/Niall-McCabe,4fbfe62d,3e95941c,Niall McCabe,USA,"FW,MF",32-268,17,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/53171f69/Elijah-Wynder,53171f69,3e95941c,Elijah Wynder,USA,CM,20-113,90,0,0,0,0,1,0,1,0,2,2,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/1650e261/Amadou-Dia,1650e261,3e95941c,Amadou Dia,USA,LB,30-023,90,0,0,0,0,1,0,0,0,0,1,0,4,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/70e35acb/Wesley-Charpie,70e35acb,3e95941c,Wesley Charpie,USA,CB,30-239,90,0,0,0,0,1,0,1,0,3,2,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/6136d617/Sean-Totsch,6136d617,3e95941c,Sean Totsch,USA,CB,31-288,90,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/df5ee3d0/Oscar-Jimenez,df5ee3d0,3e95941c,Oscar Jimenez,USA,RB,33-240,73,0,0,0,0,1,0,0,0,0,3,0,4,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/27162b95/Manny-Perez,27162b95,3e95941c,Manny Perez,USA,"DF,MF",24-132,17,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/2ead66a4/Oliver-Semmle,2ead66a4,3e95941c,Oliver Semmle,GER,GK,25-095,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,1.0,0.0,1.0,100.0
+CS Switchbacks,https://fbref.com/en/players/473902d6/Juan-Tejada,473902d6,e47447fd,Juan Tejada,PAN,FW,26-168,66,0,0,0,0,0,0,1,0,3,0,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/064749ea/Jonas-Fjeldberg,064749ea,e47447fd,Jonas Fjeldberg,NOR,MF,24-274,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/95b5b69a/Tyreek-Magee,95b5b69a,e47447fd,Tyreek Magee,JAM,AM,23-308,90,0,0,0,0,3,0,0,0,2,3,0,2,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/a851a29d/Maalique-Foster,a851a29d,e47447fd,Maalique Foster,JAM,AM,26-238,85,0,0,0,0,4,1,0,0,1,2,3,3,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/47d8db69/Dennis-Erdmann,47d8db69,e47447fd,Dennis Erdmann,GER,"DF,MF",32-221,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/00d83db0/Patrick-Seagrist,00d83db0,e47447fd,Patrick Seagrist,USA,DM,25-130,90,0,2,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/a6362b48/Steven-Echeverria,a6362b48,e47447fd,Steven Echeverria,PUR,DM,27-083,60,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/3bb4d381/Jay-Chapman,3bb4d381,e47447fd,Jay Chapman,CAN,MF,29-181,30,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,0,0,MF,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/53974fd2/Devon-Williams,53974fd2,e47447fd,Devon Williams,JAM,DM,31-084,90,0,0,0,0,1,1,0,0,1,1,0,1,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/a41992b2/Deshane-Beckford,a41992b2,e47447fd,Deshane Beckford,JAM,DM,25-105,60,1,0,0,0,3,2,0,0,1,0,0,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/d961761c/Romario-Williams,d961761c,e47447fd,Romario Williams,JAM,FW,28-320,30,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/e176052e/James-Musa,e176052e,e47447fd,James Musa,NZL,CB,31-091,90,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/658388b4/Matt-Mahoney,658388b4,e47447fd,Matt Mahoney,USA,CB,28-075,90,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/5ad77e97/Oskar-Agren,5ad77e97,e47447fd,Oskar Agren,SWE,CB,24-294,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/6a0987cf/Christian-Herrera,6a0987cf,e47447fd,Christian Herrera,MEX,GK,26-072,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,0.0,4.0,100.0
+Miami FC,https://fbref.com/en/players/6ea83b25/Kyle-Murphy,6ea83b25,e47447fd,Kyle Murphy,USA,FW,30-202,90,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/c912dbcb/Claudio-Repetto,c912dbcb,e47447fd,Claudio Repetto,ITA,FW,26-149,62,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/bffd7272/Joaquin-Rivas,bffd7272,e47447fd,Joaquin Rivas,SLV,"FW,MF",31-066,28,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/4236fd6b/Christian-Sorto,4236fd6b,e47447fd,Christian Sorto,SLV,LM,23-163,84,0,0,0,0,3,1,0,0,1,0,0,0,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/7f94494d/Lorenzo-DiMercurio,7f94494d,e47447fd,Lorenzo DiMercurio,,MF,0,6,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/40bc1b0c/Dennis-Dowouna,40bc1b0c,e47447fd,Dennis Dowouna,GHA,CM,23-044,73,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/ed550cbe/Gabriel-de-Freitas,ed550cbe,e47447fd,Gabriel de Freitas,BRA,MF,26-063,17,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/a84af631/Mark-Segbers,a84af631,e47447fd,Mark Segbers,USA,CM,27-074,90,0,0,0,0,1,0,0,0,1,0,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/dbab5aa7/Michael-Salazar,dbab5aa7,e47447fd,Michael Salazar,BLZ,RM,30-228,90,0,0,0,0,4,1,0,0,1,5,0,0,0,2,0,0,0,RM,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/61cd3bcf/Aedan-Stanley,61cd3bcf,e47447fd,Aedan Stanley,USA,LB,23-200,90,0,0,0,0,0,0,0,0,0,2,0,8,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/f0fc315f/Moises-Hernandez,f0fc315f,e47447fd,Moises Hernandez,GUA,CB,31-118,90,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/f440649e/Paco-Craig,f440649e,e47447fd,Paco Craig,ENG,CB,30-255,90,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/a3c6fd0e/Ben-Mines,a3c6fd0e,e47447fd,Ben Mines,USA,RB,23-049,90,0,0,0,0,1,1,0,0,1,0,0,3,0,3,0,0,0,RB,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/29863f6e/Jake-McGuire,29863f6e,e47447fd,Jake McGuire,USA,GK,28-301,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,2.0,3.0,60.0
+Orange County,https://fbref.com/en/players/ed6bb087/Marc-McNulty,ed6bb087,87e7113e,Marc McNulty,SCO,FW,30-290,85,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/681d6136/Andrew-Fox,681d6136,87e7113e,Andrew Fox,ENG,DF,30-167,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/4f87c75f/Milan-Iloski,4f87c75f,87e7113e,Milan Iloski,USA,LW,23-337,85,0,0,0,0,8,3,1,0,2,2,0,0,0,0,0,0,0,LW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/f3dd2e06/Daniel-A-Pedersen,f3dd2e06,87e7113e,Daniel A Pedersen,DEN,"DF,MF",30-339,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/1c24aacf/Kyle-Scott,1c24aacf,87e7113e,Kyle Scott,ENG,AM,25-191,70,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/624113b0/Ashish-Chattha,624113b0,87e7113e,Ashish Chattha,USA,MF,23-176,20,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/e28a8364/Seth-Casiple,e28a8364,87e7113e,Seth Casiple,USA,AM,29-312,85,0,0,0,0,1,1,0,0,2,0,0,0,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/a869ba74/Korede-Osundina,a869ba74,87e7113e,Korede Osundina,USA,"FW,MF",19-138,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/d53bfe8c/Brian-Iloski,d53bfe8c,87e7113e,Brian Iloski,USA,RW,27-300,54,0,0,0,0,3,1,0,0,0,4,0,1,0,0,0,0,0,RW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/295e1e4d/Thomas-Amang,295e1e4d,87e7113e,Thomas Amang,CMR,FW,25-142,36,2,0,1,1,4,3,0,0,1,3,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/dac1adc3/Kevin-Partida,dac1adc3,87e7113e,Kevin Partida,USA,DM,28-113,90,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,DM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/1ec1c986/Ryan-Doghman,1ec1c986,87e7113e,Ryan Doghman,NOR,LB,26-017,90,0,0,0,0,1,1,0,0,1,0,0,2,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/35f79831/Dillon-Powers,35f79831,87e7113e,Dillon Powers,USA,CB,32-137,90,0,0,0,0,1,0,1,0,2,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/0e12671e/Markus-Nakkim,0e12671e,87e7113e,Markus Nakkim,NOR,CB,26-345,90,0,0,0,0,4,1,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/d2dc4350/Owen-Lambe,d2dc4350,87e7113e,Owen Lambe,USA,RB,22-320,90,1,0,0,0,1,1,0,0,0,0,0,12,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/32be86d0/Colin-Shutler,32be86d0,87e7113e,Colin Shutler,USA,GK,24-333,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,2.0,1.0,1.0,50.0
+Monterey Bay,https://fbref.com/en/players/2f65330c/Christian-Volesky,2f65330c,87e7113e,Christian Volesky,ARG,FW,30-289,78,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/fa236b87/Sean-Okoli,fa236b87,87e7113e,Sean Okoli,USA,FW,30-148,12,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/d19fed25/Alex-Dixon,d19fed25,87e7113e,Alex Dixon,USA,LM,33-144,78,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/e33a8a72/Nevelo-Cosmas,e33a8a72,87e7113e,Nevelo Cosmas,SSD,MF,27-106,12,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/bf3e31aa/Adrian-Rebollar,bf3e31aa,87e7113e,Adrian Rebollar,USA,CM,23-231,83,0,0,0,0,0,0,1,0,2,2,0,1,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/e1d41993/Jesus-Enriquez,e1d41993,87e7113e,Jesus Enriquez,MEX,MF,25-319,7,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/52ffb493/James-Murphy,52ffb493,87e7113e,James Murphy,USA,CM,25-287,90,0,1,0,0,0,0,0,0,1,1,0,6,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/86626b82/Sam-Gleadle,86626b82,87e7113e,Sam Gleadle,ENG,RM,27-103,83,0,0,0,0,1,1,0,0,1,3,1,0,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/9db762f1/Simon-Dawkins,9db762f1,87e7113e,Simon Dawkins,JAM,"FW,MF",35-212,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/cc9cf9da/Walmer-Martinez,cc9cf9da,87e7113e,Walmer Martinez,SLV,LB,24-318,65,0,0,0,0,0,0,1,0,1,0,0,1,0,3,0,0,0,LB,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/d678807a/Grant-Robinson,d678807a,87e7113e,Grant Robinson,USA,DF,24-320,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/782277b2/Mobi-Fehr,782277b2,87e7113e,Mobi Fehr,USA,CB,28-200,90,0,0,0,0,0,0,1,0,2,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/68d4f83b/Hugh-Roberts,68d4f83b,87e7113e,Hugh Roberts,USA,CB,30-277,90,1,0,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/b5edefd3/Kai-Greene,b5edefd3,87e7113e,Kai Greene,USA,CB,29-359,90,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/ccf469ae/Morey-Doner,ccf469ae,87e7113e,Morey Doner,CAN,RB,29-098,90,0,0,0,0,0,0,1,0,2,2,1,1,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/e7971926/Gerold-Ngnepi,e7971926,87e7113e,Gerold Ngnepi,CMR,GK,25-065,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,GK,10.0,3.0,8.0,80.0
+LV Lights FC,https://fbref.com/en/players/fb79af97/Emmanuel-Ledesma,fb79af97,e7b0b58b,Emmanuel Ledesma,ARG,FW,35-038,62,0,0,0,0,0,0,0,0,2,2,1,8,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/fb7e1eba/Pato-Botello,fb7e1eba,e7b0b58b,Pato Botello,MEX,FW,26-296,28,0,0,0,0,1,1,0,0,1,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/53b90314/Andrew-Carleton,53b90314,e7b0b58b,Andrew Carleton,USA,LW,23-009,73,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,LW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/2d378ac5/Andres-Jimenez,2d378ac5,e7b0b58b,Andres Jimenez,USA,MF,23-114,17,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/4666de19/Eric-Oteng,4666de19,e7b0b58b,Eric Oteng,GHA,AM,21-254,87,0,0,0,0,2,2,0,0,0,2,1,5,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/5e5d8a10/Azriel-Gonzalez,5e5d8a10,e7b0b58b,Azriel Gonzalez,USA,"DF,MF",22-038,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/51326de4/Justin-Ingram,51326de4,e7b0b58b,Justin Ingram,USA,AM,24-192,90,0,0,0,0,2,0,0,0,0,0,0,4,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/75a0181e/Preston-Tabortetaka,75a0181e,e7b0b58b,Preston Tabortetaka,CMR,RW,25-021,90,0,0,0,0,1,0,0,0,3,0,0,9,0,0,0,0,0,RW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/62523933/Jacob-Bushue,62523933,e7b0b58b,Jacob Bushue,USA,DM,31-047,87,0,0,0,0,2,0,1,0,4,0,0,0,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/e863a88a/Danny-Rios,e863a88a,e7b0b58b,Danny Rios,SLV,MF,20-094,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/35b8a023/Alejandro-Mitrano,35b8a023,e7b0b58b,Alejandro Mitrano,VEN,LB,25-088,90,0,0,0,0,0,0,1,0,3,0,0,2,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/505a12f0/Timothie-Zali,505a12f0,e7b0b58b,Timothie Zali,SUI,CB,25-159,90,1,0,0,0,3,2,1,0,1,2,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/f209d2aa/Zach-Carroll,f209d2aa,e7b0b58b,Zach Carroll,USA,CB,29-107,90,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/c5e3e29c/Lucas-Stauffer,c5e3e29c,e7b0b58b,Lucas Stauffer,USA,RB,28-071,90,0,0,0,0,3,0,0,0,0,0,0,2,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/345440b9/Leonardo-Diaz,345440b9,e7b0b58b,Leonardo Diaz,ARG,GK,23-155,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,3.0,2.0,1.0,33.3
+TB Rowdies,https://fbref.com/en/players/d04dba18/JJ-Williams,d04dba18,e7b0b58b,JJ Williams,USA,FW,25-178,90,1,0,0,0,1,1,0,0,3,3,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/4c89d918/Jake-LaCava,4c89d918,e7b0b58b,Jake LaCava,USA,AM,22-170,84,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/d4a2c910/Lucky-Mkosana,d4a2c910,e7b0b58b,Lucky Mkosana,ZIM,FW,35-274,6,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/44f6672a/Cal-Jennings,44f6672a,e7b0b58b,Cal Jennings,USA,AM,26-045,70,1,0,0,0,2,1,0,0,0,1,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/14ef76ce/Sebastian-Dalgaard,14ef76ce,e7b0b58b,Sebastian Dalgaard,DEN,MF,31-312,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/0bee33d7/Charlie-Dennis,0bee33d7,e7b0b58b,Charlie Dennis,ENG,AM,27-276,45,0,0,0,0,2,1,0,0,1,3,0,4,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/a2611a0a/Dayonn-Harris,a2611a0a,e7b0b58b,Dayonn Harris,ATG,MF,25-306,45,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/bb9a138b/Jake-Areman,bb9a138b,e7b0b58b,Jake Areman,USA,DM,27-114,84,0,0,0,0,1,0,0,0,0,0,0,5,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/80b9e218/Yann-Ekra,80b9e218,e7b0b58b,Yann Ekra,FRA,"FW,MF",32-203,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/ece860cc/Jordan-Doherty,ece860cc,e7b0b58b,Jordan Doherty,IRL,DM,22-306,90,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/b4bb58c4/Aaron-Guillen,b4bb58c4,e7b0b58b,Aaron Guillen,USA,LB,30-008,90,0,0,0,0,0,0,0,0,1,2,0,0,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/f4720161/Forrest-Lasso,f4720161,e7b0b58b,Forrest Lasso,USA,CB,30-051,90,0,0,0,0,1,0,0,0,3,1,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/e068bed0/Freddy-Kleemann,e068bed0,e7b0b58b,Freddy Kleemann,USA,CB,24-104,90,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/6396308d/Conner-Antley,6396308d,e7b0b58b,Conner Antley,USA,RB,28-101,90,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/f3c1d6c2/Connor-Sparrow,f3c1d6c2,e7b0b58b,Connor Sparrow,USA,GK,29-052,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,5.0,1.0,4.0,80.0
+San Antonio FC,https://fbref.com/en/players/950ef017/Tani-Oluwaseyi,950ef017,a9dd509f,Tani Oluwaseyi,CAN,FW,23-047,90,1,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/9bebd450/Niko-Hansen,9bebd450,a9dd509f,Niko Hansen,DEN,FW,28-290,59,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/7a447474/Ignacio-Bailone,7a447474,a9dd509f,Ignacio Bailone,ARG,FW,29-162,31,0,0,0,0,1,0,1,0,3,3,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/d2173b7b/Jacori-Hayes,d2173b7b,a9dd509f,Jacori Hayes,USA,LM,28-002,79,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/eb8eae2c/Justin-Dhillon,eb8eae2c,a9dd509f,Justin Dhillon,USA,FW,28-025,11,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/7bf39a2f/Jorge-Hernandez,7bf39a2f,a9dd509f,Jorge Hernandez,USA,CM,22-235,90,1,0,0,0,3,1,0,0,2,4,1,3,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/e1e65f24/Rida-Zouhir,e1e65f24,a9dd509f,Rida Zouhir,CAN,CM,19-220,70,0,0,0,0,1,1,0,0,0,3,0,3,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/c1f17b17/Mohammed-Abu,c1f17b17,a9dd509f,Mohammed Abu,GHA,"FW,MF",31-229,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/2802f5b0/Juan-Carlos-Azocar,2802f5b0,a9dd509f,Juan Carlos Azocar,VEN,RM,27-273,59,0,0,0,0,0,0,1,0,2,2,0,1,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/18d94cb0/PC,18d94cb0,a9dd509f,PC,BRA,"DF,MF",29-113,31,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/26f559ba/Ismaila-Jome,26f559ba,a9dd509f,Ismaila Jome,GAM,LB,28-239,45,0,1,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/05ad7458/Connor-Maloney,05ad7458,a9dd509f,Connor Maloney,USA,"DF,MF",28-044,45,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/32b30364/Lamar-Batista,32b30364,a9dd509f,Lamar Batista,USA,CB,25-116,90,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/96f18e66/Fabien-Garcia,96f18e66,a9dd509f,Fabien Garcia,FRA,CB,28-352,90,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/2a44ec3d/Mitchell-Taintor,2a44ec3d,a9dd509f,Mitchell Taintor,USA,RB,28-293,90,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/187e8ec5/Carlos-Mercado,187e8ec5,a9dd509f,Carlos Mercado,USA,GK,23-277,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,1.0,3.0,75.0
+B'ham Legion,https://fbref.com/en/players/0cb2115f/Juan-Agudelo,0cb2115f,a9dd509f,Juan Agudelo,USA,FW,30-220,90,0,1,0,0,3,1,0,0,3,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/a4e068dc/Prosper-Kasim,a4e068dc,a9dd509f,Prosper Kasim,GHA,AM,26-198,68,0,0,0,0,1,0,0,0,3,2,0,3,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/f20ca027/Diba-Nwegbo,f20ca027,a9dd509f,Diba Nwegbo,NGA,MF,21-181,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/e41bbc5d/Enzo-Martinez,e41bbc5d,a9dd509f,Enzo Martinez,URU,AM,32-275,90,0,0,0,0,3,0,1,0,0,1,0,2,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/3a7bec1b/Tyler-Pasher,3a7bec1b,a9dd509f,Tyler Pasher,CAN,AM,29-065,90,1,0,0,0,2,1,0,0,2,0,0,7,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/fa452499/Mikey-Lopez,fa452499,a9dd509f,Mikey Lopez,USA,DM,30-131,42,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/fdbfda5d/Neco-Brett,fdbfda5d,a9dd509f,Neco Brett,JAM,FW,31-101,48,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ed8d0da6/Anderson-Asiedu,ed8d0da6,a9dd509f,Anderson Asiedu,GHA,DM,27-019,90,0,0,0,0,2,0,1,0,1,1,0,2,0,3,0,0,0,DM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/4f9c3df6/Gabriel-Alves,4f9c3df6,a9dd509f,Gabriel Alves,,LB,0,87,0,0,0,0,1,0,1,0,2,3,0,0,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/0acbd246/Matthew-Corcoran,0acbd246,a9dd509f,Matthew Corcoran,USA,MF,17-134,3,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ff98d5ca/Phanuel-Kavita,ff98d5ca,a9dd509f,Phanuel Kavita,RWA,CB,30-114,90,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/1169c5eb/Alex-Crognale,1169c5eb,a9dd509f,Alex Crognale,USA,CB,28-308,90,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/2ff7465d/Jake-Rufe,2ff7465d,a9dd509f,Jake Rufe,USA,RB,27-160,68,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/91b27c4b/Collin-Smith,91b27c4b,a9dd509f,Collin Smith,USA,DF,19-209,22,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/6b9a35b3/Matt-Van-Oekel,6b9a35b3,a9dd509f,Matt Van Oekel,USA,GK,36-284,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,3.0,2.0,40.0
+Sac Republic,https://fbref.com/en/players/ad68acb3/Zeiko-Lewis,ad68acb3,e6abae3c,Zeiko Lewis,BER,FW,29-027,81,0,0,0,0,2,1,0,0,2,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/7f7b9ede/Aldair-Sanchez,7f7b9ede,e6abae3c,Aldair Sanchez,USA,"DF,MF",21-181,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/e99f57a7/Russell-Cicerone,e99f57a7,e6abae3c,Russell Cicerone,USA,FW,28-226,90,0,0,0,0,2,2,0,0,2,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/1512328c/Keko,1512328c,e6abae3c,Keko,ESP,FW,31-186,67,0,0,0,0,0,0,1,0,2,4,0,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/d4db60a1/Rafael-Jauregui,d4db60a1,e6abae3c,Rafael Jauregui,USA,MF,18-193,23,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/1501d576/Damia-Viader,1501d576,e6abae3c,Damia Viader,ESP,LM,25-132,86,0,0,0,0,0,0,0,0,1,1,0,3,0,1,0,0,0,LM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/aa859e05/Ezekiel-Padilla,aa859e05,e6abae3c,Ezekiel Padilla,USA,FW,17-330,4,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/1fdf3f69/Nick-Ross,1fdf3f69,e6abae3c,Nick Ross,SCO,CM,31-232,90,1,0,0,0,2,2,0,0,1,1,0,5,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/145bedca/Arnold-Lopez,145bedca,e6abae3c,Arnold Lopez,VEN,CM,28-219,90,0,0,0,0,0,0,1,0,3,1,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/3ac913eb/Ferrety-Sousa,3ac913eb,e6abae3c,Ferrety Sousa,COD,RM,32-188,90,0,0,0,0,0,0,1,0,1,0,1,1,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/b3a1306b/Johnny-Fenwick,b3a1306b,e6abae3c,Johnny Fenwick,ENG,CB,28-223,90,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/6806c66b/Conor-Donovan,6806c66b,e6abae3c,Conor Donovan,USA,CB,27-174,90,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/91769d2f/Jared-Timmer,91769d2f,e6abae3c,Jared Timmer,USA,CB,26-063,90,0,0,0,0,1,1,0,0,1,1,0,2,0,4,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/f0abea8c/Daniel-Vitiello,f0abea8c,e6abae3c,Daniel Vitiello,USA,GK,27-117,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,1.0,2.0,66.7
+RGV Toros,https://fbref.com/en/players/a604b2a4/Frank-Lopez,a604b2a4,e6abae3c,Frank Lopez,CUB,FW,28-126,67,0,0,0,0,2,0,1,0,3,0,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/e14436ee/Juan-Galindrez,e14436ee,e6abae3c,Juan Galindrez,MEX,FW,28-362,23,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/a612a23b/Wilmer-Cabrera-Jr,a612a23b,e6abae3c,Wilmer Cabrera Jr,USA,LM,22-337,67,0,0,0,0,1,1,0,0,2,3,0,0,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/ffc2477f/Christiano-Francois,ffc2477f,e6abae3c,Christiano Francois,HAI,"FW,MF",29-349,23,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/ed0f5bba/Robert-Coronado,ed0f5bba,e6abae3c,Robert Coronado,USA,CM,26-332,90,0,1,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/73eec431/Taylor-Davila,73eec431,e6abae3c,Taylor Davila,USA,CM,22-331,90,1,0,0,0,2,2,0,0,1,0,0,4,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/179f2aa8/Ricardo-Ruiz,179f2aa8,e6abae3c,Ricardo Ruiz,USA,RM,26-239,55,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/8b680dae/Christian-Pinzon,8b680dae,e6abae3c,Christian Pinzon,MEX,MF,25-007,35,0,0,0,0,1,0,0,0,0,1,0,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/c2281300/Gabriel-Benitez,c2281300,e6abae3c,Gabriel Benitez,VEN,LB,29-274,55,0,0,0,0,1,0,0,0,0,0,0,1,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/f56d9c37/Tomas-Ritondale,f56d9c37,e6abae3c,Tomas Ritondale,USA,MF,21-076,35,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,MF,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/d085c340/Frank-Nodarse,d085c340,e6abae3c,Frank Nodarse,CUB,CB,22-207,75,0,0,0,0,1,0,0,0,3,2,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/6fcaf66e/Ian-Cerro,6fcaf66e,e6abae3c,Ian Cerro,USA,MF,26-204,15,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/b4f8c0ed/Wahab-Ackwei,b4f8c0ed,e6abae3c,Wahab Ackwei,GHA,CB,26-255,90,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/980e59a1/Erik-Pimentel,980e59a1,e6abae3c,Erik Pimentel,MEX,CB,33-047,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/5e44c0c6/Jonathan-Ricketts,5e44c0c6,e6abae3c,Jonathan Ricketts,USA,RB,25-223,90,0,0,0,0,1,0,0,0,1,2,0,3,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/8a37dd84/Tyler-Deric,8a37dd84,e6abae3c,Tyler Deric,USA,GK,34-305,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,6.0,1.0,5.0,83.3
+Phx Rising,https://fbref.com/en/players/83fdc123/Manuel-Arteaga,83fdc123,1a54ecc1,Manuel Arteaga,VEN,FW,29-014,90,1,0,0,0,3,2,0,0,1,4,3,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/1312c534/Danny-Trejo,1312c534,1a54ecc1,Danny Trejo,USA,AM,25-063,74,1,0,0,0,4,4,0,0,2,0,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/2ad49384/Carlos-Anguiano,2ad49384,1a54ecc1,Carlos Anguiano,USA,MF,23-291,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/02a9fccf/Panos-Armenakas,02a9fccf,1a54ecc1,Panos Armenakas,AUS,AM,24-330,90,0,1,0,0,1,0,0,0,3,0,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/6251c0e7/Erickson-Gallardo,6251c0e7,1a54ecc1,Erickson Gallardo,VEN,AM,30-012,65,1,1,0,0,1,1,0,0,0,1,2,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/9ef0d693/Federico-Varela,9ef0d693,1a54ecc1,Federico Varela,ARG,"FW,MF",27-055,25,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/3f18600c/Carlos-Harvey,3f18600c,1a54ecc1,Carlos Harvey,PAN,DM,23-148,65,1,1,0,0,1,1,0,0,1,2,0,0,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/0c3e8aee/Jose-Hernandez,0c3e8aee,1a54ecc1,Jose Hernandez,USA,MF,27-080,25,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/526bf96c/Renzo-Zambrano,526bf96c,1a54ecc1,Renzo Zambrano,VEN,DM,28-309,74,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/807c2c71/Henry-Uzochokwu,807c2c71,1a54ecc1,Henry Uzochokwu,NGA,DF,24-160,16,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/0e1f6ffa/Eddie-Munjoma,0e1f6ffa,1a54ecc1,Eddie Munjoma,USA,LB,24-348,81,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/d22a46b4/Emil-Cuello,d22a46b4,1a54ecc1,Emil Cuello,USA,MF,26-180,9,0,1,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/74bb9a37/Daniel-Krutzen,74bb9a37,1a54ecc1,Daniel Krutzen,BEL,CB,26-285,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/77edb7ec/Alejandro-Fuenmayor,77edb7ec,1a54ecc1,Alejandro Fuenmayor,VEN,CB,26-306,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/d116f714/Darnell-King,d116f714,1a54ecc1,Darnell King,USA,RB,32-281,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/f59bd2d3/Rocco-Rios-Novo,f59bd2d3,1a54ecc1,Rocco Rios Novo,ARG,GK,21-027,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/5d90b1db/Rodrigo-Da-Costa,5d90b1db,1a54ecc1,Rodrigo Da Costa,BRA,FW,29-193,75,0,0,0,0,2,1,0,0,0,2,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/0d74a643/Bruno-Lapa,0d74a643,1a54ecc1,Bruno Lapa,BRA,MF,26-052,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/5e7f4283/Laurent-Kissiedou,5e7f4283,1a54ecc1,Laurent Kissiedou,CIV,AM,24-191,63,0,0,0,0,0,0,0,0,1,0,1,1,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/4c46fd1e/Dylan-Borczak,4c46fd1e,1a54ecc1,Dylan Borczak,USA,MF,24-018,27,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/3be1a627/Emerson-Hyndman,3be1a627,1a54ecc1,Emerson Hyndman,USA,AM,27-083,62,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/feaf1d75/Lucas-Turci,feaf1d75,1a54ecc1,Lucas Turci,BRA,DF,26-312,28,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/4dc3ce03/Rashawn-Dally,4dc3ce03,1a54ecc1,Rashawn Dally,JAM,AM,26-168,62,0,0,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/2203da5f/Nighte-Pickering,2203da5f,1a54ecc1,Nighte Pickering,USA,FW,18-156,28,0,0,0,0,1,0,0,0,0,1,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/38088899/Aaron-Molloy,38088899,1a54ecc1,Aaron Molloy,IRL,DM,26-171,90,0,0,0,0,2,0,0,0,0,2,0,3,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/7636fa88/Jeremy-Kelly,7636fa88,1a54ecc1,Jeremy Kelly,USA,DM,25-253,75,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/3fad8026/Leston-Paul,3fad8026,1a54ecc1,Leston Paul,TRI,MF,33-112,15,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/0e854aae/Akeem-Ward,0e854aae,1a54ecc1,Akeem Ward,USA,LB,27-176,90,0,0,0,0,0,0,0,0,2,1,0,3,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/51739a8b/Jelani-Peters,51739a8b,1a54ecc1,Jelani Peters,TRI,CB,29-196,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/ae3330d0/Graham-Smith,ae3330d0,1a54ecc1,Graham Smith,USA,CB,27-218,90,0,0,0,0,0,0,1,0,3,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/6e0d9f17/Rece-Buckmaster,6e0d9f17,1a54ecc1,Rece Buckmaster,USA,RB,26-359,90,0,0,0,0,0,0,0,0,0,2,0,3,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/3a8e5b28/Drew-Romig,3a8e5b28,1a54ecc1,Drew Romig,USA,GK,25-098,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,10.0,6.0,4.0,40.0
+El Paso,https://fbref.com/en/players/760de4ba/Luis-Solignac,760de4ba,f9bd0d92,Luis Solignac,ARG,FW,32-135,90,0,0,0,0,2,0,0,0,0,0,1,1,0,2,0,0,0,FW,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/99ddf98d/Ricardo-Zacarias,99ddf98d,f9bd0d92,Ricardo Zacarias,USA,FW,27-304,56,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/1a00d00d/Emmanuel-Sonupe,1a00d00d,f9bd0d92,Emmanuel Sonupe,ENG,MF,27-102,34,0,0,0,0,1,0,0,0,0,0,1,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/7449fa6a/Josue-Gomez-Gomez,7449fa6a,f9bd0d92,Josue Gomez Gomez,MEX,LM,28-311,90,0,0,0,0,3,0,0,0,1,2,0,0,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/f984f68b/Eric-Calvillo,f984f68b,f9bd0d92,Eric Calvillo,SLV,CM,25-180,90,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/6bf1e866/Liam-Rose,6bf1e866,f9bd0d92,Liam Rose,AUS,CM,26-085,90,0,0,0,0,2,1,0,0,0,2,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/82161e08/Denys-Kostyshyn,82161e08,f9bd0d92,Denys Kostyshyn,UKR,RM,25-304,90,0,0,0,0,3,2,0,0,1,3,0,6,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/812c0d71/Eder-Borelli,812c0d71,f9bd0d92,Eder Borelli,MEX,LB,32-218,81,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/73cc827d/Nick-Hinds,73cc827d,f9bd0d92,Nick Hinds,USA,"DF,FW",25-259,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/fc33c3f4/Bence-Pavkovics,fc33c3f4,f9bd0d92,Bence Pavkovics,HUN,CB,26-096,90,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/7e50dd2c/Erik-McCue,7e50dd2c,f9bd0d92,Erik McCue,USA,CB,22-164,90,0,0,0,0,0,0,1,0,2,2,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/c2846353/Marc-Navarro,c2846353,f9bd0d92,Marc Navarro,ESP,RB,27-364,70,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/b4a650b1/Miles-Lyons,b4a650b1,f9bd0d92,Miles Lyons,USA,DF,20-266,20,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/22232b62/Benny-Diaz,22232b62,f9bd0d92,Benny Diaz,MEX,GK,24-198,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,1.0,4.0,80.0
+New Mexico Utd,https://fbref.com/en/players/51ac90d7/Daniel-Bruce,51ac90d7,f9bd0d92,Daniel Bruce,ENG,FW,27-049,90,0,0,0,0,3,2,1,0,3,4,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/9dc9b03f/Amando-Moreno,9dc9b03f,f9bd0d92,Amando Moreno,SLV,LW,27-294,86,0,0,0,0,1,1,1,0,2,1,3,1,0,0,0,0,0,LW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/ed724033/Nicky-Hernandez,ed724033,f9bd0d92,Nicky Hernandez,USA,MF,24-283,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/3d9e8e17/Greg-Hurst,3d9e8e17,f9bd0d92,Greg Hurst,SCO,AM,26-084,90,0,0,0,0,0,0,0,0,2,0,0,1,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/3bd84c13/Sergio-Rivas,3bd84c13,f9bd0d92,Sergio Rivas,MEX,AM,25-271,90,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/8d671482/Santi-Moar,8d671482,f9bd0d92,Santi Moar,ESP,RW,29-299,89,1,0,0,0,3,1,1,0,2,1,0,3,0,0,0,0,0,RW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/bef889d7/Milo-Garvanian,bef889d7,f9bd0d92,Milo Garvanian,ARM,MF,23-165,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/b7aa9657/Justin-Portillo,b7aa9657,f9bd0d92,Justin Portillo,USA,DM,30-295,90,0,0,0,0,2,1,0,0,0,0,0,9,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/b7d8da4a/Austin-Yearwood,b7d8da4a,f9bd0d92,Austin Yearwood,USA,LB,28-323,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/077e97b3/Kalen-Ryden,077e97b3,f9bd0d92,Kalen Ryden,USA,CB,32-153,90,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/1e2207ff/Sam-Hamilton,1e2207ff,f9bd0d92,Sam Hamilton,USA,CB,27-339,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/d1b6fe5b/Harry-Swartz,d1b6fe5b,f9bd0d92,Harry Swartz,USA,RB,27-104,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/0245fbbf/Alexandros-Tabakis,0245fbbf,f9bd0d92,Alexandros Tabakis,GRE,GK,30-205,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,0.0,3.0,100.0

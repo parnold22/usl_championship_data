@@ -1,0 +1,32 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Hartford Athletic,https://fbref.com/en/players/b9b0304a/Derek-Dodson,b9b0304a,c887f06d,Derek Dodson,USA,FW,22-357,79,0,0,0,0,2,1,0,0,2,0,0,2,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/8c4614a8/Jeciel-Cedeno,8c4614a8,c887f06d,Jeciel Cedeno,ECU,"FW,MF",21-206,11,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/7f84bbd4/Juan-Carlos-Obregon,7f84bbd4,c887f06d,Juan Carlos Obregon,HON,FW,23-362,56,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/75a0181e/Preston-Tabortetaka,75a0181e,c887f06d,Preston Tabortetaka,CMR,"FW,MF",23-138,34,0,0,0,0,3,0,0,0,2,1,1,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/cc9cf9da/Walmer-Martinez,cc9cf9da,c887f06d,Walmer Martinez,SLV,FW,23-070,79,2,0,0,0,3,3,1,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/dbaba8aa/Sebastian-Elney,dbaba8aa,c887f06d,Sebastian Elney,HAI,FW,24-122,11,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/b2e0370d/Danny-Barrera,b2e0370d,c887f06d,Danny Barrera,USA,CM,31-291,90,0,1,0,0,2,1,0,0,2,0,1,2,0,3,0,0,0,CM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/c644e140/Justin-Haak,c644e140,c887f06d,Justin Haak,USA,CM,20-044,90,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/46c0b8fd/Conor-McGlynn,46c0b8fd,c887f06d,Conor McGlynn,USA,CM,22-340,90,0,0,0,0,2,0,0,0,2,0,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/49953793/Arthur-Rogers,49953793,c887f06d,Arthur Rogers,ENG,LB,25-030,90,0,0,0,0,1,0,1,0,3,3,0,4,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/eef6d077/Nicolas-Cardona,eef6d077,c887f06d,Nicolas Cardona,PUR,CB,22-257,90,0,0,0,0,1,0,1,0,1,3,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/1cc1f1cf/Abdel-Yacoubou,1cc1f1cf,c887f06d,Abdel Yacoubou,TOG,CB,24-200,51,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/f47a82ff/Luka-Prpa,f47a82ff,c887f06d,Luka Prpa,USA,MF,23-091,39,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/1cdd642f/Younes-Boudadi,1cdd642f,c887f06d,Younes Boudadi,MAR,RB,25-276,90,0,0,0,0,0,0,0,0,3,1,0,4,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/fd8f17fd/Jefferson-Caldwell,fd8f17fd,c887f06d,Jefferson Caldwell,USA,GK,25-248,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,2.0,0.0,2.0,100.0
+Charleston,https://fbref.com/en/players/51e4d1ac/Joel-Bunting,51e4d1ac,c887f06d,Joel Bunting,USA,FW,23-328,65,0,0,0,0,1,0,0,0,4,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/c912dbcb/Claudio-Repetto,c912dbcb,c887f06d,Claudio Repetto,ITA,FW,24-266,25,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/7f3117a8/Stavros-Zarokostas,7f3117a8,c887f06d,Stavros Zarokostas,GRE,FW,23-355,77,0,0,0,0,1,1,0,0,0,5,0,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/68e684ee/Nicque-Daley,68e684ee,c887f06d,Nicque Daley,JAM,FW,21-007,13,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/7a57e1c4/Geobel-Perez,7a57e1c4,c887f06d,Geobel Perez,CUB,LM,22-146,65,0,0,0,0,0,0,0,0,1,2,0,2,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/90bc9cab/Romario-Piggott,90bc9cab,c887f06d,Romario Piggott,PAN,MF,26-101,25,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/a68a9609/Burke-Fahling,a68a9609,c887f06d,Burke Fahling,USA,CM,24-084,90,0,0,0,0,2,1,0,0,1,1,0,6,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/7e40f227/Angelo-Kelly-Rosales,7e40f227,c887f06d,Angelo Kelly Rosales,HON,CM,28-274,90,0,0,0,0,2,0,1,0,2,4,1,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/7000e3a0/DZ-Harmon,7000e3a0,c887f06d,DZ Harmon,LBR,RM,25-004,65,0,0,0,0,1,0,0,0,2,1,0,1,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/ad68acb3/Zeiko-Lewis,ad68acb3,c887f06d,Zeiko Lewis,BER,"FW,MF",27-144,25,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/3dfd1c91/Ben-Di-Rosa,3dfd1c91,c887f06d,Ben Di Rosa,USA,LB,23-077,77,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/79979a4e/Robbie-Crawford,79979a4e,c887f06d,Robbie Crawford,SCO,MF,28-221,13,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/ff30c440/Jarad-van-Schaik,ff30c440,c887f06d,Jarad van Schaik,USA,CB,32-319,90,0,0,0,0,0,0,0,0,1,0,0,1,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/4944b644/Patrick-Hogan,4944b644,c887f06d,Patrick Hogan,USA,CB,24-039,90,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/1da409b4/Logan-Gdula,1da409b4,c887f06d,Logan Gdula,USA,RB,25-013,90,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/51cc7652/Paul-Lewis,51cc7652,c887f06d,Paul Lewis,USA,GK,22-237,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,GK,6.0,2.0,4.0,66.7

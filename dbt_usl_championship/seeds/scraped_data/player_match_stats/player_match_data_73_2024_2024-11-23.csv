@@ -1,0 +1,34 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+CS Switchbacks,https://fbref.com/en/players/4bf9347c/Ronaldo-Damus,4bf9347c,9eb36741,Ronaldo Damus,HAI,FW,25-072,90,1,0,0,0,4,2,0,0,1,1,1,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/b149b4ad/Yosuke-Hanya,b149b4ad,9eb36741,Yosuke Hanya,JPN,AM,25-298,44,0,1,0,0,1,0,0,0,2,1,0,3,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/cb3c5e0d/Quenzi-Huerman,cb3c5e0d,9eb36741,Quenzi Huerman,FRA,MF,23-125,46,0,0,0,0,1,1,0,0,1,1,0,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/473902d6/Juan-Tejada,473902d6,9eb36741,Juan Tejada,PAN,AM,27-314,76,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/95b5b69a/Tyreek-Magee,95b5b69a,9eb36741,Tyreek Magee,JAM,MF,25-088,14,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/74e5422d/Jairo-Henriquez,74e5422d,9eb36741,Jairo Henriquez,SLV,AM,31-084,65,1,0,0,0,4,1,0,0,4,1,0,1,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/a6362b48/Steven-Echeverria,a6362b48,9eb36741,Steven Echeverria,PUR,MF,28-228,25,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/61a5541d/Zach-Zandi,61a5541d,9eb36741,Zach Zandi,USA,DM,28-128,76,0,0,0,0,2,0,0,0,1,3,0,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/eb8eae2c/Justin-Dhillon,eb8eae2c,9eb36741,Justin Dhillon,USA,FW,29-170,14,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/53974fd2/Devon-Williams,53974fd2,9eb36741,Devon Williams,JAM,DM,32-229,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/1c2c030a/Matthew-Real,1c2c030a,9eb36741,Matthew Real,USA,LB,25-136,90,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/9e0c1b58/Delentz-Pierre,9e0c1b58,9eb36741,Delentz Pierre,HAI,CB,24-007,40,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/bce0d6f6/Duke-Lacroix,bce0d6f6,9eb36741,Duke Lacroix,HAI,"DF,FW",31-040,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/658388b4/Matt-Mahoney,658388b4,9eb36741,Matt Mahoney,USA,CB,29-220,90,0,0,0,0,0,0,1,0,2,2,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/70a494c9/Aidan-Rocha,70a494c9,9eb36741,Aidan Rocha,USA,RB,23-334,90,0,0,0,0,0,0,0,0,1,3,0,6,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/6a0987cf/Christian-Herrera,6a0987cf,9eb36741,Christian Herrera,MEX,GK,27-217,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,2.0,0.0,2.0,100.0
+Rhode Island FC,https://fbref.com/en/players/d04dba18/JJ-Williams,d04dba18,9eb36741,JJ Williams,USA,FW,26-324,90,0,0,0,0,2,0,0,0,2,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/655352d4/Albert-Dikwa,655352d4,9eb36741,Albert Dikwa,CMR,FW,26-326,61,0,0,0,0,0,0,0,0,1,2,2,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/0a4682a8/Mark-Doyle,0a4682a8,9eb36741,Mark Doyle,IRL,"FW,MF",26-004,29,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/a2118e42/Zachary-Herivaux,a2118e42,9eb36741,Zachary Herivaux,HAI,CM,28-296,86,0,0,0,0,1,0,0,0,2,1,0,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/8ae297c7/Joseph-Brito,8ae297c7,9eb36741,Joseph Brito,USA,MF,25-280,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/02019ede/Marc-Ybarra,02019ede,9eb36741,Marc Ybarra,USA,CM,25-341,45,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/cc61360d/Jojea-Kwizera,cc61360d,9eb36741,Jojea Kwizera,RWA,MF,25-327,45,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/2ee31588/Clay-Holstad,2ee31588,9eb36741,Clay Holstad,USA,CM,24-307,61,0,0,0,0,1,0,0,0,0,1,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/58f5f8cc/Amos-Shapiro-Thompson,58f5f8cc,9eb36741,Amos Shapiro Thompson,USA,MF,24-317,29,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/5be1df64/Noah-Fuson,5be1df64,9eb36741,Noah Fuson,USA,LB,24-328,90,0,0,0,0,0,0,0,0,3,1,0,7,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/04391c12/Morris-Duggan,04391c12,9eb36741,Morris Duggan,GER,CB,24-030,90,0,0,0,0,1,0,0,0,1,2,0,2,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/01880958/Karifa-Yao,01880958,9eb36741,Karifa Yao,CAN,CB,24-056,71,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/d69415a4/Kofi-Twumasi,d69415a4,9eb36741,Kofi Twumasi,USA,"DF,MF",28-085,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/624ba068/Grant-Stoneman,624ba068,9eb36741,Grant Stoneman,USA,CB,28-362,45,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/121ca823/Jack-Panayotou,121ca823,9eb36741,Jack Panayotou,USA,MF,20-171,45,0,0,0,0,1,1,0,0,1,0,0,5,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/d085c340/Frank-Nodarse,d085c340,9eb36741,Frank Nodarse,CUB,RB,23-353,90,0,0,0,0,3,1,0,0,1,5,0,0,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/bfb15d99/Koke-Vegas,bfb15d99,9eb36741,Koke Vegas,ESP,GK,29-057,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,3.0,2.0,40.0

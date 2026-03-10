@@ -1,0 +1,33 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Lexington SC,https://fbref.com/en/players/199b7c22/Braudilio-Pina,199b7c22,b7029fd7,Braudilio Pina,POR,FW,25-336,79,0,0,0,0,2,0,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Lexington SC,https://fbref.com/en/players/f6fb4b0d/Michael-Adedokun,f6fb4b0d,b7029fd7,Michael Adedokun,NGA,MF,24-143,11,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Lexington SC,https://fbref.com/en/players/39fde61c/Cory-Burke,39fde61c,b7029fd7,Cory Burke,JAM,FW,33-293,79,1,0,0,0,2,1,1,0,2,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Lexington SC,https://fbref.com/en/players/840f67fe/Forster-Ajago,840f67fe,b7029fd7,Forster Ajago,GHA,FW,24-062,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Lexington SC,https://fbref.com/en/players/5153d32e/Latif-Blessing,5153d32e,b7029fd7,Latif Blessing,GHA,FW,28-291,72,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Lexington SC,https://fbref.com/en/players/53974fd2/Devon-Williams,53974fd2,b7029fd7,Devon Williams,JAM,MF,33-192,18,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Lexington SC,https://fbref.com/en/players/7bb23f0e/Marcus-Epps,7bb23f0e,b7029fd7,Marcus Epps,USA,CM,30-274,72,1,1,0,0,1,1,0,0,0,1,0,2,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Lexington SC,https://fbref.com/en/players/37d378c8/Gael-Gibert,37d378c8,b7029fd7,Gael Gibert,FRA,DF,25-078,18,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Lexington SC,https://fbref.com/en/players/1d88419e/Blaine-Ferri,1d88419e,b7029fd7,Blaine Ferri,USA,CM,25-018,90,0,1,0,0,2,1,0,0,0,1,0,3,0,4,0,0,0,CM,0.0,0.0,0.0,0.0
+Lexington SC,https://fbref.com/en/players/bb4610ab/Nicolas-Firmino,bb4610ab,b7029fd7,Nicolas Firmino,USA,CM,24-260,90,0,0,0,0,3,1,0,0,0,0,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Lexington SC,https://fbref.com/en/players/0a0dcb6f/Jacob-Greene,0a0dcb6f,b7029fd7,Jacob Greene,USA,LB,22-208,90,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+Lexington SC,https://fbref.com/en/players/38e88892/Kendall-Burks,38e88892,b7029fd7,Kendall Burks,USA,CB,26-009,90,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Lexington SC,https://fbref.com/en/players/9732b44c/Joe-Hafferty,9732b44c,b7029fd7,Joe Hafferty,USA,CB,27-210,90,0,0,0,0,0,0,0,0,3,3,0,1,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Lexington SC,https://fbref.com/en/players/bbc646ec/Alfredo-Midence,bbc646ec,b7029fd7,Alfredo Midence,HON,RB,23-110,55,0,0,0,0,2,1,0,0,0,1,0,5,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Lexington SC,https://fbref.com/en/players/fd6d6e07/Xavier-Zengue,fd6d6e07,b7029fd7,Xavier Zengue,USA,DF,24-210,35,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Lexington SC,https://fbref.com/en/players/927c3059/Logan-Ketterer,927c3059,b7029fd7,Logan Ketterer,USA,GK,31-342,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,2.0,3.0,60.0
+Sac Republic,https://fbref.com/en/players/e443cde3/Juan-Sebastian-Herrera,e443cde3,b7029fd7,Juan Sebastian Herrera,COL,FW,30-347,90,1,0,0,0,3,1,1,0,1,4,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/230484f3/Dominik-Wanner,230484f3,b7029fd7,Dominik Wanner,GER,AM,26-166,79,0,0,0,0,2,1,0,0,1,1,0,2,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/fdffba5d/Cody-Baker,fdffba5d,b7029fd7,Cody Baker,USA,DF,21-283,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/e2d8874f/Cristian-Parano,e2d8874f,b7029fd7,Cristian Parano,ARG,AM,26-062,90,1,0,0,0,3,1,0,0,2,0,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/03083623/Lewis-Jamieson,03083623,b7029fd7,Lewis Jamieson,SCO,AM,23-183,74,0,0,0,0,1,0,1,0,1,0,0,4,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/423af47f/Khori-Bennett,423af47f,b7029fd7,Khori Bennett,JAM,FW,27-308,16,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/61cb0f34/Blake-Willey,61cb0f34,b7029fd7,Blake Willey,USA,DM,18-172,45,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/b7aa9657/Justin-Portillo,b7aa9657,b7029fd7,Justin Portillo,USA,MF,33-038,45,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,MF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/1fdf3f69/Nick-Ross,1fdf3f69,b7029fd7,Nick Ross,SCO,DM,33-340,45,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/29b51d26/Rodrigo-Lopez,29b51d26,b7029fd7,Rodrigo Lopez,USA,MF,38-160,45,0,1,0,0,0,0,0,0,2,0,0,8,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/0a494745/Michelle-Benitez,0a494745,b7029fd7,Michelle Benitez,MEX,LB,29-247,74,0,0,0,0,2,1,0,0,1,0,1,1,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/9fda5cd3/Ryan-Spaulding,9fda5cd3,b7029fd7,Ryan Spaulding,USA,"DF,MF",27-037,16,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/84703bc6/Lee-Desmond,84703bc6,b7029fd7,Lee Desmond,IRL,CB,30-268,90,0,0,0,0,0,0,0,0,2,1,0,1,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/e068bed0/Freddy-Kleemann,e068bed0,b7029fd7,Freddy Kleemann,USA,CB,26-212,90,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/2ade3d9e/Jack-Gurr,2ade3d9e,b7029fd7,Jack Gurr,ENG,RB,29-325,90,0,1,0,0,1,0,0,0,0,0,0,10,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/f0abea8c/Daniel-Vitiello,f0abea8c,b7029fd7,Daniel Vitiello,USA,GK,29-225,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,2.0,3.0,60.0

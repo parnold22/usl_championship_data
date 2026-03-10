@@ -1,0 +1,33 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+North Carolina,https://fbref.com/en/players/e03c7b80/Adam-Luckhurst,e03c7b80,acba39ea,Adam Luckhurst,USA,FW,22-316,90,0,0,0,0,1,0,0,0,2,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/3757f468/Pedro-Dolabella,3757f468,acba39ea,Pedro Dolabella,USA,FW,25-284,90,0,0,0,0,2,0,0,0,3,2,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/5d90b1db/Rodrigo-Da-Costa,5d90b1db,acba39ea,Rodrigo Da Costa,BRA,FW,31-140,64,1,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/03c0dcc3/Louis-Perez,03c0dcc3,acba39ea,Louis Perez,FRA,"FW,MF",27-332,26,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/b72465eb/Jaden-Servania,b72465eb,acba39ea,Jaden Servania,PUR,LM,23-297,74,0,0,0,0,1,0,1,0,1,2,0,0,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/8746d5d0/Patrick-Burner,8746d5d0,acba39ea,Patrick Burner,MTQ,"DF,MF",29-028,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/4036c29f/Mikey-Maldonado,4036c29f,acba39ea,Mikey Maldonado,USA,CM,26-311,90,0,1,0,0,0,0,0,0,2,0,0,5,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/027c0f1a/Collin-Martin,027c0f1a,acba39ea,Collin Martin,USA,CM,30-181,74,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/246f7571/Raheem-Somersall,246f7571,acba39ea,Raheem Somersall,SKN,MF,27-308,16,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/060db276/Rafa-Mentzingen,060db276,acba39ea,Rafa Mentzingen,BRA,RM,29-007,89,0,0,0,0,2,1,0,0,1,0,0,3,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/d9330b12/Tristan-Hodge,d9330b12,acba39ea,Tristan Hodge,TRI,DF,30-212,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/3b9e2775/Finn-Sundstrom,3b9e2775,acba39ea,Finn Sundstrom,USA,CB,18-171,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/20bc347c/Bryce-Washington,20bc347c,acba39ea,Bryce Washington,USA,CB,26-239,90,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/f440649e/Paco-Craig,f440649e,acba39ea,Paco Craig,ENG,CB,32-202,90,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/29863f6e/Jake-McGuire,29863f6e,acba39ea,Jake McGuire,USA,GK,30-248,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,0.0,5.0,100.0
+Orange County,https://fbref.com/en/players/3acc84ad/Lyam-MacKinnon,3acc84ad,acba39ea,Lyam MacKinnon,SUI,FW,25-226,90,0,0,0,0,4,1,0,0,0,1,1,7,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/a8734f4a/Cameron-Dunbar,a8734f4a,acba39ea,Cameron Dunbar,USA,LW,22-199,79,0,0,0,0,6,2,0,0,0,2,1,1,0,0,0,0,0,LW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/b1f02529/Benjamin-Barjolo,b1f02529,acba39ea,Benjamin Barjolo,USA,MF,18-081,11,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/1c24aacf/Kyle-Scott,1c24aacf,acba39ea,Kyle Scott,ENG,AM,27-138,83,0,0,0,0,2,0,0,0,3,2,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/7a6cf67c/Ashton-Miles,7a6cf67c,acba39ea,Ashton Miles,USA,DF,20-200,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/866dc35d/Nico-Benalcazar,866dc35d,acba39ea,Nico Benalcazar,USA,AM,23-337,90,0,0,0,0,2,0,0,0,1,4,0,2,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/43002197/Bryce-Jamison,43002197,acba39ea,Bryce Jamison,USA,RW,19-123,62,0,0,0,0,4,1,0,0,1,1,1,0,0,3,0,0,0,RW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/17e0db3e/Tristan-Trager,17e0db3e,acba39ea,Tristan Trager,USA,"FW,MF",25-254,28,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/dac1adc3/Kevin-Partida,dac1adc3,acba39ea,Kevin Partida,USA,DM,30-060,83,0,0,0,0,1,0,1,0,2,1,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/9f39b6cf/Ethan-Zubak,9f39b6cf,acba39ea,Ethan Zubak,USA,FW,27-024,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/1ec1c986/Ryan-Doghman,1ec1c986,acba39ea,Ryan Doghman,NOR,LB,27-329,89,0,0,0,0,1,0,0,0,0,1,0,3,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/a5c76d49/Mouhamadou-War,a5c76d49,acba39ea,Mouhamadou War,JPN,MF,25-035,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/5c0e047a/Vuk-Latinovich,5c0e047a,acba39ea,Vuk Latinovich,USA,CB,27-237,63,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/99a6142d/Chris-Hegardt,99a6142d,acba39ea,Chris Hegardt,USA,MF,23-123,27,0,0,0,0,0,0,0,0,1,0,0,8,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/30c268ea/Tom-Brewitt,30c268ea,acba39ea,Tom Brewitt,ENG,CB,28-087,90,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/c09ddc5e/Koa-Santos,c09ddc5e,acba39ea,Koa Santos,USA,RB,25-230,90,0,0,0,0,1,0,0,0,1,0,0,9,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/32be86d0/Colin-Shutler,32be86d0,acba39ea,Colin Shutler,USA,GK,26-280,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,2.0,1.0,1.0,50.0

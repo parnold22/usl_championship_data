@@ -1,0 +1,57 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+NY Red Bulls II,https://fbref.com/en/players/de7a0fe6/Serge-Ngoma,de7a0fe6,0af2717e,Serge Ngoma,USA,FW,16-032,70,0,0,0,0,1,0,1,0,3,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/a854969f/Mathias-Jorgensen,a854969f,0af2717e,Mathias Jorgensen,DEN,FW,20-324,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/310fd6d8/Omar-Sowe,310fd6d8,0af2717e,Omar Sowe,GAM,FW,20-286,90,2,0,0,0,4,3,0,0,1,1,1,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/4c89d918/Jake-LaCava,4c89d918,0af2717e,Jake LaCava,USA,LW,20-210,90,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,LW,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/f8ec10c1/Austin-Brummett,f8ec10c1,0af2717e,Austin Brummett,USA,RW,17-177,90,0,0,0,0,2,0,0,0,1,4,0,2,0,2,0,0,0,RW,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/a8de0bd5/Daniel-Edelman,a8de0bd5,0af2717e,Daniel Edelman,USA,CM,18-104,90,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/2b300bb2/Samuel-Williams,2b300bb2,0af2717e,Samuel Williams,USA,CM,16-145,90,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/22fe9049/Jason-Pendant,22fe9049,0af2717e,Jason Pendant,VIE,LB,24-182,90,0,0,0,0,0,0,0,0,1,0,0,7,0,3,0,0,0,LB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/013e66bb/Juan-Castillo,013e66bb,0af2717e,Juan Castillo,COL,CB,18-311,90,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/65ae6805/Kyle-Zajec,65ae6805,0af2717e,Kyle Zajec,USA,CB,24-135,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/ca9ccbf2/Jeremy-Rafanello,ca9ccbf2,0af2717e,Jeremy Rafanello,USA,RB,21-118,90,0,2,0,0,1,0,1,0,4,3,0,6,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/da1571e7/Samuel-Joseph,da1571e7,0af2717e,Samuel Joseph,USA,GK,18-032,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,3.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/0ff79542/Dane-Kelly,0ff79542,0af2717e,Dane Kelly,JAM,FW,30-182,83,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/57fdd8b0/Clay-Dimick,57fdd8b0,0af2717e,Clay Dimick,USA,DF,26-246,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/e41bbc5d/Enzo-Martinez,e41bbc5d,0af2717e,Enzo Martinez,URU,FW,30-315,90,1,0,0,0,3,1,0,0,2,1,1,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/4ef705ab/Sylvain-Marveaux,4ef705ab,0af2717e,Sylvain Marveaux,FRA,FW,35-117,70,1,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/b2fdd01f/Irvin-Parra,b2fdd01f,0af2717e,Irvin Parra,USA,"FW,MF",27-357,20,0,0,0,0,1,0,1,0,2,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/546c2c25/Adam-Armour,546c2c25,0af2717e,Adam Armour,USA,LM,18-317,90,0,1,0,0,0,0,1,0,2,3,0,4,0,1,0,0,0,LM,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/350de244/Marcelo-Palomino,350de244,0af2717e,Marcelo Palomino,USA,CM,20-081,83,1,0,0,0,2,1,0,0,0,1,0,2,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/7b234966/Distel-Zola,7b234966,0af2717e,Distel Zola,COD,MF,32-186,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/bd4460b1/Brandt-Bronico,bd4460b1,0af2717e,Brandt Bronico,USA,CM,26-051,90,0,1,0,0,2,0,0,0,1,2,0,0,0,4,0,0,0,CM,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/29a972e4/Joel-Johnson,29a972e4,0af2717e,Joel Johnson,LBR,RM,28-324,90,0,0,0,0,1,0,0,0,0,1,0,3,0,2,0,0,0,RM,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/8c2098b6/Christian-Dean,8c2098b6,0af2717e,Christian Dean,USA,CB,28-149,69,0,0,0,0,0,0,1,0,3,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/68d4f83b/Hugh-Roberts,68d4f83b,0af2717e,Hugh Roberts,USA,DF,28-317,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/a67a09fb/Christian-Fuchs,a67a09fb,0af2717e,Christian Fuchs,AUT,CB,35-125,90,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,CB,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/37b46c42/Kevin-Riascos,37b46c42,0af2717e,Kevin Riascos,COL,CB,26-050,90,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/8271a18e/Austin-Pack,8271a18e,0af2717e,Austin Pack,USA,GK,27-166,90,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,GK,5.0,2.0,3.0,60.0
+Memphis 901,https://fbref.com/en/players/6ea83b25/Kyle-Murphy,6ea83b25,1b2bfc75,Kyle Murphy,USA,FW,28-242,90,1,0,1,1,1,1,1,0,3,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/dbab5aa7/Michael-Salazar,dbab5aa7,1b2bfc75,Michael Salazar,BLZ,FW,28-268,77,0,0,0,0,2,1,1,0,2,2,1,2,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/0beae10c/Andre-Fortune-II,0beae10c,1b2bfc75,Andre Fortune II,TRI,MF,25-038,13,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/4dc3ce03/Rashawn-Dally,4dc3ce03,1b2bfc75,Rashawn Dally,JAM,LM,24-208,45,0,0,0,0,1,0,0,0,0,3,0,0,0,1,0,0,0,LM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/34d8cfd4/Francis-Atuahene,34d8cfd4,1b2bfc75,Francis Atuahene,GHA,MF,25-063,45,0,0,0,0,2,0,1,0,0,2,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/e88873c3/Dominic-Oduro,e88873c3,1b2bfc75,Dominic Oduro,GHA,CM,26-199,79,0,0,0,0,3,0,0,0,1,0,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/c2627263/Mitch-Guitar,c2627263,1b2bfc75,Mitch Guitar,USA,MF,23-322,11,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/3fad8026/Leston-Paul,3fad8026,1b2bfc75,Leston Paul,TRI,CM,31-152,90,0,0,0,0,1,0,0,0,1,6,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/71db1863/Kadeem-Dacres,71db1863,1b2bfc75,Kadeem Dacres,JAM,RM,29-350,90,0,0,0,0,1,0,0,0,3,3,0,11,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/d46dbe4f/Andre-Reynolds-II,d46dbe4f,1b2bfc75,Andre Reynolds II,USA,LB,20-100,90,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/bcba3251/Niall-Logue,bcba3251,1b2bfc75,Niall Logue,IRL,CB,26-003,90,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/56dcf1b2/Skylar-Thomas,56dcf1b2,1b2bfc75,Skylar Thomas,CAN,CB,28-014,45,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/f209d2aa/Zach-Carroll,f209d2aa,1b2bfc75,Zach Carroll,USA,DF,27-147,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/a84af631/Mark-Segbers,a84af631,1b2bfc75,Mark Segbers,USA,RB,25-114,90,0,0,0,0,0,0,0,0,1,1,0,2,0,4,0,0,0,RB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/b4e04d9e/Brady-Scott,b4e04d9e,1b2bfc75,Brady Scott,USA,GK,22-041,90,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,GK,2.0,1.0,2.0,100.0
+CS Switchbacks,https://fbref.com/en/players/9837830f/Michee-Ngalina,9837830f,1b2bfc75,Michee Ngalina,COD,FW,21-126,90,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/e32a89fc/Hadji-Barry,e32a89fc,1b2bfc75,Hadji Barry,GUI,FW,28-245,90,1,0,1,1,2,2,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/a41992b2/Deshane-Beckford,a41992b2,1b2bfc75,Deshane Beckford,JAM,FW,23-145,90,0,0,0,0,2,0,1,0,2,0,1,6,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/a6290bda/Andre-Lewis,a6290bda,1b2bfc75,Andre Lewis,JAM,CM,26-363,81,0,0,0,0,3,0,0,0,2,2,0,8,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/d78d7415/Jose-Francisco-Torres,d78d7415,1b2bfc75,Jose Francisco Torres,USA,MF,33-285,9,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/78f4dfae/Rony-Argueta,78f4dfae,1b2bfc75,Rony Argueta,USA,CM,30-218,90,0,0,0,0,0,0,1,0,5,0,0,0,0,8,0,0,0,CM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/35429371/Beverly-Makangila,35429371,1b2bfc75,Beverly Makangila,COD,CM,21-121,23,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/a6362b48/Steven-Echeverria,a6362b48,1b2bfc75,Steven Echeverria,PUR,MF,25-123,67,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/d9330b12/Tristan-Hodge,d9330b12,1b2bfc75,Tristan Hodge,TRI,LB,26-305,78,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/658388b4/Matt-Mahoney,658388b4,1b2bfc75,Matt Mahoney,USA,DF,26-115,12,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/52743db1/Jimmy-Ockford,52743db1,1b2bfc75,Jimmy Ockford,USA,CB,29-061,82,0,0,0,0,0,0,2,1,2,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/f03bba0c/Michael-Edwards,f03bba0c,1b2bfc75,Michael Edwards,USA,CB,20-256,90,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/709073d7/Jordan-Burt,709073d7,1b2bfc75,Jordan Burt,USA,RB,30-356,90,0,0,0,0,2,0,0,0,2,0,1,0,0,3,0,0,0,RB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/1031f239/Sean-Melvin,1031f239,1b2bfc75,Sean Melvin,CAN,GK,27-032,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,2.0,1.0,2.0,100.0

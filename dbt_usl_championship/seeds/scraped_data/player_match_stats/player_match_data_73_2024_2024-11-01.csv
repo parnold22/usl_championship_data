@@ -1,0 +1,29 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+LV Lights FC,https://fbref.com/en/players/423af47f/Khori-Bennett,423af47f,57e17a9f,Khori Bennett,JAM,FW,26-324,120,0,0,0,0,3,1,0,0,3,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/8b680dae/Christian-Pinzon,8b680dae,57e17a9f,Christian Pinzon,MEX,AM,26-130,76,0,0,0,0,2,0,0,0,2,1,0,3,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/df3ac7ff/Coleman-Gannon,df3ac7ff,57e17a9f,Coleman Gannon,USA,MF,21-346,44,0,0,0,0,2,1,0,0,2,1,0,1,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/55975b0c/Valentin-Noel,55975b0c,57e17a9f,Valentin Noel,FRA,AM,25-188,120,0,0,0,0,0,0,1,0,0,1,0,3,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/60b4d213/Solomon-Asante,60b4d213,57e17a9f,Solomon Asante,GHA,AM,34-240,96,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/3511b4f8/Joe-Gyau,3511b4f8,57e17a9f,Joe Gyau,USA,"DF,FW",32-046,24,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/a6d6e9d0/Charlie-Adams,a6d6e9d0,57e17a9f,Charlie Adams,ENG,DM,30-169,76,0,0,0,0,1,1,0,0,0,1,0,3,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/7d5c5dab/Elias-Gartig,7d5c5dab,57e17a9f,Elias Gartig,DEN,DF,22-010,44,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/a898dc13/Jean-Claude-Ngando,a898dc13,57e17a9f,Jean Claude Ngando,CMR,DM,24-347,120,0,0,0,0,4,1,0,0,0,0,0,11,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/85fe5da5/Gennaro-Nigro,85fe5da5,57e17a9f,Gennaro Nigro,USA,LB,24-156,120,0,0,0,0,1,1,0,0,3,1,0,6,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/50a5e230/Ousman-Jabang,50a5e230,57e17a9f,Ousman Jabang,USA,CB,23-217,120,0,0,0,0,3,1,0,0,0,2,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/9732b44c/Joe-Hafferty,9732b44c,57e17a9f,Joe Hafferty,USA,CB,26-225,120,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/923a6162/Shawn-Smart,923a6162,57e17a9f,Shawn Smart,USA,RB,20-251,76,0,0,0,0,0,0,0,0,0,4,0,3,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/229125b1/Grayson-Doody,229125b1,57e17a9f,Grayson Doody,USA,DF,22-226,44,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/ad274990/Raiko-Arozarena,ad274990,57e17a9f,Raiko Arozarena,CUB,GK,27-219,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,0.0,3.0,100.0
+Sac Republic,https://fbref.com/en/players/9f528b27/Kieran-Phillips,9f528b27,57e17a9f,Kieran Phillips,ENG,FW,24-257,70,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/1501d576/Damia-Viader,1501d576,57e17a9f,Damia Viader,ESP,"DF,MF",26-256,50,0,0,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/5408da1d/Trevor-Amann,5408da1d,57e17a9f,Trevor Amann,USA,FW,26-182,120,0,0,0,0,4,0,0,0,4,2,4,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/e99f57a7/Russell-Cicerone,e99f57a7,57e17a9f,Russell Cicerone,USA,FW,29-350,120,0,0,0,0,2,0,0,0,3,0,1,2,0,2,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/7f7b9ede/Aldair-Sanchez,7f7b9ede,57e17a9f,Aldair Sanchez,USA,LM,22-305,120,0,0,0,0,2,0,0,0,1,1,0,0,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/a07caf31/Luis-Felipe,a07caf31,57e17a9f,Luis Felipe,BRA,CM,28-277,120,0,0,0,0,0,0,0,0,3,0,0,2,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/1fdf3f69/Nick-Ross,1fdf3f69,57e17a9f,Nick Ross,SCO,CM,32-356,120,0,0,0,0,2,0,1,0,2,3,0,2,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/b7aa9657/Justin-Portillo,b7aa9657,57e17a9f,Justin Portillo,USA,RM,32-053,120,0,0,0,0,0,0,0,0,2,1,0,5,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/84703bc6/Lee-Desmond,84703bc6,57e17a9f,Lee Desmond,IRL,CB,29-284,120,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/fae2f7be/Chibuike-Ukaegbu,fae2f7be,57e17a9f,Chibuike Ukaegbu,USA,CB,17-244,120,0,0,0,0,2,1,0,0,1,2,0,1,0,5,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/91769d2f/Jared-Timmer,91769d2f,57e17a9f,Jared Timmer,USA,CB,27-186,119,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/9351a05c/Shane-Wiedt,9351a05c,57e17a9f,Shane Wiedt,USA,DF,29-105,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/f0abea8c/Daniel-Vitiello,f0abea8c,57e17a9f,Daniel Vitiello,USA,GK,28-240,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,7.0,0.0,6.0,100.0

@@ -1,0 +1,33 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Memphis 901,https://fbref.com/en/players/06590038/Marlon,06590038,43509b8c,Marlon,BRA,FW,29-044,90,1,0,1,1,5,2,1,0,1,3,3,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/4c46fd1e/Dylan-Borczak,4c46fd1e,43509b8c,Dylan Borczak,USA,AM,24-365,63,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/2203da5f/Nighte-Pickering,2203da5f,43509b8c,Nighte Pickering,USA,FW,19-138,26,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/1cc1f1cf/Abdel-Yacoubou,1cc1f1cf,43509b8c,Abdel Yacoubou,TOG,DF,27-064,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/0d74a643/Bruno-Lapa,0d74a643,43509b8c,Bruno Lapa,BRA,AM,27-033,81,0,0,0,0,2,0,1,0,1,1,1,4,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/ee340142/Noe-Meza,ee340142,43509b8c,Noe Meza,USA,"FW,MF",26-120,9,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/ce23c94d/Luiz-Fernando,ce23c94d,43509b8c,Luiz Fernando,BRA,AM,26-355,81,0,0,0,0,1,1,0,0,1,3,1,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/df5ee3d0/Oscar-Jimenez,df5ee3d0,43509b8c,Oscar Jimenez,USA,"DF,MF",34-222,9,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/3be1a627/Emerson-Hyndman,3be1a627,43509b8c,Emerson Hyndman,USA,DM,28-064,82,0,0,0,0,4,2,0,0,0,0,0,3,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/3fad8026/Leston-Paul,3fad8026,43509b8c,Leston Paul,TRI,MF,34-093,8,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/5e2b88fa/Zach-Duncan,5e2b88fa,43509b8c,Zach Duncan,AUS,DM,24-012,63,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/1b34c951/Samuel-Careaga,1b34c951,43509b8c,Samuel Careaga,ARG,MF,22-003,27,1,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/0e854aae/Akeem-Ward,0e854aae,43509b8c,Akeem Ward,USA,LB,28-158,90,0,0,0,0,2,0,1,0,1,2,0,2,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/feaf1d75/Lucas-Turci,feaf1d75,43509b8c,Lucas Turci,BRA,CB,27-294,90,0,0,0,0,2,0,0,0,1,2,1,2,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/52a6ef30/Abdoulaye-Cissoko,52a6ef30,43509b8c,Abdoulaye Cissoko,FRA,CB,24-168,90,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/f6194cf5/Carson-Vom-Steeg,f6194cf5,43509b8c,Carson Vom Steeg,USA,RB,25-132,90,0,0,0,0,3,0,0,0,0,2,0,1,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/8a37dd84/Tyler-Deric,8a37dd84,43509b8c,Tyler Deric,USA,GK,35-287,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,5.0,2.0,3.0,60.0
+Rhode Island FC,https://fbref.com/en/players/0a4682a8/Mark-Doyle,0a4682a8,43509b8c,Mark Doyle,IRL,FW,25-206,63,0,0,0,0,1,1,1,0,1,1,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/5be1df64/Noah-Fuson,5be1df64,43509b8c,Noah Fuson,USA,"FW,MF",24-164,25,0,0,0,0,2,1,0,0,1,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/01bd1ebf/Jackson-Lee,01bd1ebf,43509b8c,Jackson Lee,AUS,GK,22-276,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,1.0,2.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/d04dba18/JJ-Williams,d04dba18,43509b8c,JJ Williams,USA,FW,26-160,90,0,0,0,0,0,0,0,0,4,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/2ee31588/Clay-Holstad,2ee31588,43509b8c,Clay Holstad,USA,CM,24-143,90,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/02019ede/Marc-Ybarra,02019ede,43509b8c,Marc Ybarra,USA,CM,25-177,90,0,0,0,0,0,0,0,0,1,1,0,1,0,5,0,0,0,CM,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/46c0b8fd/Conor-McGlynn,46c0b8fd,43509b8c,Conor McGlynn,USA,CM,25-205,62,1,0,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/8ae297c7/Joseph-Brito,8ae297c7,43509b8c,Joseph Brito,USA,MF,25-116,28,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/4f9c3df6/Gabriel-Alves,4f9c3df6,43509b8c,Gabriel Alves,,LB,0,90,0,0,0,0,1,0,1,0,2,0,0,2,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/d085c340/Frank-Nodarse,d085c340,43509b8c,Frank Nodarse,CUB,CB,23-189,90,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/01880958/Karifa-Yao,01880958,43509b8c,Karifa Yao,CAN,CB,23-258,90,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/d69415a4/Kofi-Twumasi,d69415a4,43509b8c,Kofi Twumasi,USA,CB,27-287,90,0,0,0,0,0,0,0,0,0,2,0,1,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/5ef1aaae/Stephen-Turnbull,5ef1aaae,43509b8c,Stephen Turnbull,USA,RB,26-091,84,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/91b27c4b/Collin-Smith,91b27c4b,43509b8c,Collin Smith,USA,DF,20-191,6,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/bfb15d99/Koke-Vegas,bfb15d99,43509b8c,Koke Vegas,ESP,GK,28-259,86,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,GK,4.0,0.0,4.0,100.0

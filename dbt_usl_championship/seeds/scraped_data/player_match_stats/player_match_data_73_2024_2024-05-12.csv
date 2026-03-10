@@ -1,0 +1,32 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Miami FC,https://fbref.com/en/players/a604b2a4/Frank-Lopez,a604b2a4,1c84d297,Frank Lopez,CUB,FW,29-077,90,0,0,0,0,3,1,1,0,3,3,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/a64efc37/Manuel-Botta,a64efc37,1c84d297,Manuel Botta,ITA,FW,21-301,79,0,0,0,0,1,0,0,0,2,1,0,0,0,2,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/b93af379/Lucas-DePaula,b93af379,1c84d297,Lucas DePaula,USA,MF,18-050,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/3a84b4f3/Rocco-Genzano,3a84b4f3,1c84d297,Rocco Genzano,ITA,FW,19-363,45,0,0,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/b8a66d06/Roberto-Molina,b8a66d06,1c84d297,Roberto Molina,SLV,"FW,MF",23-105,45,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/35b8a023/Alejandro-Mitrano,35b8a023,1c84d297,Alejandro Mitrano,VEN,LM,26-038,90,0,0,0,0,0,0,1,0,3,1,0,0,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/49cc5379/Jordan-Ayimbila,49cc5379,1c84d297,Jordan Ayimbila,GHA,CM,23-088,90,0,0,0,0,0,0,0,0,2,2,1,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/2509d2df/Andrew-Booth,2509d2df,1c84d297,Andrew Booth,JAM,CM,26-301,68,0,0,0,0,1,0,0,0,3,1,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/6b3f62b6/Mattia-Gagliardi,6b3f62b6,1c84d297,Mattia Gagliardi,ITA,FW,19-271,22,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/ed550cbe/Gabriel-de-Freitas,ed550cbe,1c84d297,Gabriel de Freitas,BRA,RM,27-013,90,0,0,0,0,0,0,0,0,0,3,0,2,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/2bfb7026/Danny-Barbir,2bfb7026,1c84d297,Danny Barbir,USA,CB,26-102,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/a5b2ca1d/Luis-Pedro,a5b2ca1d,1c84d297,Luis Pedro,BRA,FW,21-145,43,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/cbd371eb/Daltyn-Knutson,cbd371eb,1c84d297,Daltyn Knutson,USA,CB,27-072,90,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/eef6d077/Nicolas-Cardona,eef6d077,1c84d297,Nicolas Cardona,PUR,CB,25-091,90,0,0,0,0,1,0,1,0,0,3,0,1,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/857122ca/Daniel-Gagliardi,857122ca,1c84d297,Daniel Gagliardi,USA,GK,27-112,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,3.0,3.0,60.0
+Indy Eleven,https://fbref.com/en/players/8bb1c744/Augustine-Williams,8bb1c744,1c84d297,Augustine Williams,SLE,FW,26-283,90,2,0,1,1,9,3,1,0,2,1,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/3e7ebb9a/Douglas-Martinez,3e7ebb9a,1c84d297,Douglas Martinez,HON,FW,26-342,90,0,0,0,0,3,0,0,0,2,3,0,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/fd531ced/Sebastian-Guenzatti,fd531ced,1c84d297,Sebastian Guenzatti,URU,AM,32-309,56,0,0,0,0,1,0,0,0,2,1,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/5804f03b/Elliot-Collier,5804f03b,1c84d297,Elliot Collier,NZL,"FW,MF",29-080,34,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/61cd3bcf/Aedan-Stanley,61cd3bcf,1c84d297,Aedan Stanley,USA,DM,24-151,90,0,2,0,0,1,0,0,0,2,1,0,17,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/96dc7dea/Laurence-Wootton,96dc7dea,1c84d297,Laurence Wootton,ENG,DM,24-123,75,0,0,0,0,0,0,0,0,1,1,0,2,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/68cd160e/Jack-Blake,68cd160e,1c84d297,Jack Blake,SCO,MF,29-233,15,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/3c850ce0/Tyler-Gibson,3c850ce0,1c84d297,Tyler Gibson,USA,DM,33-121,56,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/f03a0471/Cameron-Lindley,f03a0471,1c84d297,Cameron Lindley,USA,MF,26-299,34,0,0,0,0,0,0,1,0,1,1,0,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/a3c6fd0e/Ben-Mines,a3c6fd0e,1c84d297,Ben Mines,USA,DM,23-365,45,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/1cdd642f/Younes-Boudadi,1cdd642f,1c84d297,Younes Boudadi,MAR,DF,28-110,45,0,0,0,0,0,0,0,0,2,1,0,2,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/f4462455/Adrian-Diz-Pe,f4462455,1c84d297,Adrian Diz Pe,CUB,CB,30-069,90,1,0,0,0,1,1,0,0,1,3,0,1,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/ec9eec79/Callum-Chapman-Page,ec9eec79,1c84d297,Callum Chapman Page,ENG,CB,28-188,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/eb0c08ef/Josh-OBrien,eb0c08ef,1c84d297,Josh OBrien,ENG,DF,21-094,76,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/e2d3bec6/Benjamin-Ofeimu,e2d3bec6,1c84d297,Benjamin Ofeimu,USA,CB,23-225,90,0,0,0,0,0,0,0,0,3,1,0,1,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/e0571635/Yannik-Oettl,e0571635,1c84d297,Yannik Oettl,GER,GK,27-175,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,2.0,1.0,1.0,50.0

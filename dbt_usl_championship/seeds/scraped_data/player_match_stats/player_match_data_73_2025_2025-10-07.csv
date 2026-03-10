@@ -1,0 +1,29 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Roots,https://fbref.com/en/players/1312c534/Danny-Trejo,1312c534,33d61e0c,Danny Trejo,USA,FW,27-161,90,0,0,0,0,2,1,1,0,4,2,0,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/b0f6bf47/Peter-Wilson,b0f6bf47,33d61e0c,Peter Wilson,LBR,FW,28-363,90,1,0,0,0,4,1,0,0,1,3,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/34747acf/Faysal-Bettache,34747acf,33d61e0c,Faysal Bettache,ENG,FW,25-092,76,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/c1d5599c/Wolfgang-Prentice,c1d5599c,33d61e0c,Wolfgang Prentice,USA,MF,25-165,14,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/0339d946/Ali-Elmasnaouy,0339d946,33d61e0c,Ali Elmasnaouy,USA,CM,20-155,76,0,0,0,0,2,2,0,0,1,1,0,2,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/ccf469ae/Morey-Doner,ccf469ae,33d61e0c,Morey Doner,CAN,"DF,MF",31-196,14,0,0,0,0,0,0,0,0,1,1,0,4,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/14beb1a2/Daniel-Gomez,14beb1a2,33d61e0c,Daniel Gomez,USA,CM,25-153,90,0,0,0,0,2,0,0,0,1,0,0,4,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/3c850ce0/Tyler-Gibson,3c850ce0,33d61e0c,Tyler Gibson,USA,DM,34-268,90,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/02a9fccf/Panos-Armenakas,02a9fccf,33d61e0c,Panos Armenakas,AUS,LB,27-063,90,0,0,0,0,1,0,1,0,1,1,0,16,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/fb5dbdc0/Neveal-Hackshaw,fb5dbdc0,33d61e0c,Neveal Hackshaw,TRI,CB,30-016,90,0,0,0,0,2,1,1,0,0,2,0,1,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/3eb9cda3/Gagi-Margvelashvili,3eb9cda3,33d61e0c,Gagi Margvelashvili,GEO,CB,28-342,90,0,0,0,0,0,0,1,0,3,0,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/ec5ce41a/Camden-Riley,ec5ce41a,33d61e0c,Camden Riley,USA,RB,29-048,90,0,1,0,0,2,1,1,0,3,1,0,6,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/050b9803/Raphael-Spiegel,050b9803,33d61e0c,Raphael Spiegel,SUI,GK,32-292,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,3.0,2.0,40.0
+Hartford Athletic,https://fbref.com/en/players/b02d3196/Adewale-Obalola,b02d3196,33d61e0c,Adewale Obalola,NGA,FW,20-306,45,0,0,0,0,0,0,0,0,1,0,2,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/9e8e2b3e/Kyle-Edwards,9e8e2b3e,33d61e0c,Kyle Edwards,VIN,FW,29-265,45,1,0,0,0,2,1,1,0,1,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/437fe16f/Jonathan-Jimenez,437fe16f,33d61e0c,Jonathan Jimenez,USA,FW,24-165,45,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/9837830f/Michee-Ngalina,9837830f,33d61e0c,Michee Ngalina,COD,"FW,MF",25-184,45,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/e32a89fc/Hadji-Barry,e32a89fc,33d61e0c,Hadji Barry,GUI,FW,32-303,62,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/1b34c951/Samuel-Careaga,1b34c951,33d61e0c,Samuel Careaga,ARG,MF,23-120,28,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/90bcfcca/Baboucarr-Njie,90bcfcca,33d61e0c,Baboucarr Njie,GAM,LM,30-124,90,0,0,0,0,1,1,0,0,2,2,0,4,0,2,0,0,0,LM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/35429371/Beverly-Makangila,35429371,33d61e0c,Beverly Makangila,COD,CM,25-179,90,1,0,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/121ca823/Jack-Panayotou,121ca823,33d61e0c,Jack Panayotou,USA,CM,21-124,72,0,2,0,0,1,0,0,0,2,1,0,2,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/1d531c57/Marlon-Hairston,1d531c57,33d61e0c,Marlon Hairston,USA,"DF,MF",31-198,18,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/498a8edf/TJ-Presthus,498a8edf,33d61e0c,TJ Presthus,,RM,0,90,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/18252ce2/Joshua-Belluz,18252ce2,33d61e0c,Joshua Belluz,,CB,0,90,1,0,0,0,1,1,1,0,2,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/8f87602d/Joe-Farrell,8f87602d,33d61e0c,Joe Farrell,USA,CB,31-236,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/f4462455/Adrian-Diz-Pe,f4462455,33d61e0c,Adrian Diz Pe,CUB,CB,31-217,90,0,0,0,0,1,0,1,0,2,3,0,0,0,4,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/0ee09425/John-Berner,0ee09425,33d61e0c,John Berner,USA,GK,34-235,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,6.0,1.0,5.0,83.3

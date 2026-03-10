@@ -1,0 +1,30 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+North Carolina,https://fbref.com/en/players/a876e927/Thomas-Roberts,a876e927,842f63c3,Thomas Roberts,USA,FW,24-152,45,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/eebfffe4/Oalex-Anderson,eebfffe4,842f63c3,Oalex Anderson,VIN,FW,29-333,45,0,0,0,0,1,0,0,0,2,2,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/5d90b1db/Rodrigo-Da-Costa,5d90b1db,842f63c3,Rodrigo Da Costa,BRA,FW,31-294,90,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/03c0dcc3/Louis-Perez,03c0dcc3,842f63c3,Louis Perez,FRA,CM,28-121,90,0,0,0,0,1,0,0,0,2,4,0,3,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/246f7571/Raheem-Somersall,246f7571,842f63c3,Raheem Somersall,SKN,CM,28-097,84,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/210c41a1/Jayson-Quintanilla,210c41a1,842f63c3,Jayson Quintanilla,USA,MF,18-088,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/3757f468/Pedro-Dolabella,3757f468,842f63c3,Pedro Dolabella,USA,CM,26-073,90,0,0,0,0,1,0,0,0,2,4,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/4036c29f/Mikey-Maldonado,4036c29f,842f63c3,Mikey Maldonado,USA,LB,27-100,90,0,0,0,0,0,0,0,0,1,1,0,7,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/f440649e/Paco-Craig,f440649e,842f63c3,Paco Craig,ENG,CB,32-356,63,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/8746d5d0/Patrick-Burner,8746d5d0,842f63c3,Patrick Burner,MTQ,"DF,MF",29-182,27,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/6806c66b/Conor-Donovan,6806c66b,842f63c3,Conor Donovan,USA,CB,29-275,90,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/3b9e2775/Finn-Sundstrom,3b9e2775,842f63c3,Finn Sundstrom,USA,CB,18-325,90,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/52f215a7/Ahmad-Al-Qaq,52f215a7,842f63c3,Ahmad Al Qaq,PLE,RB,23-232,89,0,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/d9330b12/Tristan-Hodge,d9330b12,842f63c3,Tristan Hodge,TRI,DF,31-001,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/2ead66a4/Oliver-Semmle,2ead66a4,842f63c3,Oliver Semmle,GER,GK,27-196,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,2.0,1.0,33.3
+Phx Rising,https://fbref.com/en/players/ee85b326/Hope-Avayevu,ee85b326,842f63c3,Hope Avayevu,GHA,FW,22-356,84,0,0,0,0,2,0,0,0,3,3,3,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/16d887db/Xian-Emmers,16d887db,842f63c3,Xian Emmers,BEL,MF,26-082,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/9f7f84be/Darius-Johnson,9f7f84be,842f63c3,Darius Johnson,GRN,FW,25-209,69,0,1,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/68a87d66/Ihsan-Sacko,68a87d66,842f63c3,Ihsan Sacko,FRA,"FW,MF",28-083,21,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/0bee33d7/Charlie-Dennis,0bee33d7,842f63c3,Charlie Dennis,ENG,FW,30-012,90,1,0,0,0,1,1,0,0,1,6,0,4,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/f8ce6b56/Daniel-Flores,f8ce6b56,842f63c3,Daniel Flores,USA,LM,22-152,84,0,0,0,0,1,0,1,0,3,0,0,2,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/6bc16162/Noble-Okello,6bc16162,842f63c3,Noble Okello,CAN,MF,25-082,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/c0550265/John-Scearce,c0550265,842f63c3,John Scearce,USA,CM,27-295,90,0,0,0,0,1,0,0,0,3,1,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/c2702a1d/Jean-Eric-Moursou,c2702a1d,842f63c3,Jean Eric Moursou,CMR,CM,20-283,90,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/91b27c4b/Collin-Smith,91b27c4b,842f63c3,Collin Smith,USA,RM,21-310,90,1,0,0,0,3,2,0,0,2,1,0,3,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/980dba3d/Ascel-Essengue,980dba3d,842f63c3,Ascel Essengue,CMR,CB,22-163,90,0,0,0,0,1,0,0,0,1,1,0,1,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/b0a0698b/Rafael-Czichos,b0a0698b,842f63c3,Rafael Czichos,GER,CB,35-149,90,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/1a6bab10/Pape-Boye,1a6bab10,842f63c3,Pape Boye,SEN,CB,21-284,90,0,0,0,0,1,0,0,0,1,0,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/cf9bf817/Patrick-Rakovsky,cf9bf817,842f63c3,Patrick Rakovsky,GER,GK,32-130,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,1.0,0.0,1.0,100.0

@@ -1,0 +1,62 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Galaxy II,https://fbref.com/en/players/d69cdaad/Carson-Klein,d69cdaad,eea85ba3,Carson Klein,USA,FW,18-211,45,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/8bb1c744/Augustine-Williams,8bb1c744,eea85ba3,Augustine Williams,SLE,FW,23-027,45,1,1,0,0,2,1,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/35807a85/Ivan-Gutierrez,35807a85,eea85ba3,Ivan Gutierrez,MEX,AM,22-196,90,1,0,0,0,3,1,0,0,0,1,1,5,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/41e57408/Jonathan-Perez,41e57408,eea85ba3,Jonathan Perez,MEX,AM,17-225,71,0,0,0,0,1,0,0,0,2,2,0,4,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/fafae922/Adrian-Gonzalez,fafae922,eea85ba3,Adrian Gonzalez,USA,MF,17-069,19,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/c43e439a/Adrian-Vera,c43e439a,eea85ba3,Adrian Vera,USA,AM,23-230,69,0,1,0,0,0,0,0,0,1,1,0,4,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/15cd2329/Sebastian-Nava,15cd2329,eea85ba3,Sebastian Nava,USA,MF,17-173,21,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/14c93be3/Alejandro-Alvarado-Jr,14c93be3,eea85ba3,Alejandro Alvarado Jr,USA,DM,17-032,56,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/7bf39a2f/Jorge-Hernandez,7bf39a2f,eea85ba3,Jorge Hernandez,USA,MF,19-296,34,1,0,0,0,1,1,0,0,0,2,0,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/ca135560/Adam-Saldana,ca135560,eea85ba3,Adam Saldana,USA,DM,18-205,90,0,0,0,0,1,0,0,0,1,2,0,0,0,3,0,0,0,DM,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/cf4f1eb9/Mauricio-Cuevas,cf4f1eb9,eea85ba3,Mauricio Cuevas,USA,LB,17-202,90,1,0,0,0,2,1,0,0,0,0,0,2,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/b842703c/Jesus-Vazquez,b842703c,eea85ba3,Jesus Vazquez,MEX,CB,25-161,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/1f5f8a5a/Marcus-Ferkranus,1f5f8a5a,eea85ba3,Marcus Ferkranus,USA,CB,17-112,90,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/ef445c92/Omar-Ontiveros,ef445c92,eea85ba3,Omar Ontiveros,USA,RB,25-107,90,0,1,0,0,0,0,0,0,3,1,0,2,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/add014ad/Abraham-Romero,add014ad,eea85ba3,Abraham Romero,MEX,GK,22-194,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,GK,6.0,3.0,3.0,50.0
+LV Lights FC,https://fbref.com/en/players/4dc3ce03/Rashawn-Dally,4dc3ce03,eea85ba3,Rashawn Dally,JAM,FW,23-229,62,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/271cc287/Blake-Frischknecht,271cc287,eea85ba3,Blake Frischknecht,USA,FW,25-112,28,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/072fb15b/Bryan-de-la-Fuente,072fb15b,eea85ba3,Bryan de la Fuente,USA,AM,28-060,90,0,1,0,0,2,1,0,0,1,1,0,5,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/b77bd9bc/Junior-Sandoval,b77bd9bc,eea85ba3,Junior Sandoval,HON,AM,29-322,75,0,0,0,0,2,0,0,0,1,0,1,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/289440d0/Junior-Burgos,289440d0,eea85ba3,Junior Burgos,SLV,MF,32-016,15,0,1,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/db57bcd1/Yamikani-Chester,db57bcd1,eea85ba3,Yamikani Chester,MWI,AM,25-254,62,1,0,0,0,3,1,0,0,2,0,1,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/14e299d6/Raul-Mendiola,14e299d6,eea85ba3,Raul Mendiola,USA,"FW,MF",26-104,28,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/f020a222/Seth-Moses,f020a222,eea85ba3,Seth Moses,USA,DM,27-028,90,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/d678807a/Grant-Robinson,d678807a,eea85ba3,Grant Robinson,USA,DM,22-015,62,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/e7cfaa57/Jose-Carrera,e7cfaa57,eea85ba3,Jose Carrera,MEX,MF,25-041,28,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/8ce1bbdb/Jordan-Murrell,8ce1bbdb,eea85ba3,Jordan Murrell,CAN,LB,27-120,79,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/c1ad55b0/Jaiden-Waggoner,c1ad55b0,eea85ba3,Jaiden Waggoner,USA,DF,23-209,11,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/b3a1306b/Johnny-Fenwick,b3a1306b,eea85ba3,Johnny Fenwick,ENG,CB,25-284,90,1,0,0,0,1,1,0,0,2,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/294ce358/Javan-Torre,294ce358,eea85ba3,Javan Torre,USA,CB,26-315,90,0,0,0,0,0,0,1,0,1,3,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/782277b2/Mobi-Fehr,782277b2,eea85ba3,Mobi Fehr,USA,RB,25-261,90,0,0,0,0,1,0,0,0,0,1,1,5,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/463e38a5/Edward-Delgado,463e38a5,eea85ba3,Edward Delgado,USA,GK,22-220,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,5.0,4.0,1.0,20.0
+OKC Energy,https://fbref.com/en/players/17f20851/Arun-Basuljevic,17f20851,fa8b882a,Arun Basuljevic,USA,FW,24-257,90,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+OKC Energy,https://fbref.com/en/players/99d600cb/Jaime-Chavez,99d600cb,fa8b882a,Jaime Chavez,USA,FW,33-044,87,1,0,0,0,2,1,1,0,1,2,3,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+OKC Energy,https://fbref.com/en/players/d60ba400/Kyle-Hyland,d60ba400,fa8b882a,Kyle Hyland,USA,DF,29-182,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+OKC Energy,https://fbref.com/en/players/4ec934f3/Jonathan-Brown,4ec934f3,fa8b882a,Jonathan Brown,WAL,LM,30-135,78,0,0,0,0,2,1,0,0,2,0,1,2,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+OKC Energy,https://fbref.com/en/players/76176f22/Owayne-Gordon,76176f22,fa8b882a,Owayne Gordon,JAM,"DF,FW",28-327,12,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+OKC Energy,https://fbref.com/en/players/b70e621c/Rafael-Garcia,b70e621c,fa8b882a,Rafael Garcia,USA,CM,31-255,49,0,0,0,0,0,0,2,1,1,2,0,1,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+OKC Energy,https://fbref.com/en/players/0c3e8aee/Jose-Hernandez,0c3e8aee,fa8b882a,Jose Hernandez,USA,CM,24-140,90,0,0,0,0,1,0,0,0,2,2,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+OKC Energy,https://fbref.com/en/players/8ba75365/Cordell-Cato,8ba75365,fa8b882a,Cordell Cato,TRI,RM,28-046,54,0,0,0,0,1,0,0,0,1,1,0,2,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+OKC Energy,https://fbref.com/en/players/ff760b59/Charlie-Ward,ff760b59,fa8b882a,Charlie Ward,ENG,MF,25-193,36,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+OKC Energy,https://fbref.com/en/players/76752a1a/Joe-Amico,76752a1a,fa8b882a,Joe Amico,USA,LB,25-135,90,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+OKC Energy,https://fbref.com/en/players/0c411686/Nicolas-Taravel,0c411686,fa8b882a,Nicolas Taravel,FRA,CB,25-322,90,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+OKC Energy,https://fbref.com/en/players/e41fdd03/Atiba-Harris,e41fdd03,fa8b882a,Atiba Harris,SKN,CB,35-234,90,0,0,0,0,1,1,1,0,0,1,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+OKC Energy,https://fbref.com/en/players/cc2745c4/Zachary-Ellis-Hayden,cc2745c4,fa8b882a,Zachary Ellis Hayden,BRB,RB,28-182,90,0,1,0,0,0,0,0,0,1,1,0,2,0,3,0,0,0,RB,0.0,0.0,0.0,0.0
+OKC Energy,https://fbref.com/en/players/7f2eedde/C-J-Cochran,7f2eedde,fa8b882a,C J Cochran,USA,GK,28-348,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,1.0,3.0,75.0
+Bold,https://fbref.com/en/players/979cc205/Kleber,979cc205,fa8b882a,Kleber,BRA,FW,37-018,53,0,0,0,0,2,0,1,0,1,3,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/0b90fa20/Alassane-Diouf,0b90fa20,fa8b882a,Alassane Diouf,SEN,"FW,MF",20-159,37,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/7c6b9d99/Billy-Forbes,7c6b9d99,fa8b882a,Billy Forbes,TCA,FW,29-261,90,1,0,0,0,3,1,0,0,2,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/9ca4b140/Ema-Twumasi,9ca4b140,fa8b882a,Ema Twumasi,GHA,LM,23-104,90,0,0,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/eee59c91/Amobi-Okugo,eee59c91,fa8b882a,Amobi Okugo,USA,CM,29-170,90,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/3214c8d3/Omar-Ciss,3214c8d3,fa8b882a,Omar Ciss,SEN,CM,19-026,88,0,0,0,0,2,2,0,0,2,2,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/97c373a7/Valeri-Saramutin,97c373a7,fa8b882a,Valeri Saramutin,RUS,MF,25-105,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/1a0ce03e/Xavier-Baez,1a0ce03e,fa8b882a,Xavier Baez,MEX,RM,33-039,83,0,0,0,0,1,0,0,0,1,0,0,5,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/f1cb260f/Cristian-Ortiz,f1cb260f,fa8b882a,Cristian Ortiz,MEX,MF,21-119,7,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/26f559ba/Ismaila-Jome,26f559ba,fa8b882a,Ismaila Jome,GAM,LB,25-300,88,0,0,0,0,1,0,0,0,0,1,0,5,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/513f83c8/Josue-Soto,513f83c8,fa8b882a,Josue Soto,USA,DF,24-252,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/3074b7b0/Jermaine-Taylor,3074b7b0,fa8b882a,Jermaine Taylor,JAM,CB,35-229,90,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/96f18e66/Fabien-Garcia,96f18e66,fa8b882a,Fabien Garcia,FRA,CB,26-047,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/2f50e3ad/Jorge-Troncoso,2f50e3ad,fa8b882a,Jorge Troncoso,CHI,RB,27-230,45,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/d83fa006/Sean-McFarlane,d83fa006,fa8b882a,Sean McFarlane,JAM,DF,27-148,45,0,0,0,0,1,0,0,0,1,0,1,5,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/e9b44abf/Diego-Restrepo,e9b44abf,fa8b882a,Diego Restrepo,USA,GK,32-187,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,2.0,1.0,1.0,50.0

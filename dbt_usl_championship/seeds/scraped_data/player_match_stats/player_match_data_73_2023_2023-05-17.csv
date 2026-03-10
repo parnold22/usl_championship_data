@@ -1,0 +1,65 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Loudoun United,https://fbref.com/en/players/2484e983/Tommy-Williamson,2484e983,22fdb6cf,Tommy Williamson,USA,FW,24-012,90,1,0,1,1,9,3,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/74ba46bc/Zach-Ryan,74ba46bc,22fdb6cf,Zach Ryan,USA,FW,24-123,81,0,0,0,0,2,1,0,0,4,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/58bfa23c/Brian-Chavez,58bfa23c,22fdb6cf,Brian Chavez,USA,,18-000,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/1f6ec0c5/Jeremy-Garay,1f6ec0c5,22fdb6cf,Jeremy Garay,SLV,AM,20-046,90,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/272c1aaf/Kalil-ElMedkhar,272c1aaf,22fdb6cf,Kalil ElMedkhar,USA,DM,23-272,64,0,0,0,0,1,0,0,0,3,1,0,0,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/e5b49f0e/Abdoul-Zanne,e5b49f0e,22fdb6cf,Abdoul Zanne,CIV,MF,20-088,26,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/70a494c9/Aidan-Rocha,70a494c9,22fdb6cf,Aidan Rocha,USA,DM,22-143,90,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/02a9fccf/Panos-Armenakas,02a9fccf,22fdb6cf,Panos Armenakas,AUS,DM,24-285,64,0,0,0,0,1,0,1,0,4,0,0,2,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/2acbf26d/Wesley-Leggett,2acbf26d,22fdb6cf,Wesley Leggett,USA,FW,22-062,26,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/c09ddc5e/Koa-Santos,c09ddc5e,22fdb6cf,Koa Santos,USA,DM,23-238,72,0,0,0,0,0,0,0,0,0,2,1,5,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/fb2e1102/Latif-Koanda,fb2e1102,22fdb6cf,Latif Koanda,CIV,MF,18-328,18,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/42a76a47/Daniel-Chica,42a76a47,22fdb6cf,Daniel Chica,PAN,CB,21-088,90,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/20bc347c/Bryce-Washington,20bc347c,22fdb6cf,Bryce Washington,USA,CB,24-247,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/c3e24517/Hayden-Sargis,c3e24517,22fdb6cf,Hayden Sargis,USA,CB,21-015,45,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/efd7b827/Houssou-Landry,efd7b827,22fdb6cf,Houssou Landry,CIV,MF,22-140,45,0,0,0,0,0,0,0,0,1,2,2,3,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/97d74cea/Hugo-Fauroux,97d74cea,22fdb6cf,Hugo Fauroux,FRA,GK,26-267,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,3.0,2.0,40.0
+New Mexico Utd,https://fbref.com/en/players/7b2707d6/Alex-Waggoner,7b2707d6,22fdb6cf,Alex Waggoner,,FW,0,70,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/efd5e58f/Josh-Dolling,efd5e58f,22fdb6cf,Josh Dolling,ENG,FW,25-139,20,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/9dea5bda/Chris-Wehan,9dea5bda,22fdb6cf,Chris Wehan,USA,FW,29-108,55,1,1,0,0,2,1,0,0,1,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/3d9e8e17/Greg-Hurst,3d9e8e17,22fdb6cf,Greg Hurst,SCO,FW,26-039,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/8d671482/Santi-Moar,8d671482,22fdb6cf,Santi Moar,ESP,LM,29-254,70,0,1,0,0,1,1,1,0,1,1,1,1,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/325ac1f8/Andres-Robles-Garcia,325ac1f8,22fdb6cf,Andres Robles Garcia,USA,DF,19-241,20,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/b7aa9657/Justin-Portillo,b7aa9657,22fdb6cf,Justin Portillo,USA,CM,30-250,79,0,0,0,0,2,0,0,0,0,0,1,5,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/484409e8/Kyle-Colonna,484409e8,22fdb6cf,Kyle Colonna,USA,DF,23-288,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/3bd84c13/Sergio-Rivas,3bd84c13,22fdb6cf,Sergio Rivas,MEX,CM,25-226,90,1,0,0,0,2,1,0,0,0,0,1,0,0,3,0,0,0,CM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/9dc9b03f/Amando-Moreno,9dc9b03f,22fdb6cf,Amando Moreno,SLV,RM,27-249,90,1,0,0,0,2,2,0,0,3,1,1,2,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/b7d8da4a/Austin-Yearwood,b7d8da4a,22fdb6cf,Austin Yearwood,USA,LB,28-278,45,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,0,0,LB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/311a4c0b/Josh-Suggs,311a4c0b,22fdb6cf,Josh Suggs,USA,"DF,MF",34-021,45,0,0,0,0,0,0,0,0,2,0,0,1,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/077e97b3/Kalen-Ryden,077e97b3,22fdb6cf,Kalen Ryden,USA,CB,32-108,84,0,0,0,0,1,0,2,1,2,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/212fb935/Will-Seymore,212fb935,22fdb6cf,Will Seymore,USA,CB,31-077,90,0,0,0,0,1,0,0,0,1,4,0,0,0,4,0,0,0,CB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/d1b6fe5b/Harry-Swartz,d1b6fe5b,22fdb6cf,Harry Swartz,USA,RB,27-059,90,0,0,0,0,0,0,0,0,0,5,0,1,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/0245fbbf/Alexandros-Tabakis,0245fbbf,22fdb6cf,Alexandros Tabakis,GRE,GK,30-160,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,1.0,3.0,100.0
+Orange County,https://fbref.com/en/players/ed6bb087/Marc-McNulty,ed6bb087,ab510065,Marc McNulty,SCO,FW,30-245,45,0,1,0,0,1,0,0,0,1,3,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/43002197/Bryce-Jamison,43002197,ab510065,Bryce Jamison,USA,MF,17-131,45,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/4f87c75f/Milan-Iloski,4f87c75f,ab510065,Milan Iloski,USA,LW,23-292,90,1,0,0,0,6,2,0,0,4,1,0,3,0,1,0,0,0,LW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/1c24aacf/Kyle-Scott,1c24aacf,ab510065,Kyle Scott,ENG,AM,25-146,65,0,0,0,0,1,1,0,0,1,3,0,0,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/d53bfe8c/Brian-Iloski,d53bfe8c,ab510065,Brian Iloski,USA,MF,27-255,25,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/e28a8364/Seth-Casiple,e28a8364,ab510065,Seth Casiple,USA,AM,29-267,90,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/25a732fa/Emil-Nielsen,25a732fa,ab510065,Emil Nielsen,DEN,RW,29-190,65,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,RW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/f3dd2e06/Daniel-A-Pedersen,f3dd2e06,ab510065,Daniel A Pedersen,DEN,"DF,MF",30-294,25,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/624113b0/Ashish-Chattha,624113b0,ab510065,Ashish Chattha,USA,DM,23-131,70,0,0,0,0,0,0,0,0,1,2,0,2,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/7a6cf67c/Ashton-Miles,7a6cf67c,ab510065,Ashton Miles,USA,DF,18-208,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/1ec1c986/Ryan-Doghman,1ec1c986,ab510065,Ryan Doghman,NOR,LB,25-337,90,0,0,0,0,1,0,0,0,3,0,0,0,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/35f79831/Dillon-Powers,35f79831,ab510065,Dillon Powers,USA,CB,32-092,90,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/0e12671e/Markus-Nakkim,0e12671e,ab510065,Markus Nakkim,NOR,CB,26-300,90,0,0,0,0,2,0,1,0,4,1,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/d2dc4350/Owen-Lambe,d2dc4350,ab510065,Owen Lambe,USA,RB,22-275,45,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/58503f28/Brent-Richards,58503f28,ab510065,Brent Richards,USA,"DF,FW",32-362,45,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/32be86d0/Colin-Shutler,32be86d0,ab510065,Colin Shutler,USA,GK,24-288,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,3.0,0.0,3.0,100.0
+Sac Republic,https://fbref.com/en/players/e443cde3/Juan-Sebastian-Herrera,e443cde3,ab510065,Juan Sebastian Herrera,COL,FW,28-194,61,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/74e30bd2/Luther-Archimede,74e30bd2,ab510065,Luther Archimede,GLP,FW,23-242,29,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/e99f57a7/Russell-Cicerone,e99f57a7,ab510065,Russell Cicerone,USA,FW,28-181,90,0,0,0,0,4,1,0,0,2,0,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/ad68acb3/Zeiko-Lewis,ad68acb3,ab510065,Zeiko Lewis,BER,FW,28-347,61,0,0,0,0,3,0,1,0,1,0,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/7f7b9ede/Aldair-Sanchez,7f7b9ede,ab510065,Aldair Sanchez,USA,"DF,MF",21-136,29,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/1501d576/Damia-Viader,1501d576,ab510065,Damia Viader,ESP,LM,25-087,61,0,0,0,0,1,1,0,0,0,0,1,5,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/d4db60a1/Rafael-Jauregui,d4db60a1,ab510065,Rafael Jauregui,USA,MF,18-148,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/c9b098db/Matt-LaGrassa,c9b098db,ab510065,Matt LaGrassa,USA,CM,30-110,77,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/145bedca/Arnold-Lopez,145bedca,ab510065,Arnold Lopez,VEN,MF,28-174,12,0,0,0,0,0,0,2,1,2,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/1fdf3f69/Nick-Ross,1fdf3f69,ab510065,Nick Ross,SCO,CM,31-187,90,0,0,0,0,0,0,0,0,1,4,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/2ade3d9e/Jack-Gurr,2ade3d9e,ab510065,Jack Gurr,ENG,RM,27-172,90,0,0,0,0,2,0,0,0,0,3,0,9,0,2,0,0,0,RM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/9351a05c/Shane-Wiedt,9351a05c,ab510065,Shane Wiedt,USA,CB,27-302,90,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/6806c66b/Conor-Donovan,6806c66b,ab510065,Conor Donovan,USA,CB,27-129,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/84703bc6/Lee-Desmond,84703bc6,ab510065,Lee Desmond,IRL,CB,28-115,77,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/1512328c/Keko,1512328c,ab510065,Keko,ESP,"FW,MF",31-141,13,0,0,0,0,1,1,1,0,1,2,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/f2512fb9/Carlos-Saldana,f2512fb9,ab510065,Carlos Saldana,MEX,GK,26-202,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,1.0,4.0,80.0

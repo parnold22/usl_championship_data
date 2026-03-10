@@ -1,0 +1,63 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Orange County,https://fbref.com/en/players/295e1e4d/Thomas-Amang,295e1e4d,5e3d72e6,Thomas Amang,CMR,FW,25-188,81,0,0,0,0,2,1,0,0,0,2,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/a8734f4a/Cameron-Dunbar,a8734f4a,5e3d72e6,Cameron Dunbar,USA,"FW,MF",20-298,9,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/4f87c75f/Milan-Iloski,4f87c75f,5e3d72e6,Milan Iloski,USA,LW,24-018,90,1,0,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,LW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/1c24aacf/Kyle-Scott,1c24aacf,5e3d72e6,Kyle Scott,ENG,AM,25-237,57,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/e28a8364/Seth-Casiple,e28a8364,5e3d72e6,Seth Casiple,USA,MF,29-358,33,0,0,0,0,1,0,0,0,1,0,0,0,0,2,0,0,0,MF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/624113b0/Ashish-Chattha,624113b0,5e3d72e6,Ashish Chattha,USA,AM,23-222,71,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/58503f28/Brent-Richards,58503f28,5e3d72e6,Brent Richards,USA,"DF,FW",33-088,19,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/12ecb14e/Kevin-Lankford,12ecb14e,5e3d72e6,Kevin Lankford,GER,RW,24-273,45,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,RW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/43002197/Bryce-Jamison,43002197,5e3d72e6,Bryce Jamison,USA,MF,17-222,45,0,0,0,0,1,0,1,0,2,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/dac1adc3/Kevin-Partida,dac1adc3,5e3d72e6,Kevin Partida,USA,DM,28-159,90,0,0,0,0,0,0,1,0,1,1,0,0,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/1ec1c986/Ryan-Doghman,1ec1c986,5e3d72e6,Ryan Doghman,NOR,LB,26-063,45,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/681d6136/Andrew-Fox,681d6136,5e3d72e6,Andrew Fox,ENG,DF,30-213,45,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/35f79831/Dillon-Powers,35f79831,5e3d72e6,Dillon Powers,USA,CB,32-183,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/0e12671e/Markus-Nakkim,0e12671e,5e3d72e6,Markus Nakkim,NOR,CB,27-026,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/d2dc4350/Owen-Lambe,d2dc4350,5e3d72e6,Owen Lambe,USA,RB,23-001,90,0,0,0,0,0,0,0,0,1,1,0,9,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/32be86d0/Colin-Shutler,32be86d0,5e3d72e6,Colin Shutler,USA,GK,25-014,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,0.0,3.0,100.0
+Pittsburgh,https://fbref.com/en/players/96d8bcfb/Tola-Showunmi,96d8bcfb,5e3d72e6,Tola Showunmi,ENG,FW,23-044,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/7f84bbd4/Juan-Carlos-Obregon,7f84bbd4,5e3d72e6,Juan Carlos Obregon,HON,FW,25-291,21,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/655352d4/Albert-Dikwa,655352d4,5e3d72e6,Albert Dikwa,CMR,FW,25-226,90,0,0,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/3de0d48c/Kenardo-Forbes,3de0d48c,5e3d72e6,Kenardo Forbes,JAM,CM,35-093,78,0,0,0,0,1,0,0,0,0,0,0,8,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/d81add7a/Luke-Biasi,d81add7a,5e3d72e6,Luke Biasi,USA,"DF,MF",24-032,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/a493be2d/Danny-Griffin,a493be2d,5e3d72e6,Danny Griffin,USA,CM,25-033,90,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/02019ede/Marc-Ybarra,02019ede,5e3d72e6,Marc Ybarra,USA,CM,24-241,90,0,0,0,0,2,1,1,0,3,1,0,1,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/54f58f49/Junior-Etou,54f58f49,5e3d72e6,Junior Etou,CGO,LB,29-076,78,0,0,0,0,1,0,0,0,1,4,0,1,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/1f28cb11/Trevor-Zwetsloot,1f28cb11,5e3d72e6,Trevor Zwetsloot,NZL,MF,23-304,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/f2bef821/Nathan-Dossantos,f2bef821,5e3d72e6,Nathan Dossantos,USA,CB,24-127,90,0,0,0,0,0,0,0,0,0,1,0,1,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/8f87602d/Joe-Farrell,8f87602d,5e3d72e6,Joe Farrell,USA,CB,29-184,45,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/7d78e0f3/Robbie-Mertz,7d78e0f3,5e3d72e6,Robbie Mertz,USA,MF,26-255,45,0,0,0,0,0,0,0,0,1,2,0,6,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/16ecce68/Arturo-Ordonez,16ecce68,5e3d72e6,Arturo Ordonez,ESP,CB,26-086,90,0,0,0,0,2,1,0,0,2,1,1,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/10d35fa6/Daniel-Rovira,10d35fa6,5e3d72e6,Daniel Rovira,COL,RB,26-244,69,0,0,0,0,0,0,0,0,1,1,0,4,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/2f2c0ab1/Edward-Kizza,2f2c0ab1,5e3d72e6,Edward Kizza,UGA,FW,24-242,21,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/58d392ed/Jahmali-Waite,58d392ed,5e3d72e6,Jahmali Waite,JAM,GK,24-235,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,1.0,2.0,66.7
+San Antonio FC,https://fbref.com/en/players/950ef017/Tani-Oluwaseyi,950ef017,0762c193,Tani Oluwaseyi,CAN,FW,23-093,90,0,0,0,0,4,2,0,0,3,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/70cb3cf1/Santiago-Patino,70cb3cf1,0762c193,Santiago Patino,USA,FW,26-159,68,1,0,0,0,3,1,0,0,2,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/eb8eae2c/Justin-Dhillon,eb8eae2c,0762c193,Justin Dhillon,USA,FW,28-071,22,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/d2173b7b/Jacori-Hayes,d2173b7b,0762c193,Jacori Hayes,USA,CM,28-048,90,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/7bf39a2f/Jorge-Hernandez,7bf39a2f,0762c193,Jorge Hernandez,USA,CM,22-281,90,0,0,0,0,3,1,0,0,1,2,0,7,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/e1e65f24/Rida-Zouhir,e1e65f24,0762c193,Rida Zouhir,CAN,CM,19-266,86,1,0,0,0,2,1,0,0,0,0,0,6,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/18d94cb0/PC,18d94cb0,0762c193,PC,BRA,"DF,MF",29-159,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/26f559ba/Ismaila-Jome,26f559ba,0762c193,Ismaila Jome,GAM,LB,28-285,79,0,0,0,0,0,0,0,0,1,0,0,5,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/00e093d2/Isaiah-Parker,00e093d2,0762c193,Isaiah Parker,USA,FW,20-349,11,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/2a44ec3d/Mitchell-Taintor,2a44ec3d,0762c193,Mitchell Taintor,USA,CB,28-339,90,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/96f18e66/Fabien-Garcia,96f18e66,0762c193,Fabien Garcia,FRA,CB,29-033,90,0,1,0,0,1,0,1,0,2,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/a99e9900/Carter-Manley,a99e9900,0762c193,Carter Manley,USA,CB,27-109,90,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/bd107d30/Shannon-Gomez,bd107d30,0762c193,Shannon Gomez,TRI,RB,26-315,90,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/7b20d178/Jordan-Farr,7b20d178,0762c193,Jordan Farr,USA,GK,28-315,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,1.0,3.0,75.0
+RGV Toros,https://fbref.com/en/players/6fcaf66e/Ian-Cerro,6fcaf66e,0762c193,Ian Cerro,USA,FW,26-250,68,1,0,0,0,2,2,0,0,2,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/a612a23b/Wilmer-Cabrera-Jr,a612a23b,0762c193,Wilmer Cabrera Jr,USA,"FW,MF",23-018,22,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/ffc2477f/Christiano-Francois,ffc2477f,0762c193,Christiano Francois,HAI,FW,30-030,90,0,1,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/e14436ee/Juan-Galindrez,e14436ee,0762c193,Juan Galindrez,MEX,FW,29-043,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/a604b2a4/Frank-Lopez,a604b2a4,0762c193,Frank Lopez,CUB,FW,28-172,25,0,0,0,0,2,2,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/f56d9c37/Tomas-Ritondale,f56d9c37,0762c193,Tomas Ritondale,USA,LM,21-122,65,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/179f2aa8/Ricardo-Ruiz,179f2aa8,0762c193,Ricardo Ruiz,USA,"DF,FW",26-285,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/d78d7415/Jose-Francisco-Torres,d78d7415,0762c193,Jose Francisco Torres,USA,CM,35-291,90,0,0,0,0,2,0,0,0,1,2,0,5,0,3,0,0,0,CM,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/ed0f5bba/Robert-Coronado,ed0f5bba,0762c193,Robert Coronado,USA,CM,27-013,45,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/73eec431/Taylor-Davila,73eec431,0762c193,Taylor Davila,USA,MF,23-012,45,0,0,0,0,1,0,0,0,0,0,0,1,0,2,0,0,0,MF,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/86e743be/Cole-Frame,86e743be,0762c193,Cole Frame,USA,RM,20-315,65,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/4ea22d91/Juan-David-Cabezas,4ea22d91,0762c193,Juan David Cabezas,COL,MF,32-170,25,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/c2281300/Gabriel-Benitez,c2281300,0762c193,Gabriel Benitez,VEN,CB,29-320,90,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/b329cd24/Eric-Kinzner,b329cd24,0762c193,Eric Kinzner,USA,CB,20-147,90,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/d085c340/Frank-Nodarse,d085c340,0762c193,Frank Nodarse,CUB,CB,22-253,90,0,0,0,0,0,0,0,0,2,2,0,0,0,6,0,0,0,CB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/8a37dd84/Tyler-Deric,8a37dd84,0762c193,Tyler Deric,USA,GK,34-351,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,2.0,3.0,60.0

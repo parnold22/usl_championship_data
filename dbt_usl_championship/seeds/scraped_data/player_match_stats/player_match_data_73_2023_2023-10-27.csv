@@ -1,0 +1,33 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Sac Republic,https://fbref.com/en/players/e99f57a7/Russell-Cicerone,e99f57a7,b6555d5b,Russell Cicerone,USA,FW,28-344,76,1,0,0,0,4,3,0,0,2,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/84703bc6/Lee-Desmond,84703bc6,b6555d5b,Lee Desmond,IRL,DF,28-278,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/1fdf3f69/Nick-Ross,1fdf3f69,b6555d5b,Nick Ross,SCO,AM,31-350,86,1,1,0,0,2,2,0,0,1,1,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/e2d8874f/Cristian-Parano,e2d8874f,b6555d5b,Cristian Parano,ARG,"FW,MF",24-072,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/1512328c/Keko,1512328c,b6555d5b,Keko,ESP,AM,31-304,76,0,1,0,0,1,1,0,0,2,2,0,2,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/c9b098db/Matt-LaGrassa,c9b098db,b6555d5b,Matt LaGrassa,USA,MF,30-273,14,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/7f7b9ede/Aldair-Sanchez,7f7b9ede,b6555d5b,Aldair Sanchez,USA,DM,21-299,45,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/1501d576/Damia-Viader,1501d576,b6555d5b,Damia Viader,ESP,"DF,MF",25-250,45,1,1,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/a07caf31/Luis-Felipe,a07caf31,b6555d5b,Luis Felipe,BRA,DM,27-271,90,0,0,0,0,1,1,1,0,6,3,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/145bedca/Arnold-Lopez,145bedca,b6555d5b,Arnold Lopez,VEN,DM,28-337,57,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/74e30bd2/Luther-Archimede,74e30bd2,b6555d5b,Luther Archimede,GLP,FW,24-040,33,0,0,0,0,1,0,0,0,2,2,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/2ade3d9e/Jack-Gurr,2ade3d9e,b6555d5b,Jack Gurr,ENG,DM,27-335,90,0,0,0,0,3,1,0,0,1,2,0,4,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/9351a05c/Shane-Wiedt,9351a05c,b6555d5b,Shane Wiedt,USA,CB,28-100,90,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/6806c66b/Conor-Donovan,6806c66b,b6555d5b,Conor Donovan,USA,CB,27-292,90,0,0,0,0,1,0,0,0,0,5,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/91769d2f/Jared-Timmer,91769d2f,b6555d5b,Jared Timmer,USA,CB,26-181,90,0,0,0,0,0,0,0,0,1,3,0,1,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/f0abea8c/Daniel-Vitiello,f0abea8c,b6555d5b,Daniel Vitiello,USA,GK,27-235,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,5.0,1.0,4.0,80.0
+San Antonio FC,https://fbref.com/en/players/950ef017/Tani-Oluwaseyi,950ef017,b6555d5b,Tani Oluwaseyi,CAN,FW,23-165,90,1,0,0,0,6,3,1,0,7,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/70cb3cf1/Santiago-Patino,70cb3cf1,b6555d5b,Santiago Patino,USA,FW,26-231,90,0,0,0,0,2,0,0,0,0,2,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/c1f17b17/Mohammed-Abu,c1f17b17,b6555d5b,Mohammed Abu,GHA,CM,31-347,57,0,0,0,0,1,0,0,0,2,0,0,1,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/aad135a3/Nathan-Fogaca,aad135a3,b6555d5b,Nathan Fogaca,BRA,FW,24-140,33,0,0,0,0,1,1,1,0,2,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/7bf39a2f/Jorge-Hernandez,7bf39a2f,b6555d5b,Jorge Hernandez,USA,CM,22-353,69,0,0,0,0,1,0,0,0,1,4,0,10,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/7a447474/Ignacio-Bailone,7a447474,b6555d5b,Ignacio Bailone,ARG,FW,29-280,21,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/d2173b7b/Jacori-Hayes,d2173b7b,b6555d5b,Jacori Hayes,USA,CM,28-120,83,0,0,0,0,0,0,0,0,2,4,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/32b30364/Lamar-Batista,32b30364,b6555d5b,Lamar Batista,USA,DF,25-234,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/bd107d30/Shannon-Gomez,bd107d30,b6555d5b,Shannon Gomez,TRI,LB,27-022,69,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/26f559ba/Ismaila-Jome,26f559ba,b6555d5b,Ismaila Jome,GAM,"DF,FW",28-357,21,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/2a44ec3d/Mitchell-Taintor,2a44ec3d,b6555d5b,Mitchell Taintor,USA,CB,29-046,90,0,0,0,0,1,0,1,0,1,0,0,1,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/96f18e66/Fabien-Garcia,96f18e66,b6555d5b,Fabien Garcia,FRA,CB,29-105,90,0,0,0,0,0,0,0,0,3,2,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/a99e9900/Carter-Manley,a99e9900,b6555d5b,Carter Manley,USA,CB,27-181,90,0,0,0,0,0,0,0,0,2,2,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/05ad7458/Connor-Maloney,05ad7458,b6555d5b,Connor Maloney,USA,RB,28-162,69,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/eb8eae2c/Justin-Dhillon,eb8eae2c,b6555d5b,Justin Dhillon,USA,FW,28-143,21,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/f352799f/Nick-Marsman,f352799f,b6555d5b,Nick Marsman,NED,GK,33-026,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,9.0,3.0,6.0,66.7

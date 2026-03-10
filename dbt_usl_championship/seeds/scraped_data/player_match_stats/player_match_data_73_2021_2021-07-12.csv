@@ -1,0 +1,30 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+New Mexico Utd,https://fbref.com/en/players/2d558aef/Devon-Sandoval,2d558aef,aa5d5a1a,Devon Sandoval,USA,FW,30-026,90,1,0,0,0,6,6,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/5af02393/Isidro-Martinez,5af02393,aa5d5a1a,Isidro Martinez,USA,AM,24-119,79,0,0,0,0,3,1,0,0,0,0,1,3,0,3,0,0,0,AM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/e06380ca/Ilija-Ilic,e06380ca,aa5d5a1a,Ilija Ilic,SRB,"FW,MF",30-077,11,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/3bd84c13/Sergio-Rivas,3bd84c13,aa5d5a1a,Sergio Rivas,MEX,AM,23-282,90,0,0,0,0,1,0,1,0,5,1,0,2,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/51ac90d7/Daniel-Bruce,51ac90d7,aa5d5a1a,Daniel Bruce,ENG,DM,25-060,90,0,0,0,0,0,0,0,0,1,4,1,1,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/6571c260/Juan-Guzman,6571c260,aa5d5a1a,Juan Guzman,USA,DM,32-315,90,0,1,0,0,0,0,1,0,1,2,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/2b7bf9a6/Andrew-Tinari,2b7bf9a6,aa5d5a1a,Andrew Tinari,USA,DM,25-303,59,0,0,0,0,1,0,0,0,1,0,0,0,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/87c0db23/Micheal-Azira,87c0db23,aa5d5a1a,Micheal Azira,UGA,"DF,MF",33-324,31,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/311a4c0b/Josh-Suggs,311a4c0b,aa5d5a1a,Josh Suggs,USA,DM,32-077,90,0,0,0,0,0,0,1,0,1,0,1,1,0,3,0,0,0,DM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/b7d8da4a/Austin-Yearwood,b7d8da4a,aa5d5a1a,Austin Yearwood,USA,CB,26-334,52,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/fe5a1e0a/Justin-Schmidt,fe5a1e0a,aa5d5a1a,Justin Schmidt,USA,DF,27-251,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/077e97b3/Kalen-Ryden,077e97b3,aa5d5a1a,Kalen Ryden,USA,CB,30-164,90,1,0,0,0,1,1,1,0,1,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/fc14a221/Rashid-Tetteh,fc14a221,aa5d5a1a,Rashid Tetteh,GHA,CB,25-363,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/0245fbbf/Alexandros-Tabakis,0245fbbf,aa5d5a1a,Alexandros Tabakis,GRE,GK,28-216,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,1.0,1.0,0.0,0.0
+Charleston,https://fbref.com/en/players/68e684ee/Nicque-Daley,68e684ee,aa5d5a1a,Nicque Daley,JAM,FW,20-266,90,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/c912dbcb/Claudio-Repetto,c912dbcb,aa5d5a1a,Claudio Repetto,ITA,FW,24-160,71,1,0,0,0,1,1,0,0,1,0,1,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/51e4d1ac/Joel-Bunting,51e4d1ac,aa5d5a1a,Joel Bunting,USA,FW,23-222,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/ad68acb3/Zeiko-Lewis,ad68acb3,aa5d5a1a,Zeiko Lewis,BER,LM,27-038,90,0,0,0,0,2,0,0,0,0,1,0,5,0,1,0,0,0,LM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/7e40f227/Angelo-Kelly-Rosales,7e40f227,aa5d5a1a,Angelo Kelly Rosales,HON,CM,28-168,79,0,0,0,0,0,0,1,0,2,0,0,1,0,4,0,0,0,CM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/7f3117a8/Stavros-Zarokostas,7f3117a8,aa5d5a1a,Stavros Zarokostas,GRE,"FW,MF",23-249,11,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/a68a9609/Burke-Fahling,a68a9609,aa5d5a1a,Burke Fahling,USA,CM,23-343,89,0,0,0,0,0,0,0,1,1,2,0,4,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/7000e3a0/DZ-Harmon,7000e3a0,aa5d5a1a,DZ Harmon,LBR,RM,24-263,71,0,1,0,0,2,0,0,0,0,1,0,2,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/90bc9cab/Romario-Piggott,90bc9cab,aa5d5a1a,Romario Piggott,PAN,MF,25-360,19,0,0,0,0,1,0,1,0,1,1,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/3dfd1c91/Ben-Di-Rosa,3dfd1c91,aa5d5a1a,Ben Di Rosa,USA,LB,22-336,71,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/14b59d58/Temiloluwa-Adesodun,14b59d58,aa5d5a1a,Temiloluwa Adesodun,NGA,DF,23-217,19,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/4944b644/Patrick-Hogan,4944b644,aa5d5a1a,Patrick Hogan,USA,CB,23-298,90,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/94c7718c/Modesto-Mendez,94c7718c,aa5d5a1a,Modesto Mendez,CUB,CB,23-187,90,0,0,0,0,1,0,0,0,1,2,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/1da409b4/Logan-Gdula,1da409b4,aa5d5a1a,Logan Gdula,USA,RB,24-272,90,0,0,0,0,0,0,0,0,2,1,0,3,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/94cd786f/Joe-Kuzminsky,94cd786f,aa5d5a1a,Joe Kuzminsky,USA,GK,27-167,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,8.0,2.0,6.0,75.0

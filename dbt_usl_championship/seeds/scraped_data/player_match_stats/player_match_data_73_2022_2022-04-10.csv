@@ -1,0 +1,63 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+B'ham Legion,https://fbref.com/en/players/0cb2115f/Juan-Agudelo,0cb2115f,57384a14,Juan Agudelo,USA,FW,29-138,65,1,0,1,1,4,2,1,0,1,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/fc81543d/Edi-Horvat,fc81543d,57384a14,Edi Horvat,CRO,FW,23-132,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/0d74a643/Bruno-Lapa,0d74a643,57384a14,Bruno Lapa,BRA,FW,24-335,65,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/06590038/Marlon,06590038,57384a14,Marlon,BRA,"FW,MF",26-346,24,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/6548adaa/Grayson-Dupont,6548adaa,57384a14,Grayson Dupont,USA,MF,24-084,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/a4e068dc/Prosper-Kasim,a4e068dc,57384a14,Prosper Kasim,GHA,FW,25-116,82,0,0,0,0,3,1,0,0,2,2,0,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/887d4345/Amadou-Diop,887d4345,57384a14,Amadou Diop,SEN,FW,26-236,8,0,0,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ed8c35d2/Jonathan-Dean,ed8c35d2,57384a14,Jonathan Dean,USA,LM,24-330,90,0,0,0,0,0,0,0,0,1,1,0,4,0,1,0,0,0,LM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ed8d0da6/Anderson-Asiedu,ed8d0da6,57384a14,Anderson Asiedu,GHA,CM,25-302,90,1,0,0,0,5,1,0,0,2,1,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/e41bbc5d/Enzo-Martinez,e41bbc5d,57384a14,Enzo Martinez,URU,CM,31-193,90,0,1,0,0,3,0,0,0,1,2,0,6,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/fa452499/Mikey-Lopez,fa452499,57384a14,Mikey Lopez,USA,RM,29-049,73,0,0,0,0,0,0,0,0,3,2,0,3,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/3ae9a342/Ryan-James,3ae9a342,57384a14,Ryan James,CAN,"DF,MF",27-354,17,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ff98d5ca/Phanuel-Kavita,ff98d5ca,57384a14,Phanuel Kavita,RWA,CB,29-032,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/1dfaa68d/Thomas-Vancaeyezeele,1dfaa68d,57384a14,Thomas Vancaeyezeele,GUF,CB,27-257,90,0,0,0,0,0,0,1,0,3,1,0,1,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/1169c5eb/Alex-Crognale,1169c5eb,57384a14,Alex Crognale,USA,CB,27-226,90,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/6b9a35b3/Matt-Van-Oekel,6b9a35b3,57384a14,Matt Van Oekel,USA,GK,35-202,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,GK,2.0,1.0,1.0,50.0
+Hartford Athletic,https://fbref.com/en/players/92da8c34/Prince-Saydee,92da8c34,57384a14,Prince Saydee,LBR,FW,26-049,75,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/8c3049bb/Mitchell-Curry,8c3049bb,57384a14,Mitchell Curry,ENG,FW,22-270,15,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/4dc3ce03/Rashawn-Dally,4dc3ce03,57384a14,Rashawn Dally,JAM,FW,25-086,60,0,0,0,0,1,0,0,0,2,2,1,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/46c0b8fd/Conor-McGlynn,46c0b8fd,57384a14,Conor McGlynn,USA,"DF,MF",23-141,30,0,0,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/b2e0370d/Danny-Barrera,b2e0370d,57384a14,Danny Barrera,USA,AM,32-092,90,0,0,0,0,3,0,0,0,0,1,0,5,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/e77958b9/Ashkanov-Apollon,e77958b9,57384a14,Ashkanov Apollon,HAI,DM,31-007,85,1,0,0,0,2,2,1,0,1,4,0,2,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/1cdd642f/Younes-Boudadi,1cdd642f,57384a14,Younes Boudadi,MAR,DF,26-077,5,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/a6290bda/Andre-Lewis,a6290bda,57384a14,Andre Lewis,JAM,DM,27-241,90,0,1,0,0,1,0,1,0,1,1,0,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/f47a82ff/Luka-Prpa,f47a82ff,57384a14,Luka Prpa,USA,DM,23-257,40,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/f757c700/Peter-Lee-Vassell,f757c700,57384a14,Peter Lee Vassell,JAM,MF,24-066,50,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,MF,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/29a972e4/Joel-Johnson,29a972e4,57384a14,Joel Johnson,LBR,DM,29-202,90,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/0cbd9569/Modou-Jadama,0cbd9569,57384a14,Modou Jadama,USA,CB,28-024,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/30c268ea/Tom-Brewitt,30c268ea,57384a14,Tom Brewitt,ENG,CB,25-058,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/1cc1f1cf/Abdel-Yacoubou,1cc1f1cf,57384a14,Abdel Yacoubou,TOG,CB,25-001,90,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/8271a18e/Austin-Pack,8271a18e,57384a14,Austin Pack,USA,GK,28-044,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,2.0,3.0,75.0
+Loudoun United,https://fbref.com/en/players/8344adf5/Jackson-Hopkins,8344adf5,5ed4840f,Jackson Hopkins,USA,FW,17-283,60,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/ba702426/Azaad-Liadi,ba702426,5ed4840f,Azaad Liadi,USA,FW,23-331,30,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/ef7c10e0/Theodore-Ku-Dipietro,ef7c10e0,5ed4840f,Theodore Ku Dipietro,USA,FW,20-072,90,0,0,0,0,0,0,1,0,2,4,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/bbbb244b/Kimarni-Smith,bbbb244b,5ed4840f,Kimarni Smith,ENG,FW,24-027,90,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/e3dc71a7/Sami-Guediri,e3dc71a7,5ed4840f,Sami Guediri,USA,LM,24-235,60,0,0,0,0,0,0,0,0,1,0,0,4,0,1,0,0,0,LM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/5cbf1baa/Zoumana-Diarra,5cbf1baa,5ed4840f,Zoumana Diarra,CIV,MF,18-348,30,0,0,0,0,0,0,1,0,2,2,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/0217d80d/Nicky-Downs,0217d80d,5ed4840f,Nicky Downs,USA,CM,26-092,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/09d33255/Moses-Nyeman,09d33255,5ed4840f,Moses Nyeman,USA,CM,18-156,45,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/2d441385/Michael-Gamble,2d441385,5ed4840f,Michael Gamble,USA,"FW,MF",28-095,45,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/0a0dcb6f/Jacob-Greene,0a0dcb6f,5ed4840f,Jacob Greene,USA,RM,19-018,79,0,0,0,0,1,1,0,0,4,2,0,1,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/efd7b827/Houssou-Landry,efd7b827,5ed4840f,Houssou Landry,CIV,MF,21-103,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/ae760cf4/Gaoussou-Samake,ae760cf4,5ed4840f,Gaoussou Samake,CIV,CB,24-157,45,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/05b360ed/Tyler-Freeman,05b360ed,5ed4840f,Tyler Freeman,USA,FW,19-091,45,0,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/c3e24517/Hayden-Sargis,c3e24517,5ed4840f,Hayden Sargis,USA,CB,19-343,90,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/82657587/Rio-Hope-Gund,82657587,5ed4840f,Rio Hope Gund,USA,CB,22-233,90,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/063adc5e/Jon-Kempin,063adc5e,5ed4840f,Jon Kempin,USA,GK,29-002,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,2.0,3.0,60.0
+Louisville City,https://fbref.com/en/players/13ae5335/Jorge-Gonzalez,13ae5335,5ed4840f,Jorge Gonzalez,ESP,FW,23-163,66,0,1,0,0,1,1,1,0,5,1,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/d8c0039e/Ray-Serrano,d8c0039e,5ed4840f,Ray Serrano,USA,"FW,MF",19-336,24,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/ca0756aa/Wilson-Harris,ca0756aa,5ed4840f,Wilson Harris,USA,FW,22-133,90,1,0,0,0,5,2,0,0,1,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/3774549a/Brian-Ownby,3774549a,5ed4840f,Brian Ownby,USA,FW,31-268,83,1,0,0,0,3,1,0,0,2,2,0,5,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/8a1526a8/Enoch-Mushagalusa,8a1526a8,5ed4840f,Enoch Mushagalusa,COD,"FW,MF",22-148,7,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/009355ab/Paolo-DelPiccolo,009355ab,5ed4840f,Paolo DelPiccolo,USA,CM,30-317,90,0,0,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/3c850ce0/Tyler-Gibson,3c850ce0,5ed4840f,Tyler Gibson,USA,CM,31-088,90,0,0,0,0,1,0,1,0,0,2,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/5c98c6ce/Corben-Bone,5c98c6ce,5ed4840f,Corben Bone,USA,CM,33-206,83,0,0,0,0,0,0,0,0,0,0,0,4,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/4fbfe62d/Niall-McCabe,4fbfe62d,5ed4840f,Niall McCabe,USA,"FW,MF",31-186,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/1650e261/Amadou-Dia,1650e261,5ed4840f,Amadou Dia,USA,LB,28-306,52,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/6136d617/Sean-Totsch,6136d617,5ed4840f,Sean Totsch,USA,DF,30-206,38,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/48f46d3e/Joshua-Wynder,48f46d3e,5ed4840f,Joshua Wynder,USA,CB,16-343,90,0,0,0,0,1,0,1,0,2,4,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/70e35acb/Wesley-Charpie,70e35acb,5ed4840f,Wesley Charpie,USA,CB,29-157,90,0,1,0,0,0,0,0,0,4,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/27162b95/Manny-Perez,27162b95,5ed4840f,Manny Perez,USA,RB,23-050,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/3f394ec5/Kyle-Morton,3f394ec5,5ed4840f,Kyle Morton,USA,GK,28-010,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,1.0,0.0,1.0,100.0

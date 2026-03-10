@@ -1,0 +1,62 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Atlanta United 2,https://fbref.com/en/players/2c41a7e7/Fernando-Benitez,2c41a7e7,38cdb240,Fernando Benitez,ARG,FW,20-187,90,0,0,0,0,2,0,0,0,0,2,0,0,0,2,0,0,0,FW,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/8ca139da/Darwin-Matheus,8ca139da,38cdb240,Darwin Matheus,VEN,AM,20-040,69,0,1,0,0,2,0,0,0,2,0,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/2fb02c65/Efrain-Morales,2fb02c65,38cdb240,Efrain Morales,BOL,DF,17-076,21,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/0985c282/Tyler-Wolff,0985c282,38cdb240,Tyler Wolff,USA,AM,18-095,45,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/2361b580/William-Reilly,2361b580,38cdb240,William Reilly,USA,MF,18-167,45,0,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/0f969ded/Connor-Stanley,0f969ded,38cdb240,Connor Stanley,ENG,AM,19-140,90,0,1,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/daf8c775/Matheus-Rossetto,daf8c775,38cdb240,Matheus Rossetto,BRA,DM,24-350,59,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/df3ac7ff/Coleman-Gannon,df3ac7ff,38cdb240,Coleman Gannon,USA,MF,18-179,31,1,0,0,0,2,2,0,0,1,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/bd929bce/Chris-Allan,bd929bce,38cdb240,Chris Allan,ENG,DM,22-234,90,1,0,0,0,1,1,0,0,1,4,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/f649d6aa/Mikey-Ambrose,f649d6aa,38cdb240,Mikey Ambrose,USA,LB,27-226,90,0,1,0,0,1,0,0,0,1,0,0,3,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/2a6c024c/Alex-DeJohn,2a6c024c,38cdb240,Alex DeJohn,USA,CB,30-009,59,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/27f8d894/Bradley-Kamdem,27f8d894,38cdb240,Bradley Kamdem,FRA,DF,26-274,31,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/45e1a597/George-Campbell,45e1a597,38cdb240,George Campbell,USA,CB,19-331,45,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/733aa9ec/Josh-Bauer,733aa9ec,38cdb240,Josh Bauer,USA,DF,22-301,45,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/eed1b8f6/Aiden-McFadden,eed1b8f6,38cdb240,Aiden McFadden,USA,RB,22-233,90,2,0,0,0,2,2,0,0,0,4,0,3,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/35392992/Ben-Lundgaard,35392992,38cdb240,Ben Lundgaard,USA,GK,25-236,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,1.0,0.0,1.0,100.0
+FC Tulsa,https://fbref.com/en/players/5d90b1db/Rodrigo-Da-Costa,5d90b1db,38cdb240,Rodrigo Da Costa,BRA,FW,27-150,78,0,0,0,0,3,0,0,0,2,2,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/6a1b42b8/Ciaran-Winters,6a1b42b8,38cdb240,Ciaran Winters,USA,MF,19-355,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/d87d5f74/Dario-Suarez,d87d5f74,38cdb240,Dario Suarez,CUB,AM,28-284,45,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/06590038/Marlon,06590038,38cdb240,Marlon,BRA,"FW,MF",26-020,45,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/bffd7272/Joaquin-Rivas,bffd7272,38cdb240,Joaquin Rivas,SLV,AM,29-023,90,0,0,0,0,1,0,0,0,4,1,0,7,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/6d9fe7bd/Matthew-Sheldon,6d9fe7bd,38cdb240,Matthew Sheldon,USA,AM,28-269,73,0,0,0,0,3,0,0,0,2,2,0,3,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/90a096ca/Michael-Cunningham,90a096ca,38cdb240,Michael Cunningham,ENG,FW,30-103,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/10c3f096/Raphael-Ayagwa,10c3f096,38cdb240,Raphael Ayagwa,NGA,DM,23-095,82,0,0,0,0,1,0,0,0,1,0,0,1,0,4,0,0,0,DM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/5178a0d4/Lucas-Coutinho,5178a0d4,38cdb240,Lucas Coutinho,BRA,MF,27-280,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/068656ea/Kembo-Kibato,068656ea,38cdb240,Kembo Kibato,CAN,DM,20-245,45,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/ee8fb451/Jerome-Kiesewetter,ee8fb451,38cdb240,Jerome Kiesewetter,USA,"FW,MF",28-099,45,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/bb67b6b0/Jorge-Luis-Corrales,bb67b6b0,38cdb240,Jorge Luis Corrales,CUB,LB,29-364,67,0,0,0,0,0,0,2,1,4,0,0,4,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/bb978f2b/Kevin-Garcia,bb978f2b,38cdb240,Kevin Garcia,USA,CB,30-271,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/0cbd9569/Modou-Jadama,0cbd9569,38cdb240,Modou Jadama,USA,CB,27-063,90,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/f36566e9/Bradley-Bourgeois,f36566e9,38cdb240,Bradley Bourgeois,USA,RB,27-036,90,0,0,0,0,2,0,0,0,1,0,0,3,0,4,0,0,0,RB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/2906798d/Sean-Lewis,2906798d,38cdb240,Sean Lewis,USA,GK,29-032,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,7.0,5.0,2.0,28.6
+Galaxy II,https://fbref.com/en/players/00534d73/Preston-Judd,00534d73,8ccbc5b6,Preston Judd,USA,FW,21-356,45,0,0,0,0,2,2,0,0,1,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/8bb1c744/Augustine-Williams,8bb1c744,8ccbc5b6,Augustine Williams,SLE,FW,23-289,45,0,0,0,0,2,0,0,0,1,2,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/c97bfb2e/Kai-Koreniuk,c97bfb2e,8ccbc5b6,Kai Koreniuk,NED,LW,23-079,65,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,LW,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/0831f51f/Isaac-Bawa,0831f51f,8ccbc5b6,Isaac Bawa,GHA,DF,24-025,25,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/ecc5063f/Daniel-Aguirre,ecc5063f,8ccbc5b6,Daniel Aguirre,USA,AM,21-321,90,0,0,0,0,1,0,0,0,0,1,0,1,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/7bf39a2f/Jorge-Hernandez,7bf39a2f,8ccbc5b6,Jorge Hernandez,USA,AM,20-192,90,1,0,0,0,2,1,0,0,2,1,1,6,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/a8734f4a/Cameron-Dunbar,a8734f4a,8ccbc5b6,Cameron Dunbar,USA,RW,18-209,61,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,RW,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/dbd04f76/Axel-Picazo,dbd04f76,8ccbc5b6,Axel Picazo,USA,MF,20-044,29,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/fafae922/Adrian-Gonzalez,fafae922,8ccbc5b6,Adrian Gonzalez,USA,DM,17-331,77,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/73eec431/Taylor-Davila,73eec431,8ccbc5b6,Taylor Davila,USA,MF,20-288,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/98a70879/Josh-Drack,98a70879,8ccbc5b6,Josh Drack,USA,LB,21-239,90,0,1,0,0,0,0,0,0,1,0,0,2,0,5,0,0,0,LB,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/b842703c/Jesus-Vazquez,b842703c,8ccbc5b6,Jesus Vazquez,MEX,CB,26-058,90,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/1f5f8a5a/Marcus-Ferkranus,1f5f8a5a,8ccbc5b6,Marcus Ferkranus,USA,CB,18-009,90,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/d2dc4350/Owen-Lambe,d2dc4350,8ccbc5b6,Owen Lambe,USA,RB,20-277,90,0,0,0,0,0,0,0,0,0,0,0,4,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/d9d14cad/Justin-Vom-Steeg,d9d14cad,8ccbc5b6,Justin Vom Steeg,USA,GK,24-044,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,1.0,2.0,66.7
+Sporting KC II,https://fbref.com/en/players/8a1526a8/Enoch-Mushagalusa,8a1526a8,8ccbc5b6,Enoch Mushagalusa,COD,FW,21-187,90,0,0,0,0,2,1,1,0,2,0,0,1,0,5,0,0,0,FW,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/30af23db/Ropapa-Mensah,30af23db,8ccbc5b6,Ropapa Mensah,GHA,FW,23-272,90,0,1,0,0,3,0,0,0,1,3,2,2,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/dffdf610/Dominik-Resetar,dffdf610,8ccbc5b6,Dominik Resetar,CRO,FW,20-357,70,1,0,0,0,2,1,0,0,0,1,0,8,0,3,0,0,0,FW,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/2db7239d/Rojay-Smith,2db7239d,8ccbc5b6,Rojay Smith,JAM,MF,24-240,20,0,0,0,0,2,0,0,0,0,0,0,3,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/db6e4a9b/Bailey-Sparks,db6e4a9b,8ccbc5b6,Bailey Sparks,USA,CM,18-140,70,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/eac49bd6/Jahon-Rad,eac49bd6,8ccbc5b6,Jahon Rad,USA,MF,19-340,20,0,0,0,0,2,1,0,0,0,0,0,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/201384f8/Petar-Cuic,201384f8,8ccbc5b6,Petar Cuic,CRO,CM,21-351,90,0,0,0,0,0,0,1,0,2,1,0,0,0,3,0,0,0,CM,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/79d3a503/Jake-Davis,79d3a503,8ccbc5b6,Jake Davis,USA,CM,19-136,62,0,0,0,0,1,0,0,0,0,1,0,2,0,3,0,0,0,CM,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/0bfb0754/Jayvin-Van-Deventer,0bfb0754,8ccbc5b6,Jayvin Van Deventer,USA,MF,17-138,28,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/7a34ab4c/Christian-Duke,7a34ab4c,8ccbc5b6,Christian Duke,USA,LB,29-348,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/2bfb7026/Danny-Barbir,2bfb7026,8ccbc5b6,Danny Barbir,USA,CB,23-108,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/31689597/Aljaz-Dzankic,31689597,8ccbc5b6,Aljaz Dzankic,CRO,CB,19-061,90,0,0,0,0,1,0,0,0,2,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/2f5f098b/Kayden-Pierre,2f5f098b,8ccbc5b6,Kayden Pierre,USA,RB,18-092,90,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/d1f3e74b/Kendall-McIntosh,d1f3e74b,8ccbc5b6,Kendall McIntosh,USA,GK,27-115,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,3.0,1.0,2.0,66.7
