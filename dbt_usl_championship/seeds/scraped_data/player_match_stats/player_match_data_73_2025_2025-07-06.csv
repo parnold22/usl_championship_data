@@ -1,0 +1,33 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Charleston,https://fbref.com/en/players/4bf74689/MD-Myers,4bf74689,79c9c623,MD Myers,USA,FW,24-092,61,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/44f6672a/Cal-Jennings,44f6672a,79c9c623,Cal Jennings,USA,"FW,MF",28-050,29,0,0,0,0,2,1,1,0,1,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/bc245aa5/Arturo-Rodriguez,bc245aa5,79c9c623,Arturo Rodriguez,MEX,AM,26-203,61,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/7636fa88/Jeremy-Kelly,7636fa88,79c9c623,Jeremy Kelly,USA,MF,27-258,29,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/5bb6c69c/Emilio-Ycaza,5bb6c69c,79c9c623,Emilio Ycaza,USA,AM,27-361,83,1,0,0,0,3,2,0,0,0,2,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/9bad7100/Rubio-Rubin,9bad7100,79c9c623,Rubio Rubin,GUA,FW,29-127,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/262b47fb/Juan-Torres,262b47fb,79c9c623,Juan Torres,COL,AM,24-097,89,0,0,0,0,4,0,0,0,2,0,0,6,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/a84af631/Mark-Segbers,a84af631,79c9c623,Mark Segbers,USA,"DF,MF",29-079,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/38088899/Aaron-Molloy,38088899,79c9c623,Aaron Molloy,IRL,DM,28-176,90,0,0,0,0,1,0,1,0,1,0,0,4,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/efd7b827/Houssou-Landry,efd7b827,79c9c623,Houssou Landry,CIV,DM,24-190,89,0,0,0,0,1,0,1,0,3,0,0,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/bd929bce/Chris-Allan,bd929bce,79c9c623,Chris Allan,ENG,MF,26-282,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/f2bef821/Nathan-Dossantos,f2bef821,79c9c623,Nathan Dossantos,USA,LB,26-086,90,0,0,0,0,1,0,1,0,1,2,0,0,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/aea70213/Joey-Akpunonu,aea70213,79c9c623,Joey Akpunonu,USA,CB,23-197,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/ae3330d0/Graham-Smith,ae3330d0,79c9c623,Graham Smith,USA,CB,29-223,90,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/d57f7428/Langston-Blackstock,d57f7428,79c9c623,Langston Blackstock,USA,RB,25-105,90,0,1,0,0,0,0,0,0,0,1,0,1,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/f28de463/Luis-Zamudio,f28de463,79c9c623,Luis Zamudio,USA,GK,27-012,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,0.0,3.0,100.0
+North Carolina,https://fbref.com/en/players/eebfffe4/Oalex-Anderson,eebfffe4,79c9c623,Oalex Anderson,VIN,FW,29-237,78,0,0,0,0,4,1,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/c63ae448/Evan-Conway,c63ae448,79c9c623,Evan Conway,USA,"FW,MF",27-241,12,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/03c0dcc3/Louis-Perez,03c0dcc3,79c9c623,Louis Perez,FRA,LM,28-025,70,0,0,0,0,0,0,1,0,2,1,0,3,0,1,0,0,0,LM,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/52f215a7/Ahmad-Al-Qaq,52f215a7,79c9c623,Ahmad Al Qaq,PLE,MF,23-136,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/4036c29f/Mikey-Maldonado,4036c29f,79c9c623,Mikey Maldonado,USA,CM,27-004,90,0,0,0,0,1,0,0,0,0,1,0,8,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/246f7571/Raheem-Somersall,246f7571,79c9c623,Raheem Somersall,SKN,CM,28-001,88,0,0,0,0,1,0,0,0,1,1,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/e03c7b80/Adam-Luckhurst,e03c7b80,79c9c623,Adam Luckhurst,USA,FW,23-009,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/3757f468/Pedro-Dolabella,3757f468,79c9c623,Pedro Dolabella,USA,RM,25-342,71,0,0,0,0,0,0,1,0,2,1,1,0,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/5d90b1db/Rodrigo-Da-Costa,5d90b1db,79c9c623,Rodrigo Da Costa,BRA,"FW,MF",31-198,19,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/8746d5d0/Patrick-Burner,8746d5d0,79c9c623,Patrick Burner,MTQ,LB,29-086,79,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/b72465eb/Jaden-Servania,b72465eb,79c9c623,Jaden Servania,PUR,MF,23-355,11,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/3b9e2775/Finn-Sundstrom,3b9e2775,79c9c623,Finn Sundstrom,USA,CB,18-229,90,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/20bc347c/Bryce-Washington,20bc347c,79c9c623,Bryce Washington,USA,CB,26-297,90,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/f440649e/Paco-Craig,f440649e,79c9c623,Paco Craig,ENG,CB,32-260,90,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/060db276/Rafa-Mentzingen,060db276,79c9c623,Rafa Mentzingen,BRA,RB,29-065,90,0,0,0,0,2,1,0,0,0,2,0,2,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/29863f6e/Jake-McGuire,29863f6e,79c9c623,Jake McGuire,USA,GK,30-306,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,2.0,1.0,1.0,50.0

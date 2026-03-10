@@ -1,0 +1,32 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+B'ham Legion,https://fbref.com/en/players/3a7bec1b/Tyler-Pasher,3a7bec1b,97f6fb9b,Tyler Pasher,CAN,FW,29-346,90,1,0,0,0,3,2,0,0,1,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/f20ca027/Diba-Nwegbo,f20ca027,97f6fb9b,Diba Nwegbo,NGA,LW,22-097,55,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,LW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/75a0181e/Preston-Tabortetaka,75a0181e,97f6fb9b,Preston Tabortetaka,CMR,"FW,MF",25-302,35,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/a928bb49/Kobe-Hernandez-Foster,a928bb49,97f6fb9b,Kobe Hernandez Foster,USA,AM,21-286,90,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/e41bbc5d/Enzo-Martinez,e41bbc5d,97f6fb9b,Enzo Martinez,URU,AM,33-191,90,0,1,0,0,2,0,0,0,2,2,0,1,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/a4e068dc/Prosper-Kasim,a4e068dc,97f6fb9b,Prosper Kasim,GHA,RW,27-114,84,0,0,0,0,1,0,0,0,1,1,0,2,0,1,0,0,0,RW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/61f7e18e/Miguel-Perez,61f7e18e,97f6fb9b,Miguel Perez,USA,MF,18-345,6,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/0e104fd6/AJ-Paterson,0e104fd6,97f6fb9b,AJ Paterson,GRN,DM,28-067,90,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/c61aafd8/Moses-Mensah,c61aafd8,97f6fb9b,Moses Mensah,GHA,LB,25-236,71,0,0,0,0,0,0,1,0,2,1,1,2,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/3964401f/Dawson-McCartney,3964401f,97f6fb9b,Dawson McCartney,USA,MF,25-175,19,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ff98d5ca/Phanuel-Kavita,ff98d5ca,97f6fb9b,Phanuel Kavita,RWA,CB,31-029,90,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/1169c5eb/Alex-Crognale,1169c5eb,97f6fb9b,Alex Crognale,USA,CB,29-224,45,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/c194ae9c/Mujeeb-Murana,c194ae9c,97f6fb9b,Mujeeb Murana,USA,DF,23-197,45,1,0,0,0,1,1,0,0,1,1,0,0,0,2,0,0,0,DF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/2ff7465d/Jake-Rufe,2ff7465d,97f6fb9b,Jake Rufe,USA,RB,28-076,90,0,0,0,0,0,0,0,0,1,1,0,1,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/6b9a35b3/Matt-Van-Oekel,6b9a35b3,97f6fb9b,Matt Van Oekel,USA,GK,37-200,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,1.0,2.0,66.7
+Loudoun United,https://fbref.com/en/players/74ba46bc/Zach-Ryan,74ba46bc,97f6fb9b,Zach Ryan,USA,FW,25-084,90,0,0,0,0,3,1,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/7a77b383/Abdellatif-Aboukoura,7a77b383,97f6fb9b,Abdellatif Aboukoura,USA,AM,19-174,76,1,0,0,0,3,2,0,0,1,0,1,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/935d7a56/Riley-Bidois,935d7a56,97f6fb9b,Riley Bidois,NZL,FW,22-026,14,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/2484e983/Tommy-Williamson,2484e983,97f6fb9b,Tommy Williamson,USA,AM,24-338,45,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/2acbf26d/Wesley-Leggett,2acbf26d,97f6fb9b,Wesley Leggett,USA,FW,23-022,45,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/ffc2477f/Christiano-Francois,ffc2477f,97f6fb9b,Christiano Francois,HAI,AM,30-265,66,0,0,0,0,1,0,0,0,1,4,0,2,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/45004a8c/Isaac-Espinal,45004a8c,97f6fb9b,Isaac Espinal,USA,FW,18-184,24,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/ecbca580/Thomas-McCabe,ecbca580,97f6fb9b,Thomas McCabe,USA,DM,26-003,90,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/51f50135/Drew-Skundrich,51f50135,97f6fb9b,Drew Skundrich,USA,DM,28-203,90,0,0,0,0,1,0,0,0,1,2,0,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/0becbc9b/Kwame-Awuah,0becbc9b,97f6fb9b,Kwame Awuah,CAN,LB,28-127,77,0,0,0,0,0,0,0,0,0,0,1,9,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/f57f77ac/Keegan-Tingey,f57f77ac,97f6fb9b,Keegan Tingey,USA,DF,23-234,13,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/c1a323a6/Jacob-Erlandson,c1a323a6,97f6fb9b,Jacob Erlandson,USA,CB,25-024,90,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/3b0f3e7a/Keegan-Hughes,3b0f3e7a,97f6fb9b,Keegan Hughes,USA,CB,23-260,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/baf24e17/Justin-Melly,baf24e17,97f6fb9b,Justin Melly,USA,DF,17-255,5,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/fa20d901/Yanis-Leerman,fa20d901,97f6fb9b,Yanis Leerman,FRA,RB,25-297,90,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,RB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/97d74cea/Hugo-Fauroux,97d74cea,97f6fb9b,Hugo Fauroux,FRA,GK,27-228,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,3.0,1.0,25.0

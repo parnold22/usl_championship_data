@@ -1,0 +1,33 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Hartford Athletic,https://fbref.com/en/players/b221324b/Ever-Guzman,b221324b,642793d6,Ever Guzman,MEX,FW,32-140,85,2,0,0,1,4,3,0,0,2,0,5,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/9b858866/Alfonso-Villar,9b858866,642793d6,Alfonso Villar,USA,FW,18-047,5,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/d19fed25/Alex-Dixon,d19fed25,642793d6,Alex Dixon,USA,FW,30-177,85,0,0,0,0,0,0,1,0,1,4,1,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/4a3c42ef/Dre-Deas,4a3c42ef,642793d6,Dre Deas,USA,FW,22-269,5,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/97bfcd7f/Gabriel-Torres,97bfcd7f,642793d6,Gabriel Torres,BRA,LM,24-001,90,0,0,0,0,0,0,1,0,1,2,0,1,0,3,0,0,0,LM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/46c0b8fd/Conor-McGlynn,46c0b8fd,642793d6,Conor McGlynn,USA,CM,21-256,61,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/0217d80d/Nicky-Downs,0217d80d,642793d6,Nicky Downs,USA,MF,24-207,29,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/b2e0370d/Danny-Barrera,b2e0370d,642793d6,Danny Barrera,USA,CM,30-207,90,1,2,0,0,4,2,0,0,1,1,0,3,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/c97875d4/Mads-Jorgensen,c97875d4,642793d6,Mads Jorgensen,DEN,CM,22-028,90,0,1,0,0,3,0,0,0,3,1,0,1,0,4,0,0,0,CM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/d1b6fe5b/Harry-Swartz,d1b6fe5b,642793d6,Harry Swartz,USA,RM,24-136,60,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/4701e130/Tyreke-Johnson,4701e130,642793d6,Tyreke Johnson,ENG,"FW,MF",21-273,30,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/c40e115b/Matheus-Silva,c40e115b,642793d6,Matheus Silva,BRA,CB,23-238,90,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/15fbb967/Kevin-Politz,15fbb967,642793d6,Kevin Politz,USA,CB,24-133,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/8c4c2432/Alex-Lara,8c4c2432,642793d6,Alex Lara,USA,CB,21-322,89,0,0,0,0,0,0,1,0,3,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/01bee25b/Aiden-Mesias,01bee25b,642793d6,Aiden Mesias,ENG,MF,20-284,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/5377b67e/Parfait-Mandanda,5377b67e,642793d6,Parfait Mandanda,COD,GK,30-266,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,2.0,1.0,2.0,100.0
+Loudoun United,https://fbref.com/en/players/2d441385/Michael-Gamble,2d441385,642793d6,Michael Gamble,USA,FW,26-210,90,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/38f7e064/Massimo-Ferrin,38f7e064,642793d6,Massimo Ferrin,CAN,AM,21-240,56,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/177e044c/Alioune-Ndour,177e044c,642793d6,Alioune Ndour,SEN,FW,19-152,34,0,0,0,0,3,0,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/ef7c10e0/Theodore-Ku-Dipietro,ef7c10e0,642793d6,Theodore Ku Dipietro,USA,AM,18-187,90,0,0,0,0,2,0,0,0,1,1,0,4,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/75e1a56a/Abdoul-Kairou-Amoustapha,75e1a56a,642793d6,Abdoul Kairou Amoustapha,NIG,AM,19-214,90,0,0,0,0,1,0,0,0,3,2,1,3,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/836c317b/Elvis-Amoh,836c317b,642793d6,Elvis Amoh,GHA,DM,28-182,67,1,0,1,1,2,1,1,0,5,0,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/3d5a4a7f/Brandon-Williamson,3d5a4a7f,642793d6,Brandon Williamson,USA,MF,22-122,23,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/1f6ec0c5/Jeremy-Garay,1f6ec0c5,642793d6,Jeremy Garay,SLV,DM,17-123,77,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/4236fd6b/Christian-Sorto,4236fd6b,642793d6,Christian Sorto,SLV,"FW,MF",20-196,13,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/0d6c2211/Peabo-Doue,0d6c2211,642793d6,Peabo Doue,USA,LB,28-218,77,0,0,0,0,0,0,0,0,2,0,2,2,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/eeb26fa4/Allexon-Saravia,eeb26fa4,642793d6,Allexon Saravia,SLV,DF,19-315,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/e799dbf0/Adam-Lundegard,e799dbf0,642793d6,Adam Lundegard,USA,CB,16-360,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/6a83c989/Timmy-Mehl,6a83c989,642793d6,Timmy Mehl,USA,DF,24-337,45,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,0,0,DF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/9351a05c/Shane-Wiedt,9351a05c,642793d6,Shane Wiedt,USA,CB,25-014,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/0a0dcb6f/Jacob-Greene,0a0dcb6f,642793d6,Jacob Greene,USA,RB,17-132,90,0,0,0,0,1,0,0,0,0,0,1,2,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/18fb4a72/Colin-Miller,18fb4a72,642793d6,Colin Miller,USA,GK,23-282,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,GK,5.0,4.0,2.0,20.0

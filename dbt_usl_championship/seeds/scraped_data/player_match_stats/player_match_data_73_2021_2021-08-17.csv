@@ -1,0 +1,64 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Hartford Athletic,https://fbref.com/en/players/d04a3588/Darwin-Lom,d04a3588,af1d0aeb,Darwin Lom,GUA,FW,24-034,74,0,0,0,0,0,0,1,0,3,3,2,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/dbaba8aa/Sebastian-Elney,dbaba8aa,af1d0aeb,Sebastian Elney,HAI,FW,24-052,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/7f84bbd4/Juan-Carlos-Obregon,7f84bbd4,af1d0aeb,Juan Carlos Obregon,HON,FW,23-292,90,0,0,0,0,8,2,0,0,1,1,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/b9b0304a/Derek-Dodson,b9b0304a,af1d0aeb,Derek Dodson,USA,FW,22-287,53,1,0,0,0,2,1,0,0,1,1,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/cc9cf9da/Walmer-Martinez,cc9cf9da,af1d0aeb,Walmer Martinez,SLV,"DF,MF",23-000,37,0,0,0,0,2,1,0,0,0,1,0,1,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/b2e0370d/Danny-Barrera,b2e0370d,af1d0aeb,Danny Barrera,USA,CM,31-221,82,1,1,1,1,2,1,0,0,1,3,0,7,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/46c0b8fd/Conor-McGlynn,46c0b8fd,af1d0aeb,Conor McGlynn,USA,"DF,MF",22-270,8,0,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/c644e140/Justin-Haak,c644e140,af1d0aeb,Justin Haak,USA,CM,19-339,82,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/8c4614a8/Jeciel-Cedeno,8c4614a8,af1d0aeb,Jeciel Cedeno,ECU,"FW,MF",21-136,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/c333af7a/Christian-Gomez,c333af7a,af1d0aeb,Christian Gomez,VEN,CM,22-175,81,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/49953793/Arthur-Rogers,49953793,af1d0aeb,Arthur Rogers,ENG,"DF,MF",24-325,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/97bfcd7f/Gabriel-Torres,97bfcd7f,af1d0aeb,Gabriel Torres,BRA,LB,25-016,90,0,0,0,0,0,0,0,0,0,3,0,4,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/8065d787/Thomas-Janjigian,8065d787,af1d0aeb,Thomas Janjigian,USA,CB,26-280,90,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/1cc1f1cf/Abdel-Yacoubou,1cc1f1cf,af1d0aeb,Abdel Yacoubou,TOG,CB,24-130,90,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/1cdd642f/Younes-Boudadi,1cdd642f,af1d0aeb,Younes Boudadi,MAR,RB,25-206,90,0,0,0,0,1,0,1,0,3,0,0,2,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/fd8f17fd/Jefferson-Caldwell,fd8f17fd,af1d0aeb,Jefferson Caldwell,USA,GK,25-178,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,1.0,3.0,75.0
+Charleston,https://fbref.com/en/players/68e684ee/Nicque-Daley,68e684ee,af1d0aeb,Nicque Daley,JAM,FW,20-302,90,0,0,0,0,1,0,1,0,0,2,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/c912dbcb/Claudio-Repetto,c912dbcb,af1d0aeb,Claudio Repetto,ITA,FW,24-196,69,1,0,0,0,2,1,0,0,1,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/7000e3a0/DZ-Harmon,7000e3a0,af1d0aeb,DZ Harmon,LBR,MF,24-299,21,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/7f3117a8/Stavros-Zarokostas,7f3117a8,af1d0aeb,Stavros Zarokostas,GRE,LM,23-285,90,0,0,0,0,2,0,0,0,3,3,0,1,0,2,0,0,0,LM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/79979a4e/Robbie-Crawford,79979a4e,af1d0aeb,Robbie Crawford,SCO,CM,28-151,90,0,0,0,0,3,0,1,0,2,1,0,5,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/ad68acb3/Zeiko-Lewis,ad68acb3,af1d0aeb,Zeiko Lewis,BER,CM,27-074,90,0,1,0,0,3,1,0,0,1,2,0,2,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/90bc9cab/Romario-Piggott,90bc9cab,af1d0aeb,Romario Piggott,PAN,RM,26-031,74,0,0,0,0,1,1,0,0,0,1,0,4,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/7a57e1c4/Geobel-Perez,7a57e1c4,af1d0aeb,Geobel Perez,CUB,MF,22-076,16,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/14b59d58/Temiloluwa-Adesodun,14b59d58,af1d0aeb,Temiloluwa Adesodun,NGA,LB,23-253,73,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/29c8decb/Joshua-Penn,29c8decb,af1d0aeb,Joshua Penn,USA,FW,20-265,17,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/0e104fd6/AJ-Paterson,0e104fd6,af1d0aeb,AJ Paterson,GRN,CB,25-198,90,0,0,0,0,0,0,0,0,0,2,0,1,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/7e50dd2c/Erik-McCue,7e50dd2c,af1d0aeb,Erik McCue,USA,CB,20-211,90,0,0,0,0,0,0,1,0,3,0,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/d085c340/Frank-Nodarse,d085c340,af1d0aeb,Frank Nodarse,CUB,RB,20-254,69,0,0,0,0,2,1,0,0,1,1,0,2,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/a68a9609/Burke-Fahling,a68a9609,af1d0aeb,Burke Fahling,USA,MF,24-014,21,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/51cc7652/Paul-Lewis,51cc7652,af1d0aeb,Paul Lewis,USA,GK,22-167,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,2.0,3.0,75.0
+Bold,https://fbref.com/en/players/0b90fa20/Alassane-Diouf,0b90fa20,42e1006a,Alassane Diouf,SEN,FW,21-146,63,0,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/3214c8d3/Omar-Ciss,3214c8d3,42e1006a,Omar Ciss,SEN,MF,20-013,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/bb666b57/Roberto-Avila,bb666b57,42e1006a,Roberto Avila,USA,FW,20-305,77,0,0,0,0,1,0,1,0,4,1,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/c5cbbec9/Casey-Walls,c5cbbec9,42e1006a,Casey Walls,USA,DF,18-219,13,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/54094774/Collin-Fernandez,54094774,42e1006a,Collin Fernandez,USA,LM,24-185,63,0,0,0,0,0,0,0,0,2,3,0,0,0,1,0,0,0,LM,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/1470c0e9/Stefano-Pinho,1470c0e9,42e1006a,Stefano Pinho,BRA,FW,30-217,27,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/1a0ce03e/Xavier-Baez,1a0ce03e,42e1006a,Xavier Baez,MEX,CM,34-026,90,1,0,1,1,1,1,0,0,0,0,0,3,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/b57d06fd/Juan-Pablo-Torres,b57d06fd,42e1006a,Juan Pablo Torres,USA,CM,22-022,77,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/5bb6c69c/Emilio-Ycaza,5bb6c69c,42e1006a,Emilio Ycaza,USA,MF,24-038,13,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/2f50e3ad/Jorge-Troncoso,2f50e3ad,42e1006a,Jorge Troncoso,CHI,RM,28-216,55,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/76176f22/Owayne-Gordon,76176f22,42e1006a,Owayne Gordon,JAM,"DF,FW",29-313,35,0,0,0,0,1,0,0,0,0,0,1,2,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/73cc827d/Nick-Hinds,73cc827d,42e1006a,Nick Hinds,USA,LB,23-306,90,0,0,0,0,0,0,0,0,1,2,0,1,0,3,0,0,0,LB,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/376f7f40/Gustavo-Rissi,376f7f40,42e1006a,Gustavo Rissi,BRA,CB,23-194,90,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/96f18e66/Fabien-Garcia,96f18e66,42e1006a,Fabien Garcia,FRA,CB,27-034,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/c98d4b4d/Kofi-Sarkodie,c98d4b4d,42e1006a,Kofi Sarkodie,USA,RB,30-148,90,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/e93972ac/Elliot-Panicco,e93972ac,42e1006a,Elliot Panicco,USA,GK,24-272,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,2.0,1.0,1.0,50.0
+RGV Toros,https://fbref.com/en/players/836c317b/Elvis-Amoh,836c317b,42e1006a,Elvis Amoh,GHA,FW,29-196,89,1,0,0,0,3,2,0,0,0,1,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/53ea588e/Vicente-Sanchez,53ea588e,42e1006a,Vicente Sanchez,URU,FW,41-253,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/2802f5b0/Juan-Carlos-Azocar,2802f5b0,42e1006a,Juan Carlos Azocar,VEN,LW,25-320,88,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,LW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/d678807a/Grant-Robinson,d678807a,42e1006a,Grant Robinson,USA,DF,23-002,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/29b51d26/Rodrigo-Lopez,29b51d26,42e1006a,Rodrigo Lopez,USA,AM,34-099,90,0,1,0,0,2,0,0,0,3,1,0,4,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/4ea22d91/Juan-David-Cabezas,4ea22d91,42e1006a,Juan David Cabezas,COL,AM,30-171,88,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/52ffb493/James-Murphy,52ffb493,42e1006a,James Murphy,USA,MF,23-334,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/f20bff1b/Jhon-Henry-Sanchez,f20bff1b,42e1006a,Jhon Henry Sanchez,COL,RW,26-094,63,0,0,0,0,0,0,0,0,2,2,0,2,0,0,0,0,0,RW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/273f2e29/Alexis-Cerritos,273f2e29,42e1006a,Alexis Cerritos,SLV,"FW,MF",20-319,27,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/ec5ce41a/Camden-Riley,ec5ce41a,42e1006a,Camden Riley,USA,DM,24-362,62,0,0,0,0,0,0,1,0,2,2,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/4236fd6b/Christian-Sorto,4236fd6b,42e1006a,Christian Sorto,SLV,"FW,MF",21-210,28,0,0,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/0aadef97/Roberto-Albuquerque,0aadef97,42e1006a,Roberto Albuquerque,USA,LB,27-286,90,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/980e59a1/Erik-Pimentel,980e59a1,42e1006a,Erik Pimentel,MEX,CB,31-094,90,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/f4462455/Adrian-Diz-Pe,f4462455,42e1006a,Adrian Diz Pe,CUB,CB,27-166,90,0,0,0,0,0,0,1,0,1,2,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/a99e9900/Carter-Manley,a99e9900,42e1006a,Carter Manley,USA,RB,25-110,90,0,0,0,0,1,0,1,0,1,1,0,2,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/18fb4a72/Colin-Miller,18fb4a72,42e1006a,Colin Miller,USA,GK,24-296,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,0.0,1.0,0.0,0.0

@@ -1,0 +1,30 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+NY Red Bulls II,https://fbref.com/en/players/a854969f/Mathias-Jorgensen,a854969f,787c29d4,Mathias Jorgensen,DEN,FW,20-334,69,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/de7a0fe6/Serge-Ngoma,de7a0fe6,787c29d4,Serge Ngoma,USA,MF,16-042,21,1,0,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/310fd6d8/Omar-Sowe,310fd6d8,787c29d4,Omar Sowe,GAM,FW,20-296,90,0,0,0,0,3,2,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/4c89d918/Jake-LaCava,4c89d918,787c29d4,Jake LaCava,USA,LM,20-220,90,0,1,0,0,3,0,0,0,2,0,0,1,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/a8de0bd5/Daniel-Edelman,a8de0bd5,787c29d4,Daniel Edelman,USA,CM,18-114,90,0,0,0,0,0,0,0,0,2,3,0,6,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/2eb09121/Dru-Yearwood,2eb09121,787c29d4,Dru Yearwood,ENG,CM,21-184,69,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/2b300bb2/Samuel-Williams,2b300bb2,787c29d4,Samuel Williams,USA,MF,16-155,21,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/f8ec10c1/Austin-Brummett,f8ec10c1,787c29d4,Austin Brummett,USA,RM,17-187,90,0,1,0,0,1,0,0,0,2,4,0,1,0,2,0,0,0,RM,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/013e66bb/Juan-Castillo,013e66bb,787c29d4,Juan Castillo,COL,LB,18-321,90,0,0,0,0,1,0,1,0,2,2,0,2,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/614f243a/John-Cortez,614f243a,787c29d4,John Cortez,USA,CB,17-164,65,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/bfcc315e/Luther-Archimede,bfcc315e,787c29d4,Luther Archimede,GLP,,21-337,25,0,0,0,0,0,0,0,0,2,0,0,2,0,1,0,0,0,,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/4f1af616/Emir-Tombul,4f1af616,787c29d4,Emir Tombul,,CB,20-228,90,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/ca9ccbf2/Jeremy-Rafanello,ca9ccbf2,787c29d4,Jeremy Rafanello,USA,RB,21-128,90,0,0,0,0,1,0,0,0,0,3,0,5,0,3,0,0,0,RB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/d40af0f3/Luca-Lewis,d40af0f3,787c29d4,Luca Lewis,USA,GK,20-179,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,9.0,3.0,6.0,66.7
+Charleston,https://fbref.com/en/players/c912dbcb/Claudio-Repetto,c912dbcb,787c29d4,Claudio Repetto,ITA,FW,24-199,70,1,0,0,0,4,2,0,0,2,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/68e684ee/Nicque-Daley,68e684ee,787c29d4,Nicque Daley,JAM,FW,20-305,20,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/7000e3a0/DZ-Harmon,7000e3a0,787c29d4,DZ Harmon,LBR,FW,24-302,90,1,0,0,0,2,2,0,0,0,2,1,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/7a57e1c4/Geobel-Perez,7a57e1c4,787c29d4,Geobel Perez,CUB,LM,22-079,71,0,2,0,0,3,2,0,0,2,1,0,1,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/90bc9cab/Romario-Piggott,90bc9cab,787c29d4,Romario Piggott,PAN,MF,26-034,19,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/a68a9609/Burke-Fahling,a68a9609,787c29d4,Burke Fahling,USA,CM,24-017,90,0,0,0,0,0,0,0,0,3,0,0,4,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/7e40f227/Angelo-Kelly-Rosales,7e40f227,787c29d4,Angelo Kelly Rosales,HON,CM,28-207,90,0,0,0,0,1,0,0,0,2,1,0,0,0,3,0,0,0,CM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/29c8decb/Joshua-Penn,29c8decb,787c29d4,Joshua Penn,USA,RM,20-268,77,1,0,0,0,3,2,0,0,1,1,0,1,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/14b59d58/Temiloluwa-Adesodun,14b59d58,787c29d4,Temiloluwa Adesodun,NGA,DF,23-256,13,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/0e104fd6/AJ-Paterson,0e104fd6,787c29d4,AJ Paterson,GRN,LB,25-201,90,0,1,0,0,0,0,0,0,2,3,0,1,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/4944b644/Patrick-Hogan,4944b644,787c29d4,Patrick Hogan,USA,CB,23-337,90,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/bbb1e33e/Leland-Archer,bbb1e33e,787c29d4,Leland Archer,TRI,CB,25-224,90,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/d085c340/Frank-Nodarse,d085c340,787c29d4,Frank Nodarse,CUB,RB,20-257,70,0,0,0,0,1,0,1,0,1,1,0,2,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/79979a4e/Robbie-Crawford,79979a4e,787c29d4,Robbie Crawford,SCO,MF,28-154,20,0,0,0,0,0,0,1,0,1,0,0,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/94cd786f/Joe-Kuzminsky,94cd786f,787c29d4,Joe Kuzminsky,USA,GK,27-206,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,GK,4.0,2.0,2.0,50.0

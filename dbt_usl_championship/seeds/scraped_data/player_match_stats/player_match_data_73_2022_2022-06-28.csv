@@ -1,0 +1,58 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Hartford Athletic,https://fbref.com/en/players/7f84bbd4/Juan-Carlos-Obregon,7f84bbd4,5ef6bd39,Juan Carlos Obregon,HON,FW,24-242,70,0,0,0,0,2,0,0,0,0,2,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/4dc3ce03/Rashawn-Dally,4dc3ce03,5ef6bd39,Rashawn Dally,JAM,FW,25-165,20,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/92da8c34/Prince-Saydee,92da8c34,5ef6bd39,Prince Saydee,LBR,LW,26-128,65,0,0,0,0,2,1,1,0,2,0,1,5,0,1,0,0,0,LW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/e77958b9/Ashkanov-Apollon,e77958b9,5ef6bd39,Ashkanov Apollon,HAI,"DF,FW",31-086,25,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/a6290bda/Andre-Lewis,a6290bda,5ef6bd39,Andre Lewis,JAM,AM,27-320,90,1,0,0,0,3,2,0,0,0,4,2,2,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/f47a82ff/Luka-Prpa,f47a82ff,5ef6bd39,Luka Prpa,USA,AM,23-336,89,0,0,0,0,3,0,0,0,1,2,2,0,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/f757c700/Peter-Lee-Vassell,f757c700,5ef6bd39,Peter Lee Vassell,JAM,MF,24-145,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/b2e0370d/Danny-Barrera,b2e0370d,5ef6bd39,Danny Barrera,USA,RW,32-171,90,0,0,0,0,0,0,0,0,1,2,0,6,0,1,0,0,0,RW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/46c0b8fd/Conor-McGlynn,46c0b8fd,5ef6bd39,Conor McGlynn,USA,DM,23-220,90,0,0,0,0,4,0,1,0,1,0,0,0,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/29a972e4/Joel-Johnson,29a972e4,5ef6bd39,Joel Johnson,LBR,LB,29-281,70,0,0,0,0,0,0,1,0,3,0,0,2,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/bf49fa7b/Ariel-Martinez,bf49fa7b,5ef6bd39,Ariel Martinez,CUB,"FW,MF",36-050,20,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/0cbd9569/Modou-Jadama,0cbd9569,5ef6bd39,Modou Jadama,USA,CB,28-103,90,0,0,0,0,1,0,0,0,0,0,0,1,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/30c268ea/Tom-Brewitt,30c268ea,5ef6bd39,Tom Brewitt,ENG,CB,25-137,90,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/1cdd642f/Younes-Boudadi,1cdd642f,5ef6bd39,Younes Boudadi,MAR,RB,26-156,90,0,0,0,0,0,0,1,0,0,1,1,4,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/e0571635/Yannik-Oettl,e0571635,5ef6bd39,Yannik Oettl,GER,GK,25-221,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,2.0,0.0,2.0,100.0
+CS Switchbacks,https://fbref.com/en/players/a25e9c54/Kharlton-Belmar,a25e9c54,5ef6bd39,Kharlton Belmar,GRN,FW,29-209,62,0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/836c317b/Elvis-Amoh,836c317b,5ef6bd39,Elvis Amoh,GHA,"FW,MF",30-146,28,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/9837830f/Michee-Ngalina,9837830f,5ef6bd39,Michee Ngalina,COD,AM,22-083,90,0,0,0,0,3,1,0,0,1,2,0,6,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/e32a89fc/Hadji-Barry,e32a89fc,5ef6bd39,Hadji Barry,GUI,AM,29-202,90,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/544a1480/Issa-Rayyan,544a1480,5ef6bd39,Issa Rayyan,USA,AM,21-308,62,0,0,0,0,0,0,0,0,1,1,2,1,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/04e37c0e/Malik-Johnson,04e37c0e,5ef6bd39,Malik Johnson,CAN,MF,24-076,28,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/a6362b48/Steven-Echeverria,a6362b48,5ef6bd39,Steven Echeverria,PUR,DM,26-080,90,0,0,0,0,1,0,0,0,2,2,0,6,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/35429371/Beverly-Makangila,35429371,5ef6bd39,Beverly Makangila,COD,DM,22-078,90,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/13ef084f/Isaiah-Foster,13ef084f,5ef6bd39,Isaiah Foster,USA,LB,18-320,90,0,0,0,0,0,0,0,0,1,0,0,3,0,3,0,0,0,LB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/5b22557f/Tobi-Adewole,5b22557f,5ef6bd39,Tobi Adewole,USA,CB,26-257,90,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/52743db1/Jimmy-Ockford,52743db1,5ef6bd39,Jimmy Ockford,USA,CB,30-018,90,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/658388b4/Matt-Mahoney,658388b4,5ef6bd39,Matt Mahoney,USA,RB,27-072,90,0,0,0,0,0,0,1,0,2,2,0,0,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/6a0987cf/Christian-Herrera,6a0987cf,5ef6bd39,Christian Herrera,MEX,GK,25-069,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,2.0,2.0,50.0
+San Antonio FC,https://fbref.com/en/players/86429529/Samuel-Adeniran,86429529,b60b3b77,Samuel Adeniran,USA,FW,23-271,90,1,0,0,0,7,2,0,0,2,2,1,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/70cb3cf1/Santiago-Patino,70cb3cf1,b60b3b77,Santiago Patino,USA,FW,25-110,45,0,0,0,0,2,0,0,0,1,0,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/eb8eae2c/Justin-Dhillon,eb8eae2c,b60b3b77,Justin Dhillon,USA,FW,27-022,45,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/05ad7458/Connor-Maloney,05ad7458,b60b3b77,Connor Maloney,USA,LW,27-041,90,0,0,0,0,1,1,0,0,2,0,0,3,0,1,0,0,0,LW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/ed724033/Nicky-Hernandez,ed724033,b60b3b77,Nicky Hernandez,USA,AM,23-280,74,0,1,0,0,1,0,0,0,0,3,0,1,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/49cc5379/Jordan-Ayimbila,49cc5379,b60b3b77,Jordan Ayimbila,GHA,"DF,MF",21-134,16,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/0b90fa20/Alassane-Diouf,0b90fa20,b60b3b77,Alassane Diouf,SEN,AM,22-096,53,0,0,0,0,2,0,1,0,1,1,1,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/7a447474/Ignacio-Bailone,7a447474,b60b3b77,Ignacio Bailone,ARG,FW,28-159,37,1,0,0,0,2,1,0,0,1,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/bd107d30/Shannon-Gomez,bd107d30,b60b3b77,Shannon Gomez,TRI,RW,25-266,90,0,0,0,0,0,0,0,0,2,2,0,3,0,1,0,0,0,RW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/c1f17b17/Mohammed-Abu,c1f17b17,b60b3b77,Mohammed Abu,GHA,DM,30-226,90,0,0,0,0,0,0,1,0,3,0,0,5,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/f3513a46/Jasser-Khmiri,f3513a46,b60b3b77,Jasser Khmiri,TUN,CB,24-227,90,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/96f18e66/Fabien-Garcia,96f18e66,b60b3b77,Fabien Garcia,FRA,CB,27-349,90,0,0,0,0,1,0,0,0,3,1,0,6,0,4,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/2a44ec3d/Mitchell-Taintor,2a44ec3d,b60b3b77,Mitchell Taintor,USA,CB,27-290,90,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/7b20d178/Jordan-Farr,7b20d178,b60b3b77,Jordan Farr,USA,GK,27-266,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,1.0,1.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/d87d5f74/Dario-Suarez,d87d5f74,b60b3b77,Dario Suarez,CUB,FW,29-324,45,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/5d90b1db/Rodrigo-Da-Costa,5d90b1db,b60b3b77,Rodrigo Da Costa,BRA,"FW,MF",28-190,45,0,0,0,0,0,0,0,0,0,3,0,5,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/d04dba18/JJ-Williams,d04dba18,b60b3b77,JJ Williams,USA,FW,24-175,90,1,0,0,0,4,1,0,0,1,1,1,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/97bfcd7f/Gabriel-Torres,97bfcd7f,b60b3b77,Gabriel Torres,BRA,LW,25-331,75,0,0,0,0,0,0,1,0,1,1,0,5,0,0,0,0,0,LW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/f36566e9/Bradley-Bourgeois,f36566e9,b60b3b77,Bradley Bourgeois,USA,DF,28-076,15,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/068656ea/Kembo-Kibato,068656ea,b60b3b77,Kembo Kibato,CAN,AM,21-285,68,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/64b7bf0e/Eric-Bird,64b7bf0e,b60b3b77,Eric Bird,USA,MF,29-081,22,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/dd4ddd03/Lebogang-Moloto,dd4ddd03,b60b3b77,Lebogang Moloto,RSA,AM,32-038,68,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/5f004730/Marlon-Ramirez,5f004730,b60b3b77,Marlon Ramirez,HON,FW,28-072,22,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/d83fa006/Sean-McFarlane,d83fa006,b60b3b77,Sean McFarlane,JAM,RW,29-085,90,0,1,0,0,0,0,1,0,1,1,0,8,0,2,0,0,0,RW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/b14da847/Abuchi-Obinwa,b14da847,b60b3b77,Abuchi Obinwa,USA,DM,25-164,90,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/b3a1306b/Johnny-Fenwick,b3a1306b,b60b3b77,Johnny Fenwick,ENG,CB,27-220,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/cbb8e1da/Ronald-Rodriguez,cbb8e1da,b60b3b77,Ronald Rodriguez,SLV,CB,23-279,90,0,0,0,0,1,0,0,0,3,1,0,0,0,4,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/f4462455/Adrian-Diz-Pe,f4462455,b60b3b77,Adrian Diz Pe,CUB,CB,28-116,90,0,0,0,0,0,0,0,0,0,4,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/096ae46b/Austin-Wormell,096ae46b,b60b3b77,Austin Wormell,USA,GK,24-033,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,2.0,2.0,50.0

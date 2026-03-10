@@ -1,0 +1,63 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Hartford Athletic,https://fbref.com/en/players/31429cca/Mamadou-Dieng,31429cca,e229a78c,Mamadou Dieng,SEN,FW,20-178,90,0,0,0,0,1,0,1,0,5,0,3,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/9837830f/Michee-Ngalina,9837830f,e229a78c,Michee Ngalina,COD,AM,24-116,90,0,0,0,0,1,1,0,0,1,2,0,2,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/b2e0370d/Danny-Barrera,b2e0370d,e229a78c,Danny Barrera,USA,AM,34-205,64,0,1,0,0,0,0,1,0,2,0,0,5,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/7bb23f0e/Marcus-Epps,7bb23f0e,e229a78c,Marcus Epps,USA,"FW,MF",29-197,26,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/a41992b2/Deshane-Beckford,a41992b2,e229a78c,Deshane Beckford,JAM,AM,26-135,90,1,0,0,0,4,3,0,0,1,1,0,1,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/1dfaa68d/Thomas-Vancaeyezeele,1dfaa68d,e229a78c,Thomas Vancaeyezeele,GUF,DM,30-004,90,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,0,0,DM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/35429371/Beverly-Makangila,35429371,e229a78c,Beverly Makangila,COD,DM,24-111,80,0,0,0,0,0,0,0,0,2,4,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/1d531c57/Marlon-Hairston,1d531c57,e229a78c,Marlon Hairston,USA,"DF,MF",30-130,10,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/d9330b12/Tristan-Hodge,d9330b12,e229a78c,Tristan Hodge,TRI,LB,29-296,90,0,0,0,0,0,0,0,0,2,1,0,0,0,4,0,0,0,LB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/8f87602d/Joe-Farrell,8f87602d,e229a78c,Joe Farrell,USA,CB,30-169,90,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/aea70213/Joey-Akpunonu,aea70213,e229a78c,Joey Akpunonu,USA,CB,22-223,90,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/1cdd642f/Younes-Boudadi,1cdd642f,e229a78c,Younes Boudadi,MAR,RB,28-190,37,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/569b7d4c/Emmanuel-Samadiya,569b7d4c,e229a78c,Emmanuel Samadiya,SLE,DF,23-103,53,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,DF,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/22db7a5e/Renan-Ribeiro,22db7a5e,e229a78c,Renan Ribeiro,BRA,GK,34-130,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,5.0,0.0,5.0,100.0
+Detroit City,https://fbref.com/en/players/2390ab6e/Ben-Morris,2390ab6e,e229a78c,Ben Morris,ENG,FW,25-025,63,0,0,0,0,2,1,0,0,0,0,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/4767bcf0/Daniel-Espeleta,4767bcf0,e229a78c,Daniel Espeleta,CRC,MF,26-117,27,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/9e8264b7/Maxi-Rodriguez,9e8264b7,e229a78c,Maxi Rodriguez,USA,FW,28-357,75,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/836c317b/Elvis-Amoh,836c317b,e229a78c,Elvis Amoh,GHA,"FW,MF",32-180,15,0,0,0,0,4,2,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/34084a47/Abdoulaye-Diop,34084a47,e229a78c,Abdoulaye Diop,SEN,LM,24-318,88,0,0,0,0,2,1,0,0,0,4,0,2,0,1,0,0,0,LM,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/80afacdc/Connor-Rutz,80afacdc,e229a78c,Connor Rutz,USA,MF,27-113,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/1eaf599d/Ryan-Williams,1eaf599d,e229a78c,Ryan Williams,ENG,CM,33-114,63,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/fc40abc3/Rhys-Williams,fc40abc3,e229a78c,Rhys Williams,USA,MF,28-357,27,0,0,0,0,1,1,1,0,0,0,0,4,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/52ffb493/James-Murphy,52ffb493,e229a78c,James Murphy,USA,CM,26-318,90,0,0,0,0,0,0,0,0,1,2,0,2,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/8c4614a8/Jeciel-Cedeno,8c4614a8,e229a78c,Jeciel Cedeno,ECU,RM,24-119,63,0,0,0,0,1,0,0,0,2,0,0,5,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/cbfb6ca5/Victor-Bezerra,cbfb6ca5,e229a78c,Victor Bezerra,USA,FW,24-177,27,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/c168f022/Alex-Villanueva,c168f022,e229a78c,Alex Villanueva,USA,LB,22-022,90,0,0,0,0,0,0,0,0,1,2,0,5,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/998268a4/Devon-Amoo-Mensah,998268a4,e229a78c,Devon Amoo Mensah,USA,CB,28-247,90,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/8e6965ad/Michael-Bryant,8e6965ad,e229a78c,Michael Bryant,USA,CB,29-120,90,0,0,0,0,1,0,0,0,0,3,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/6d9fe7bd/Matthew-Sheldon,6d9fe7bd,e229a78c,Matthew Sheldon,USA,RB,31-343,90,0,0,0,0,0,0,0,0,3,2,0,3,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/6d7ab31d/Nathan-Steinwascher,6d7ab31d,e229a78c,Nathan Steinwascher,USA,GK,31-167,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,1.0,3.0,75.0
+New Mexico Utd,https://fbref.com/en/players/3d9e8e17/Greg-Hurst,3d9e8e17,74421f6d,Greg Hurst,SCO,FW,27-114,63,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/1a4fa9cd/Marco-Micaletto,1a4fa9cd,74421f6d,Marco Micaletto,ITA,"FW,MF",28-194,27,0,0,0,0,1,0,0,0,0,0,0,3,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/f90c1a5e/Avionne-Flanagan,f90c1a5e,74421f6d,Avionne Flanagan,USA,FW,25-116,62,0,0,0,0,0,0,0,0,2,2,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/fbed8396/Mukwelle-Akale,fbed8396,74421f6d,Mukwelle Akale,USA,MF,27-195,28,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/51ac90d7/Daniel-Bruce,51ac90d7,74421f6d,Daniel Bruce,ENG,FW,28-079,90,1,0,0,0,4,1,0,0,3,2,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/3bd84c13/Sergio-Rivas,3bd84c13,74421f6d,Sergio Rivas,MEX,CM,26-302,86,0,0,0,0,2,1,0,0,1,0,0,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/1d5b332d/Talen-Maples,1d5b332d,74421f6d,Talen Maples,USA,DF,25-254,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/95714370/Jacobo-Reyes,95714370,74421f6d,Jacobo Reyes,USA,CM,23-355,76,0,0,0,0,1,0,0,0,0,1,0,7,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/a2611a0a/Dayonn-Harris,a2611a0a,74421f6d,Dayonn Harris,ATG,MF,26-337,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/efd7b827/Houssou-Landry,efd7b827,74421f6d,Houssou Landry,CIV,CM,23-216,90,0,0,0,0,0,0,1,0,4,2,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/5abe68d8/Abdi-Mohamed,5abe68d8,74421f6d,Abdi Mohamed,SOM,LB,27-280,90,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/077e97b3/Kalen-Ryden,077e97b3,74421f6d,Kalen Ryden,USA,CB,33-184,90,0,0,0,0,1,1,0,0,0,2,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/2f602ca2/Anthony-Herbert,2f602ca2,74421f6d,Anthony Herbert,TRI,CB,26-108,90,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/30a4f94b/Arturo-Astorga,30a4f94b,74421f6d,Arturo Astorga,USA,RB,26-124,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/aa9e1161/Zico-Bailey,aa9e1161,74421f6d,Zico Bailey,PHI,"DF,MF",23-339,14,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/0245fbbf/Alexandros-Tabakis,0245fbbf,74421f6d,Alexandros Tabakis,GRE,GK,31-236,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,2.0,2.0,50.0
+LV Lights FC,https://fbref.com/en/players/60b4d213/Solomon-Asante,60b4d213,74421f6d,Solomon Asante,GHA,FW,34-147,58,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/0beae10c/Andre-Fortune-II,0beae10c,74421f6d,Andre Fortune II,TRI,MF,28-028,32,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/8b680dae/Christian-Pinzon,8b680dae,74421f6d,Christian Pinzon,MEX,AM,26-037,90,1,0,0,0,2,1,1,0,2,1,0,2,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/55975b0c/Valentin-Noel,55975b0c,74421f6d,Valentin Noel,FRA,AM,25-095,73,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/3511b4f8/Joe-Gyau,3511b4f8,74421f6d,Joe Gyau,USA,"DF,FW",31-319,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/229125b1/Grayson-Doody,229125b1,74421f6d,Grayson Doody,USA,AM,22-133,73,0,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/2d1a053d/Emrah-Klimenta,2d1a053d,74421f6d,Emrah Klimenta,MNE,"DF,MF",33-169,17,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/50a5e230/Ousman-Jabang,50a5e230,74421f6d,Ousman Jabang,USA,DM,23-124,90,0,0,0,0,0,0,1,0,0,2,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/a898dc13/Jean-Claude-Ngando,a898dc13,74421f6d,Jean Claude Ngando,CMR,DM,24-254,74,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/423af47f/Khori-Bennett,423af47f,74421f6d,Khori Bennett,JAM,FW,26-231,16,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/85fe5da5/Gennaro-Nigro,85fe5da5,74421f6d,Gennaro Nigro,USA,LB,24-063,90,0,0,0,0,1,1,1,0,4,1,1,2,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/61f577c3/Maliek-Howell,61f577c3,74421f6d,Maliek Howell,JAM,CB,25-186,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/9732b44c/Joe-Hafferty,9732b44c,74421f6d,Joe Hafferty,USA,CB,26-132,90,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/923a6162/Shawn-Smart,923a6162,74421f6d,Shawn Smart,USA,RB,20-158,80,0,0,0,0,6,2,0,0,1,0,0,0,0,4,0,0,0,RB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/df3ac7ff/Coleman-Gannon,df3ac7ff,74421f6d,Coleman Gannon,USA,MF,21-253,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/ad274990/Raiko-Arozarena,ad274990,74421f6d,Raiko Arozarena,CUB,GK,27-126,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,3.0,1.0,2.0,66.7

@@ -1,0 +1,29 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+B'ham Legion,https://fbref.com/en/players/e41bbc5d/Enzo-Martinez,e41bbc5d,79c15ab8,Enzo Martinez,URU,FW,31-333,90,1,0,0,0,8,2,0,0,1,1,0,2,0,2,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/0cb2115f/Juan-Agudelo,0cb2115f,79c15ab8,Juan Agudelo,USA,FW,29-278,69,1,0,1,1,4,2,0,0,2,1,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/1fb70442/Sadik-Balalarabe,1fb70442,79c15ab8,Sadik Balalarabe,ENG,FW,30-063,21,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/06590038/Marlon,06590038,79c15ab8,Marlon,BRA,FW,27-121,73,0,0,0,0,3,1,0,0,1,2,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/bfb5ddf3/Mataeo-Bunbury,bfb5ddf3,79c15ab8,Mataeo Bunbury,CAN,FW,17-076,17,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ed8d0da6/Anderson-Asiedu,ed8d0da6,79c15ab8,Anderson Asiedu,GHA,CM,26-077,90,0,0,0,0,0,0,1,0,1,4,1,1,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/a2118e42/Zachary-Herivaux,a2118e42,79c15ab8,Zachary Herivaux,HAI,CM,26-208,81,0,0,0,0,0,0,0,0,3,2,0,0,0,3,0,0,0,CM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/3ae9a342/Ryan-James,3ae9a342,79c15ab8,Ryan James,CAN,"DF,MF",28-129,9,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/0d74a643/Bruno-Lapa,0d74a643,79c15ab8,Bruno Lapa,BRA,CM,25-110,90,0,2,0,0,3,2,0,0,0,1,0,8,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/2ff7465d/Jake-Rufe,2ff7465d,79c15ab8,Jake Rufe,USA,LB,26-218,90,0,0,0,0,0,0,0,0,1,3,0,0,0,4,0,0,0,LB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ff98d5ca/Phanuel-Kavita,ff98d5ca,79c15ab8,Phanuel Kavita,RWA,CB,29-172,90,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/1169c5eb/Alex-Crognale,1169c5eb,79c15ab8,Alex Crognale,USA,CB,28-001,90,0,0,0,0,2,1,1,0,3,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ed8c35d2/Jonathan-Dean,ed8c35d2,79c15ab8,Jonathan Dean,USA,RB,25-105,90,1,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/6b9a35b3/Matt-Van-Oekel,6b9a35b3,79c15ab8,Matt Van Oekel,USA,GK,35-342,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,1.0,5.0,100.0
+NY Red Bulls II,https://fbref.com/en/players/58a69838/Jonathan-Filipe,58a69838,79c15ab8,Jonathan Filipe,USA,FW,23-230,90,0,0,0,0,1,0,1,0,2,0,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/1aa8d821/John-Murphy,1aa8d821,79c15ab8,John Murphy,USA,AM,22-131,90,0,0,0,0,1,0,1,0,1,5,0,4,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/0a7805d7/Erick-Ruiz,0a7805d7,79c15ab8,Erick Ruiz,USA,AM,17-104,90,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/f1e19fad/Jordan-Adebayo-Smith,f1e19fad,79c15ab8,Jordan Adebayo Smith,NGA,AM,22-229,90,1,0,1,1,2,2,0,0,0,1,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/d6397b30/Michael-Knapp,d6397b30,79c15ab8,Michael Knapp,USA,DM,22-210,90,0,0,0,0,1,1,1,0,5,1,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/2ebdb6c3/Jesus-Castellano,2ebdb6c3,79c15ab8,Jesus Castellano,VEN,DM,18-159,83,0,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/955d4bc8/Bento-Estrela,955d4bc8,79c15ab8,Bento Estrela,USA,MF,16-199,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/8c38e57e/Curtis-Ofori,8c38e57e,79c15ab8,Curtis Ofori,USA,LB,16-281,61,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,0,0,LB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/8d1808e0/Arian-Recinos,8d1808e0,79c15ab8,Arian Recinos,GUA,MF,17-206,29,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/05201907/Daniel-De-Leon,05201907,79c15ab8,Daniel De Leon,USA,CB,21-295,84,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/81d3bae4/Davi-Alexandre,81d3bae4,79c15ab8,Davi Alexandre,USA,DF,15-206,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/148f3d0f/Hassan-Ndam,148f3d0f,79c15ab8,Hassan Ndam,CMR,CB,23-303,90,0,0,0,0,2,2,0,0,1,0,0,0,0,4,0,0,0,CB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/5b1f7097/OVonte-Mullings,5b1f7097,79c15ab8,OVonte Mullings,CAN,RB,21-323,90,0,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/50692211/Giannis-Nikopolidis,50692211,79c15ab8,Giannis Nikopolidis,GRE,GK,21-263,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,10.0,3.0,8.0,80.0

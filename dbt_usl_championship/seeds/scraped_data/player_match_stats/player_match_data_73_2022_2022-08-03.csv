@@ -1,0 +1,62 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+NY Red Bulls II,https://fbref.com/en/players/74ba46bc/Zach-Ryan,74ba46bc,a8b8b1bd,Zach Ryan,USA,FW,23-201,70,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/cab97dd2/Wikelman-Carmona,cab97dd2,a8b8b1bd,Wikelman Carmona,VEN,MF,19-160,20,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/58a69838/Jonathan-Filipe,58a69838,a8b8b1bd,Jonathan Filipe,USA,AM,23-205,52,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/f1e19fad/Jordan-Adebayo-Smith,f1e19fad,a8b8b1bd,Jordan Adebayo Smith,NGA,FW,22-204,38,1,0,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/6e327d0d/Caden-Clark,6e327d0d,a8b8b1bd,Caden Clark,USA,AM,19-068,90,0,0,0,0,0,0,1,0,1,0,0,2,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/bddc8df4/Steven-Sserwadda,bddc8df4,a8b8b1bd,Steven Sserwadda,UGA,AM,19-340,90,0,1,0,0,1,0,1,0,5,2,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/2ebdb6c3/Jesus-Castellano,2ebdb6c3,a8b8b1bd,Jesus Castellano,VEN,DM,18-134,70,0,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/40e1c628/Nathan-Worth,40e1c628,a8b8b1bd,Nathan Worth,USA,MF,15-158,20,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/1aa8d821/John-Murphy,1aa8d821,a8b8b1bd,John Murphy,USA,DM,22-106,52,0,0,0,0,0,0,0,0,0,7,0,2,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/d6397b30/Michael-Knapp,d6397b30,a8b8b1bd,Michael Knapp,USA,MF,22-185,38,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/8c38e57e/Curtis-Ofori,8c38e57e,a8b8b1bd,Curtis Ofori,USA,LB,16-256,90,0,0,0,0,0,0,1,0,2,0,0,2,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/05201907/Daniel-De-Leon,05201907,a8b8b1bd,Daniel De Leon,USA,CB,21-270,90,0,0,0,0,0,0,0,0,2,2,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/81d3bae4/Davi-Alexandre,81d3bae4,a8b8b1bd,Davi Alexandre,USA,CB,15-181,74,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/0a7805d7/Erick-Ruiz,0a7805d7,a8b8b1bd,Erick Ruiz,USA,DF,17-079,16,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/5b1f7097/OVonte-Mullings,5b1f7097,a8b8b1bd,OVonte Mullings,CAN,RB,21-298,90,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/50692211/Giannis-Nikopolidis,50692211,a8b8b1bd,Giannis Nikopolidis,GRE,GK,21-238,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,11.0,2.0,9.0,81.8
+Memphis 901,https://fbref.com/en/players/15387e4f/Phillip-Goodrum,15387e4f,a8b8b1bd,Phillip Goodrum,USA,FW,25-044,77,1,0,0,0,4,3,1,0,2,3,3,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/5e7f4283/Laurent-Kissiedou,5e7f4283,a8b8b1bd,Laurent Kissiedou,CIV,MF,23-224,13,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/7636fa88/Jeremy-Kelly,7636fa88,a8b8b1bd,Jeremy Kelly,USA,AM,24-286,90,1,0,0,0,5,3,0,0,3,1,0,0,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/bd929bce/Chris-Allan,bd929bce,a8b8b1bd,Chris Allan,ENG,AM,23-310,77,0,1,0,0,3,1,0,0,3,2,2,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/5f732a63/David-Egbo,5f732a63,a8b8b1bd,David Egbo,NGA,FW,23-276,13,0,0,0,0,2,1,0,0,0,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/ce23c94d/Luiz-Fernando,ce23c94d,a8b8b1bd,Luiz Fernando,BRA,AM,25-041,67,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/b9b0304a/Derek-Dodson,b9b0304a,a8b8b1bd,Derek Dodson,USA,"DF,MF",23-273,23,0,0,0,0,2,2,0,0,1,1,1,2,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/3fad8026/Leston-Paul,3fad8026,a8b8b1bd,Leston Paul,TRI,DM,32-145,90,0,0,0,0,1,0,1,0,4,3,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/38088899/Aaron-Molloy,38088899,a8b8b1bd,Aaron Molloy,IRL,DM,25-204,90,0,1,0,0,2,0,0,0,0,2,1,5,0,3,0,0,0,DM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/00d83db0/Patrick-Seagrist,00d83db0,a8b8b1bd,Patrick Seagrist,USA,LB,24-163,90,0,0,0,0,0,0,0,0,0,1,0,3,0,3,0,0,0,LB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/f209d2aa/Zach-Carroll,f209d2aa,a8b8b1bd,Zach Carroll,USA,CB,28-140,90,0,0,0,0,1,0,0,0,1,2,0,1,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/ae3330d0/Graham-Smith,ae3330d0,a8b8b1bd,Graham Smith,USA,CB,26-251,90,0,0,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/6e0d9f17/Rece-Buckmaster,6e0d9f17,a8b8b1bd,Rece Buckmaster,USA,RB,26-027,90,0,0,0,0,0,0,0,0,1,1,0,4,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/20e26ab3/Trey-Muse,20e26ab3,a8b8b1bd,Trey Muse,USA,GK,23-008,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,1.0,2.0,66.7
+New Mexico Utd,https://fbref.com/en/players/fdbfda5d/Neco-Brett,fdbfda5d,c538b7db,Neco Brett,JAM,FW,30-134,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/75a0181e/Preston-Tabortetaka,75a0181e,c538b7db,Preston Tabortetaka,CMR,FW,24-054,53,1,0,0,0,2,1,1,0,1,2,0,4,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/d961761c/Romario-Williams,d961761c,c538b7db,Romario Williams,JAM,FW,27-353,37,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/9dea5bda/Chris-Wehan,9dea5bda,c538b7db,Chris Wehan,USA,FW,28-186,90,0,0,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/1e2207ff/Sam-Hamilton,1e2207ff,c538b7db,Sam Hamilton,USA,CM,27-007,86,0,0,0,0,1,0,0,0,2,1,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/9dc9b03f/Amando-Moreno,9dc9b03f,c538b7db,Amando Moreno,SLV,"FW,MF",26-327,4,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/b7aa9657/Justin-Portillo,b7aa9657,c538b7db,Justin Portillo,USA,CM,29-328,90,0,0,0,0,0,0,0,0,2,1,0,4,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/212fb935/Will-Seymore,212fb935,c538b7db,Will Seymore,USA,DM,30-155,73,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/87c0db23/Micheal-Azira,87c0db23,c538b7db,Micheal Azira,UGA,"DF,MF",34-346,17,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/311a4c0b/Josh-Suggs,311a4c0b,c538b7db,Josh Suggs,USA,LB,33-099,86,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/51ac90d7/Daniel-Bruce,51ac90d7,c538b7db,Daniel Bruce,ENG,"FW,MF",26-082,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/077e97b3/Kalen-Ryden,077e97b3,c538b7db,Kalen Ryden,USA,CB,31-186,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/65054630/Alexis-Souahy,65054630,c538b7db,Alexis Souahy,COM,CB,27-202,90,0,0,0,0,2,0,0,0,0,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/d1b6fe5b/Harry-Swartz,d1b6fe5b,c538b7db,Harry Swartz,USA,RB,26-137,90,0,0,0,0,0,0,0,0,1,2,0,3,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/0245fbbf/Alexandros-Tabakis,0245fbbf,c538b7db,Alexandros Tabakis,GRE,GK,29-238,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,6.0,2.0,4.0,66.7
+Sac Republic,https://fbref.com/en/players/3e7ebb9a/Douglas-Martinez,3e7ebb9a,c538b7db,Douglas Martinez,HON,FW,25-059,79,1,0,0,0,2,2,0,0,3,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/a851a29d/Maalique-Foster,a851a29d,c538b7db,Maalique Foster,JAM,"FW,MF",25-271,11,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/1512328c/Keko,1512328c,c538b7db,Keko,ESP,FW,30-219,89,1,0,0,0,2,2,1,0,1,2,0,4,0,2,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/74e30bd2/Luther-Archimede,74e30bd2,c538b7db,Luther Archimede,GLP,FW,22-320,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/29b51d26/Rodrigo-Lopez,29b51d26,c538b7db,Rodrigo Lopez,USA,CM,35-085,88,0,2,0,0,0,0,0,0,1,2,0,5,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/d22a46b4/Emil-Cuello,d22a46b4,c538b7db,Emil Cuello,USA,MF,25-213,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/a07caf31/Luis-Felipe,a07caf31,c538b7db,Luis Felipe,BRA,CM,26-186,90,0,0,0,0,1,1,0,0,1,0,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/1fdf3f69/Nick-Ross,1fdf3f69,c538b7db,Nick Ross,SCO,CM,30-265,90,0,0,0,0,0,0,1,0,2,1,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/1501d576/Damia-Viader,1501d576,c538b7db,Damia Viader,ESP,LB,24-165,79,0,0,0,0,1,1,1,0,3,0,0,1,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/bce0d6f6/Duke-Lacroix,bce0d6f6,c538b7db,Duke Lacroix,HAI,"DF,FW",28-293,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/84703bc6/Lee-Desmond,84703bc6,c538b7db,Lee Desmond,IRL,CB,27-193,50,0,0,0,0,0,0,0,0,1,1,0,0,0,5,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/733aa9ec/Josh-Bauer,733aa9ec,c538b7db,Josh Bauer,USA,DF,24-012,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/6806c66b/Conor-Donovan,6806c66b,c538b7db,Conor Donovan,USA,CB,26-207,90,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/c68ed7ff/Dan-Casey,c68ed7ff,c538b7db,Dan Casey,IRL,CB,24-278,90,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/2ade3d9e/Jack-Gurr,2ade3d9e,c538b7db,Jack Gurr,ENG,RB,26-250,90,0,0,0,0,1,0,0,0,0,2,0,2,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/f0abea8c/Daniel-Vitiello,f0abea8c,c538b7db,Daniel Vitiello,USA,GK,26-150,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,1.0,2.0,66.7

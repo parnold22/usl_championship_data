@@ -1,0 +1,30 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Tacoma,https://fbref.com/en/players/8a81f7c8/Alec-Diaz,8a81f7c8,514fcb74,Alec Diaz,PUR,FW,19-241,68,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Tacoma,https://fbref.com/en/players/86429529/Samuel-Adeniran,86429529,514fcb74,Samuel Adeniran,USA,FW,22-309,22,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Tacoma,https://fbref.com/en/players/816d7aec/Reed-Baker-Whiting,816d7aec,514fcb74,Reed Baker Whiting,USA,AM,16-127,90,0,0,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Tacoma,https://fbref.com/en/players/9cc1fde4/Obed-Vargas,9cc1fde4,514fcb74,Obed Vargas,MEX,AM,16-000,80,0,0,0,0,1,0,0,0,1,4,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Tacoma,https://fbref.com/en/players/a1082a7f/Juan-Alvarez,a1082a7f,514fcb74,Juan Alvarez,USA,MF,16-340,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Tacoma,https://fbref.com/en/players/c168f022/Alex-Villanueva,c168f022,514fcb74,Alex Villanueva,USA,DM,19-027,80,0,0,0,0,1,0,1,0,1,2,0,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Tacoma,https://fbref.com/en/players/23e750cb/Randy-Mendoza,23e750cb,514fcb74,Randy Mendoza,USA,DF,25-137,10,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Tacoma,https://fbref.com/en/players/ecc3a9c9/Danny-Leyva,ecc3a9c9,514fcb74,Danny Leyva,USA,DM,18-092,90,0,0,0,0,1,0,0,0,1,6,0,1,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Tacoma,https://fbref.com/en/players/2ad49384/Carlos-Anguiano,2ad49384,514fcb74,Carlos Anguiano,USA,DM,21-326,90,0,0,0,0,0,0,1,0,2,0,0,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Tacoma,https://fbref.com/en/players/1e772b7c/Ethan-Dobbelaere,1e772b7c,514fcb74,Ethan Dobbelaere,USA,DM,18-264,68,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Tacoma,https://fbref.com/en/players/d8c0039e/Ray-Serrano,d8c0039e,514fcb74,Ray Serrano,USA,"FW,MF",19-088,22,0,1,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Tacoma,https://fbref.com/en/players/b329cd24/Eric-Kinzner,b329cd24,514fcb74,Eric Kinzner,USA,CB,18-136,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Tacoma,https://fbref.com/en/players/27da29bf/Danny-Robles,27da29bf,514fcb74,Danny Robles,USA,MF,19-213,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Tacoma,https://fbref.com/en/players/30c268ea/Tom-Brewitt,30c268ea,514fcb74,Tom Brewitt,ENG,CB,24-175,90,0,0,0,0,0,0,0,0,2,0,0,1,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Tacoma,https://fbref.com/en/players/311ac532/Taylor-Mueller,311ac532,514fcb74,Taylor Mueller,USA,CB,32-319,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Tacoma,https://fbref.com/en/players/6a0987cf/Christian-Herrera,6a0987cf,514fcb74,Christian Herrera,MEX,GK,24-107,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,1.0,2.0,66.7
+Sac Republic,https://fbref.com/en/players/ee8fb451/Jerome-Kiesewetter,ee8fb451,514fcb74,Jerome Kiesewetter,USA,FW,28-177,50,1,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/7a2c4566/Cameron-Iwasa,7a2c4566,514fcb74,Cameron Iwasa,USA,"FW,MF",28-029,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/bce0d6f6/Duke-Lacroix,bce0d6f6,514fcb74,Duke Lacroix,HAI,AM,27-295,90,0,1,0,0,1,0,0,0,2,2,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/e5b9b76d/Mario-Penagos,e5b9b76d,514fcb74,Mario Penagos,USA,AM,19-067,76,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/2a44ec3d/Mitchell-Taintor,2a44ec3d,514fcb74,Mitchell Taintor,USA,DF,26-328,14,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/a25e9c54/Kharlton-Belmar,a25e9c54,514fcb74,Kharlton Belmar,GRN,AM,28-247,90,0,0,0,0,1,0,0,0,2,2,0,2,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/eb67fa0a/Fatai-Alashe,eb67fa0a,514fcb74,Fatai Alashe,USA,DM,27-288,90,0,0,0,0,1,0,1,0,6,1,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/faf0a2f2/Petteri-Pennanen,faf0a2f2,514fcb74,Petteri Pennanen,FIN,DM,30-320,90,0,0,0,0,0,0,1,0,2,1,0,2,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/bd107d30/Shannon-Gomez,bd107d30,514fcb74,Shannon Gomez,TRI,LB,24-304,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/c3e24517/Hayden-Sargis,c3e24517,514fcb74,Hayden Sargis,USA,CB,19-095,90,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/c68ed7ff/Dan-Casey,c68ed7ff,514fcb74,Dan Casey,IRL,CB,23-280,90,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/477ccde0/Jordan-McCrary,477ccde0,514fcb74,Jordan McCrary,USA,RB,28-008,90,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/ff070644/Tomas-Gomez,ff070644,514fcb74,Tomas Gomez,USA,GK,28-077,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,2.0,1.0,1.0,50.0

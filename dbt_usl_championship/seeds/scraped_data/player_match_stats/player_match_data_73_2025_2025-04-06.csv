@@ -1,0 +1,32 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+San Antonio FC,https://fbref.com/en/players/0cb2115f/Juan-Agudelo,0cb2115f,8303574f,Juan Agudelo,USA,FW,32-134,69,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/f40a57b2/Alex-Greive,f40a57b2,8303574f,Alex Greive,NZL,FW,25-328,21,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/77d28e45/Luke-Haakenson,77d28e45,8303574f,Luke Haakenson,USA,AM,27-208,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/3454a744/Luis-Paredes,3454a744,8303574f,Luis Paredes,COL,MF,23-297,21,0,0,0,0,2,1,0,0,0,1,0,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/7bf39a2f/Jorge-Hernandez,7bf39a2f,8303574f,Jorge Hernandez,USA,AM,24-149,90,1,0,1,1,2,1,1,0,2,3,0,9,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/4c89d918/Jake-LaCava,4c89d918,8303574f,Jake LaCava,USA,AM,24-084,87,0,0,0,0,3,0,0,0,1,2,0,2,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/ed724033/Nicky-Hernandez,ed724033,8303574f,Nicky Hernandez,USA,MF,26-197,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/eb193f70/Lucio-Berron,eb193f70,8303574f,Lucio Berron,ARG,DM,23-183,69,0,0,0,0,1,1,0,0,0,2,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/eec98e09/Nelson-Blanco,eec98e09,8303574f,Nelson Blanco,SLV,"DF,MF",25-232,21,0,0,0,0,0,0,1,0,1,0,0,3,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/5c44f448/Almir-Soto,5c44f448,8303574f,Almir Soto,COL,DM,30-263,90,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/6f7ac622/Jimmy-Medranda,6f7ac622,8303574f,Jimmy Medranda,COL,LB,31-058,90,0,0,0,0,4,2,0,0,2,1,0,2,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/65054630/Alexis-Souahy,65054630,8303574f,Alexis Souahy,COM,CB,30-083,90,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/1169c5eb/Alex-Crognale,1169c5eb,8303574f,Alex Crognale,USA,CB,30-222,90,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/ec8c8394/Juan-Osorio,ec8c8394,8303574f,Juan Osorio,USA,RB,22-028,87,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/bd8fa93e/Diogo-Oliveira-Pacheco,bd8fa93e,8303574f,Diogo Oliveira Pacheco,POR,MF,26-205,3,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/4903c3a6/Richard-Sanchez,4903c3a6,8303574f,Richard Sanchez,MEX,GK,31-001,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,2.0,2.0,66.7
+Phx Rising,https://fbref.com/en/players/2822f3dd/Damien-Rivera,2822f3dd,8303574f,Damien Rivera,GUA,FW,22-119,68,0,0,0,0,1,1,0,0,2,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/e855f6b1/Dariusz-Formella,e855f6b1,8303574f,Dariusz Formella,POL,"FW,MF",29-167,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/02b16fb4/Remi-Cabral,02b16fb4,8303574f,Remi Cabral,FRA,FW,25-270,81,1,0,1,1,4,1,0,0,2,3,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/9f7f84be/Darius-Johnson,9f7f84be,8303574f,Darius Johnson,GRN,MF,25-022,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/be915a68/Jearl-Margaritha,be915a68,8303574f,Jearl Margaritha,CUW,FW,24-361,90,1,0,0,0,1,1,0,0,0,2,1,2,0,3,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/68a87d66/Ihsan-Sacko,68a87d66,8303574f,Ihsan Sacko,FRA,CM,27-261,90,0,1,0,0,1,1,0,0,0,1,2,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/6bc16162/Noble-Okello,6bc16162,8303574f,Noble Okello,CAN,CM,24-260,90,0,0,0,0,0,0,1,0,3,0,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/c0550265/John-Scearce,c0550265,8303574f,John Scearce,USA,CM,27-108,75,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/f5bfcbf7/Mohamed-Traore,f5bfcbf7,8303574f,Mohamed Traore,SEN,DF,22-234,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/92442794/Harvey-Neville,92442794,8303574f,Harvey Neville,IRL,LB,22-284,75,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/ee85b326/Hope-Avayevu,ee85b326,8303574f,Hope Avayevu,GHA,MF,22-169,15,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/f3a213ca/Braxton-Montgomery,f3a213ca,8303574f,Braxton Montgomery,USA,CB,18-014,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/d22a46b4/Emil-Cuello,d22a46b4,8303574f,Emil Cuello,USA,CB,28-094,90,0,0,0,0,0,0,0,0,1,1,0,4,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/91b27c4b/Collin-Smith,91b27c4b,8303574f,Collin Smith,USA,RB,21-123,90,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/337f4edd/Triston-Henry,337f4edd,8303574f,Triston Henry,CAN,GK,31-209,90,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,GK,4.0,1.0,4.0,100.0

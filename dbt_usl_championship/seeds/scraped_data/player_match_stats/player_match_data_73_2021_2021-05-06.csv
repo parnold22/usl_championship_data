@@ -1,0 +1,31 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+RGV Toros,https://fbref.com/en/players/4236fd6b/Christian-Sorto,4236fd6b,ffca02e5,Christian Sorto,SLV,FW,21-107,89,0,1,0,0,1,1,0,0,0,0,0,3,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/ec5ce41a/Camden-Riley,ec5ce41a,ffca02e5,Camden Riley,USA,"DF,MF",24-259,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/836c317b/Elvis-Amoh,836c317b,ffca02e5,Elvis Amoh,GHA,FW,29-093,73,0,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/53ea588e/Vicente-Sanchez,53ea588e,ffca02e5,Vicente Sanchez,URU,FW,41-150,17,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/273f2e29/Alexis-Cerritos,273f2e29,ffca02e5,Alexis Cerritos,SLV,FW,20-216,81,0,0,0,0,1,0,0,0,1,2,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/90bcfcca/Baboucarr-Njie,90bcfcca,ffca02e5,Baboucarr Njie,GAM,"DF,MF",25-335,9,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/29b51d26/Rodrigo-Lopez,29b51d26,ffca02e5,Rodrigo Lopez,USA,CM,33-361,90,0,0,0,0,2,0,0,0,0,1,0,6,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/52ffb493/James-Murphy,52ffb493,ffca02e5,James Murphy,USA,CM,23-231,45,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/f4462455/Adrian-Diz-Pe,f4462455,ffca02e5,Adrian Diz Pe,CUB,DF,27-063,45,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/599cabcc/Wan-Kuzain,599cabcc,ffca02e5,Wan Kuzain,MAS,CM,22-234,81,0,0,0,0,2,0,1,0,2,2,0,2,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/c43e439a/Adrian-Vera,c43e439a,ffca02e5,Adrian Vera,USA,"DF,MF",24-113,9,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/d678807a/Grant-Robinson,d678807a,ffca02e5,Grant Robinson,USA,LB,22-264,90,0,0,0,0,0,0,0,0,0,1,0,2,0,3,0,0,0,LB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/980e59a1/Erik-Pimentel,980e59a1,ffca02e5,Erik Pimentel,MEX,CB,30-356,90,0,0,0,0,1,1,0,0,1,0,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/4ea22d91/Juan-David-Cabezas,4ea22d91,ffca02e5,Juan David Cabezas,COL,CB,30-068,90,0,0,0,0,1,0,0,0,4,1,0,0,0,4,0,0,0,CB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/a99e9900/Carter-Manley,a99e9900,ffca02e5,Carter Manley,USA,RB,25-007,90,0,0,0,0,0,0,0,0,1,1,0,3,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/8a37dd84/Tyler-Deric,8a37dd84,ffca02e5,Tyler Deric,USA,GK,32-249,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,0.0,3.0,100.0
+Loyal,https://fbref.com/en/players/2ae85cef/Corey-Hertzog,2ae85cef,ffca02e5,Corey Hertzog,USA,FW,30-278,67,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/b31b032b/Ben-Spencer,b31b032b,ffca02e5,Ben Spencer,USA,FW,26-039,23,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/ed16da92/Elijah-Martin,ed16da92,ffca02e5,Elijah Martin,USA,AM,24-306,90,0,0,0,0,3,2,0,0,2,3,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/b7712583/Alejandro-Guido,b7712583,ffca02e5,Alejandro Guido,USA,AM,27-045,62,0,0,0,0,2,0,0,0,0,5,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/f09cbc33/Robinson-Moshobane,f09cbc33,ffca02e5,Robinson Moshobane,RSA,"FW,MF",26-231,28,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/68cd160e/Jack-Blake,68cd160e,ffca02e5,Jack Blake,SCO,AM,26-226,85,0,0,0,0,1,0,1,0,2,1,0,5,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/c194d248/Niki-Jackson,c194d248,ffca02e5,Niki Jackson,USA,FW,25-254,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/027c0f1a/Collin-Martin,027c0f1a,ffca02e5,Collin Martin,USA,DM,26-178,90,0,0,0,0,0,0,1,0,3,1,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/a6d6e9d0/Charlie-Adams,a6d6e9d0,ffca02e5,Charlie Adams,ENG,DM,26-355,90,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/1be94685/Sal-Zizzo,1be94685,ffca02e5,Sal Zizzo,USA,LB,34-033,90,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,LB,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/672f4300/Joshua-Yaro,672f4300,ffca02e5,Joshua Yaro,GHA,CB,26-169,90,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/1dfaa68d/Thomas-Vancaeyezeele,1dfaa68d,ffca02e5,Thomas Vancaeyezeele,GUF,CB,26-283,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/9c52f80c/Jack-Metcalf,9c52f80c,ffca02e5,Jack Metcalf,ENG,RB,29-132,90,0,0,0,0,0,0,1,0,0,0,0,3,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Loyal,https://fbref.com/en/players/20e26ab3/Trey-Muse,20e26ab3,ffca02e5,Trey Muse,USA,GK,21-284,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,1.0,2.0,66.7

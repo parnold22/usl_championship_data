@@ -1,0 +1,29 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+B'ham Legion,https://fbref.com/en/players/4bf9347c/Ronaldo-Damus,4bf9347c,b7f8e19c,Ronaldo Damus,HAI,FW,25-185,90,1,0,0,0,3,1,0,0,1,3,2,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/3964401f/Dawson-McCartney,3964401f,b7f8e19c,Dawson McCartney,USA,LW,26-152,90,0,0,0,0,1,0,0,0,0,2,0,3,0,1,0,0,0,LW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/b79c816b/Roman-Torres,b79c816b,b7f8e19c,Roman Torres,,AM,0,90,0,1,0,0,0,0,1,0,1,6,0,5,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/a928bb49/Kobe-Hernandez-Foster,a928bb49,b7f8e19c,Kobe Hernandez Foster,USA,AM,22-263,90,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/75a0181e/Preston-Tabortetaka,75a0181e,b7f8e19c,Preston Tabortetaka,CMR,RW,26-279,89,0,0,0,0,3,2,0,0,3,1,0,5,0,0,0,0,0,RW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/9cf92249/Lucca-Dourado,9cf92249,b7f8e19c,Lucca Dourado,BRA,FW,24-164,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/e41bbc5d/Enzo-Martinez,e41bbc5d,b7f8e19c,Enzo Martinez,URU,DM,34-168,90,0,0,0,0,2,0,1,0,2,1,0,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/aaa630ad/Ramiz-Hamouda,aaa630ad,b7f8e19c,Ramiz Hamouda,USA,LB,16-294,66,0,0,0,0,0,0,1,0,2,2,0,0,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/c61aafd8/Moses-Mensah,c61aafd8,b7f8e19c,Moses Mensah,GHA,DF,26-213,24,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/4b97a128/Ethan-Kos,4b97a128,b7f8e19c,Ethan Kos,USA,CB,23-261,90,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/2ff7465d/Jake-Rufe,2ff7465d,b7f8e19c,Jake Rufe,USA,CB,29-053,90,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/5ef1aaae/Stephen-Turnbull,5ef1aaae,b7f8e19c,Stephen Turnbull,USA,RB,27-003,90,0,0,0,0,1,0,0,0,0,2,0,2,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/6b9a35b3/Matt-Van-Oekel,6b9a35b3,b7f8e19c,Matt Van Oekel,USA,GK,38-177,90,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,GK,6.0,1.0,5.0,83.3
+Louisville City,https://fbref.com/en/players/15387e4f/Phillip-Goodrum,15387e4f,b7f8e19c,Phillip Goodrum,USA,FW,27-269,90,0,0,0,0,2,0,0,0,1,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/d8c0039e/Ray-Serrano,d8c0039e,b7f8e19c,Ray Serrano,USA,FW,22-311,78,0,0,0,0,1,1,0,0,1,0,0,6,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/86626b82/Sam-Gleadle,86626b82,b7f8e19c,Sam Gleadle,ENG,"DF,MF",28-361,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/298a167b/Adrien-Perez,298a167b,b7f8e19c,Adrien Perez,USA,FW,29-154,59,0,0,0,0,2,1,1,0,3,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/ecd87b88/Jansen-Wilson,ecd87b88,b7f8e19c,Jansen Wilson,USA,"FW,MF",23-275,31,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/eed1b8f6/Aiden-McFadden,eed1b8f6,b7f8e19c,Aiden McFadden,USA,LM,26-169,69,0,0,0,0,2,2,0,0,1,1,0,3,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/1650e261/Amadou-Dia,1650e261,b7f8e19c,Amadou Dia,USA,"DF,MF",31-281,21,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/5e2b88fa/Zach-Duncan,5e2b88fa,b7f8e19c,Zach Duncan,AUS,CM,24-289,59,0,1,0,0,1,0,1,0,3,4,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/ffb17329/Carlos-Moguel,ffb17329,b7f8e19c,Carlos Moguel,USA,MF,21-268,31,0,0,0,0,0,0,0,0,4,0,0,1,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/73eec431/Taylor-Davila,73eec431,b7f8e19c,Taylor Davila,USA,CM,24-224,90,0,0,0,0,1,0,0,0,1,1,0,8,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/27162b95/Manny-Perez,27162b95,b7f8e19c,Manny Perez,USA,RM,26-025,90,1,0,0,0,2,2,0,0,1,2,0,5,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/759a31cd/Kyle-Adams,759a31cd,b7f8e19c,Kyle Adams,NZL,CB,28-116,90,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/16ecce68/Arturo-Ordonez,16ecce68,b7f8e19c,Arturo Ordonez,ESP,CB,27-298,90,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/6136d617/Sean-Totsch,6136d617,b7f8e19c,Sean Totsch,USA,CB,33-181,90,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/2aa97663/Damian-Las,2aa97663,b7f8e19c,Damian Las,USA,GK,22-339,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,3.0,1.0,2.0,66.7

@@ -1,0 +1,32 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Indy Eleven,https://fbref.com/en/players/2f2c0ab1/Edward-Kizza,2f2c0ab1,16e10b2e,Edward Kizza,UGA,FW,26-278,76,1,0,0,0,3,1,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/5b5ab194/Bruno-Rendon,5b5ab194,16e10b2e,Bruno Rendon,CUB,"DF,MF",25-137,14,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/d961761c/Romario-Williams,d961761c,16e10b2e,Romario Williams,JAM,FW,31-037,76,0,0,0,0,1,0,0,0,4,2,2,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/5804f03b/Elliot-Collier,5804f03b,16e10b2e,Elliot Collier,NZL,"FW,MF",30-211,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/73366dc8/Aodhan-Quinn,73366dc8,16e10b2e,Aodhan Quinn,USA,LM,33-183,89,0,1,0,0,0,0,0,0,1,0,1,7,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/eb0c08ef/Josh-OBrien,eb0c08ef,16e10b2e,Josh OBrien,ENG,DF,22-225,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/68cd160e/Jack-Blake,68cd160e,16e10b2e,Jack Blake,SCO,CM,30-364,90,0,0,0,0,0,0,0,0,2,1,1,3,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/52ffb493/James-Murphy,52ffb493,16e10b2e,James Murphy,USA,CM,28-004,90,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/f03a0471/Cameron-Lindley,f03a0471,16e10b2e,Cameron Lindley,USA,CM,28-065,90,0,0,0,0,1,0,0,0,1,0,0,6,0,3,0,0,0,CM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/52de007c/Joseph-Zalinsky,52de007c,16e10b2e,Joseph Zalinsky,USA,RM,22-261,64,0,0,0,0,0,0,0,0,2,1,0,1,0,2,0,0,0,RM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/28dd441c/Hayden-White,28dd441c,16e10b2e,Hayden White,ENG,"DF,MF",30-159,26,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/e176052e/James-Musa,e176052e,16e10b2e,James Musa,NZL,CB,33-173,90,0,0,0,0,0,0,0,0,3,1,0,4,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/bfce427e/Brian-Schaefer,bfce427e,16e10b2e,Brian Schaefer,USA,CB,23-157,90,0,1,0,0,0,0,0,0,0,1,0,1,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/e2d3bec6/Benjamin-Ofeimu,e2d3bec6,16e10b2e,Benjamin Ofeimu,USA,CB,24-356,90,1,0,0,0,1,1,0,0,2,1,0,1,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/0e791190/Luke-Pruter,0e791190,16e10b2e,Luke Pruter,USA,GK,24-018,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,1.0,1.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/4bf9347c/Ronaldo-Damus,4bf9347c,16e10b2e,Ronaldo Damus,HAI,FW,26-009,90,0,0,0,0,2,0,0,0,2,3,3,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/e41bbc5d/Enzo-Martinez,e41bbc5d,16e10b2e,Enzo Martinez,URU,FW,34-357,75,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/75a0181e/Preston-Tabortetaka,75a0181e,16e10b2e,Preston Tabortetaka,CMR,"FW,MF",27-103,15,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/f757c700/Peter-Lee-Vassell,f757c700,16e10b2e,Peter Lee Vassell,JAM,CM,27-230,90,1,0,0,0,2,1,0,0,0,2,0,2,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/e48f986b/Sam-McIllhatton,e48f986b,16e10b2e,Sam McIllhatton,AUS,CM,27-084,71,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/3a7bec1b/Tyler-Pasher,3a7bec1b,16e10b2e,Tyler Pasher,CAN,"DF,FW",31-147,19,0,0,0,0,0,0,0,0,1,0,1,3,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/3964401f/Dawson-McCartney,3964401f,16e10b2e,Dawson McCartney,USA,CM,26-341,58,0,0,0,0,1,0,0,0,0,3,0,5,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/2ff7465d/Jake-Rufe,2ff7465d,16e10b2e,Jake Rufe,USA,DF,29-242,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/08b318c0/Jackson-Travis,08b318c0,16e10b2e,Jackson Travis,USA,LB,21-210,71,0,0,0,0,0,0,1,0,2,2,0,0,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/5ef1aaae/Stephen-Turnbull,5ef1aaae,16e10b2e,Stephen Turnbull,USA,"DF,MF",27-192,19,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/aaa630ad/Ramiz-Hamouda,aaa630ad,16e10b2e,Ramiz Hamouda,USA,CB,17-118,90,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/0e104fd6/AJ-Paterson,0e104fd6,16e10b2e,AJ Paterson,GRN,CB,29-233,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ff98d5ca/Phanuel-Kavita,ff98d5ca,16e10b2e,Phanuel Kavita,RWA,CB,32-196,90,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/d37a1a17/Amir-Daley,d37a1a17,16e10b2e,Amir Daley,ATG,RB,23-207,71,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/3b25164d/Sebastian-Tregarthen,3b25164d,16e10b2e,Sebastian Tregarthen,URU,FW,25-078,19,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/36e1de85/Fernando-Delgado,36e1de85,16e10b2e,Fernando Delgado,MEX,GK,19-058,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,2.0,2.0,0.0,0.0

@@ -1,0 +1,63 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Orange County,https://fbref.com/en/players/4f87c75f/Milan-Iloski,4f87c75f,eb490de9,Milan Iloski,USA,FW,22-288,56,3,0,0,0,3,3,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/fa236b87/Sean-Okoli,fa236b87,eb490de9,Sean Okoli,USA,FW,29-099,34,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/b7f98460/Erick-Torres,b7f98460,eb490de9,Erick Torres,MEX,FW,29-114,80,1,0,0,0,2,1,0,0,1,1,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/84bc8f35/Jonathan-Gomez,84bc8f35,eb490de9,Jonathan Gomez,USA,MF,16-163,10,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/c168f022/Alex-Villanueva,c168f022,eb490de9,Alex Villanueva,USA,LM,19-308,56,0,0,0,0,1,1,0,0,1,4,0,1,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/e28a8364/Seth-Casiple,e28a8364,eb490de9,Seth Casiple,USA,MF,28-263,34,0,0,0,0,2,0,0,0,1,0,0,4,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/7f9896b2/Mikko-Kuningas,7f9896b2,eb490de9,Mikko Kuningas,FIN,CM,24-287,90,0,2,0,0,0,0,0,0,3,2,0,6,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/f3dd2e06/Daniel-A-Pedersen,f3dd2e06,eb490de9,Daniel A Pedersen,DEN,CM,29-290,56,1,0,1,1,2,1,0,0,2,0,0,1,0,3,0,0,0,CM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/ecbca580/Thomas-McCabe,ecbca580,eb490de9,Thomas McCabe,USA,MF,24-039,34,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/dac1adc3/Kevin-Partida,dac1adc3,eb490de9,Kevin Partida,USA,CM,27-064,65,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/a869ba74/Korede-Osundina,a869ba74,eb490de9,Korede Osundina,USA,"FW,MF",18-089,25,0,0,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/58503f28/Brent-Richards,58503f28,eb490de9,Brent Richards,USA,RM,31-358,90,0,1,0,0,2,0,0,0,1,1,0,5,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/c9cd7003/Michael-Orozco,c9cd7003,eb490de9,Michael Orozco,USA,CB,36-095,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/367b7748/Albi-Skendi,367b7748,eb490de9,Albi Skendi,ALB,CB,28-229,90,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/c8ecccfe/Hunter-Gorskie,c8ecccfe,eb490de9,Hunter Gorskie,USA,CB,30-320,90,0,0,0,0,2,1,0,0,0,2,1,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/cf9bf817/Patrick-Rakovsky,cf9bf817,eb490de9,Patrick Rakovsky,GER,GK,28-345,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,4.0,1.0,3.0,75.0
+FC Tulsa,https://fbref.com/en/players/d04dba18/JJ-Williams,d04dba18,eb490de9,JJ Williams,USA,FW,24-129,66,0,0,0,0,1,0,0,0,4,2,1,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/7290cd0e/Brian-Brown,7290cd0e,eb490de9,Brian Brown,JAM,FW,29-140,24,1,0,0,0,2,1,0,0,0,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/5d90b1db/Rodrigo-Da-Costa,5d90b1db,eb490de9,Rodrigo Da Costa,BRA,LW,28-144,45,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,LW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/5f004730/Marlon-Ramirez,5f004730,eb490de9,Marlon Ramirez,HON,FW,28-026,45,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/201384f8/Petar-Cuic,201384f8,eb490de9,Petar Cuic,CRO,AM,22-345,33,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/b14da847/Abuchi-Obinwa,b14da847,eb490de9,Abuchi Obinwa,USA,MF,25-118,57,0,1,0,0,0,0,0,0,2,0,0,2,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/dd4ddd03/Lebogang-Moloto,dd4ddd03,eb490de9,Lebogang Moloto,RSA,AM,31-357,90,0,0,0,0,1,1,0,0,1,1,0,0,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/bffd7272/Joaquin-Rivas,bffd7272,eb490de9,Joaquin Rivas,SLV,RW,30-017,90,0,0,0,0,3,2,0,0,1,0,1,0,0,0,0,0,0,RW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/64b7bf0e/Eric-Bird,64b7bf0e,eb490de9,Eric Bird,USA,DM,29-035,45,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/068656ea/Kembo-Kibato,068656ea,eb490de9,Kembo Kibato,CAN,MF,21-239,45,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/bb67b6b0/Jorge-Luis-Corrales,bb67b6b0,eb490de9,Jorge Luis Corrales,CUB,LB,30-358,90,0,0,0,0,0,0,0,0,0,1,0,1,0,3,0,0,0,LB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/c40e115b/Matheus-Silva,c40e115b,eb490de9,Matheus Silva,BRA,CB,25-156,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/b3a1306b/Johnny-Fenwick,b3a1306b,eb490de9,Johnny Fenwick,ENG,DF,27-174,45,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/f4462455/Adrian-Diz-Pe,f4462455,eb490de9,Adrian Diz Pe,CUB,CB,28-070,27,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/cbb8e1da/Ronald-Rodriguez,cbb8e1da,eb490de9,Ronald Rodriguez,SLV,RB,23-233,90,0,0,0,0,0,0,1,0,3,4,0,1,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/2906798d/Sean-Lewis,2906798d,eb490de9,Sean Lewis,USA,GK,30-026,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,8.0,5.0,4.0,50.0
+Galaxy II,https://fbref.com/en/players/dbab5aa7/Michael-Salazar,dbab5aa7,8bfbd559,Michael Salazar,BLZ,FW,29-179,90,1,0,0,0,1,1,0,0,4,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/00534d73/Preston-Judd,00534d73,8bfbd559,Preston Judd,USA,FW,22-350,88,0,2,0,0,1,0,1,0,4,1,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/a0a0babe/Duhaney-Williams,a0a0babe,8bfbd559,Duhaney Williams,JAM,MF,24-210,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/a8734f4a/Cameron-Dunbar,a8734f4a,8bfbd559,Cameron Dunbar,USA,FW,19-203,90,2,0,0,0,3,2,0,0,0,3,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/73eec431/Taylor-Davila,73eec431,8bfbd559,Taylor Davila,USA,CM,21-282,82,1,0,1,1,1,1,0,0,1,0,0,2,0,4,0,0,0,CM,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/3f18600c/Carlos-Harvey,3f18600c,8bfbd559,Carlos Harvey,PAN,"DF,MF",22-099,8,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/7d6f9b55/Hamza-Barry,7d6f9b55,8bfbd559,Hamza Barry,GAM,CM,27-210,90,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/02b16fb4/Remi-Cabral,02b16fb4,8bfbd559,Remi Cabral,FRA,CM,22-307,70,0,0,0,0,0,0,0,0,3,4,1,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/fafae922/Adrian-Gonzalez,fafae922,8bfbd559,Adrian Gonzalez,USA,MF,18-325,20,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/5a3285d2/Felipe-Cobian,5a3285d2,8bfbd559,Felipe Cobian,USA,LB,18-019,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/7a378afa/Liam-Doyle,7a378afa,8bfbd559,Liam Doyle,IOM,CB,29-316,90,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/1f5f8a5a/Marcus-Ferkranus,1f5f8a5a,8bfbd559,Marcus Ferkranus,USA,CB,19-003,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/ae811c4d/Dante-Campbell,ae811c4d,8bfbd559,Dante Campbell,CAN,RB,22-356,69,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/ca1e91a1/Jalen-Neal,ca1e91a1,8bfbd559,Jalen Neal,USA,DF,18-262,21,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/4903c3a6/Richard-Sanchez,4903c3a6,8bfbd559,Richard Sanchez,MEX,GK,28-038,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,9.0,3.0,6.0,66.7
+Louisville City,https://fbref.com/en/players/8a1526a8/Enoch-Mushagalusa,8a1526a8,8bfbd559,Enoch Mushagalusa,COD,FW,22-181,90,0,0,0,0,5,1,0,0,3,4,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/13ae5335/Jorge-Gonzalez,13ae5335,8bfbd559,Jorge Gonzalez,ESP,FW,23-196,90,0,0,0,0,8,2,0,0,1,5,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/d8c0039e/Ray-Serrano,d8c0039e,8bfbd559,Ray Serrano,USA,FW,20-004,63,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/3774549a/Brian-Ownby,3774549a,8bfbd559,Brian Ownby,USA,"FW,MF",31-301,27,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/009355ab/Paolo-DelPiccolo,009355ab,8bfbd559,Paolo DelPiccolo,USA,CM,30-350,45,0,0,0,0,2,1,1,0,1,1,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/ca0756aa/Wilson-Harris,ca0756aa,8bfbd559,Wilson Harris,USA,FW,22-166,45,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/4fbfe62d/Niall-McCabe,4fbfe62d,8bfbd559,Niall McCabe,USA,CM,31-219,90,1,0,0,0,4,3,1,0,1,1,0,11,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/5c98c6ce/Corben-Bone,5c98c6ce,8bfbd559,Corben Bone,USA,CM,33-239,90,0,0,0,0,0,0,0,0,0,2,0,2,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/33b96855/Jan-Leinhos,33b96855,8bfbd559,Jan Leinhos,GER,LB,24-364,90,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/48f46d3e/Joshua-Wynder,48f46d3e,8bfbd559,Joshua Wynder,USA,CB,17-011,90,0,0,0,0,0,0,1,0,2,3,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/40585058/Ian-Pino,40585058,8bfbd559,Ian Pino,ESP,CB,26-110,66,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/70e35acb/Wesley-Charpie,70e35acb,8bfbd559,Wesley Charpie,USA,DF,29-190,24,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/0878d1f4/Owen-Damm,0878d1f4,8bfbd559,Owen Damm,USA,RB,18-264,45,0,0,0,0,0,0,0,0,0,3,0,1,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/df5ee3d0/Oscar-Jimenez,df5ee3d0,8bfbd559,Oscar Jimenez,USA,"DF,MF",32-191,45,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/fafd9d79/Parker-Siegfried,fafd9d79,8bfbd559,Parker Siegfried,USA,GK,25-085,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,4.0,0.0,0.0

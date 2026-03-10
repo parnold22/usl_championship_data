@@ -1,0 +1,33 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Indy Eleven,https://fbref.com/en/players/60b4d213/Solomon-Asante,60b4d213,cc9727ba,Solomon Asante,GHA,FW,32-203,79,0,0,0,0,0,0,0,0,0,3,0,6,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/6eee3607/Wilfredo-Rivera,6eee3607,cc9727ba,Wilfredo Rivera,PUR,FW,18-346,11,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/1470c0e9/Stefano-Pinho,1470c0e9,cc9727ba,Stefano Pinho,BRA,FW,31-256,90,0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/473902d6/Juan-Tejada,473902d6,cc9727ba,Juan Tejada,PAN,FW,25-254,70,0,0,0,0,2,0,0,0,2,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/7b6113d9/Raul-Aguilera-Jr,7b6113d9,cc9727ba,Raul Aguilera Jr,USA,MF,23-054,20,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/210b2e5d/Bryam-Rebellon,210b2e5d,cc9727ba,Bryam Rebellon,COL,CM,30-246,90,0,0,0,0,3,1,1,0,3,1,0,1,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/e94dfdc6/Ayoze-Garcia,e94dfdc6,cc9727ba,Ayoze Garcia,ESP,CM,36-307,70,1,0,1,1,1,1,0,0,2,2,0,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/83fdc123/Manuel-Arteaga,83fdc123,cc9727ba,Manuel Arteaga,VEN,FW,28-100,20,0,0,0,0,1,1,1,0,2,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/8d0318e2/Sam-Brown,8d0318e2,cc9727ba,Sam Brown,USA,DM,26-227,90,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/297f64d8/Robby-Dambrot,297f64d8,cc9727ba,Robby Dambrot,USA,LB,27-341,57,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/51326de4/Justin-Ingram,51326de4,cc9727ba,Justin Ingram,USA,MF,23-278,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/3adea0c9/A-J-Cochran,3adea0c9,cc9727ba,A J Cochran,USA,CB,29-228,57,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/fec945c8/Mechack-Jerome,fec945c8,cc9727ba,Mechack Jerome,HAI,DF,32-157,33,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/b842703c/Jesus-Vazquez,b842703c,cc9727ba,Jesus Vazquez,MEX,CB,27-187,90,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/91769d2f/Jared-Timmer,91769d2f,cc9727ba,Jared Timmer,USA,RB,25-149,90,0,0,0,0,0,0,0,0,0,3,0,2,0,5,0,0,0,RB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/578ce711/Tim-Trilk,578ce711,cc9727ba,Tim Trilk,USA,GK,24-041,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,1.0,0.0,1.0,100.0
+Loudoun United,https://fbref.com/en/players/b65a8b06/Skage-Simonsen,b65a8b06,cc9727ba,Skage Simonsen,NOR,FW,24-166,82,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/82657587/Rio-Hope-Gund,82657587,cc9727ba,Rio Hope Gund,USA,DF,23-036,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/7a77b383/Abdellatif-Aboukoura,7a77b383,cc9727ba,Abdellatif Aboukoura,USA,AM,17-344,45,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/5cbf1baa/Zoumana-Diarra,5cbf1baa,cc9727ba,Zoumana Diarra,CIV,MF,19-151,45,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/ef7c10e0/Theodore-Ku-Dipietro,ef7c10e0,cc9727ba,Theodore Ku Dipietro,USA,AM,20-240,90,0,0,0,0,0,0,0,0,0,1,1,4,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/d86edf5a/Gavin-Turner,d86edf5a,cc9727ba,Gavin Turner,USA,AM,15-263,65,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/ba702426/Azaad-Liadi,ba702426,cc9727ba,Azaad Liadi,USA,FW,24-134,25,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/0217d80d/Nicky-Downs,0217d80d,cc9727ba,Nicky Downs,USA,DM,26-260,90,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/efd7b827/Houssou-Landry,efd7b827,cc9727ba,Houssou Landry,CIV,DM,21-271,45,0,0,0,0,2,0,1,0,1,6,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/e5b49f0e/Abdoul-Zanne,e5b49f0e,cc9727ba,Abdoul Zanne,CIV,MF,19-219,45,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/bbbb244b/Kimarni-Smith,bbbb244b,cc9727ba,Kimarni Smith,ENG,LB,24-195,65,0,0,0,0,0,0,1,0,4,2,0,1,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/67d3d023/Kristian-Fletcher,67d3d023,cc9727ba,Kristian Fletcher,USA,FW,17-050,25,0,0,0,0,1,0,0,0,2,0,0,0,0,2,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/f6194cf5/Carson-Vom-Steeg,f6194cf5,cc9727ba,Carson Vom Steeg,USA,CB,23-236,90,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/900bc4f7/Jalen-Robinson,900bc4f7,cc9727ba,Jalen Robinson,USA,CB,28-140,90,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/0a0dcb6f/Jacob-Greene,0a0dcb6f,cc9727ba,Jacob Greene,USA,RB,19-186,90,0,0,0,0,0,0,1,0,1,0,0,2,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/965c1573/Dane-Jacomen,965c1573,cc9727ba,Dane Jacomen,USA,GK,21-212,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,2.0,1.0,2.0,100.0

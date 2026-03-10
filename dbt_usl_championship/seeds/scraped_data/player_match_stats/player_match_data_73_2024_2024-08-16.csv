@@ -1,0 +1,31 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+B'ham Legion,https://fbref.com/en/players/e41bbc5d/Enzo-Martinez,e41bbc5d,d427620f,Enzo Martinez,URU,FW,33-322,90,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/1470c0e9/Stefano-Pinho,1470c0e9,d427620f,Stefano Pinho,BRA,FW,33-217,90,0,0,0,0,2,1,1,0,2,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/a4e068dc/Prosper-Kasim,a4e068dc,d427620f,Prosper Kasim,GHA,FW,27-245,54,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/75a0181e/Preston-Tabortetaka,75a0181e,d427620f,Preston Tabortetaka,CMR,"FW,MF",26-067,36,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/3964401f/Dawson-McCartney,3964401f,d427620f,Dawson McCartney,USA,CM,25-306,90,0,0,0,0,1,0,0,0,0,2,0,4,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/a928bb49/Kobe-Hernandez-Foster,a928bb49,d427620f,Kobe Hernandez Foster,USA,CM,22-051,90,0,0,0,0,0,0,0,0,1,0,0,4,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/e1e65f24/Rida-Zouhir,e1e65f24,d427620f,Rida Zouhir,CAN,CM,20-267,84,0,0,0,0,0,0,0,0,2,2,0,3,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/61f7e18e/Miguel-Perez,61f7e18e,d427620f,Miguel Perez,USA,MF,19-110,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/aaa630ad/Ramiz-Hamouda,aaa630ad,d427620f,Ramiz Hamouda,USA,LB,16-082,54,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/c61aafd8/Moses-Mensah,c61aafd8,d427620f,Moses Mensah,GHA,DF,26-001,36,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ff98d5ca/Phanuel-Kavita,ff98d5ca,d427620f,Phanuel Kavita,RWA,CB,31-160,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/0e104fd6/AJ-Paterson,0e104fd6,d427620f,AJ Paterson,GRN,CB,28-198,88,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/2ff7465d/Jake-Rufe,2ff7465d,d427620f,Jake Rufe,USA,DF,28-207,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/b9b0304a/Derek-Dodson,b9b0304a,d427620f,Derek Dodson,USA,RB,25-287,90,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/6b9a35b3/Matt-Van-Oekel,6b9a35b3,d427620f,Matt Van Oekel,USA,GK,37-331,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,1.0,4.0,80.0
+Detroit City,https://fbref.com/en/players/2390ab6e/Ben-Morris,2390ab6e,d427620f,Ben Morris,ENG,FW,25-041,82,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/cbfb6ca5/Victor-Bezerra,cbfb6ca5,d427620f,Victor Bezerra,USA,FW,24-193,8,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/4767bcf0/Daniel-Espeleta,4767bcf0,d427620f,Daniel Espeleta,CRC,FW,26-133,71,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/836c317b/Elvis-Amoh,836c317b,d427620f,Elvis Amoh,GHA,"FW,MF",32-196,19,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/fc40abc3/Rhys-Williams,fc40abc3,d427620f,Rhys Williams,USA,LM,29-007,82,0,0,0,0,2,1,0,0,0,2,0,4,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/c168f022/Alex-Villanueva,c168f022,d427620f,Alex Villanueva,USA,"DF,MF",22-038,8,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/52ffb493/James-Murphy,52ffb493,d427620f,James Murphy,USA,CM,26-334,90,0,0,0,0,1,0,0,0,2,0,0,3,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/9e8264b7/Maxi-Rodriguez,9e8264b7,d427620f,Maxi Rodriguez,USA,CM,29-007,90,0,0,0,0,1,0,0,0,1,3,0,2,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/80afacdc/Connor-Rutz,80afacdc,d427620f,Connor Rutz,USA,RM,27-129,70,0,0,0,0,3,0,0,0,1,0,0,1,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/8e6965ad/Michael-Bryant,8e6965ad,d427620f,Michael Bryant,USA,DF,29-136,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/b338a233/Brett-Levis,b338a233,d427620f,Brett Levis,CAN,LB,31-140,90,1,0,0,0,1,1,0,0,2,1,0,3,0,3,0,0,0,LB,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/5a45c74d/Stephen-Carroll,5a45c74d,d427620f,Stephen Carroll,IRL,CB,30-260,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/998268a4/Devon-Amoo-Mensah,998268a4,d427620f,Devon Amoo Mensah,USA,CB,28-263,90,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/6d9fe7bd/Matthew-Sheldon,6d9fe7bd,d427620f,Matthew Sheldon,USA,RB,31-359,90,0,0,0,0,0,0,1,0,2,0,2,2,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/f2512fb9/Carlos-Saldana,f2512fb9,d427620f,Carlos Saldana,MEX,GK,27-294,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,1.0,0.0,1.0,100.0

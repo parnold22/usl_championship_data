@@ -1,0 +1,30 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Galaxy II,https://fbref.com/en/players/8bb1c744/Augustine-Williams,8bb1c744,7a1321a5,Augustine Williams,SLE,FW,23-043,90,2,0,1,1,6,2,0,0,0,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/35807a85/Ivan-Gutierrez,35807a85,7a1321a5,Ivan Gutierrez,MEX,AM,22-212,45,0,0,0,0,1,0,0,0,2,0,1,4,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/41e57408/Jonathan-Perez,41e57408,7a1321a5,Jonathan Perez,MEX,MF,17-241,44,1,0,0,0,2,2,0,0,0,0,0,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/fafae922/Adrian-Gonzalez,fafae922,7a1321a5,Adrian Gonzalez,USA,MF,17-085,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/7bf39a2f/Jorge-Hernandez,7bf39a2f,7a1321a5,Jorge Hernandez,USA,AM,19-312,90,0,0,0,0,2,1,0,0,1,5,0,4,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/15cd2329/Sebastian-Nava,15cd2329,7a1321a5,Sebastian Nava,USA,AM,17-189,72,0,0,0,0,1,0,1,0,2,1,0,1,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/0831f51f/Isaac-Bawa,0831f51f,7a1321a5,Isaac Bawa,GHA,DF,23-144,18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/c43e439a/Adrian-Vera,c43e439a,7a1321a5,Adrian Vera,USA,DM,23-246,90,0,0,0,0,2,1,0,0,2,3,0,3,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/ca135560/Adam-Saldana,ca135560,7a1321a5,Adam Saldana,USA,DM,18-221,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/cf4f1eb9/Mauricio-Cuevas,cf4f1eb9,7a1321a5,Mauricio Cuevas,USA,LB,17-218,90,0,1,0,0,1,0,0,0,1,1,0,3,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/b842703c/Jesus-Vazquez,b842703c,7a1321a5,Jesus Vazquez,MEX,CB,25-177,90,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,0,0,CB,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/ca1e91a1/Jalen-Neal,ca1e91a1,7a1321a5,Jalen Neal,USA,CB,17-022,90,0,0,0,0,0,0,0,0,1,2,0,0,0,6,0,0,0,CB,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/ef445c92/Omar-Ontiveros,ef445c92,7a1321a5,Omar Ontiveros,USA,RB,25-123,90,0,1,0,0,0,0,0,0,1,1,0,4,0,3,0,0,0,RB,0.0,0.0,0.0,0.0
+Galaxy II,https://fbref.com/en/players/add014ad/Abraham-Romero,add014ad,7a1321a5,Abraham Romero,MEX,GK,22-210,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,10.0,2.0,8.0,80.0
+LV Lights FC,https://fbref.com/en/players/6a9e4cc0/Quincy-Amarikwa,6a9e4cc0,7a1321a5,Quincy Amarikwa,USA,FW,32-322,70,0,2,0,0,1,1,0,0,4,2,1,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/271cc287/Blake-Frischknecht,271cc287,7a1321a5,Blake Frischknecht,USA,FW,25-128,20,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/072fb15b/Bryan-de-la-Fuente,072fb15b,7a1321a5,Bryan de la Fuente,USA,AM,28-076,70,0,0,0,0,2,2,0,0,1,1,1,6,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/4dc3ce03/Rashawn-Dally,4dc3ce03,7a1321a5,Rashawn Dally,JAM,FW,23-245,20,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/b77bd9bc/Junior-Sandoval,b77bd9bc,7a1321a5,Junior Sandoval,HON,AM,29-338,84,0,0,0,0,7,2,0,0,0,1,0,8,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/289440d0/Junior-Burgos,289440d0,7a1321a5,Junior Burgos,SLV,MF,32-032,6,0,0,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/db57bcd1/Yamikani-Chester,db57bcd1,7a1321a5,Yamikani Chester,MWI,AM,25-270,90,1,0,0,0,2,2,0,0,0,1,0,3,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/d678807a/Grant-Robinson,d678807a,7a1321a5,Grant Robinson,USA,DM,22-031,90,0,0,0,0,0,0,0,0,3,0,0,0,0,5,0,0,0,DM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/f020a222/Seth-Moses,f020a222,7a1321a5,Seth Moses,USA,DM,27-044,90,1,0,0,0,3,1,0,0,2,0,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/c1ad55b0/Jaiden-Waggoner,c1ad55b0,7a1321a5,Jaiden Waggoner,USA,LB,23-225,62,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/8ce1bbdb/Jordan-Murrell,8ce1bbdb,7a1321a5,Jordan Murrell,CAN,DF,27-136,28,0,0,0,0,0,0,0,0,1,0,0,4,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/b3a1306b/Johnny-Fenwick,b3a1306b,7a1321a5,Johnny Fenwick,ENG,CB,25-300,90,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/782277b2/Mobi-Fehr,782277b2,7a1321a5,Mobi Fehr,USA,CB,25-277,90,0,0,0,0,1,0,0,0,1,1,0,1,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/6bacc3bd/Noah-Billingsley,6bacc3bd,7a1321a5,Noah Billingsley,NZL,RB,23-040,90,0,0,0,0,0,0,0,0,1,3,0,2,0,4,0,0,0,RB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/463e38a5/Edward-Delgado,463e38a5,7a1321a5,Edward Delgado,USA,GK,22-236,90,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,GK,5.0,3.0,3.0,60.0

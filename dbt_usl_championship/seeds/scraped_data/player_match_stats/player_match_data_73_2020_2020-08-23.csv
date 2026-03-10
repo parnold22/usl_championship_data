@@ -1,0 +1,63 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Miami FC,https://fbref.com/en/players/92da8c34/Prince-Saydee,92da8c34,933e8a48,Prince Saydee,LBR,FW,24-185,55,0,0,0,0,2,1,0,0,2,1,0,4,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/428829c2/Janos-Lobe,428829c2,933e8a48,Janos Lobe,GER,DF,25-002,35,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/d961761c/Romario-Williams,d961761c,933e8a48,Romario Williams,JAM,FW,26-008,45,1,0,0,1,2,2,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/b5ea56aa/Mohamed-Thiaw,b5ea56aa,933e8a48,Mohamed Thiaw,USA,FW,25-212,45,0,0,0,0,2,0,0,0,3,1,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/06545d47/Vincent-Bezecourt,06545d47,933e8a48,Vincent Bezecourt,FRA,FW,27-074,56,0,0,0,0,5,4,0,0,0,1,0,5,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/2d095570/Hector-Morales,2d095570,933e8a48,Hector Morales,CUB,FW,27-217,34,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/c036b67c/Brian-James,c036b67c,933e8a48,Brian James,USA,CM,26-303,23,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/8cc1ec82/Brenton-Griffiths,8cc1ec82,933e8a48,Brenton Griffiths,JAM,DF,29-196,67,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,DF,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/af08fa5f/Harrison-Heath,af08fa5f,933e8a48,Harrison Heath,USA,CM,24-170,45,0,0,0,0,1,0,0,0,0,1,0,2,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/0a95ef68/Miguel-Gonzalez,0a95ef68,933e8a48,Miguel Gonzalez,MEX,"FW,MF",29-327,45,0,0,0,0,2,2,0,0,1,0,0,4,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/2721e028/Tomas-Granitto,2721e028,933e8a48,Tomas Granitto,SLV,CM,27-072,90,1,0,0,0,3,1,0,0,1,1,0,8,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/7b5fd799/Othello-Bah,7b5fd799,933e8a48,Othello Bah,LBR,LB,25-118,90,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/148f3d0f/Hassan-Ndam,148f3d0f,933e8a48,Hassan Ndam,CMR,CB,21-299,90,0,0,0,0,2,0,0,0,0,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/31ade54c/Lance-Rozeboom,31ade54c,933e8a48,Lance Rozeboom,USA,CB,31-084,90,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/95301b3d/Marco-Franco,95301b3d,933e8a48,Marco Franco,USA,RB,28-322,90,0,0,0,0,0,0,0,0,1,0,0,5,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/9b9eb797/Bryant-Martin-Gammiero,9b9eb797,933e8a48,Bryant Martin Gammiero,VEN,GK,26-295,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,GK,3.0,1.0,2.0,66.7
+Charlotte Ind'ence,https://fbref.com/en/players/0ff79542/Dane-Kelly,0ff79542,933e8a48,Dane Kelly,JAM,FW,29-196,83,0,0,0,0,2,1,0,0,2,0,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/e18903fb/Tresor-Mbuyu,e18903fb,933e8a48,Tresor Mbuyu,COD,MF,23-312,7,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/89db7eed/Rey-Ortiz-Flores,89db7eed,933e8a48,Rey Ortiz Flores,MEX,LW,23-230,56,0,0,0,0,1,0,0,0,2,0,0,3,0,0,0,0,0,LW,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/3e082a27/Valentin-Sabella,3e082a27,933e8a48,Valentin Sabella,USA,MF,21-049,34,0,0,0,0,2,0,0,0,1,1,0,4,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/bb9a138b/Jake-Areman,bb9a138b,933e8a48,Jake Areman,USA,AM,24-167,83,1,0,0,0,2,2,0,0,1,2,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/4de98e84/Oscar-Ramsay,4de98e84,933e8a48,Oscar Ramsay,NZL,MF,23-093,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/e41bbc5d/Enzo-Martinez,e41bbc5d,933e8a48,Enzo Martinez,URU,AM,29-329,90,0,0,0,0,1,0,0,0,0,2,0,4,0,3,0,0,0,AM,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/77d28e45/Luke-Haakenson,77d28e45,933e8a48,Luke Haakenson,USA,RW,22-348,66,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,RW,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/34bef2df/Guido-Vadala,34bef2df,933e8a48,Guido Vadala,ARG,"FW,MF",23-197,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/54f58f49/Junior-Etou,54f58f49,933e8a48,Junior Etou,CGO,DM,26-083,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/bce0d6f6/Duke-Lacroix,bce0d6f6,933e8a48,Duke Lacroix,HAI,LB,26-314,90,0,0,0,0,0,0,0,0,1,1,0,2,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/c1ea57e4/Aaron-Maund,c1ea57e4,933e8a48,Aaron Maund,TRI,CB,29-339,90,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/68d4f83b/Hugh-Roberts,68d4f83b,933e8a48,Hugh Roberts,USA,CB,27-331,90,0,0,0,0,1,0,1,0,2,2,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/29a972e4/Joel-Johnson,29a972e4,933e8a48,Joel Johnson,LBR,RB,27-338,66,0,0,0,0,0,0,0,0,0,0,1,2,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/57fdd8b0/Clay-Dimick,57fdd8b0,933e8a48,Clay Dimick,USA,DF,25-260,24,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Charlotte Ind'ence,https://fbref.com/en/players/e69d151e/Brandon-Miller,e69d151e,933e8a48,Brandon Miller,USA,GK,30-241,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,8.0,2.0,7.0,75.0
+Hartford Athletic,https://fbref.com/en/players/4701e130/Tyreke-Johnson,4701e130,46aba025,Tyreke Johnson,ENG,FW,21-294,90,0,0,0,0,2,2,0,0,1,0,0,5,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/d19fed25/Alex-Dixon,d19fed25,46aba025,Alex Dixon,USA,FW,30-198,89,1,0,0,0,2,2,0,0,1,4,0,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/4a3c42ef/Dre-Deas,4a3c42ef,46aba025,Dre Deas,USA,FW,22-290,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/97bfcd7f/Gabriel-Torres,97bfcd7f,46aba025,Gabriel Torres,BRA,LM,24-022,45,0,0,0,0,0,0,0,0,1,2,2,4,0,3,0,0,0,LM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/11fdbc1d/Markus-Naglestad,11fdbc1d,46aba025,Markus Naglestad,NOR,FW,29-119,45,1,0,0,0,2,1,0,0,2,1,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/c97875d4/Mads-Jorgensen,c97875d4,46aba025,Mads Jorgensen,DEN,CM,22-049,71,0,0,0,0,2,0,0,0,1,1,0,2,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/0217d80d/Nicky-Downs,0217d80d,46aba025,Nicky Downs,USA,MF,24-228,19,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/49953793/Arthur-Rogers,49953793,46aba025,Arthur Rogers,ENG,CM,23-332,90,0,0,0,0,0,0,0,0,2,1,0,3,0,3,0,0,0,CM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/b2e0370d/Danny-Barrera,b2e0370d,46aba025,Danny Barrera,USA,CM,30-228,90,0,0,0,0,2,1,1,0,2,1,0,3,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/d1b6fe5b/Harry-Swartz,d1b6fe5b,46aba025,Harry Swartz,USA,RM,24-157,90,0,0,0,0,1,0,1,0,1,2,0,3,0,2,0,0,0,RM,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/c40e115b/Matheus-Silva,c40e115b,46aba025,Matheus Silva,BRA,CB,23-259,90,0,0,0,0,0,0,1,0,1,2,1,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/15fbb967/Kevin-Politz,15fbb967,46aba025,Kevin Politz,USA,CB,24-154,90,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/6c9b8217/Sam-Strong,6c9b8217,46aba025,Sam Strong,USA,CB,24-000,71,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/01bee25b/Aiden-Mesias,01bee25b,46aba025,Aiden Mesias,ENG,MF,20-305,19,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Hartford Athletic,https://fbref.com/en/players/5377b67e/Parfait-Mandanda,5377b67e,46aba025,Parfait Mandanda,COD,GK,30-287,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,4.0,2.0,2.0,50.0
+Loudoun United,https://fbref.com/en/players/177e044c/Alioune-Ndour,177e044c,46aba025,Alioune Ndour,SEN,FW,19-173,90,0,0,0,0,2,0,1,0,3,3,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/2d441385/Michael-Gamble,2d441385,46aba025,Michael Gamble,USA,AM,26-231,57,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/ef7c10e0/Theodore-Ku-Dipietro,ef7c10e0,46aba025,Theodore Ku Dipietro,USA,"FW,MF",18-208,33,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/467120d8/Josh-Fawole,467120d8,46aba025,Josh Fawole,USA,AM,22-033,89,0,0,0,0,2,1,0,0,4,2,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/4236fd6b/Christian-Sorto,4236fd6b,46aba025,Christian Sorto,SLV,"FW,MF",20-217,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/75e1a56a/Abdoul-Kairou-Amoustapha,75e1a56a,46aba025,Abdoul Kairou Amoustapha,NIG,AM,19-235,81,0,0,0,0,0,0,1,0,4,3,0,1,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/0d6c2211/Peabo-Doue,0d6c2211,46aba025,Peabo Doue,USA,"DF,MF",28-239,9,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/836c317b/Elvis-Amoh,836c317b,46aba025,Elvis Amoh,GHA,DM,28-203,90,1,0,0,0,3,1,1,0,4,1,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/1f6ec0c5/Jeremy-Garay,1f6ec0c5,46aba025,Jeremy Garay,SLV,DM,17-144,90,0,1,0,0,0,0,0,0,0,1,0,6,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/0a0dcb6f/Jacob-Greene,0a0dcb6f,46aba025,Jacob Greene,USA,LB,17-153,90,0,0,0,0,0,0,1,0,3,1,0,1,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/9351a05c/Shane-Wiedt,9351a05c,46aba025,Shane Wiedt,USA,CB,25-035,90,1,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/6a83c989/Timmy-Mehl,6a83c989,46aba025,Timmy Mehl,USA,CB,24-358,90,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/eeb26fa4/Allexon-Saravia,eeb26fa4,46aba025,Allexon Saravia,SLV,RB,19-336,89,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/6969d196/Erumuse-Momoh,6969d196,46aba025,Erumuse Momoh,USA,MF,23-222,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/42bb1bbb/Simon-Lefebvre,42bb1bbb,46aba025,Simon Lefebvre,FRA,GK,23-109,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,6.0,2.0,4.0,66.7

@@ -1,0 +1,30 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Sporting KC II,https://fbref.com/en/players/8a1526a8/Enoch-Mushagalusa,8a1526a8,3fa762c4,Enoch Mushagalusa,COD,FW,21-219,90,1,0,0,0,8,4,0,0,0,2,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/05b360ed/Tyler-Freeman,05b360ed,3fa762c4,Tyler Freeman,USA,FW,18-162,79,0,0,0,0,2,0,0,0,0,0,2,5,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/db6e4a9b/Bailey-Sparks,db6e4a9b,3fa762c4,Bailey Sparks,USA,MF,18-172,11,0,0,0,0,1,1,0,0,0,0,0,4,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/2db7239d/Rojay-Smith,2db7239d,3fa762c4,Rojay Smith,JAM,FW,24-272,90,0,0,0,0,4,2,0,0,0,1,0,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/7a34ab4c/Christian-Duke,7a34ab4c,3fa762c4,Christian Duke,USA,CM,30-015,90,0,1,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/eac49bd6/Jahon-Rad,eac49bd6,3fa762c4,Jahon Rad,USA,CM,20-007,63,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/201384f8/Petar-Cuic,201384f8,3fa762c4,Petar Cuic,CRO,MF,22-018,27,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/79d3a503/Jake-Davis,79d3a503,3fa762c4,Jake Davis,USA,CM,19-168,79,0,0,0,0,2,1,0,0,1,0,0,1,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/846ac1bf/Osvaldo-Cisneros,846ac1bf,3fa762c4,Osvaldo Cisneros,USA,FW,17-099,11,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/2bfb7026/Danny-Barbir,2bfb7026,3fa762c4,Danny Barbir,USA,LB,23-140,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/31689597/Aljaz-Dzankic,31689597,3fa762c4,Aljaz Dzankic,CRO,CB,19-093,90,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,CB,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/37d84d2a/Matthew-Constant,37d84d2a,3fa762c4,Matthew Constant,USA,CB,22-307,62,0,0,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/ae3330d0/Graham-Smith,ae3330d0,3fa762c4,Graham Smith,USA,DF,25-207,28,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/2f5f098b/Kayden-Pierre,2f5f098b,3fa762c4,Kayden Pierre,USA,RB,18-124,90,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/6b306c92/John-Pulskamp,6b306c92,3fa762c4,John Pulskamp,USA,GK,20-062,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,7.0,2.0,5.0,71.4
+Indy Eleven,https://fbref.com/en/players/83fdc123/Manuel-Arteaga,83fdc123,3fa762c4,Manuel Arteaga,VEN,FW,27-003,60,0,1,0,0,3,1,0,0,3,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/d80a3a57/Jordan-Hamilton,d80a3a57,3fa762c4,Jordan Hamilton,CAN,FW,25-095,30,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/9ca33c53/Gordon-Wild,9ca33c53,3fa762c4,Gordon Wild,GER,FW,25-247,90,1,0,0,0,3,3,0,0,1,0,0,7,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/e94dfdc6/Ayoze-Garcia,e94dfdc6,3fa762c4,Ayoze Garcia,ESP,LM,35-210,90,0,1,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/d12df9fe/Nicky-Law,d12df9fe,3fa762c4,Nicky Law,ENG,CM,33-083,90,1,0,0,0,1,1,1,0,2,1,0,2,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/91769d2f/Jared-Timmer,91769d2f,3fa762c4,Jared Timmer,USA,CM,24-052,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/4992dee0/Jeremiah-Gutjahr,4992dee0,3fa762c4,Jeremiah Gutjahr,USA,MF,23-314,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/05a603dc/Cammy-Smith,05a603dc,3fa762c4,Cammy Smith,SCO,CM,25-300,66,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/f5423530/Gershon-Koffie,f5423530,3fa762c4,Gershon Koffie,GHA,MF,29-299,24,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/6659fa75/Nick-Moon,6659fa75,3fa762c4,Nick Moon,USA,RM,25-020,90,0,0,0,0,0,0,0,0,0,3,0,1,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/fb5dbdc0/Neveal-Hackshaw,fb5dbdc0,3fa762c4,Neveal Hackshaw,TRI,CB,25-272,90,0,0,0,0,2,1,0,0,0,1,0,1,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/3adea0c9/A-J-Cochran,3adea0c9,3fa762c4,A J Cochran,USA,CB,28-131,90,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/1643b976/Karl-Ouimette,1643b976,3fa762c4,Karl Ouimette,CAN,CB,29-002,90,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/aef9f720/Bobby-Edwards,aef9f720,3fa762c4,Bobby Edwards,USA,GK,25-313,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,9.0,1.0,8.0,88.9

@@ -1,0 +1,33 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+FC Tulsa,https://fbref.com/en/players/aab489b0/Aaron-Bibout,aab489b0,0c65aec2,Aaron Bibout,CMR,FW,19-364,90,0,0,0,0,3,1,0,0,1,1,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/09bb8e44/Stefan-Stojanovic,09bb8e44,0c65aec2,Stefan Stojanovic,USA,FW,23-182,60,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/34747acf/Faysal-Bettache,34747acf,0c65aec2,Faysal Bettache,ENG,MF,24-056,30,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/bd8fa93e/Diogo-Oliveira-Pacheco,bd8fa93e,0c65aec2,Diogo Oliveira Pacheco,POR,LM,25-354,85,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/1d88419e/Blaine-Ferri,1d88419e,0c65aec2,Blaine Ferri,USA,MF,23-338,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/a8f32dc4/Edwin-Ramos,a8f32dc4,0c65aec2,Edwin Ramos,COL,CM,25-183,45,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/be4e9dd3/Sebastian-Sanchez,be4e9dd3,0c65aec2,Sebastian Sanchez,USA,MF,20-256,45,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/2509d2df/Andrew-Booth,2509d2df,0c65aec2,Andrew Booth,JAM,CM,27-047,90,1,0,0,0,2,1,1,0,1,2,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/dbe7be34/Boubacar-Diallo,dbe7be34,0c65aec2,Boubacar Diallo,USA,RM,21-267,69,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/e2e5aa12/Milo-Yosef,e2e5aa12,0c65aec2,Milo Yosef,GER,MF,25-356,21,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/00d83db0/Patrick-Seagrist,00d83db0,0c65aec2,Patrick Seagrist,USA,LB,26-193,90,0,0,0,0,2,1,0,0,1,0,0,1,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/f36566e9/Bradley-Bourgeois,f36566e9,0c65aec2,Bradley Bourgeois,USA,CB,30-141,90,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/65054630/Alexis-Souahy,65054630,0c65aec2,Alexis Souahy,COM,CB,29-232,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/0878d1f4/Owen-Damm,0878d1f4,0c65aec2,Owen Damm,USA,RB,21-010,69,0,0,0,0,1,0,0,0,1,1,0,2,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/cadbd9aa/Alexander-Dalou,cadbd9aa,0c65aec2,Alexander Dalou,USA,MF,24-008,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/68f4860a/Johan-Penaranda,68f4860a,0c65aec2,Johan Penaranda,USA,GK,24-242,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,7.0,4.0,3.0,42.9
+CS Switchbacks,https://fbref.com/en/players/4bf9347c/Ronaldo-Damus,4bf9347c,0c65aec2,Ronaldo Damus,HAI,FW,24-355,70,1,0,0,0,5,3,0,0,0,2,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/eb8eae2c/Justin-Dhillon,eb8eae2c,0c65aec2,Justin Dhillon,USA,FW,29-087,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/b149b4ad/Yosuke-Hanya,b149b4ad,0c65aec2,Yosuke Hanya,JPN,AM,25-215,60,0,0,0,0,2,0,0,0,1,3,1,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/064749ea/Jonas-Fjeldberg,064749ea,0c65aec2,Jonas Fjeldberg,NOR,MF,25-337,30,0,0,0,0,3,0,1,0,1,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/61a5541d/Zach-Zandi,61a5541d,0c65aec2,Zach Zandi,USA,AM,28-045,62,0,1,0,0,0,0,0,0,2,4,0,0,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/95b5b69a/Tyreek-Magee,95b5b69a,0c65aec2,Tyreek Magee,JAM,MF,25-005,28,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/74e5422d/Jairo-Henriquez,74e5422d,0c65aec2,Jairo Henriquez,SLV,AM,31-001,60,1,0,0,0,2,1,0,0,1,1,1,3,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/473902d6/Juan-Tejada,473902d6,0c65aec2,Juan Tejada,PAN,"FW,MF",27-231,30,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/53974fd2/Devon-Williams,53974fd2,0c65aec2,Devon Williams,JAM,DM,32-146,90,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/70a494c9/Aidan-Rocha,70a494c9,0c65aec2,Aidan Rocha,USA,DM,23-251,90,0,1,0,0,2,0,0,0,0,0,0,3,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/1c2c030a/Matthew-Real,1c2c030a,0c65aec2,Matthew Real,USA,LB,25-053,71,1,0,0,0,1,1,1,0,1,1,0,4,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/c09ddc5e/Koa-Santos,c09ddc5e,0c65aec2,Koa Santos,USA,DF,24-346,19,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/9e0c1b58/Delentz-Pierre,9e0c1b58,0c65aec2,Delentz Pierre,HAI,CB,23-290,90,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/658388b4/Matt-Mahoney,658388b4,0c65aec2,Matt Mahoney,USA,CB,29-137,90,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/bce0d6f6/Duke-Lacroix,bce0d6f6,0c65aec2,Duke Lacroix,HAI,RB,30-323,90,1,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/6a0987cf/Christian-Herrera,6a0987cf,0c65aec2,Christian Herrera,MEX,GK,27-134,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,2.0,1.0,1.0,50.0

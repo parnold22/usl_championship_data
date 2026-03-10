@@ -3,12 +3,12 @@ import glob
 import os
 
 
-_scraped_data_base = "/Users/parnold/Personal/Personal Projects/github/usl_championship_data/dbt/dbt_soccer/seeds/scraped_data"
+_scraped_data_base = "/Users/parnold/Personal/Personal Projects/github/usl_championship_data/dbt_usl_championship/seeds/scraped_data"
 file_directory = _scraped_data_base + "/"
 player_match_stats_file_directory = _scraped_data_base + "/player_match_stats/"
 match_stats_file_directory = _scraped_data_base + "/match_stats/"
 season_dims_file_directory = _scraped_data_base + "/season_dims/"
-export_file_directory = "/Users/parnold/Personal/Personal Projects/github/usl_championship_data/dbt/dbt_soccer/seeds/cleaned_data"
+export_file_directory = "/Users/parnold/Personal/Personal Projects/github/usl_championship_data/dbt_usl_championship/seeds/cleaned_data"
 
 
 season_dims_files = glob.glob(os.path.join(season_dims_file_directory, "*.csv"))
