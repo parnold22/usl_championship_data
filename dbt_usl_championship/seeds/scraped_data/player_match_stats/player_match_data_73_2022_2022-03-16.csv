@@ -1,0 +1,32 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Atlanta United 2,https://fbref.com/en/players/f6f4f7f0/Luke-Brennan,f6f4f7f0,0e44b73e,Luke Brennan,USA,FW,17-020,66,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/95b90378/Brendan-Lambe,95b90378,0e44b73e,Brendan Lambe,USA,MF,18-025,24,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/1cfa6e1a/Jackson-Conway,1cfa6e1a,0e44b73e,Jackson Conway,USA,FW,20-103,66,0,0,0,0,0,0,0,0,1,3,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/301146d0/Erik-Centeno,301146d0,0e44b73e,Erik Centeno,USA,MF,19-260,24,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/3cc7d945/David-Mejia,3cc7d945,0e44b73e,David Mejia,USA,FW,18-205,90,0,0,0,0,2,0,0,0,2,3,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/bb4610ab/Nicolas-Firmino,bb4610ab,0e44b73e,Nicolas Firmino,USA,CM,21-045,89,0,0,0,0,0,0,0,0,1,3,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/b57aa550/Pavel-Romero,b57aa550,0e44b73e,Pavel Romero,USA,MF,16-034,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/2fb02c65/Efrain-Morales,2fb02c65,0e44b73e,Efrain Morales,BOL,CM,18-012,90,0,0,0,0,0,0,0,0,3,2,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/7d78e0f3/Robbie-Mertz,7d78e0f3,0e44b73e,Robbie Mertz,USA,CM,25-102,90,0,0,0,0,0,0,0,0,2,2,0,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/46d0ace4/Mathieu-Brick,46d0ace4,0e44b73e,Mathieu Brick,USA,LB,17-065,90,0,0,0,0,1,0,0,0,0,1,0,1,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/4c46e404/Noah-Cobb,4c46e404,0e44b73e,Noah Cobb,USA,CB,16-239,90,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/c4905bb9/Grant-Howard,c4905bb9,0e44b73e,Grant Howard,USA,CB,19-096,78,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/8929388f/Jonatan-Villal,8929388f,0e44b73e,Jonatan Villal,USA,MF,17-069,12,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/eed1b8f6/Aiden-McFadden,eed1b8f6,0e44b73e,Aiden McFadden,USA,RB,23-169,18,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Atlanta United 2,https://fbref.com/en/players/c9476b88/Justin-Garces,c9476b88,0e44b73e,Justin Garces,USA,GK,21-205,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,8.0,1.0,7.0,87.5
+NY Red Bulls II,https://fbref.com/en/players/1aa8d821/John-Murphy,1aa8d821,0e44b73e,John Murphy,USA,FW,21-331,78,0,1,0,0,7,3,0,0,1,2,1,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/8d1808e0/Arian-Recinos,8d1808e0,0e44b73e,Arian Recinos,GUA,MF,17-041,12,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/f1e19fad/Jordan-Adebayo-Smith,f1e19fad,0e44b73e,Jordan Adebayo Smith,NGA,FW,22-064,90,1,0,0,0,3,2,0,0,0,3,0,4,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/c8684d3f/Ezra-Widman,c8684d3f,0e44b73e,Ezra Widman,USA,FW,17-009,45,0,0,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/58a69838/Jonathan-Filipe,58a69838,0e44b73e,Jonathan Filipe,USA,MF,23-065,45,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/bddc8df4/Steven-Sserwadda,bddc8df4,0e44b73e,Steven Sserwadda,UGA,CM,19-200,72,0,0,0,0,2,0,2,1,8,0,0,3,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/2b300bb2/Samuel-Williams,2b300bb2,0e44b73e,Samuel Williams,USA,CM,16-363,90,0,0,0,0,1,0,0,0,0,2,0,6,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/22fe9049/Jason-Pendant,22fe9049,0e44b73e,Jason Pendant,VIE,CM,25-035,60,0,0,0,0,2,0,0,0,0,0,1,1,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/1256df14/Illia-Tyrkus,1256df14,0e44b73e,Illia Tyrkus,USA,FW,16-227,30,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/8c38e57e/Curtis-Ofori,8c38e57e,0e44b73e,Curtis Ofori,USA,LB,16-116,79,0,0,0,0,0,0,0,0,2,4,0,3,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/614f243a/John-Cortez,614f243a,0e44b73e,John Cortez,USA,DF,18-007,11,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/013e66bb/Juan-Castillo,013e66bb,0e44b73e,Juan Castillo,COL,CB,19-164,24,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/c203af67/Christopher-Cragwell,c203af67,0e44b73e,Christopher Cragwell,PAN,DF,20-263,66,0,0,0,0,0,0,1,0,1,0,0,0,0,3,0,0,0,DF,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/a6c07c6b/Lamine-Conte,a6c07c6b,0e44b73e,Lamine Conte,USA,CB,23-213,90,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/5b1f7097/OVonte-Mullings,5b1f7097,0e44b73e,OVonte Mullings,CAN,RB,21-158,90,0,0,0,0,0,0,0,0,1,1,0,2,0,3,0,0,0,RB,0.0,0.0,0.0,0.0
+NY Red Bulls II,https://fbref.com/en/players/20c86a38/AJ-Marcucci,20c86a38,0e44b73e,AJ Marcucci,USA,GK,22-228,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,0.0,0.0,0.0,0.0

@@ -1,0 +1,28 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+CS Switchbacks,https://fbref.com/en/players/836c317b/Elvis-Amoh,836c317b,168c4dee,Elvis Amoh,GHA,FW,30-121,90,1,0,0,0,5,1,0,0,1,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/9837830f/Michee-Ngalina,9837830f,168c4dee,Michee Ngalina,COD,AM,22-058,90,1,0,0,0,4,1,0,0,1,1,0,1,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/e32a89fc/Hadji-Barry,e32a89fc,168c4dee,Hadji Barry,GUI,AM,29-177,78,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/35429371/Beverly-Makangila,35429371,168c4dee,Beverly Makangila,COD,MF,22-053,12,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/a6362b48/Steven-Echeverria,a6362b48,168c4dee,Steven Echeverria,PUR,AM,26-055,66,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/544a1480/Issa-Rayyan,544a1480,168c4dee,Issa Rayyan,USA,"FW,MF",21-283,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/f03a0471/Cameron-Lindley,f03a0471,168c4dee,Cameron Lindley,USA,DM,24-320,90,0,1,0,0,1,0,0,0,3,1,0,10,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/61a5541d/Zach-Zandi,61a5541d,168c4dee,Zach Zandi,USA,DM,25-320,90,0,0,0,0,3,1,0,0,2,2,1,1,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/658388b4/Matt-Mahoney,658388b4,168c4dee,Matt Mahoney,USA,LB,27-047,90,1,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/5b22557f/Tobi-Adewole,5b22557f,168c4dee,Tobi Adewole,USA,CB,26-232,90,0,0,0,0,1,0,1,0,1,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/52743db1/Jimmy-Ockford,52743db1,168c4dee,Jimmy Ockford,USA,CB,29-358,90,0,1,0,0,0,0,1,0,2,1,0,2,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/04e37c0e/Malik-Johnson,04e37c0e,168c4dee,Malik Johnson,CAN,RB,24-051,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/fd8f17fd/Jefferson-Caldwell,fd8f17fd,168c4dee,Jefferson Caldwell,USA,GK,26-103,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,2.0,0.0,2.0,100.0
+LV Lights FC,https://fbref.com/en/players/44f6672a/Cal-Jennings,44f6672a,168c4dee,Cal Jennings,USA,FW,25-017,90,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/1312c534/Danny-Trejo,1312c534,168c4dee,Danny Trejo,USA,FW,24-035,90,0,0,0,0,5,1,0,0,0,3,1,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/900f0f6a/Frank-Daroma,900f0f6a,168c4dee,Frank Daroma,USA,CM,21-052,90,0,0,0,0,0,0,0,0,3,4,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/33fdd2aa/Daniel-Crisostomo,33fdd2aa,168c4dee,Daniel Crisostomo,USA,CM,25-138,90,0,0,0,0,0,0,0,0,1,1,0,1,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/5c4e8a2a/Imanol-Almaguer,5c4e8a2a,168c4dee,Imanol Almaguer,USA,CM,21-255,63,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/49864196/Christopher-Jaime,49864196,168c4dee,Christopher Jaime,,MF,18-075,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/f1574dae/Chase-Bromstedt,f1574dae,168c4dee,Chase Bromstedt,USA,LB,24-008,86,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/7fdf3e59/Dylan-Presto,7fdf3e59,168c4dee,Dylan Presto,,MF,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/8c4c2432/Alex-Lara,8c4c2432,168c4dee,Alex Lara,USA,CB,23-261,77,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/df3c8d1a/Nathan-Sepulveda,df3c8d1a,168c4dee,Nathan Sepulveda,USA,MF,19-179,13,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/8e3c9fb3/Dekel-Keinan,8e3c9fb3,168c4dee,Dekel Keinan,ISR,CB,37-261,90,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/ece3d615/Morten-Bjorshol,ece3d615,168c4dee,Morten Bjorshol,NOR,CB,24-285,90,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/621a4365/Alvaro-Quezada,621a4365,168c4dee,Alvaro Quezada,USA,RB,23-091,90,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/add014ad/Abraham-Romero,add014ad,168c4dee,Abraham Romero,MEX,GK,24-105,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,3.0,2.0,40.0

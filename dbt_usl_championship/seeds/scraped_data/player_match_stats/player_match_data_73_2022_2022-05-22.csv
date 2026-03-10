@@ -1,0 +1,33 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Loudoun United,https://fbref.com/en/players/b65a8b06/Skage-Simonsen,b65a8b06,e10943b3,Skage Simonsen,NOR,FW,24-040,45,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/ba702426/Azaad-Liadi,ba702426,e10943b3,Azaad Liadi,USA,FW,24-008,45,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/8344adf5/Jackson-Hopkins,8344adf5,e10943b3,Jackson Hopkins,USA,FW,17-325,62,0,0,0,0,2,1,0,0,1,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/67d3d023/Kristian-Fletcher,67d3d023,e10943b3,Kristian Fletcher,USA,FW,16-289,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/0a0dcb6f/Jacob-Greene,0a0dcb6f,e10943b3,Jacob Greene,USA,LM,19-060,90,0,0,0,0,1,0,0,0,0,2,0,2,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/1f6ec0c5/Jeremy-Garay,1f6ec0c5,e10943b3,Jeremy Garay,SLV,CM,19-051,69,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/efd7b827/Houssou-Landry,efd7b827,e10943b3,Houssou Landry,CIV,MF,21-145,21,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/2d441385/Michael-Gamble,2d441385,e10943b3,Michael Gamble,USA,CM,28-137,45,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/c3e24517/Hayden-Sargis,c3e24517,e10943b3,Hayden Sargis,USA,DF,20-020,45,0,0,0,0,0,0,1,0,1,0,0,0,0,4,0,0,0,DF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/ef7c10e0/Theodore-Ku-Dipietro,ef7c10e0,e10943b3,Theodore Ku Dipietro,USA,CM,20-114,90,0,0,0,0,1,0,1,0,1,1,0,3,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/ddd5cf39/Griffin-Yow,ddd5cf39,e10943b3,Griffin Yow,USA,RM,19-239,90,0,0,0,0,6,1,1,0,1,1,1,7,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/2fcc0f5f/Grant-Lillard,2fcc0f5f,e10943b3,Grant Lillard,USA,CB,26-168,45,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/bbbb244b/Kimarni-Smith,bbbb244b,e10943b3,Kimarni Smith,ENG,"FW,MF",24-069,45,0,0,0,0,0,0,0,0,0,2,1,2,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/0217d80d/Nicky-Downs,0217d80d,e10943b3,Nicky Downs,USA,CB,26-134,90,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/82657587/Rio-Hope-Gund,82657587,e10943b3,Rio Hope Gund,USA,CB,22-275,90,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/b9a2732f/Joe-Rice,b9a2732f,e10943b3,Joe Rice,USA,GK,26-077,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,7.0,3.0,4.0,57.1
+Memphis 901,https://fbref.com/en/players/15387e4f/Phillip-Goodrum,15387e4f,e10943b3,Phillip Goodrum,USA,FW,24-336,73,1,1,0,0,4,3,0,0,2,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/5f732a63/David-Egbo,5f732a63,e10943b3,David Egbo,NGA,FW,23-203,17,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/5e7f4283/Laurent-Kissiedou,5e7f4283,e10943b3,Laurent Kissiedou,CIV,FW,23-151,74,1,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/feaf1d75/Lucas-Turci,feaf1d75,e10943b3,Lucas Turci,BRA,DF,25-272,16,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/7636fa88/Jeremy-Kelly,7636fa88,e10943b3,Jeremy Kelly,USA,LM,24-213,64,1,1,0,0,1,1,0,0,0,0,0,2,0,2,0,0,0,LM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/b9b0304a/Derek-Dodson,b9b0304a,e10943b3,Derek Dodson,USA,"DF,MF",23-200,26,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/38088899/Aaron-Molloy,38088899,e10943b3,Aaron Molloy,IRL,CM,25-131,90,0,0,0,0,1,0,0,0,0,1,0,2,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/3fad8026/Leston-Paul,3fad8026,e10943b3,Leston Paul,TRI,CM,32-072,88,0,1,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,CM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/f209d2aa/Zach-Carroll,f209d2aa,e10943b3,Zach Carroll,USA,DF,28-067,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/ce23c94d/Luiz-Fernando,ce23c94d,e10943b3,Luiz Fernando,BRA,RM,24-333,64,0,0,0,0,3,1,0,0,0,1,1,0,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/bd929bce/Chris-Allan,bd929bce,e10943b3,Chris Allan,ENG,MF,23-237,26,0,0,0,0,0,0,1,0,2,0,0,3,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/00d83db0/Patrick-Seagrist,00d83db0,e10943b3,Patrick Seagrist,USA,LB,24-090,90,0,0,0,0,1,1,0,0,1,0,0,1,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/bcba3251/Niall-Logue,bcba3251,e10943b3,Niall Logue,IRL,CB,26-288,90,0,0,0,0,1,0,0,0,1,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/ae3330d0/Graham-Smith,ae3330d0,e10943b3,Graham Smith,USA,CB,26-178,90,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/6e0d9f17/Rece-Buckmaster,6e0d9f17,e10943b3,Rece Buckmaster,USA,RB,25-319,90,0,0,0,0,0,0,0,0,0,1,0,2,0,4,0,0,0,RB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/0ee09425/John-Berner,0ee09425,e10943b3,John Berner,USA,GK,31-097,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,0.0,4.0,100.0

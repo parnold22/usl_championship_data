@@ -1,0 +1,33 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+New Mexico Utd,https://fbref.com/en/players/3d9e8e17/Greg-Hurst,3d9e8e17,d017309c,Greg Hurst,SCO,FW,28-155,90,1,0,0,0,2,1,0,0,4,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/55975b0c/Valentin-Noel,55975b0c,d017309c,Valentin Noel,FRA,AM,26-136,90,1,0,0,0,3,1,0,0,0,2,0,2,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/aa9e1161/Zico-Bailey,aa9e1161,d017309c,Zico Bailey,PHI,AM,25-014,90,1,0,0,0,3,1,0,0,2,2,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/a2611a0a/Dayonn-Harris,a2611a0a,d017309c,Dayonn Harris,ATG,AM,28-012,90,0,1,0,0,1,0,1,0,2,2,0,4,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/ffb17329/Carlos-Moguel,ffb17329,d017309c,Carlos Moguel,USA,DM,22-081,59,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/e8d67346/Marlon-Vargas,e8d67346,d017309c,Marlon Vargas,SLV,"FW,MF",24-241,31,0,0,0,0,1,0,1,0,1,0,0,0,0,2,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/3bd84c13/Sergio-Rivas,3bd84c13,d017309c,Sergio Rivas,MEX,DM,27-342,59,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/50a5e230/Ousman-Jabang,50a5e230,d017309c,Ousman Jabang,USA,MF,24-165,31,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/01cd3c12/Chris-Gloster,01cd3c12,d017309c,Chris Gloster,USA,LB,25-044,57,1,0,0,0,1,1,0,0,2,1,0,0,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/83cb6e59/Jaylin-Lindsey,83cb6e59,d017309c,Jaylin Lindsey,USA,DF,25-167,33,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/077e97b3/Kalen-Ryden,077e97b3,d017309c,Kalen Ryden,USA,CB,34-224,65,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/74e30bd2/Luther-Archimede,74e30bd2,d017309c,Luther Archimede,GLP,FW,25-358,25,0,0,0,0,0,0,0,0,3,1,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/fe5fea9f/Kipp-Keller,fe5fea9f,d017309c,Kipp Keller,USA,CB,25-058,59,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/1d5b332d/Talen-Maples,1d5b332d,d017309c,Talen Maples,USA,DF,26-294,31,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/212fb935/Will-Seymore,212fb935,d017309c,Will Seymore,USA,RB,33-193,90,0,1,0,0,0,0,0,0,2,2,0,0,0,3,0,0,0,RB,0.0,0.0,0.0,0.0
+New Mexico Utd,https://fbref.com/en/players/0245fbbf/Alexandros-Tabakis,0245fbbf,d017309c,Alexandros Tabakis,GRE,GK,32-276,90,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,GK,4.0,0.0,4.0,100.0
+Detroit City,https://fbref.com/en/players/f1e19fad/Jordan-Adebayo-Smith,f1e19fad,d017309c,Jordan Adebayo Smith,NGA,FW,25-242,90,0,0,0,0,1,1,0,0,1,4,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/8c4614a8/Jeciel-Cedeno,8c4614a8,d017309c,Jeciel Cedeno,ECU,FW,25-160,90,0,0,0,0,1,0,0,0,0,4,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/3bb4d381/Jay-Chapman,3bb4d381,d017309c,Jay Chapman,CAN,AM,31-252,45,0,0,0,0,0,0,0,0,1,2,0,1,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/1eaf599d/Ryan-Williams,1eaf599d,d017309c,Ryan Williams,ENG,MF,34-155,45,0,0,0,0,1,0,1,0,3,1,0,1,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/fc604b1f/Isaiah-LeFlore,fc604b1f,d017309c,Isaiah LeFlore,USA,DM,22-273,62,0,0,0,0,0,0,0,0,2,1,0,5,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/c168f022/Alex-Villanueva,c168f022,d017309c,Alex Villanueva,USA,"DF,MF",23-063,28,0,0,0,0,0,0,0,0,3,1,0,3,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/34084a47/Abdoulaye-Diop,34084a47,d017309c,Abdoulaye Diop,SEN,DM,25-358,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/01f2c1bb/Haruki-Yamazaki,01f2c1bb,d017309c,Haruki Yamazaki,JPN,FW,24-273,45,0,0,0,0,0,0,0,0,1,2,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/a928bb49/Kobe-Hernandez-Foster,a928bb49,d017309c,Kobe Hernandez Foster,USA,DM,23-076,90,0,0,0,0,3,1,0,0,0,0,0,7,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/6d9fe7bd/Matthew-Sheldon,6d9fe7bd,d017309c,Matthew Sheldon,USA,DM,33-018,62,0,0,0,0,1,1,0,0,1,1,0,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/fd531ced/Sebastian-Guenzatti,fd531ced,d017309c,Sebastian Guenzatti,URU,"FW,MF",34-064,28,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/998268a4/Devon-Amoo-Mensah,998268a4,d017309c,Devon Amoo Mensah,USA,CB,29-287,90,0,0,0,0,1,0,0,0,0,3,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/5a45c74d/Stephen-Carroll,5a45c74d,d017309c,Stephen Carroll,IRL,CB,31-284,78,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/9351a05c/Shane-Wiedt,9351a05c,d017309c,Shane Wiedt,USA,DF,30-053,12,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,DF,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/8e6965ad/Michael-Bryant,8e6965ad,d017309c,Michael Bryant,USA,CB,30-161,90,0,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/4e17631e/Carlos-Herrera,4e17631e,d017309c,Carlos Herrera,MEX,GK,27-363,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,4.0,0.0,0.0

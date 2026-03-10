@@ -1,0 +1,31 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+San Antonio FC,https://fbref.com/en/players/df4fe2b7/Hugo-Hilaire-Mbongue-Mbongue,df4fe2b7,e7f3b145,Hugo Hilaire Mbongue Mbongue,CAN,FW,19-317,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/f2b170ae/Jose-Mulato,f2b170ae,e7f3b145,Jose Mulato,COL,FW,21-148,39,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/0cb2115f/Juan-Agudelo,0cb2115f,e7f3b145,Juan Agudelo,USA,FW,31-195,90,0,0,0,0,3,0,0,0,1,4,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/4c89d918/Jake-LaCava,4c89d918,e7f3b145,Jake LaCava,USA,LM,23-145,90,0,0,0,0,1,0,0,0,0,1,0,1,0,2,0,0,0,LM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/7bf39a2f/Jorge-Hernandez,7bf39a2f,e7f3b145,Jorge Hernandez,USA,CM,23-210,90,0,0,0,0,3,0,1,0,1,3,0,8,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/77d28e45/Luke-Haakenson,77d28e45,e7f3b145,Luke Haakenson,USA,CM,26-269,90,0,0,0,0,0,0,0,0,3,2,0,1,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/4fcf8b91/Kameron-Lacey,4fcf8b91,e7f3b145,Kameron Lacey,JAM,RM,23-141,83,0,0,0,0,1,0,0,0,0,2,1,5,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/c07fd042/Izaiah-Garza,c07fd042,e7f3b145,Izaiah Garza,USA,FW,17-288,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/66a77591/Richard-Windbichler,66a77591,e7f3b145,Richard Windbichler,AUT,LB,33-064,90,0,0,0,0,0,0,0,0,2,2,0,2,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/2a44ec3d/Mitchell-Taintor,2a44ec3d,e7f3b145,Mitchell Taintor,USA,CB,29-268,90,0,0,0,0,0,0,1,0,0,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/38e88892/Kendall-Burks,38e88892,e7f3b145,Kendall Burks,USA,CB,24-241,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/a99e9900/Carter-Manley,a99e9900,e7f3b145,Carter Manley,USA,RB,28-037,8,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/4051400f/Giovanni-Padilla,4051400f,e7f3b145,Giovanni Padilla,USA,MF,18-074,82,0,0,0,0,1,1,0,0,3,1,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/d1f3e74b/Kendall-McIntosh,d1f3e74b,e7f3b145,Kendall McIntosh,USA,GK,30-133,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,1.0,3.0,75.0
+El Paso,https://fbref.com/en/players/f09cbc33/Robinson-Moshobane,f09cbc33,e7f3b145,Robinson Moshobane,RSA,FW,29-262,88,0,0,0,0,1,1,0,0,0,0,1,4,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/1f6ec0c5/Jeremy-Garay,1f6ec0c5,e7f3b145,Jeremy Garay,SLV,MF,21-065,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/eb8eae2c/Justin-Dhillon,eb8eae2c,e7f3b145,Justin Dhillon,USA,FW,28-365,90,0,0,0,0,2,1,0,0,2,3,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/f984f68b/Eric-Calvillo,f984f68b,e7f3b145,Eric Calvillo,SLV,AM,26-155,90,0,0,0,0,3,1,0,0,3,0,0,2,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/8ed78284/Bolu-Akinyode,8ed78284,e7f3b145,Bolu Akinyode,NGA,AM,30-006,90,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/65b4f865/Francisco-Nevarez,65b4f865,e7f3b145,Francisco Nevarez,MEX,AM,23-185,61,0,0,0,0,1,0,0,0,2,1,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/99ddf98d/Ricardo-Zacarias,99ddf98d,e7f3b145,Ricardo Zacarias,USA,FW,28-279,29,0,0,0,0,1,0,1,0,1,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/6bf1e866/Liam-Rose,6bf1e866,e7f3b145,Liam Rose,AUS,DM,27-059,88,0,0,0,0,1,0,1,0,2,1,0,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/ffc2f60e/Yuma,ffc2f60e,e7f3b145,Yuma,ESP,"DF,MF",38-241,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/812c0d71/Eder-Borelli,812c0d71,e7f3b145,Eder Borelli,MEX,LB,33-193,53,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/73cc827d/Nick-Hinds,73cc827d,e7f3b145,Nick Hinds,USA,"DF,FW",26-234,37,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/4118b12a/Tony-Alfaro,4118b12a,e7f3b145,Tony Alfaro,USA,CB,30-356,53,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/4d0f7cb3/Brandan-Craig,4d0f7cb3,e7f3b145,Brandan Craig,USA,DF,20-059,37,1,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/88691c73/Noah-Dollenmayer,88691c73,e7f3b145,Noah Dollenmayer,DOM,CB,24-223,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/b4a650b1/Miles-Lyons,b4a650b1,e7f3b145,Miles Lyons,USA,RB,21-241,90,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/6d12445b/Ramon-Pasquel,6d12445b,e7f3b145,Ramon Pasquel,MEX,GK,27-349,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,1.0,0.0,1.0,100.0

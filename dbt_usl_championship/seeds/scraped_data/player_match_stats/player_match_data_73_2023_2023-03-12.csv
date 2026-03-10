@@ -1,0 +1,32 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+RGV Toros,https://fbref.com/en/players/a612a23b/Wilmer-Cabrera-Jr,a612a23b,bf74bc12,Wilmer Cabrera Jr,USA,FW,22-226,90,0,0,0,0,5,1,0,0,1,2,0,4,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/ffc2477f/Christiano-Francois,ffc2477f,bf74bc12,Christiano Francois,HAI,FW,29-238,89,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/6fcaf66e/Ian-Cerro,6fcaf66e,bf74bc12,Ian Cerro,USA,MF,26-093,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/179f2aa8/Ricardo-Ruiz,179f2aa8,bf74bc12,Ricardo Ruiz,USA,FW,26-128,89,1,0,0,0,3,1,0,0,1,6,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/364f0fd5/Dylan-Hernandez,364f0fd5,bf74bc12,Dylan Hernandez,USA,FW,15-314,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/73eec431/Taylor-Davila,73eec431,bf74bc12,Taylor Davila,USA,CM,22-220,90,0,0,0,0,2,0,0,0,1,0,0,1,0,1,1,0,0,CM,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/d78d7415/Jose-Francisco-Torres,d78d7415,bf74bc12,Jose Francisco Torres,USA,CM,35-134,89,0,0,0,0,0,0,1,0,2,3,0,6,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/6c0b7b15/Jose-Luna,6c0b7b15,bf74bc12,Jose Luna,USA,DF,17-103,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/ed0f5bba/Robert-Coronado,ed0f5bba,bf74bc12,Robert Coronado,USA,CM,26-221,90,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/f56d9c37/Tomas-Ritondale,f56d9c37,bf74bc12,Tomas Ritondale,USA,LB,20-330,65,0,0,0,0,0,0,0,0,2,0,1,4,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/7094787f/Duilio-Herrera,7094787f,bf74bc12,Duilio Herrera,MEX,MF,18-090,25,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/980e59a1/Erik-Pimentel,980e59a1,bf74bc12,Erik Pimentel,MEX,CB,32-301,89,0,0,0,0,1,0,0,1,2,0,1,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/d085c340/Frank-Nodarse,d085c340,bf74bc12,Frank Nodarse,CUB,CB,22-096,90,0,0,0,0,1,1,0,0,1,0,0,0,0,5,0,0,0,CB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/5e44c0c6/Jonathan-Ricketts,5e44c0c6,bf74bc12,Jonathan Ricketts,USA,RB,25-112,37,0,0,0,0,1,0,0,0,1,1,0,3,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/b329cd24/Eric-Kinzner,b329cd24,bf74bc12,Eric Kinzner,USA,DF,19-355,53,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+RGV Toros,https://fbref.com/en/players/8a37dd84/Tyler-Deric,8a37dd84,bf74bc12,Tyler Deric,USA,GK,34-194,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,1.0,4.0,80.0
+LV Lights FC,https://fbref.com/en/players/53b90314/Andrew-Carleton,53b90314,bf74bc12,Andrew Carleton,USA,FW,22-263,85,0,0,0,0,3,3,0,0,0,5,1,5,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/8fc20d1f/Anwar-Ben-Rhouma,8fc20d1f,bf74bc12,Anwar Ben Rhouma,USA,FW,17-343,4,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/fb7e1eba/Pato-Botello,fb7e1eba,bf74bc12,Pato Botello,MEX,FW,26-185,75,0,0,0,0,3,0,0,0,0,1,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/b7f98460/Erick-Torres,b7f98460,bf74bc12,Erick Torres,MEX,FW,30-052,15,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/ec115d56/Tyler-Bagley,ec115d56,bf74bc12,Tyler Bagley,USA,FW,23-283,90,0,0,0,0,3,0,0,0,1,2,0,8,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/2d378ac5/Andres-Jimenez,2d378ac5,bf74bc12,Andres Jimenez,USA,CM,23-003,90,0,0,0,0,0,0,0,0,5,0,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/b70c4066/Alexander-Romero,b70c4066,bf74bc12,Alexander Romero,SLV,CM,18-169,45,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/a2dbbfaf/Marcelo-Lage,a2dbbfaf,bf74bc12,Marcelo Lage,USA,DF,23-010,45,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/62523933/Jacob-Bushue,62523933,bf74bc12,Jacob Bushue,USA,CM,30-301,90,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/49cc5379/Jordan-Ayimbila,49cc5379,bf74bc12,Jordan Ayimbila,GHA,LB,22-026,45,0,0,0,0,0,0,1,0,2,1,0,0,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/4666de19/Eric-Oteng,4666de19,bf74bc12,Eric Oteng,GHA,MF,21-143,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/35b8a023/Alejandro-Mitrano,35b8a023,bf74bc12,Alejandro Mitrano,VEN,CB,24-342,90,0,0,0,0,1,1,0,0,1,1,0,2,0,6,0,0,0,CB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/f209d2aa/Zach-Carroll,f209d2aa,bf74bc12,Zach Carroll,USA,CB,28-361,90,0,0,0,0,1,0,0,0,0,1,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/c5e3e29c/Lucas-Stauffer,c5e3e29c,bf74bc12,Lucas Stauffer,USA,RB,27-325,90,0,0,0,0,1,0,1,0,2,1,0,2,0,3,0,0,0,RB,0.0,0.0,0.0,0.0
+LV Lights FC,https://fbref.com/en/players/345440b9/Leonardo-Diaz,345440b9,bf74bc12,Leonardo Diaz,ARG,GK,23-044,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,1.0,2.0,66.7

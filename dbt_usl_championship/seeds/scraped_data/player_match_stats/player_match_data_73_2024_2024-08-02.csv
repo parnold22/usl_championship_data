@@ -1,0 +1,32 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Charleston,https://fbref.com/en/players/4bf74689/MD-Myers,4bf74689,e5931248,MD Myers,USA,FW,23-119,83,1,0,0,0,4,3,0,0,1,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/79979a4e/Robbie-Crawford,79979a4e,e5931248,Robbie Crawford,SCO,MF,31-136,7,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/262b47fb/Juan-Torres,262b47fb,e5931248,Juan Torres,COL,AM,23-124,83,0,1,0,0,5,0,0,0,0,0,0,7,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/92da8c34/Prince-Saydee,92da8c34,e5931248,Prince Saydee,LBR,"FW,MF",28-164,7,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/bc245aa5/Arturo-Rodriguez,bc245aa5,e5931248,Arturo Rodriguez,MEX,AM,25-231,70,0,0,0,0,0,0,0,0,1,3,0,5,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/3bb4d381/Jay-Chapman,3bb4d381,e5931248,Jay Chapman,CAN,MF,30-214,20,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/65988c73/Nick-Markanich,65988c73,e5931248,Nick Markanich,USA,AM,24-220,83,1,1,0,0,5,3,0,0,2,3,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/1cfa6e1a/Jackson-Conway,1cfa6e1a,e5931248,Jackson Conway,USA,FW,22-243,7,1,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/bd929bce/Chris-Allan,bd929bce,e5931248,Chris Allan,ENG,DM,25-310,90,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/5bb6c69c/Emilio-Ycaza,5bb6c69c,e5931248,Emilio Ycaza,USA,DM,27-023,90,1,0,0,0,2,1,0,0,2,2,0,0,0,3,0,0,0,DM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/f2bef821/Nathan-Dossantos,f2bef821,e5931248,Nathan Dossantos,USA,LB,25-113,90,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/ae3330d0/Graham-Smith,ae3330d0,e5931248,Graham Smith,USA,CB,28-251,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/bbb1e33e/Leland-Archer,bbb1e33e,e5931248,Leland Archer,TRI,CB,28-207,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/a84af631/Mark-Segbers,a84af631,e5931248,Mark Segbers,USA,RB,28-106,89,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/98a70879/Josh-Drack,98a70879,e5931248,Josh Drack,USA,DF,24-315,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/92b10b79/Christian-Garner,92b10b79,e5931248,Christian Garner,USA,GK,24-146,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,0.0,3.0,100.0
+Indy Eleven,https://fbref.com/en/players/8bb1c744/Augustine-Williams,8bb1c744,e5931248,Augustine Williams,SLE,FW,26-365,78,0,0,0,0,1,1,1,0,1,1,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/3c850ce0/Tyler-Gibson,3c850ce0,e5931248,Tyler Gibson,USA,MF,33-203,12,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/d961761c/Romario-Williams,d961761c,e5931248,Romario Williams,JAM,FW,29-353,90,0,0,0,0,2,1,0,0,2,1,2,2,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/3e7ebb9a/Douglas-Martinez,3e7ebb9a,e5931248,Douglas Martinez,HON,FW,27-058,90,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/61cd3bcf/Aedan-Stanley,61cd3bcf,e5931248,Aedan Stanley,USA,LM,24-233,90,0,0,0,0,1,1,0,0,3,1,0,7,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/27b1ae1b/Logan-Neidlinger,27b1ae1b,e5931248,Logan Neidlinger,USA,CM,18-331,90,0,0,0,0,1,0,1,0,2,0,0,3,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/f03a0471/Cameron-Lindley,f03a0471,e5931248,Cameron Lindley,USA,CM,27-015,74,0,0,0,0,1,0,0,0,3,0,0,4,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/96dc7dea/Laurence-Wootton,96dc7dea,e5931248,Laurence Wootton,ENG,MF,24-205,16,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,MF,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/a3c6fd0e/Ben-Mines,a3c6fd0e,e5931248,Ben Mines,USA,RM,24-081,45,0,0,0,0,0,0,0,0,1,2,0,2,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/73366dc8/Aodhan-Quinn,73366dc8,e5931248,Aodhan Quinn,USA,MF,32-133,45,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/f4462455/Adrian-Diz-Pe,f4462455,e5931248,Adrian Diz Pe,CUB,CB,30-151,74,0,0,0,0,1,0,1,0,1,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/fd531ced/Sebastian-Guenzatti,fd531ced,e5931248,Sebastian Guenzatti,URU,"FW,MF",33-025,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/eb0c08ef/Josh-OBrien,eb0c08ef,e5931248,Josh OBrien,ENG,CB,21-176,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/e2d3bec6/Benjamin-Ofeimu,e2d3bec6,e5931248,Benjamin Ofeimu,USA,CB,23-307,90,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/92823044/Hunter-Sulte,92823044,e5931248,Hunter Sulte,USA,GK,22-099,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,10.0,5.0,5.0,50.0

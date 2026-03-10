@@ -1,0 +1,32 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Bold,https://fbref.com/en/players/fa236b87/Sean-Okoli,fa236b87,32968e41,Sean Okoli,USA,FW,28-120,90,0,0,0,0,1,0,1,0,2,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/1470c0e9/Stefano-Pinho,1470c0e9,32968e41,Stefano Pinho,BRA,FW,30-142,64,0,0,0,0,1,0,0,0,0,1,1,2,0,2,0,0,0,FW,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/54094774/Collin-Fernandez,54094774,32968e41,Collin Fernandez,USA,MF,24-110,26,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/76176f22/Owayne-Gordon,76176f22,32968e41,Owayne Gordon,JAM,FW,29-238,90,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/73cc827d/Nick-Hinds,73cc827d,32968e41,Nick Hinds,USA,LM,23-231,65,0,0,0,0,0,0,1,0,1,3,0,2,0,3,0,0,0,LM,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/c98d4b4d/Kofi-Sarkodie,c98d4b4d,32968e41,Kofi Sarkodie,USA,DF,30-073,25,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/b57d06fd/Juan-Pablo-Torres,b57d06fd,32968e41,Juan Pablo Torres,USA,CM,21-312,90,0,0,0,0,0,0,0,0,1,0,0,5,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/5bb6c69c/Emilio-Ycaza,5bb6c69c,32968e41,Emilio Ycaza,USA,CM,23-328,45,0,0,0,0,0,0,1,0,2,2,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/2f50e3ad/Jorge-Troncoso,2f50e3ad,32968e41,Jorge Troncoso,CHI,MF,28-141,45,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/1a0ce03e/Xavier-Baez,1a0ce03e,32968e41,Xavier Baez,MEX,RM,33-316,75,0,0,0,0,2,1,1,0,1,1,0,5,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/3214c8d3/Omar-Ciss,3214c8d3,32968e41,Omar Ciss,SEN,MF,19-303,15,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/376f7f40/Gustavo-Rissi,376f7f40,32968e41,Gustavo Rissi,BRA,CB,23-119,90,0,0,0,0,0,0,0,0,0,4,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/96f18e66/Fabien-Garcia,96f18e66,32968e41,Fabien Garcia,FRA,CB,26-324,90,0,0,0,0,0,0,1,0,3,0,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/eee59c91/Amobi-Okugo,eee59c91,32968e41,Amobi Okugo,USA,CB,30-082,53,0,0,0,0,0,0,0,0,1,1,0,5,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/e2bac987/Jason-Johnson,e2bac987,32968e41,Jason Johnson,JAM,"FW,MF",30-237,37,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Bold,https://fbref.com/en/players/e93972ac/Elliot-Panicco,e93972ac,32968e41,Elliot Panicco,USA,GK,24-197,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,1.0,1.0,0.0,0.0
+El Paso,https://fbref.com/en/players/760de4ba/Luis-Solignac,760de4ba,32968e41,Luis Solignac,ARG,FW,30-107,90,0,0,0,0,1,0,1,0,3,1,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/869a63f7/Aidan-Apodaca,869a63f7,32968e41,Aidan Apodaca,USA,FW,25-010,62,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/73b2d0cd/Dylan-Mares,73b2d0cd,32968e41,Dylan Mares,USA,"FW,MF",29-112,28,0,0,0,0,1,0,0,0,0,1,0,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/e67f8af0/Diego-Luna,e67f8af0,32968e41,Diego Luna,USA,AM,17-269,67,1,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/2f0e74a4/Leandro-Carrijo,2f0e74a4,32968e41,Leandro Carrijo,BRA,FW,35-273,23,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/812c0d71/Eder-Borelli,812c0d71,32968e41,Eder Borelli,MEX,DM,30-190,90,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/7bcb9cc1/Louis-Chapa-Herrera,7bcb9cc1,32968e41,Louis Chapa Herrera,USA,DM,25-031,61,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/1fdf3f69/Nick-Ross,1fdf3f69,32968e41,Nick Ross,SCO,MF,29-204,29,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/963ce2a6/Richie-Ryan,963ce2a6,32968e41,Richie Ryan,IRL,DM,36-148,90,0,0,0,0,1,0,0,0,1,1,0,0,0,3,0,0,0,DM,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/210b2e5d/Bryam-Rebellon,210b2e5d,32968e41,Bryam Rebellon,COL,DM,29-132,84,0,0,0,0,1,0,1,0,4,2,0,1,0,4,0,0,0,DM,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/99ddf98d/Ricardo-Zacarias,99ddf98d,32968e41,Ricardo Zacarias,USA,FW,25-276,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/ffc2f60e/Yuma,ffc2f60e,32968e41,Yuma,ESP,CB,35-238,90,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/62d813a6/Matt-Bahner,62d813a6,32968e41,Matt Bahner,USA,CB,31-083,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/7081e48f/Macauley-King,7081e48f,32968e41,Macauley King,ENG,CB,25-242,90,0,1,0,0,0,0,0,0,2,1,0,1,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+El Paso,https://fbref.com/en/players/d52cd2a0/Adrian-Zendejas,d52cd2a0,32968e41,Adrian Zendejas,MEX,GK,25-277,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,GK,1.0,0.0,1.0,100.0

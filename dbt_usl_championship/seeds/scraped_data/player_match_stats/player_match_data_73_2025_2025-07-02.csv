@@ -1,0 +1,29 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+B'ham Legion,https://fbref.com/en/players/4bf9347c/Ronaldo-Damus,4bf9347c,a4f4110d,Ronaldo Damus,HAI,FW,25-293,90,0,0,0,0,1,0,0,0,2,3,1,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/1312c534/Danny-Trejo,1312c534,a4f4110d,Danny Trejo,USA,LM,27-064,90,0,0,0,0,0,0,0,0,1,0,1,0,0,2,0,0,0,LM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/e41bbc5d/Enzo-Martinez,e41bbc5d,a4f4110d,Enzo Martinez,URU,CM,34-276,90,0,0,0,0,0,0,1,0,4,1,0,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/a8f32dc4/Edwin-Ramos,a8f32dc4,a4f4110d,Edwin Ramos,COL,CM,26-122,90,0,0,0,0,1,0,1,0,4,2,0,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/3a7bec1b/Tyler-Pasher,3a7bec1b,a4f4110d,Tyler Pasher,CAN,RM,31-066,90,0,0,0,0,1,0,0,0,0,1,0,4,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/c61aafd8/Moses-Mensah,c61aafd8,a4f4110d,Moses Mensah,GHA,LB,26-321,78,0,0,0,0,1,0,0,0,1,1,0,2,0,3,0,0,0,LB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/75a0181e/Preston-Tabortetaka,75a0181e,a4f4110d,Preston Tabortetaka,CMR,"FW,MF",27-022,12,0,0,0,0,1,1,0,0,0,1,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/0e104fd6/AJ-Paterson,0e104fd6,a4f4110d,AJ Paterson,GRN,CB,29-152,65,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/2ff7465d/Jake-Rufe,2ff7465d,a4f4110d,Jake Rufe,USA,DF,29-161,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ff98d5ca/Phanuel-Kavita,ff98d5ca,a4f4110d,Phanuel Kavita,RWA,CB,32-115,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/b0da88e8/Santiago-Suarez,b0da88e8,a4f4110d,Santiago Suarez,USA,CB,20-070,90,0,0,0,0,0,0,1,0,1,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/3b25164d/Sebastian-Tregarthen,3b25164d,a4f4110d,Sebastian Tregarthen,URU,RB,24-362,89,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/301146d0/Erik-Centeno,301146d0,a4f4110d,Erik Centeno,USA,MF,23-003,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/6b9a35b3/Matt-Van-Oekel,6b9a35b3,a4f4110d,Matt Van Oekel,USA,GK,38-285,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,0.0,5.0,100.0
+Charleston,https://fbref.com/en/players/44f6672a/Cal-Jennings,44f6672a,a4f4110d,Cal Jennings,USA,FW,28-046,90,0,0,0,0,2,1,0,0,1,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/bc245aa5/Arturo-Rodriguez,bc245aa5,a4f4110d,Arturo Rodriguez,MEX,AM,26-199,60,0,0,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/7636fa88/Jeremy-Kelly,7636fa88,a4f4110d,Jeremy Kelly,USA,MF,27-254,30,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/4bf74689/MD-Myers,4bf74689,a4f4110d,MD Myers,USA,AM,24-088,90,0,0,0,0,2,2,0,0,2,4,0,1,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/262b47fb/Juan-Torres,262b47fb,a4f4110d,Juan Torres,COL,AM,24-093,90,0,0,0,0,3,0,0,0,1,1,0,6,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/5bb6c69c/Emilio-Ycaza,5bb6c69c,a4f4110d,Emilio Ycaza,USA,DM,27-357,60,0,0,0,0,2,0,0,0,2,1,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/38088899/Aaron-Molloy,38088899,a4f4110d,Aaron Molloy,IRL,MF,28-172,30,0,0,0,0,1,1,1,0,1,0,0,2,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/efd7b827/Houssou-Landry,efd7b827,a4f4110d,Houssou Landry,CIV,DM,24-186,90,0,0,0,0,1,0,1,0,2,2,0,0,0,3,0,0,0,DM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/f2bef821/Nathan-Dossantos,f2bef821,a4f4110d,Nathan Dossantos,USA,LB,26-082,90,0,0,0,0,0,0,1,0,3,1,0,1,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/ae3330d0/Graham-Smith,ae3330d0,a4f4110d,Graham Smith,USA,CB,29-219,85,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/a84af631/Mark-Segbers,a84af631,a4f4110d,Mark Segbers,USA,"DF,MF",29-075,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/aea70213/Joey-Akpunonu,aea70213,a4f4110d,Joey Akpunonu,USA,CB,23-193,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/d57f7428/Langston-Blackstock,d57f7428,a4f4110d,Langston Blackstock,USA,RB,25-101,90,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/f28de463/Luis-Zamudio,f28de463,a4f4110d,Luis Zamudio,USA,GK,27-008,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,2.0,0.0,1.0,100.0

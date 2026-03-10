@@ -1,0 +1,30 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Sporting KC II,https://fbref.com/en/players/2db7239d/Rojay-Smith,2db7239d,3d628d22,Rojay Smith,JAM,FW,25-003,84,0,0,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/bfb5ddf3/Mataeo-Bunbury,bfb5ddf3,3d628d22,Mataeo Bunbury,CAN,FW,16-103,6,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/846ac1bf/Osvaldo-Cisneros,846ac1bf,3d628d22,Osvaldo Cisneros,USA,FW,17-195,90,0,0,0,0,2,1,1,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/8a1526a8/Enoch-Mushagalusa,8a1526a8,3d628d22,Enoch Mushagalusa,COD,FW,21-315,90,0,0,0,0,5,0,0,0,2,3,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/79d3a503/Jake-Davis,79d3a503,3d628d22,Jake Davis,USA,CM,19-264,59,0,0,0,0,2,1,0,0,1,0,0,7,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/30af23db/Ropapa-Mensah,30af23db,3d628d22,Ropapa Mensah,GHA,FW,24-035,31,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/201384f8/Petar-Cuic,201384f8,3d628d22,Petar Cuic,CRO,CM,22-114,90,0,0,0,0,2,1,1,0,2,1,0,7,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/7a34ab4c/Christian-Duke,7a34ab4c,3d628d22,Christian Duke,USA,CM,30-111,50,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/eac49bd6/Jahon-Rad,eac49bd6,3d628d22,Jahon Rad,USA,MF,20-103,40,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/fc604b1f/Isaiah-LeFlore,fc604b1f,3d628d22,Isaiah LeFlore,USA,LB,18-287,90,0,0,0,0,2,1,0,0,2,1,0,2,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/2bfb7026/Danny-Barbir,2bfb7026,3d628d22,Danny Barbir,USA,CB,23-236,90,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/ec7cb356/Kaveh-Rad,ec7cb356,3d628d22,Kaveh Rad,USA,CB,20-103,59,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/ae3330d0/Graham-Smith,ae3330d0,3d628d22,Graham Smith,USA,DF,25-303,31,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/2f5f098b/Kayden-Pierre,2f5f098b,3d628d22,Kayden Pierre,USA,RB,18-220,90,1,0,0,0,1,1,0,0,1,2,0,2,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Sporting KC II,https://fbref.com/en/players/6b306c92/John-Pulskamp,6b306c92,3d628d22,John Pulskamp,USA,GK,20-158,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,2.0,1.0,2.0,100.0
+FC Tulsa,https://fbref.com/en/players/5d90b1db/Rodrigo-Da-Costa,5d90b1db,3d628d22,Rodrigo Da Costa,BRA,FW,27-278,90,0,0,0,0,0,0,1,0,2,3,0,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/e2bac987/Jason-Johnson,e2bac987,3d628d22,Jason Johnson,JAM,FW,30-350,69,0,0,0,0,2,0,1,0,1,0,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/5178a0d4/Lucas-Coutinho,5178a0d4,3d628d22,Lucas Coutinho,BRA,MF,28-043,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/d87d5f74/Dario-Suarez,d87d5f74,3d628d22,Dario Suarez,CUB,LM,29-047,83,1,0,1,1,2,2,0,0,1,1,0,0,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/10c3f096/Raphael-Ayagwa,10c3f096,3d628d22,Raphael Ayagwa,NGA,MF,23-223,7,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/068656ea/Kembo-Kibato,068656ea,3d628d22,Kembo Kibato,CAN,CM,21-008,90,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/64b7bf0e/Eric-Bird,64b7bf0e,3d628d22,Eric Bird,USA,CM,28-169,90,0,0,0,0,0,0,0,0,3,0,0,1,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/06590038/Marlon,06590038,3d628d22,Marlon,BRA,RM,26-148,90,0,0,0,0,3,1,0,0,0,3,1,1,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/bb67b6b0/Jorge-Luis-Corrales,bb67b6b0,3d628d22,Jorge Luis Corrales,CUB,LB,30-127,69,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/f90c1a5e/Avionne-Flanagan,f90c1a5e,3d628d22,Avionne Flanagan,USA,"DF,MF",22-171,21,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/0cbd9569/Modou-Jadama,0cbd9569,3d628d22,Modou Jadama,USA,CB,27-191,90,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/f36566e9/Bradley-Bourgeois,f36566e9,3d628d22,Bradley Bourgeois,USA,CB,27-164,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/6d9fe7bd/Matthew-Sheldon,6d9fe7bd,3d628d22,Matthew Sheldon,USA,RB,29-032,90,0,0,0,0,0,0,0,0,1,2,0,2,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/096ae46b/Austin-Wormell,096ae46b,3d628d22,Austin Wormell,USA,GK,23-121,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,1.0,4.0,80.0

@@ -1,0 +1,30 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+B'ham Legion,https://fbref.com/en/players/fdbfda5d/Neco-Brett,fdbfda5d,e39edcee,Neco Brett,JAM,FW,31-018,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/0cb2115f/Juan-Agudelo,0cb2115f,e39edcee,Juan Agudelo,USA,AM,30-137,90,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/e41bbc5d/Enzo-Martinez,e41bbc5d,e39edcee,Enzo Martinez,URU,AM,32-192,90,0,1,0,0,4,0,1,0,2,3,0,2,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/a4e068dc/Prosper-Kasim,a4e068dc,e39edcee,Prosper Kasim,GHA,AM,26-115,90,0,0,0,0,2,0,0,0,2,2,0,5,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ed8d0da6/Anderson-Asiedu,ed8d0da6,e39edcee,Anderson Asiedu,GHA,DM,26-301,90,0,0,0,0,1,1,0,0,2,1,0,2,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/0acbd246/Matthew-Corcoran,0acbd246,e39edcee,Matthew Corcoran,USA,DM,17-051,68,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/f20ca027/Diba-Nwegbo,f20ca027,e39edcee,Diba Nwegbo,NGA,MF,21-098,22,0,0,0,0,2,1,0,0,0,0,0,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/4f9c3df6/Gabriel-Alves,4f9c3df6,e39edcee,Gabriel Alves,,LB,0,90,1,0,0,0,1,1,0,0,1,3,1,3,0,3,0,0,0,LB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ff98d5ca/Phanuel-Kavita,ff98d5ca,e39edcee,Phanuel Kavita,RWA,CB,30-031,90,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/1169c5eb/Alex-Crognale,1169c5eb,e39edcee,Alex Crognale,USA,CB,28-225,90,0,0,0,0,2,0,0,0,0,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/91b27c4b/Collin-Smith,91b27c4b,e39edcee,Collin Smith,USA,RB,19-126,89,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/6548adaa/Grayson-Dupont,6548adaa,e39edcee,Grayson Dupont,USA,MF,25-083,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/40b03d39/Trevor-Spangenberg,40b03d39,e39edcee,Trevor Spangenberg,USA,GK,31-353,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,2.0,2.0,50.0
+Phx Rising,https://fbref.com/en/players/83fdc123/Manuel-Arteaga,83fdc123,e39edcee,Manuel Arteaga,VEN,FW,28-296,83,0,1,0,0,3,1,1,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/1cfa6e1a/Jackson-Conway,1cfa6e1a,e39edcee,Jackson Conway,USA,FW,21-127,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/6251c0e7/Erickson-Gallardo,6251c0e7,e39edcee,Erickson Gallardo,VEN,AM,29-294,89,0,0,0,0,1,0,0,0,0,0,1,6,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/2ad49384/Carlos-Anguiano,2ad49384,e39edcee,Carlos Anguiano,USA,MF,23-208,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/d22a46b4/Emil-Cuello,d22a46b4,e39edcee,Emil Cuello,USA,AM,26-097,45,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/1312c534/Danny-Trejo,1312c534,e39edcee,Danny Trejo,USA,"FW,MF",24-345,45,1,0,0,0,2,1,1,0,1,1,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/97bfcd7f/Gabriel-Torres,97bfcd7f,e39edcee,Gabriel Torres,BRA,DM,26-251,73,0,1,0,0,1,0,0,0,0,1,0,3,0,5,0,0,0,DM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/90bcfcca/Baboucarr-Njie,90bcfcca,e39edcee,Baboucarr Njie,GAM,"DF,MF",27-308,17,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,0,0,DF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/3f18600c/Carlos-Harvey,3f18600c,e39edcee,Carlos Harvey,PAN,DM,23-065,90,1,0,0,0,3,2,1,0,2,3,0,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/526bf96c/Renzo-Zambrano,526bf96c,e39edcee,Renzo Zambrano,VEN,DM,28-226,90,0,0,0,0,0,0,1,0,3,3,0,1,0,4,0,0,0,DM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/807c2c71/Henry-Uzochokwu,807c2c71,e39edcee,Henry Uzochokwu,NGA,DM,24-077,74,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/0e1f6ffa/Eddie-Munjoma,0e1f6ffa,e39edcee,Eddie Munjoma,USA,"DF,MF",24-265,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/74bb9a37/Daniel-Krutzen,74bb9a37,e39edcee,Daniel Krutzen,BEL,CB,26-202,90,0,0,0,0,0,0,1,0,1,0,0,2,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/77edb7ec/Alejandro-Fuenmayor,77edb7ec,e39edcee,Alejandro Fuenmayor,VEN,CB,26-223,90,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/d7fe9d80/Kevon-Lambert,d7fe9d80,e39edcee,Kevon Lambert,JAM,CB,26-018,90,0,0,0,0,0,0,1,0,0,1,1,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/f59bd2d3/Rocco-Rios-Novo,f59bd2d3,e39edcee,Rocco Rios Novo,ARG,GK,20-309,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,1.0,2.0,66.7

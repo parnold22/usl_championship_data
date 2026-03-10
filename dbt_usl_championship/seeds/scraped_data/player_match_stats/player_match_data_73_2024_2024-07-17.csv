@@ -1,0 +1,31 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+B'ham Legion,https://fbref.com/en/players/e41bbc5d/Enzo-Martinez,e41bbc5d,693480a1,Enzo Martinez,URU,FW,33-292,90,0,0,0,0,0,0,0,0,2,2,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/1470c0e9/Stefano-Pinho,1470c0e9,693480a1,Stefano Pinho,BRA,FW,33-187,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/a4e068dc/Prosper-Kasim,a4e068dc,693480a1,Prosper Kasim,GHA,FW,27-215,77,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/61f7e18e/Miguel-Perez,61f7e18e,693480a1,Miguel Perez,USA,MF,19-080,13,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/2ff7465d/Jake-Rufe,2ff7465d,693480a1,Jake Rufe,USA,CM,28-177,77,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/c61aafd8/Moses-Mensah,c61aafd8,693480a1,Moses Mensah,GHA,DF,25-337,13,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/a928bb49/Kobe-Hernandez-Foster,a928bb49,693480a1,Kobe Hernandez Foster,USA,CM,22-021,90,0,0,0,0,1,0,0,0,1,0,0,6,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/3964401f/Dawson-McCartney,3964401f,693480a1,Dawson McCartney,USA,CM,25-276,58,0,1,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/75a0181e/Preston-Tabortetaka,75a0181e,693480a1,Preston Tabortetaka,CMR,"FW,MF",26-037,32,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/aaa630ad/Ramiz-Hamouda,aaa630ad,693480a1,Ramiz Hamouda,USA,LB,16-052,63,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/0e104fd6/AJ-Paterson,0e104fd6,693480a1,AJ Paterson,GRN,DF,28-168,27,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ff98d5ca/Phanuel-Kavita,ff98d5ca,693480a1,Phanuel Kavita,RWA,CB,31-130,90,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/1169c5eb/Alex-Crognale,1169c5eb,693480a1,Alex Crognale,USA,CB,29-325,90,0,0,0,0,2,1,1,0,1,1,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/b9b0304a/Derek-Dodson,b9b0304a,693480a1,Derek Dodson,USA,RB,25-257,90,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/40b03d39/Trevor-Spangenberg,40b03d39,693480a1,Trevor Spangenberg,USA,GK,33-087,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,3.0,1.0,25.0
+Rhode Island FC,https://fbref.com/en/players/d04dba18/JJ-Williams,d04dba18,693480a1,JJ Williams,USA,FW,26-195,71,0,1,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/8ae297c7/Joseph-Brito,8ae297c7,693480a1,Joseph Brito,USA,MF,25-151,19,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/655352d4/Albert-Dikwa,655352d4,693480a1,Albert Dikwa,CMR,FW,26-197,83,0,1,0,0,1,0,1,0,2,4,1,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/0a4682a8/Mark-Doyle,0a4682a8,693480a1,Mark Doyle,IRL,"FW,MF",25-241,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/5be1df64/Noah-Fuson,5be1df64,693480a1,Noah Fuson,USA,AM,24-199,90,1,0,0,0,2,1,0,0,1,2,2,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/cc61360d/Jojea-Kwizera,cc61360d,693480a1,Jojea Kwizera,RWA,DM,25-198,83,0,0,0,0,2,1,0,0,1,1,0,6,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/91b27c4b/Collin-Smith,91b27c4b,693480a1,Collin Smith,USA,DF,20-226,7,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/2ee31588/Clay-Holstad,2ee31588,693480a1,Clay Holstad,USA,DM,24-178,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/a2118e42/Zachary-Herivaux,a2118e42,693480a1,Zachary Herivaux,HAI,MF,28-167,28,2,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/02019ede/Marc-Ybarra,02019ede,693480a1,Marc Ybarra,USA,DM,25-212,90,0,0,0,0,0,0,1,0,1,0,0,7,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/5ef1aaae/Stephen-Turnbull,5ef1aaae,693480a1,Stephen Turnbull,USA,DM,26-126,90,0,1,0,0,2,0,0,0,0,1,0,2,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/624ba068/Grant-Stoneman,624ba068,693480a1,Grant Stoneman,USA,CB,28-233,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/01880958/Karifa-Yao,01880958,693480a1,Karifa Yao,CAN,CB,23-293,90,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/d085c340/Frank-Nodarse,d085c340,693480a1,Frank Nodarse,CUB,CB,23-224,90,0,0,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,CB,0.0,0.0,0.0,0.0
+Rhode Island FC,https://fbref.com/en/players/bfb15d99/Koke-Vegas,bfb15d99,693480a1,Koke Vegas,ESP,GK,28-294,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,1.0,2.0,66.7

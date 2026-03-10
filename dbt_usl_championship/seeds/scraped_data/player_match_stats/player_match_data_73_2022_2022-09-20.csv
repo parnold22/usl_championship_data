@@ -1,0 +1,28 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+San Antonio FC,https://fbref.com/en/players/7a447474/Ignacio-Bailone,7a447474,00dc740e,Ignacio Bailone,ARG,FW,28-243,90,0,0,0,0,0,0,1,0,4,4,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/5804f03b/Elliot-Collier,5804f03b,00dc740e,Elliot Collier,NZL,AM,27-210,67,0,0,0,0,1,0,1,0,1,3,1,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/c81d718e/Jack-Lynn,c81d718e,00dc740e,Jack Lynn,USA,FW,22-251,23,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/e2d8874f/Cristian-Parano,e2d8874f,00dc740e,Cristian Parano,ARG,AM,23-035,82,0,0,0,0,3,1,0,0,1,3,0,3,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/ed724033/Nicky-Hernandez,ed724033,00dc740e,Nicky Hernandez,USA,MF,23-364,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/05ad7458/Connor-Maloney,05ad7458,00dc740e,Connor Maloney,USA,DM,27-125,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/18d94cb0/PC,18d94cb0,00dc740e,PC,BRA,DM,28-194,90,1,0,0,1,6,4,0,0,2,2,0,3,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/c1f17b17/Mohammed-Abu,c1f17b17,00dc740e,Mohammed Abu,GHA,DM,30-310,90,0,0,0,0,0,0,0,0,3,1,0,16,0,3,0,0,0,DM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/bd107d30/Shannon-Gomez,bd107d30,00dc740e,Shannon Gomez,TRI,DM,25-350,90,0,0,0,0,0,0,0,0,1,2,0,3,0,4,0,0,0,DM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/2a44ec3d/Mitchell-Taintor,2a44ec3d,00dc740e,Mitchell Taintor,USA,CB,28-009,90,0,0,0,0,1,0,0,0,2,0,0,1,0,4,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/f3513a46/Jasser-Khmiri,f3513a46,00dc740e,Jasser Khmiri,TUN,CB,24-311,90,0,0,0,0,2,1,1,0,3,0,0,0,0,4,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/a99e9900/Carter-Manley,a99e9900,00dc740e,Carter Manley,USA,CB,26-144,90,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/7b20d178/Jordan-Farr,7b20d178,00dc740e,Jordan Farr,USA,GK,27-350,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,2.0,0.0,2.0,100.0
+CS Switchbacks,https://fbref.com/en/players/a25e9c54/Kharlton-Belmar,a25e9c54,00dc740e,Kharlton Belmar,GRN,FW,29-293,76,0,0,0,0,1,0,0,0,3,5,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/28b34fe3/Aaron-Wheeler,28b34fe3,00dc740e,Aaron Wheeler,USA,FW,34-132,14,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/836c317b/Elvis-Amoh,836c317b,00dc740e,Elvis Amoh,GHA,FW,30-230,90,0,0,0,0,1,0,1,0,3,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/9837830f/Michee-Ngalina,9837830f,00dc740e,Michee Ngalina,COD,FW,22-167,90,0,0,0,0,2,0,0,0,0,2,0,5,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/d9330b12/Tristan-Hodge,d9330b12,00dc740e,Tristan Hodge,TRI,LM,27-346,90,0,0,0,0,0,0,1,0,1,6,0,1,0,5,0,0,0,LM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/a6362b48/Steven-Echeverria,a6362b48,00dc740e,Steven Echeverria,PUR,CM,26-164,90,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/35429371/Beverly-Makangila,35429371,00dc740e,Beverly Makangila,COD,CM,22-162,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/f03a0471/Cameron-Lindley,f03a0471,00dc740e,Cameron Lindley,USA,MF,25-064,13,0,0,0,0,1,1,0,0,0,0,0,4,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/3a9911ce/Sebastian-Anderson,3a9911ce,00dc740e,Sebastian Anderson,USA,RM,20-043,90,0,0,0,0,3,1,0,0,0,1,1,4,0,2,0,0,0,RM,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/47d8db69/Dennis-Erdmann,47d8db69,00dc740e,Dennis Erdmann,GER,CB,31-302,90,0,0,0,0,1,0,1,0,4,0,0,0,0,4,0,0,0,CB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/658388b4/Matt-Mahoney,658388b4,00dc740e,Matt Mahoney,USA,CB,27-156,90,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/f03bba0c/Michael-Edwards,f03bba0c,00dc740e,Michael Edwards,USA,CB,21-297,61,0,0,0,0,0,0,1,0,3,2,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/7081e48f/Macauley-King,7081e48f,00dc740e,Macauley King,ENG,"DF,MF",26-351,29,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+CS Switchbacks,https://fbref.com/en/players/6a0987cf/Christian-Herrera,6a0987cf,00dc740e,Christian Herrera,MEX,GK,25-153,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,4.0,1.0,4.0,75.0

@@ -1,0 +1,31 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+North Carolina,https://fbref.com/en/players/c63ae448/Evan-Conway,c63ae448,b775e0c9,Evan Conway,USA,FW,27-281,90,0,1,0,0,5,0,0,0,3,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/3757f468/Pedro-Dolabella,3757f468,b775e0c9,Pedro Dolabella,USA,FW,26-017,79,1,0,0,0,2,2,1,0,3,2,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/52f215a7/Ahmad-Al-Qaq,52f215a7,b775e0c9,Ahmad Al Qaq,PLE,MF,23-176,11,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/03c0dcc3/Louis-Perez,03c0dcc3,b775e0c9,Louis Perez,FRA,CM,28-065,84,0,0,0,0,1,0,1,0,2,3,0,7,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/a876e927/Thomas-Roberts,a876e927,b775e0c9,Thomas Roberts,USA,MF,24-096,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/246f7571/Raheem-Somersall,246f7571,b775e0c9,Raheem Somersall,SKN,CM,28-041,90,0,0,0,0,2,0,0,0,1,2,0,2,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/4036c29f/Mikey-Maldonado,4036c29f,b775e0c9,Mikey Maldonado,USA,CM,27-044,90,0,0,0,0,0,0,0,0,1,0,0,9,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/b72465eb/Jaden-Servania,b72465eb,b775e0c9,Jaden Servania,PUR,LB,24-030,90,0,0,0,0,1,0,0,0,0,1,0,2,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/d9330b12/Tristan-Hodge,d9330b12,b775e0c9,Tristan Hodge,TRI,CB,30-310,90,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/20bc347c/Bryce-Washington,20bc347c,b775e0c9,Bryce Washington,USA,CB,26-337,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/3b9e2775/Finn-Sundstrom,3b9e2775,b775e0c9,Finn Sundstrom,USA,CB,18-269,88,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/f440649e/Paco-Craig,f440649e,b775e0c9,Paco Craig,ENG,DF,32-300,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/8746d5d0/Patrick-Burner,8746d5d0,b775e0c9,Patrick Burner,MTQ,RB,29-126,90,0,0,0,0,2,0,0,0,2,0,0,0,0,4,0,0,0,RB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/29863f6e/Jake-McGuire,29863f6e,b775e0c9,Jake McGuire,USA,GK,30-346,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,1.0,3.0,75.0
+Detroit City,https://fbref.com/en/players/0b90fa20/Alassane-Diouf,0b90fa20,b775e0c9,Alassane Diouf,SEN,FW,25-144,67,0,0,0,0,3,0,0,0,0,0,2,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/f1e19fad/Jordan-Adebayo-Smith,f1e19fad,b775e0c9,Jordan Adebayo Smith,NGA,FW,25-216,23,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/2587e36f/Darren-Smith,2587e36f,b775e0c9,Darren Smith,RSA,FW,29-142,90,1,0,0,0,2,1,0,0,2,0,3,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/34084a47/Abdoulaye-Diop,34084a47,b775e0c9,Abdoulaye Diop,SEN,CM,25-332,61,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/8c4614a8/Jeciel-Cedeno,8c4614a8,b775e0c9,Jeciel Cedeno,ECU,"FW,MF",25-134,29,0,0,0,0,0,0,1,0,1,2,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/a928bb49/Kobe-Hernandez-Foster,a928bb49,b775e0c9,Kobe Hernandez Foster,USA,CM,23-050,90,0,1,0,0,2,1,0,0,0,1,0,2,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/3bb4d381/Jay-Chapman,3bb4d381,b775e0c9,Jay Chapman,CAN,CM,31-226,45,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/1eaf599d/Ryan-Williams,1eaf599d,b775e0c9,Ryan Williams,ENG,MF,34-129,45,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/c168f022/Alex-Villanueva,c168f022,b775e0c9,Alex Villanueva,USA,LB,23-037,86,0,0,0,0,0,0,0,0,0,2,0,2,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/fd531ced/Sebastian-Guenzatti,fd531ced,b775e0c9,Sebastian Guenzatti,URU,"FW,MF",34-038,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/998268a4/Devon-Amoo-Mensah,998268a4,b775e0c9,Devon Amoo Mensah,USA,CB,29-261,90,0,0,0,0,0,0,0,0,3,2,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/8e6965ad/Michael-Bryant,8e6965ad,b775e0c9,Michael Bryant,USA,CB,30-135,90,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/9351a05c/Shane-Wiedt,9351a05c,b775e0c9,Shane Wiedt,USA,CB,30-027,45,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/01f2c1bb/Haruki-Yamazaki,01f2c1bb,b775e0c9,Haruki Yamazaki,JPN,FW,24-247,45,0,0,0,0,1,0,0,0,2,1,0,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/6d9fe7bd/Matthew-Sheldon,6d9fe7bd,b775e0c9,Matthew Sheldon,USA,RB,32-357,90,0,0,0,0,3,1,0,0,1,2,0,1,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Detroit City,https://fbref.com/en/players/f2512fb9/Carlos-Saldana,f2512fb9,b775e0c9,Carlos Saldana,MEX,GK,28-292,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,1.0,2.0,66.7

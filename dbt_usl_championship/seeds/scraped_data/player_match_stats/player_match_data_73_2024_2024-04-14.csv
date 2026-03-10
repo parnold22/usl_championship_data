@@ -1,0 +1,31 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+North Carolina,https://fbref.com/en/players/b9260b01/Julian-Placias,b9260b01,fd2ca8d9,Julian Placias,USA,FW,18-008,62,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/eebfffe4/Oalex-Anderson,eebfffe4,fd2ca8d9,Oalex Anderson,VIN,FW,28-155,28,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/03c0dcc3/Louis-Perez,03c0dcc3,fd2ca8d9,Louis Perez,FRA,FW,26-308,61,0,0,0,0,3,1,0,0,1,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/b72465eb/Jaden-Servania,b72465eb,fd2ca8d9,Jaden Servania,PUR,MF,22-273,29,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/5d90b1db/Rodrigo-Da-Costa,5d90b1db,fd2ca8d9,Rodrigo Da Costa,BRA,FW,30-116,70,1,0,1,1,1,1,0,0,0,1,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/cd1adeb9/Garrett-McLaughlin,cd1adeb9,fd2ca8d9,Garrett McLaughlin,USA,FW,26-156,20,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/1873a313/Ezra-Armstrong,1873a313,fd2ca8d9,Ezra Armstrong,USA,LM,25-121,90,0,0,0,0,1,0,0,0,2,0,0,5,0,2,0,0,0,LM,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/027c0f1a/Collin-Martin,027c0f1a,fd2ca8d9,Collin Martin,USA,CM,29-157,90,0,0,0,0,2,1,0,0,0,0,0,1,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/4036c29f/Mikey-Maldonado,4036c29f,fd2ca8d9,Mikey Maldonado,USA,CM,25-287,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/060db276/Rafa-Mentzingen,060db276,fd2ca8d9,Rafa Mentzingen,BRA,RM,27-348,62,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/7fac343b/Shaft-Brewer,7fac343b,fd2ca8d9,Shaft Brewer,USA,DF,24-169,28,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/0014c269/Adrian-Pelayo,0014c269,fd2ca8d9,Adrian Pelayo,USA,CB,17-334,88,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/20bc347c/Bryce-Washington,20bc347c,fd2ca8d9,Bryce Washington,USA,DF,25-215,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/f440649e/Paco-Craig,f440649e,fd2ca8d9,Paco Craig,ENG,CB,31-178,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/17245e03/Justin-Malou,17245e03,fd2ca8d9,Justin Malou,SEN,CB,25-318,90,0,0,0,0,1,0,0,0,3,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+North Carolina,https://fbref.com/en/players/29863f6e/Jake-McGuire,29863f6e,fd2ca8d9,Jake McGuire,USA,GK,29-224,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,1.0,1.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/1470c0e9/Stefano-Pinho,1470c0e9,fd2ca8d9,Stefano Pinho,BRA,FW,33-093,58,0,1,0,0,1,0,0,0,1,2,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/3964401f/Dawson-McCartney,3964401f,fd2ca8d9,Dawson McCartney,USA,MF,25-182,32,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/a4e068dc/Prosper-Kasim,a4e068dc,fd2ca8d9,Prosper Kasim,GHA,LW,27-121,68,0,0,0,0,1,0,0,0,0,1,1,3,0,2,0,0,0,LW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/75a0181e/Preston-Tabortetaka,75a0181e,fd2ca8d9,Preston Tabortetaka,CMR,"FW,MF",25-309,22,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/a928bb49/Kobe-Hernandez-Foster,a928bb49,fd2ca8d9,Kobe Hernandez Foster,USA,AM,21-293,90,0,0,0,0,1,0,0,0,0,0,0,4,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/e41bbc5d/Enzo-Martinez,e41bbc5d,fd2ca8d9,Enzo Martinez,URU,AM,33-198,90,1,0,0,0,2,1,1,0,1,1,1,4,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/3a7bec1b/Tyler-Pasher,3a7bec1b,fd2ca8d9,Tyler Pasher,CAN,RW,29-353,90,0,0,0,0,2,0,0,0,0,1,1,1,0,0,0,0,0,RW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/0e104fd6/AJ-Paterson,0e104fd6,fd2ca8d9,AJ Paterson,GRN,DM,28-074,90,0,0,0,0,0,0,1,0,2,1,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/c61aafd8/Moses-Mensah,c61aafd8,fd2ca8d9,Moses Mensah,GHA,LB,25-243,90,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ff98d5ca/Phanuel-Kavita,ff98d5ca,fd2ca8d9,Phanuel Kavita,RWA,CB,31-036,90,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/1169c5eb/Alex-Crognale,1169c5eb,fd2ca8d9,Alex Crognale,USA,CB,29-231,58,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/61f7e18e/Miguel-Perez,61f7e18e,fd2ca8d9,Miguel Perez,USA,MF,18-352,32,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/c194ae9c/Mujeeb-Murana,c194ae9c,fd2ca8d9,Mujeeb Murana,USA,RB,23-204,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/6b9a35b3/Matt-Van-Oekel,6b9a35b3,fd2ca8d9,Matt Van Oekel,USA,GK,37-207,90,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,GK,3.0,1.0,3.0,100.0

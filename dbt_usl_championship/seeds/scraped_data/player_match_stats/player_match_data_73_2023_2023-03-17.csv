@@ -1,0 +1,30 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+B'ham Legion,https://fbref.com/en/players/f20ca027/Diba-Nwegbo,f20ca027,4d23edb1,Diba Nwegbo,NGA,FW,21-075,57,0,0,0,0,3,2,0,0,2,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/fdbfda5d/Neco-Brett,fdbfda5d,4d23edb1,Neco Brett,JAM,FW,30-360,33,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/0cb2115f/Juan-Agudelo,0cb2115f,4d23edb1,Juan Agudelo,USA,AM,30-114,90,0,0,0,0,3,1,0,0,3,0,0,0,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/3a7bec1b/Tyler-Pasher,3a7bec1b,4d23edb1,Tyler Pasher,CAN,AM,28-324,90,2,0,0,0,3,2,0,0,2,1,0,4,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/91b27c4b/Collin-Smith,91b27c4b,4d23edb1,Collin Smith,USA,AM,19-103,90,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ed8d0da6/Anderson-Asiedu,ed8d0da6,4d23edb1,Anderson Asiedu,GHA,DM,26-278,90,0,0,0,0,1,0,1,0,2,1,0,0,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/a4e068dc/Prosper-Kasim,a4e068dc,4d23edb1,Prosper Kasim,GHA,DM,26-092,57,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/e41bbc5d/Enzo-Martinez,e41bbc5d,4d23edb1,Enzo Martinez,URU,"FW,MF",32-169,33,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/4f9c3df6/Gabriel-Alves,4f9c3df6,4d23edb1,Gabriel Alves,,LB,0,79,0,0,0,0,0,0,1,0,2,2,0,4,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/c61aafd8/Moses-Mensah,c61aafd8,4d23edb1,Moses Mensah,GHA,DF,24-214,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ff98d5ca/Phanuel-Kavita,ff98d5ca,4d23edb1,Phanuel Kavita,RWA,CB,30-008,90,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/1169c5eb/Alex-Crognale,1169c5eb,4d23edb1,Alex Crognale,USA,CB,28-202,90,0,1,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/2ff7465d/Jake-Rufe,2ff7465d,4d23edb1,Jake Rufe,USA,RB,27-054,56,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/6f0a801a/Ben-Reveno,6f0a801a,4d23edb1,Ben Reveno,USA,DF,23-353,34,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/6b9a35b3/Matt-Van-Oekel,6b9a35b3,4d23edb1,Matt Van Oekel,USA,GK,36-178,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,5.0,2.0,3.0,60.0
+FC Tulsa,https://fbref.com/en/players/6933b57f/Moses-Dyer,6933b57f,4d23edb1,Moses Dyer,NZL,FW,25-361,79,0,0,0,0,2,2,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/d87d5f74/Dario-Suarez,d87d5f74,4d23edb1,Dario Suarez,CUB,"FW,MF",30-221,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/7bb23f0e/Marcus-Epps,7bb23f0e,4d23edb1,Marcus Epps,USA,AM,28-060,90,1,0,0,0,3,2,0,0,0,1,0,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/5d90b1db/Rodrigo-Da-Costa,5d90b1db,4d23edb1,Rodrigo Da Costa,BRA,AM,29-087,90,1,0,0,0,4,1,0,0,0,2,0,6,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/e2e5aa12/Milo-Yosef,e2e5aa12,4d23edb1,Milo Yosef,GER,AM,24-187,67,0,0,0,0,0,0,0,0,1,2,0,2,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/b338a233/Brett-Levis,b338a233,4d23edb1,Brett Levis,CAN,"DF,MF",29-353,23,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/1d88419e/Blaine-Ferri,1d88419e,4d23edb1,Blaine Ferri,USA,DM,22-169,90,0,1,0,0,0,0,0,0,0,3,0,0,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/54094774/Collin-Fernandez,54094774,4d23edb1,Collin Fernandez,USA,DM,26-032,90,0,1,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/bf0a02be/Ruxi,bf0a02be,4d23edb1,Ruxi,ESP,LB,27-340,90,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/bb67b6b0/Jorge-Luis-Corrales,bb67b6b0,4d23edb1,Jorge Luis Corrales,CUB,CB,31-301,90,0,0,0,0,0,0,1,0,1,3,0,0,0,4,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/17245e03/Justin-Malou,17245e03,4d23edb1,Justin Malou,SEN,CB,24-289,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/64b7bf0e/Eric-Bird,64b7bf0e,4d23edb1,Eric Bird,USA,RB,29-343,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/fc14a221/Rashid-Tetteh,fc14a221,4d23edb1,Rashid Tetteh,GHA,DF,27-246,70,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/f4a12161/Michael-Nelson,f4a12161,4d23edb1,Michael Nelson,USA,GK,28-035,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,6.0,3.0,3.0,50.0

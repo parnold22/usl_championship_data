@@ -1,0 +1,61 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Loudoun United,https://fbref.com/en/players/e3dc71a7/Sami-Guediri,e3dc71a7,808d2e20,Sami Guediri,USA,FW,24-249,89,0,0,0,0,1,0,0,0,2,2,1,6,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/7a77b383/Abdellatif-Aboukoura,7a77b383,808d2e20,Abdellatif Aboukoura,USA,MF,17-190,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/ba702426/Azaad-Liadi,ba702426,808d2e20,Azaad Liadi,USA,FW,23-345,45,0,0,0,0,2,2,0,0,0,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/5cbf1baa/Zoumana-Diarra,5cbf1baa,808d2e20,Zoumana Diarra,CIV,MF,18-362,45,0,0,0,0,3,0,0,0,0,1,3,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/bbbb244b/Kimarni-Smith,bbbb244b,808d2e20,Kimarni Smith,ENG,FW,24-041,90,0,0,0,0,0,0,0,0,2,4,2,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/ae760cf4/Gaoussou-Samake,ae760cf4,808d2e20,Gaoussou Samake,CIV,LM,24-171,90,0,0,0,0,2,0,0,0,0,0,0,1,0,4,0,0,0,LM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/0217d80d/Nicky-Downs,0217d80d,808d2e20,Nicky Downs,USA,CM,26-106,90,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/1f6ec0c5/Jeremy-Garay,1f6ec0c5,808d2e20,Jeremy Garay,SLV,CM,19-023,67,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/e5b49f0e/Abdoul-Zanne,e5b49f0e,808d2e20,Abdoul Zanne,CIV,MF,19-065,23,1,0,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/0a0dcb6f/Jacob-Greene,0a0dcb6f,808d2e20,Jacob Greene,USA,RM,19-032,90,0,0,0,0,0,0,1,0,4,0,0,1,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/82657587/Rio-Hope-Gund,82657587,808d2e20,Rio Hope Gund,USA,CB,22-247,90,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/c3e24517/Hayden-Sargis,c3e24517,808d2e20,Hayden Sargis,USA,CB,19-357,70,0,0,0,0,0,0,0,1,1,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/f6194cf5/Carson-Vom-Steeg,f6194cf5,808d2e20,Carson Vom Steeg,USA,CB,23-082,45,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/efd7b827/Houssou-Landry,efd7b827,808d2e20,Houssou Landry,CIV,MF,21-117,45,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/f28de463/Luis-Zamudio,f28de463,808d2e20,Luis Zamudio,USA,GK,23-304,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,6.0,2.0,5.0,66.7
+B'ham Legion,https://fbref.com/en/players/e41bbc5d/Enzo-Martinez,e41bbc5d,808d2e20,Enzo Martinez,URU,FW,31-207,90,1,1,0,0,2,1,0,0,0,1,2,5,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/06590038/Marlon,06590038,808d2e20,Marlon,BRA,AM,26-360,68,0,0,0,0,7,2,0,0,0,1,1,1,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/887d4345/Amadou-Diop,887d4345,808d2e20,Amadou Diop,SEN,FW,26-250,22,1,0,0,0,3,2,0,0,2,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/0d74a643/Bruno-Lapa,0d74a643,808d2e20,Bruno Lapa,BRA,AM,24-349,84,0,1,0,1,4,2,1,0,0,2,1,3,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/2ff7465d/Jake-Rufe,2ff7465d,808d2e20,Jake Rufe,USA,DF,26-092,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/a4e068dc/Prosper-Kasim,a4e068dc,808d2e20,Prosper Kasim,GHA,AM,25-130,84,0,0,0,0,1,0,0,0,0,1,2,4,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/1dfaa68d/Thomas-Vancaeyezeele,1dfaa68d,808d2e20,Thomas Vancaeyezeele,GUF,"DF,MF",27-271,6,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ed8d0da6/Anderson-Asiedu,ed8d0da6,808d2e20,Anderson Asiedu,GHA,DM,25-316,90,0,0,0,0,1,1,1,0,2,1,0,0,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/fa452499/Mikey-Lopez,fa452499,808d2e20,Mikey Lopez,USA,DM,29-063,90,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/3ae9a342/Ryan-James,3ae9a342,808d2e20,Ryan James,CAN,LB,28-003,60,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/a2118e42/Zachary-Herivaux,a2118e42,808d2e20,Zachary Herivaux,HAI,MF,26-082,30,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ff98d5ca/Phanuel-Kavita,ff98d5ca,808d2e20,Phanuel Kavita,RWA,CB,29-046,90,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/1169c5eb/Alex-Crognale,1169c5eb,808d2e20,Alex Crognale,USA,CB,27-240,90,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/ed8c35d2/Jonathan-Dean,ed8c35d2,808d2e20,Jonathan Dean,USA,RB,24-344,90,0,0,0,0,1,0,1,0,2,2,0,3,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+B'ham Legion,https://fbref.com/en/players/6b9a35b3/Matt-Van-Oekel,6b9a35b3,808d2e20,Matt Van Oekel,USA,GK,35-216,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,1.0,2.0,66.7
+Indy Eleven,https://fbref.com/en/players/064749ea/Jonas-Fjeldberg,064749ea,237636ae,Jonas Fjeldberg,NOR,FW,23-206,70,0,0,0,0,1,0,0,0,0,2,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/6c926602/Aris-Briggs,6c926602,237636ae,Aris Briggs,USA,FW,25-166,20,1,0,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/1470c0e9/Stefano-Pinho,1470c0e9,237636ae,Stefano Pinho,BRA,FW,31-102,90,1,1,0,0,4,3,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/e94dfdc6/Ayoze-Garcia,e94dfdc6,237636ae,Ayoze Garcia,ESP,LM,36-153,45,0,0,0,0,1,0,0,0,0,3,0,4,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/83fdc123/Manuel-Arteaga,83fdc123,237636ae,Manuel Arteaga,VEN,FW,27-311,45,0,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/51326de4/Justin-Ingram,51326de4,237636ae,Justin Ingram,USA,CM,23-124,90,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/7b6113d9/Raul-Aguilera-Jr,7b6113d9,237636ae,Raul Aguilera Jr,USA,CM,22-265,90,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/d12df9fe/Nicky-Law,d12df9fe,237636ae,Nicky Law,ENG,RM,34-026,52,0,0,0,0,0,0,0,0,1,1,0,1,0,2,0,0,0,RM,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/503561e4/Noah-Powder,503561e4,237636ae,Noah Powder,TRI,"DF,MF",23-179,38,1,0,0,0,4,2,1,0,3,1,0,1,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/91769d2f/Jared-Timmer,91769d2f,237636ae,Jared Timmer,USA,LB,24-360,90,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/3adea0c9/A-J-Cochran,3adea0c9,237636ae,A J Cochran,USA,CB,29-074,90,0,0,0,0,1,0,0,0,2,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/fec945c8/Mechack-Jerome,fec945c8,237636ae,Mechack Jerome,HAI,CB,32-003,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/fb5dbdc0/Neveal-Hackshaw,fb5dbdc0,237636ae,Neveal Hackshaw,TRI,"DF,MF",26-215,66,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,0,0,DF,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/d5f9dd73/Alexander-McQueen,d5f9dd73,237636ae,Alexander McQueen,GRN,RB,27-031,90,0,0,0,0,0,0,0,0,0,2,0,2,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Indy Eleven,https://fbref.com/en/players/e93972ac/Elliot-Panicco,e93972ac,237636ae,Elliot Panicco,USA,GK,25-157,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,1.0,1.0,0.0,0.0
+Orange County,https://fbref.com/en/players/fa236b87/Sean-Okoli,fa236b87,237636ae,Sean Okoli,USA,FW,29-080,90,0,0,0,0,1,0,0,0,1,2,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/4f87c75f/Milan-Iloski,4f87c75f,237636ae,Milan Iloski,USA,AM,22-269,90,0,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/b7f98460/Erick-Torres,b7f98460,237636ae,Erick Torres,MEX,AM,29-095,69,0,0,0,0,0,0,0,0,1,2,1,2,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/367b7748/Albi-Skendi,367b7748,237636ae,Albi Skendi,ALB,"DF,MF",28-210,21,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/7f9896b2/Mikko-Kuningas,7f9896b2,237636ae,Mikko Kuningas,FIN,AM,24-268,90,1,0,0,0,3,1,0,0,1,1,0,5,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/f3dd2e06/Daniel-A-Pedersen,f3dd2e06,237636ae,Daniel A Pedersen,DEN,DM,29-271,65,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/85538cdd/Tony-Rocha,85538cdd,237636ae,Tony Rocha,BLZ,MF,28-246,25,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/ecbca580/Thomas-McCabe,ecbca580,237636ae,Thomas McCabe,USA,DM,24-020,64,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/dac1adc3/Kevin-Partida,dac1adc3,237636ae,Kevin Partida,USA,MF,27-045,26,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/c168f022/Alex-Villanueva,c168f022,237636ae,Alex Villanueva,USA,LB,19-289,78,0,0,0,0,1,0,0,0,1,2,0,2,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/58503f28/Brent-Richards,58503f28,237636ae,Brent Richards,USA,"DF,FW",31-339,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/c8ecccfe/Hunter-Gorskie,c8ecccfe,237636ae,Hunter Gorskie,USA,CB,30-301,90,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/6af165bc/Kobi-Henry,6af165bc,237636ae,Kobi Henry,TRI,CB,17-363,90,0,0,0,0,0,0,1,0,3,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/e28a8364/Seth-Casiple,e28a8364,237636ae,Seth Casiple,USA,RB,28-244,90,0,0,0,0,0,0,0,0,1,1,0,2,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Orange County,https://fbref.com/en/players/cf9bf817/Patrick-Rakovsky,cf9bf817,237636ae,Patrick Rakovsky,GER,GK,28-326,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,6.0,3.0,3.0,50.0

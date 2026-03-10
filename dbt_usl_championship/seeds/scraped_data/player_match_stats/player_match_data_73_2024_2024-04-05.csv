@@ -1,0 +1,67 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+FC Tulsa,https://fbref.com/en/players/09bb8e44/Stefan-Stojanovic,09bb8e44,a9348a92,Stefan Stojanovic,USA,FW,23-033,76,1,0,0,0,6,4,0,0,0,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/bd8fa93e/Diogo-Oliveira-Pacheco,bd8fa93e,a9348a92,Diogo Oliveira Pacheco,POR,MF,25-205,14,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/cadbd9aa/Alexander-Dalou,cadbd9aa,a9348a92,Alexander Dalou,USA,FW,23-225,87,0,1,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/40e1c628/Nathan-Worth,40e1c628,a9348a92,Nathan Worth,USA,MF,17-039,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/dbe7be34/Boubacar-Diallo,dbe7be34,a9348a92,Boubacar Diallo,USA,LM,21-118,61,0,0,0,0,1,1,0,0,1,0,0,2,0,2,0,0,0,LM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/e2e5aa12/Milo-Yosef,e2e5aa12,a9348a92,Milo Yosef,GER,MF,25-207,29,0,0,0,0,4,1,1,0,0,0,0,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/1d88419e/Blaine-Ferri,1d88419e,a9348a92,Blaine Ferri,USA,CM,23-189,76,0,0,0,0,0,0,0,0,1,2,0,5,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/e3da4e33/Camilo-Ponce,e3da4e33,a9348a92,Camilo Ponce,USA,MF,20-122,14,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/b7aa9657/Justin-Portillo,b7aa9657,a9348a92,Justin Portillo,USA,CM,31-209,90,0,2,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/a8f32dc4/Edwin-Ramos,a8f32dc4,a9348a92,Edwin Ramos,COL,RM,25-034,90,1,0,0,0,5,2,0,0,3,2,0,0,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/00d83db0/Patrick-Seagrist,00d83db0,a9348a92,Patrick Seagrist,USA,LB,26-044,90,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/65054630/Alexis-Souahy,65054630,a9348a92,Alexis Souahy,COM,CB,29-083,90,1,0,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/f36566e9/Bradley-Bourgeois,f36566e9,a9348a92,Bradley Bourgeois,USA,CB,29-358,90,0,0,0,0,0,0,1,0,2,2,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/49953793/Arthur-Rogers,49953793,a9348a92,Arthur Rogers,ENG,RB,27-192,90,0,0,0,0,0,0,0,0,0,1,0,7,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/58b2a620/Joey-Roggeveen,58b2a620,a9348a92,Joey Roggeveen,SUR,GK,26-016,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,GK,1.0,3.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/58b2a620/Joey-Roggeveen,58b2a620,a9348a92,Joey Roggeveen,SUR,GK,26-016,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,GK,1.0,3.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/2802f5b0/Juan-Carlos-Azocar,2802f5b0,a9348a92,Juan Carlos Azocar,VEN,FW,28-187,81,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/f5bfcbf7/Mohamed-Traore,f5bfcbf7,a9348a92,Mohamed Traore,SEN,DF,21-234,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/efdb0dd2/Edgardo-Rito,efdb0dd2,a9348a92,Edgardo Rito,VEN,LW,28-048,65,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,LW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/97bfcd7f/Gabriel-Torres,97bfcd7f,a9348a92,Gabriel Torres,BRA,"DF,MF",27-248,25,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/02b16fb4/Remi-Cabral,02b16fb4,a9348a92,Remi Cabral,FRA,AM,24-270,89,2,0,1,1,4,2,0,0,1,2,3,0,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/6251c0e7/Erickson-Gallardo,6251c0e7,a9348a92,Erickson Gallardo,VEN,"FW,MF",30-291,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/d22a46b4/Emil-Cuello,d22a46b4,a9348a92,Emil Cuello,USA,AM,27-094,60,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/02a9fccf/Panos-Armenakas,02a9fccf,a9348a92,Panos Armenakas,AUS,RW,25-244,65,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,RW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/e855f6b1/Dariusz-Formella,e855f6b1,a9348a92,Dariusz Formella,POL,"FW,MF",28-167,25,1,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/1a6bab10/Pape-Boye,1a6bab10,a9348a92,Pape Boye,SEN,DM,20-097,90,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/66bf4c3f/John-Stenberg,66bf4c3f,a9348a92,John Stenberg,SWE,DM,31-176,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/1a1614c5/Laurence-Wyke,1a1614c5,a9348a92,Laurence Wyke,ENG,CB,27-198,90,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/526bf96c/Renzo-Zambrano,526bf96c,a9348a92,Renzo Zambrano,VEN,CB,29-223,90,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/5147fa39/Giulio-Doratiotto,5147fa39,a9348a92,Giulio Doratiotto,ITA,CB,19-323,65,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/0c3e8aee/Jose-Hernandez,0c3e8aee,a9348a92,Jose Hernandez,USA,MF,27-359,25,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/f59bd2d3/Rocco-Rios-Novo,f59bd2d3,a9348a92,Rocco Rios Novo,ARG,GK,21-306,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,9.0,3.0,6.0,66.7
+Phx Rising,https://fbref.com/en/players/f59bd2d3/Rocco-Rios-Novo,f59bd2d3,a9348a92,Rocco Rios Novo,ARG,GK,21-306,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,9.0,3.0,6.0,66.7
+FC Tulsa,https://fbref.com/en/players/09bb8e44/Stefan-Stojanovic,09bb8e44,a9348a92,Stefan Stojanovic,USA,FW,23-033,76,1,0,0,0,6,4,0,0,0,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/bd8fa93e/Diogo-Oliveira-Pacheco,bd8fa93e,a9348a92,Diogo Oliveira Pacheco,POR,MF,25-205,14,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/cadbd9aa/Alexander-Dalou,cadbd9aa,a9348a92,Alexander Dalou,USA,FW,23-225,87,0,1,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/40e1c628/Nathan-Worth,40e1c628,a9348a92,Nathan Worth,USA,MF,17-039,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/dbe7be34/Boubacar-Diallo,dbe7be34,a9348a92,Boubacar Diallo,USA,LM,21-118,61,0,0,0,0,1,1,0,0,1,0,0,2,0,2,0,0,0,LM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/e2e5aa12/Milo-Yosef,e2e5aa12,a9348a92,Milo Yosef,GER,MF,25-207,29,0,0,0,0,4,1,1,0,0,0,0,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/1d88419e/Blaine-Ferri,1d88419e,a9348a92,Blaine Ferri,USA,CM,23-189,76,0,0,0,0,0,0,0,0,1,2,0,5,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/e3da4e33/Camilo-Ponce,e3da4e33,a9348a92,Camilo Ponce,USA,MF,20-122,14,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/b7aa9657/Justin-Portillo,b7aa9657,a9348a92,Justin Portillo,USA,CM,31-209,90,0,2,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/a8f32dc4/Edwin-Ramos,a8f32dc4,a9348a92,Edwin Ramos,COL,RM,25-034,90,1,0,0,0,5,2,0,0,3,2,0,0,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/00d83db0/Patrick-Seagrist,00d83db0,a9348a92,Patrick Seagrist,USA,LB,26-044,90,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/65054630/Alexis-Souahy,65054630,a9348a92,Alexis Souahy,COM,CB,29-083,90,1,0,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/f36566e9/Bradley-Bourgeois,f36566e9,a9348a92,Bradley Bourgeois,USA,CB,29-358,90,0,0,0,0,0,0,1,0,2,2,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/49953793/Arthur-Rogers,49953793,a9348a92,Arthur Rogers,ENG,RB,27-192,90,0,0,0,0,0,0,0,0,0,1,0,7,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/58b2a620/Joey-Roggeveen,58b2a620,a9348a92,Joey Roggeveen,SUR,GK,26-016,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,GK,1.0,3.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/58b2a620/Joey-Roggeveen,58b2a620,a9348a92,Joey Roggeveen,SUR,GK,26-016,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,GK,1.0,3.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/2802f5b0/Juan-Carlos-Azocar,2802f5b0,a9348a92,Juan Carlos Azocar,VEN,FW,28-187,81,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/f5bfcbf7/Mohamed-Traore,f5bfcbf7,a9348a92,Mohamed Traore,SEN,DF,21-234,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/efdb0dd2/Edgardo-Rito,efdb0dd2,a9348a92,Edgardo Rito,VEN,LW,28-048,65,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,LW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/97bfcd7f/Gabriel-Torres,97bfcd7f,a9348a92,Gabriel Torres,BRA,"DF,MF",27-248,25,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/02b16fb4/Remi-Cabral,02b16fb4,a9348a92,Remi Cabral,FRA,AM,24-270,89,2,0,1,1,4,2,0,0,1,2,3,0,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/6251c0e7/Erickson-Gallardo,6251c0e7,a9348a92,Erickson Gallardo,VEN,"FW,MF",30-291,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/d22a46b4/Emil-Cuello,d22a46b4,a9348a92,Emil Cuello,USA,AM,27-094,60,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/02a9fccf/Panos-Armenakas,02a9fccf,a9348a92,Panos Armenakas,AUS,RW,25-244,65,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,RW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/e855f6b1/Dariusz-Formella,e855f6b1,a9348a92,Dariusz Formella,POL,"FW,MF",28-167,25,1,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/1a6bab10/Pape-Boye,1a6bab10,a9348a92,Pape Boye,SEN,DM,20-097,90,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/66bf4c3f/John-Stenberg,66bf4c3f,a9348a92,John Stenberg,SWE,DM,31-176,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/1a1614c5/Laurence-Wyke,1a1614c5,a9348a92,Laurence Wyke,ENG,CB,27-198,90,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/526bf96c/Renzo-Zambrano,526bf96c,a9348a92,Renzo Zambrano,VEN,CB,29-223,90,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/5147fa39/Giulio-Doratiotto,5147fa39,a9348a92,Giulio Doratiotto,ITA,CB,19-323,65,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/0c3e8aee/Jose-Hernandez,0c3e8aee,a9348a92,Jose Hernandez,USA,MF,27-359,25,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/f59bd2d3/Rocco-Rios-Novo,f59bd2d3,a9348a92,Rocco Rios Novo,ARG,GK,21-306,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,9.0,3.0,6.0,66.7
+Phx Rising,https://fbref.com/en/players/f59bd2d3/Rocco-Rios-Novo,f59bd2d3,a9348a92,Rocco Rios Novo,ARG,GK,21-306,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,9.0,3.0,6.0,66.7

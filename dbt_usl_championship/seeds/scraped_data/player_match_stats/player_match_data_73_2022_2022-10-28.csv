@@ -1,0 +1,29 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+San Antonio FC,https://fbref.com/en/players/70cb3cf1/Santiago-Patino,70cb3cf1,e65628f6,Santiago Patino,USA,FW,25-232,90,2,1,0,0,3,2,0,0,3,0,2,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/86429529/Samuel-Adeniran,86429529,e65628f6,Samuel Adeniran,USA,FW,24-028,78,1,1,0,0,3,1,0,0,0,0,0,4,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/7a447474/Ignacio-Bailone,7a447474,e65628f6,Ignacio Bailone,ARG,FW,28-281,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/12e3a5f4/Jordy-Delem,12e3a5f4,e65628f6,Jordy Delem,MTQ,CM,29-224,90,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/18d94cb0/PC,18d94cb0,e65628f6,PC,BRA,CM,28-232,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/a99e9900/Carter-Manley,a99e9900,e65628f6,Carter Manley,USA,DF,26-182,83,0,0,0,0,0,0,0,0,0,1,0,2,0,3,0,0,0,DF,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/e2d8874f/Cristian-Parano,e2d8874f,e65628f6,Cristian Parano,ARG,CM,23-073,59,0,0,0,0,1,0,0,0,0,3,0,2,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/eb8eae2c/Justin-Dhillon,eb8eae2c,e65628f6,Justin Dhillon,USA,FW,27-144,31,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/bd107d30/Shannon-Gomez,bd107d30,e65628f6,Shannon Gomez,TRI,LB,26-023,90,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/2a44ec3d/Mitchell-Taintor,2a44ec3d,e65628f6,Mitchell Taintor,USA,CB,28-047,90,0,0,0,0,1,0,0,0,3,1,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/f3513a46/Jasser-Khmiri,f3513a46,e65628f6,Jasser Khmiri,TUN,CB,24-349,90,0,0,0,0,0,0,1,0,2,0,0,0,0,5,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/96f18e66/Fabien-Garcia,96f18e66,e65628f6,Fabien Garcia,FRA,CB,28-106,90,0,0,0,0,0,0,1,0,3,1,0,4,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/05ad7458/Connor-Maloney,05ad7458,e65628f6,Connor Maloney,USA,RB,27-163,90,0,0,0,0,2,1,0,0,2,1,0,0,0,4,0,0,0,RB,0.0,0.0,0.0,0.0
+San Antonio FC,https://fbref.com/en/players/7b20d178/Jordan-Farr,7b20d178,e65628f6,Jordan Farr,USA,GK,28-023,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,3.0,0.0,3.0,100.0
+Roots,https://fbref.com/en/players/8649e475/Ottar-Magnus-Karlsson,8649e475,e65628f6,Ottar Magnus Karlsson,ISL,FW,25-249,90,0,0,0,0,6,1,0,0,0,2,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/9a7368a0/Lindo-Mfeka,9a7368a0,e65628f6,Lindo Mfeka,RSA,LM,28-212,78,0,0,0,0,1,0,0,0,1,1,0,1,0,1,0,0,0,LM,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/126568a4/Mikael-Johnsen,126568a4,e65628f6,Mikael Johnsen,NOR,MF,22-116,12,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/c9f1df08/Joseph-Nane,c9f1df08,e65628f6,Joseph Nane,CMR,CM,34-329,66,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/ca885102/Johnny-Rodriguez,ca885102,e65628f6,Johnny Rodriguez,USA,"FW,MF",24-137,24,0,0,0,0,0,0,1,0,1,0,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/0c3e8aee/Jose-Hernandez,0c3e8aee,e65628f6,Jose Hernandez,USA,CM,26-199,90,0,0,0,0,0,0,1,0,0,2,0,2,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/0bee33d7/Charlie-Dennis,0bee33d7,e65628f6,Charlie Dennis,ENG,RM,27-030,90,0,0,0,0,4,0,0,0,2,4,0,12,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/2802f5b0/Juan-Carlos-Azocar,2802f5b0,e65628f6,Juan Carlos Azocar,VEN,LB,27-027,90,0,0,0,0,2,1,0,0,2,1,1,3,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/2bfb7026/Danny-Barbir,2bfb7026,e65628f6,Danny Barbir,USA,CB,24-270,78,0,0,0,0,1,0,1,0,2,1,0,1,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/e1d41993/Jesus-Enriquez,e1d41993,e65628f6,Jesus Enriquez,MEX,MF,25-073,12,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/ce5120dd/Tarek-Morad,ce5120dd,e65628f6,Tarek Morad,USA,CB,30-068,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/2d1a053d/Emrah-Klimenta,2d1a053d,e65628f6,Emrah Klimenta,MNE,CB,31-257,90,0,0,0,0,1,0,0,0,0,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/efdb0dd2/Edgardo-Rito,efdb0dd2,e65628f6,Edgardo Rito,VEN,RB,26-253,90,0,0,0,0,0,0,1,0,1,0,0,6,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/35b61ea0/Paul-Blanchette,35b61ea0,e65628f6,Paul Blanchette,USA,GK,28-195,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,3.0,1.0,25.0

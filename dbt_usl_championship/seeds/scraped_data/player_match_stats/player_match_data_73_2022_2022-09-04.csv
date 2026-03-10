@@ -1,0 +1,32 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Loudoun United,https://fbref.com/en/players/05b360ed/Tyler-Freeman,05b360ed,0ca86a25,Tyler Freeman,USA,FW,19-238,90,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/ef7c10e0/Theodore-Ku-Dipietro,ef7c10e0,0ca86a25,Theodore Ku Dipietro,USA,AM,20-219,90,0,0,0,0,0,0,0,0,0,3,0,1,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/b65a8b06/Skage-Simonsen,b65a8b06,0ca86a25,Skage Simonsen,NOR,AM,24-145,61,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/5c59bc47/Jonathan-Benteke,5c59bc47,0ca86a25,Jonathan Benteke,BEL,FW,27-129,29,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/0a0dcb6f/Jacob-Greene,0a0dcb6f,0ca86a25,Jacob Greene,USA,AM,19-165,90,0,0,0,0,1,0,0,0,0,2,0,0,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/1f6ec0c5/Jeremy-Garay,1f6ec0c5,0ca86a25,Jeremy Garay,SLV,DM,19-156,45,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/e5b49f0e/Abdoul-Zanne,e5b49f0e,0ca86a25,Abdoul Zanne,CIV,MF,19-198,45,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/efd7b827/Houssou-Landry,efd7b827,0ca86a25,Houssou Landry,CIV,DM,21-250,90,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/ae760cf4/Gaoussou-Samake,ae760cf4,0ca86a25,Gaoussou Samake,CIV,LB,24-304,81,0,0,0,0,2,1,0,0,0,1,0,3,0,3,0,0,0,LB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/7a77b383/Abdellatif-Aboukoura,7a77b383,0ca86a25,Abdellatif Aboukoura,USA,MF,17-323,9,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/0217d80d/Nicky-Downs,0217d80d,0ca86a25,Nicky Downs,USA,CB,26-239,90,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/900bc4f7/Jalen-Robinson,900bc4f7,0ca86a25,Jalen Robinson,USA,CB,28-119,90,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/c3e24517/Hayden-Sargis,c3e24517,0ca86a25,Hayden Sargis,USA,RB,20-125,45,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/67d3d023/Kristian-Fletcher,67d3d023,0ca86a25,Kristian Fletcher,USA,FW,17-029,45,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Loudoun United,https://fbref.com/en/players/f28de463/Luis-Zamudio,f28de463,0ca86a25,Luis Zamudio,USA,GK,24-072,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,GK,6.0,2.0,4.0,66.7
+Pittsburgh,https://fbref.com/en/players/e99f57a7/Russell-Cicerone,e99f57a7,0ca86a25,Russell Cicerone,USA,FW,27-291,72,1,0,0,0,2,1,0,0,1,2,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/7e40f227/Angelo-Kelly-Rosales,7e40f227,0ca86a25,Angelo Kelly Rosales,HON,MF,29-222,18,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/655352d4/Albert-Dikwa,655352d4,0ca86a25,Albert Dikwa,CMR,FW,24-245,85,0,1,0,0,5,2,0,0,0,2,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/e42d4219/Jesse-Williams,e42d4219,0ca86a25,Jesse Williams,TRI,DF,21-109,5,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/7d78e0f3/Robbie-Mertz,7d78e0f3,0ca86a25,Robbie Mertz,USA,LM,25-274,72,0,0,0,0,1,0,0,0,2,0,0,3,0,1,0,0,0,LM,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/71e5d21d/Luis-Argudo,71e5d21d,0ca86a25,Luis Argudo,USA,MF,26-265,18,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/3de0d48c/Kenardo-Forbes,3de0d48c,0ca86a25,Kenardo Forbes,JAM,CM,34-112,90,0,0,0,0,2,0,0,0,2,0,2,7,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/a493be2d/Danny-Griffin,a493be2d,0ca86a25,Danny Griffin,USA,CM,24-052,90,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/d19fed25/Alex-Dixon,d19fed25,0ca86a25,Alex Dixon,USA,RM,32-209,61,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/2f2c0ab1/Edward-Kizza,2f2c0ab1,0ca86a25,Edward Kizza,UGA,FW,23-261,29,1,0,0,0,4,2,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/10d35fa6/Daniel-Rovira,10d35fa6,0ca86a25,Daniel Rovira,COL,LB,25-263,61,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/51739a8b/Jelani-Peters,51739a8b,0ca86a25,Jelani Peters,TRI,DF,28-261,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/265fcb80/Mekeil-Williams,265fcb80,0ca86a25,Mekeil Williams,TRI,CB,32-042,90,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/16ecce68/Arturo-Ordonez,16ecce68,0ca86a25,Arturo Ordonez,ESP,CB,25-105,90,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/9351a05c/Shane-Wiedt,9351a05c,0ca86a25,Shane Wiedt,USA,RB,27-047,90,0,1,0,0,0,0,1,0,1,0,0,1,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Pittsburgh,https://fbref.com/en/players/58d392ed/Jahmali-Waite,58d392ed,0ca86a25,Jahmali Waite,JAM,GK,23-254,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,GK,2.0,1.0,2.0,100.0

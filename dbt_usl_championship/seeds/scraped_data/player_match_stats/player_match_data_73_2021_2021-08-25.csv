@@ -1,0 +1,62 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Roots,https://fbref.com/en/players/9d6e2ee9/Jeremy-Bokila,9d6e2ee9,69c5fa30,Jeremy Bokila,COD,FW,32-284,85,0,0,0,0,5,2,0,0,5,2,2,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/07388fcc/Soya-Takahashi,07388fcc,69c5fa30,Soya Takahashi,JPN,DF,25-177,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/0c3e8aee/Jose-Hernandez,0c3e8aee,69c5fa30,Jose Hernandez,USA,LW,25-135,73,1,0,0,0,2,1,1,0,2,1,0,5,0,0,0,0,0,LW,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/9a7368a0/Lindo-Mfeka,9a7368a0,69c5fa30,Lindo Mfeka,RSA,"FW,MF",27-148,17,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/74afdd74/Wal-Fall,74afdd74,69c5fa30,Wal Fall,GER,AM,28-351,90,1,0,0,0,2,1,0,0,0,2,0,0,0,5,0,0,0,AM,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/f430626e/Ariel-Mbumba,f430626e,69c5fa30,Ariel Mbumba,,AM,19-335,62,1,0,0,0,1,1,0,0,1,1,0,2,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/ca885102/Johnny-Rodriguez,ca885102,69c5fa30,Johnny Rodriguez,USA,"FW,MF",23-073,28,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/e1d41993/Jesus-Enriquez,e1d41993,69c5fa30,Jesus Enriquez,MEX,RW,24-009,85,0,1,0,0,1,1,0,0,0,1,0,4,0,0,0,0,0,RW,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/b5edefd3/Kai-Greene,b5edefd3,69c5fa30,Kai Greene,USA,"DF,MF",28-049,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/fec92d44/Matias-Fissore,fec92d44,69c5fa30,Matias Fissore,ARG,DM,30-338,90,0,0,0,0,1,0,0,0,1,0,0,1,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/0e854aae/Akeem-Ward,0e854aae,69c5fa30,Akeem Ward,USA,LB,25-231,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,LB,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/2d1a053d/Emrah-Klimenta,2d1a053d,69c5fa30,Emrah Klimenta,MNE,CB,30-193,90,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/1b8a9cc7/Max-Ornstil,1b8a9cc7,69c5fa30,Max Ornstil,USA,CB,27-182,90,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/56c3edb3/Guillermo-Diaz,56c3edb3,69c5fa30,Guillermo Diaz,USA,RB,25-313,90,0,0,0,0,0,0,0,0,1,0,0,3,0,4,0,0,0,RB,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/35b61ea0/Paul-Blanchette,35b61ea0,69c5fa30,Paul Blanchette,USA,GK,27-131,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,3.0,1.0,2.0,66.7
+Phx Rising,https://fbref.com/en/players/92da8c34/Prince-Saydee,92da8c34,69c5fa30,Prince Saydee,LBR,FW,25-186,62,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/8d671482/Santi-Moar,8d671482,69c5fa30,Santi Moar,ESP,"FW,MF",27-354,28,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/5f732a63/David-Egbo,5f732a63,69c5fa30,David Egbo,NGA,FW,22-298,90,0,0,0,0,5,1,0,0,1,1,0,2,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/35807a85/Ivan-Gutierrez,35807a85,69c5fa30,Ivan Gutierrez,MEX,FW,23-190,62,0,0,0,0,1,0,0,0,2,0,0,6,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/bc245aa5/Arturo-Rodriguez,bc245aa5,69c5fa30,Arturo Rodriguez,MEX,MF,22-253,28,0,0,0,0,0,0,0,0,1,0,0,7,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/e176052e/James-Musa,e176052e,69c5fa30,James Musa,NZL,CM,29-146,90,0,0,0,0,1,0,0,0,2,3,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/90710b70/Joey-Calistri,90710b70,69c5fa30,Joey Calistri,USA,CM,27-278,62,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/73366dc8/Aodhan-Quinn,73366dc8,69c5fa30,Aodhan Quinn,USA,MF,29-156,28,0,0,0,0,2,0,0,0,1,1,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/b7ee996f/Jon-Bakero,b7ee996f,69c5fa30,Jon Bakero,ESP,CM,25-106,61,0,0,0,0,1,1,1,0,1,1,0,3,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/d7fe9d80/Kevon-Lambert,d7fe9d80,69c5fa30,Kevon Lambert,JAM,"DF,MF",24-156,29,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/4e4bc0e4/Ryan-Flood,4e4bc0e4,69c5fa30,Ryan Flood,USA,LB,22-312,85,0,0,0,0,2,0,0,0,1,0,0,4,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/8f87602d/Joe-Farrell,8f87602d,69c5fa30,Joe Farrell,USA,DF,27-193,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/fa21bbc8/Tate-Schmitt,fa21bbc8,69c5fa30,Tate Schmitt,USA,CB,24-089,90,0,0,0,0,2,0,0,0,1,2,0,1,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/afe98cfd/Manuel-Madrid-Quezada,afe98cfd,69c5fa30,Manuel Madrid Quezada,MEX,CB,27-361,90,0,0,0,0,1,0,0,0,1,1,0,0,0,4,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/d116f714/Darnell-King,d116f714,69c5fa30,Darnell King,USA,RB,30-336,90,1,0,0,0,2,1,1,0,1,3,0,4,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/abe9908a/Benjamin-Lundt,abe9908a,69c5fa30,Benjamin Lundt,GER,GK,25-335,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,7.0,3.0,4.0,57.1
+FC Tulsa,https://fbref.com/en/players/dd4ddd03/Lebogang-Moloto,dd4ddd03,83425af9,Lebogang Moloto,RSA,FW,31-096,78,0,0,0,0,1,0,1,0,1,0,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/068656ea/Kembo-Kibato,068656ea,83425af9,Kembo Kibato,CAN,MF,20-343,12,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/e2bac987/Jason-Johnson,e2bac987,83425af9,Jason Johnson,JAM,FW,30-320,58,0,0,0,0,4,2,0,0,2,0,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/06590038/Marlon,06590038,83425af9,Marlon,BRA,"FW,MF",26-118,32,2,0,0,0,2,2,0,0,0,2,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/d87d5f74/Dario-Suarez,d87d5f74,83425af9,Dario Suarez,CUB,LM,29-017,85,0,0,0,0,2,1,0,0,1,1,0,1,0,1,0,0,0,LM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/bb978f2b/Kevin-Garcia,bb978f2b,83425af9,Kevin Garcia,USA,DF,31-004,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/5d90b1db/Rodrigo-Da-Costa,5d90b1db,83425af9,Rodrigo Da Costa,BRA,CM,27-248,90,0,0,0,0,1,0,0,0,2,0,0,2,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/64b7bf0e/Eric-Bird,64b7bf0e,83425af9,Eric Bird,USA,CM,28-139,90,0,0,0,0,1,0,0,0,3,1,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/bffd7272/Joaquin-Rivas,bffd7272,83425af9,Joaquin Rivas,SLV,RM,29-121,90,0,0,0,0,2,1,0,0,0,0,2,2,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/bb67b6b0/Jorge-Luis-Corrales,bb67b6b0,83425af9,Jorge Luis Corrales,CUB,LB,30-097,90,0,1,0,0,0,0,0,0,0,1,1,4,0,4,0,0,0,LB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/0cbd9569/Modou-Jadama,0cbd9569,83425af9,Modou Jadama,USA,CB,27-161,90,0,0,0,0,0,0,1,0,2,2,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/f36566e9/Bradley-Bourgeois,f36566e9,83425af9,Bradley Bourgeois,USA,CB,27-134,90,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/6d9fe7bd/Matthew-Sheldon,6d9fe7bd,83425af9,Matthew Sheldon,USA,RB,29-002,90,0,0,0,0,0,0,0,0,1,3,0,2,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/2906798d/Sean-Lewis,2906798d,83425af9,Sean Lewis,USA,GK,29-130,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,2.0,1.0,1.0,50.0
+Memphis 901,https://fbref.com/en/players/6ea83b25/Kyle-Murphy,6ea83b25,83425af9,Kyle Murphy,USA,FW,28-257,90,1,0,0,0,4,1,0,0,0,2,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/dbab5aa7/Michael-Salazar,dbab5aa7,83425af9,Michael Salazar,BLZ,FW,28-283,55,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/3fad8026/Leston-Paul,3fad8026,83425af9,Leston Paul,TRI,MF,31-167,35,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/34d8cfd4/Francis-Atuahene,34d8cfd4,83425af9,Francis Atuahene,GHA,LM,25-078,55,0,0,0,0,1,1,0,0,3,1,0,2,0,1,0,0,0,LM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/0beae10c/Andre-Fortune-II,0beae10c,83425af9,Andre Fortune II,TRI,MF,25-053,35,0,0,0,0,0,0,0,0,1,3,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/5e7f4283/Laurent-Kissiedou,5e7f4283,83425af9,Laurent Kissiedou,CIV,CM,22-246,90,0,0,0,0,3,0,0,0,0,0,0,1,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/e88873c3/Dominic-Oduro,e88873c3,83425af9,Dominic Oduro,GHA,CM,26-214,82,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/4dc3ce03/Rashawn-Dally,4dc3ce03,83425af9,Rashawn Dally,JAM,FW,24-223,8,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/71db1863/Kadeem-Dacres,71db1863,83425af9,Kadeem Dacres,JAM,RM,30-000,90,0,0,0,0,2,0,1,0,3,1,0,11,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/d46dbe4f/Andre-Reynolds-II,d46dbe4f,83425af9,Andre Reynolds II,USA,LB,20-115,88,0,0,0,0,0,0,1,0,1,0,0,2,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/8efe2570/Raul-Gonzalez,8efe2570,83425af9,Raul Gonzalez,PUR,"DF,MF",26-336,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/f209d2aa/Zach-Carroll,f209d2aa,83425af9,Zach Carroll,USA,CB,27-162,90,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/56dcf1b2/Skylar-Thomas,56dcf1b2,83425af9,Skylar Thomas,CAN,CB,28-029,74,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/6582c966/Brecc-Evans,6582c966,83425af9,Brecc Evans,USA,DF,21-353,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/a84af631/Mark-Segbers,a84af631,83425af9,Mark Segbers,USA,RB,25-129,90,0,0,0,0,0,0,0,0,1,1,0,5,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
+Memphis 901,https://fbref.com/en/players/b4e04d9e/Brady-Scott,b4e04d9e,83425af9,Brady Scott,USA,GK,22-056,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,6.0,2.0,4.0,66.7

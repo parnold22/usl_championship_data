@@ -1,0 +1,31 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+FC Tulsa,https://fbref.com/en/players/15387e4f/Phillip-Goodrum,15387e4f,d388e477,Phillip Goodrum,USA,FW,26-059,90,1,0,1,1,3,1,1,0,3,5,2,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/6933b57f/Moses-Dyer,6933b57f,d388e477,Moses Dyer,NZL,FW,26-150,73,0,0,0,0,0,0,0,0,1,4,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/605d5e84/Angel-Bernal,605d5e84,d388e477,Angel Bernal,USA,DF,18-173,17,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/54094774/Collin-Fernandez,54094774,d388e477,Collin Fernandez,USA,CM,26-186,45,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/40e1c628/Nathan-Worth,40e1c628,d388e477,Nathan Worth,USA,MF,16-173,45,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/64b7bf0e/Eric-Bird,64b7bf0e,d388e477,Eric Bird,USA,CM,30-132,45,0,0,0,0,2,0,0,0,0,1,1,1,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/1d88419e/Blaine-Ferri,1d88419e,d388e477,Blaine Ferri,USA,MF,22-323,45,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/e2e5aa12/Milo-Yosef,e2e5aa12,d388e477,Milo Yosef,GER,CM,24-341,90,0,0,0,0,0,0,0,0,1,1,0,6,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/00d83db0/Patrick-Seagrist,00d83db0,d388e477,Patrick Seagrist,USA,LB,25-178,90,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/ecbca580/Thomas-McCabe,ecbca580,d388e477,Thomas McCabe,USA,CB,25-136,63,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/9212f1cb/Siad-Haji,9212f1cb,d388e477,Siad Haji,SOM,FW,23-260,27,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/bf0a02be/Ruxi,bf0a02be,d388e477,Ruxi,ESP,CB,28-129,90,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/fc14a221/Rashid-Tetteh,fc14a221,d388e477,Rashid Tetteh,GHA,CB,28-035,90,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/17245e03/Justin-Malou,17245e03,d388e477,Justin Malou,SEN,RB,25-078,62,0,0,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/7bb23f0e/Marcus-Epps,7bb23f0e,d388e477,Marcus Epps,USA,"FW,MF",28-214,28,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+FC Tulsa,https://fbref.com/en/players/f4a12161/Michael-Nelson,f4a12161,d388e477,Michael Nelson,USA,GK,28-189,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,6.0,2.0,4.0,66.7
+TB Rowdies,https://fbref.com/en/players/d04dba18/JJ-Williams,d04dba18,d388e477,JJ Williams,USA,FW,25-226,90,1,1,0,0,4,2,1,0,2,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/4c89d918/Jake-LaCava,4c89d918,d388e477,Jake LaCava,USA,FW,22-218,89,0,0,0,0,4,3,0,0,2,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/bf49fa7b/Ariel-Martinez,bf49fa7b,d388e477,Ariel Martinez,CUB,"FW,MF",37-101,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/44f6672a/Cal-Jennings,44f6672a,d388e477,Cal Jennings,USA,FW,26-093,67,1,0,0,0,5,1,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/b207c92c/Joshua-Perez,b207c92c,d388e477,Joshua Perez,SLV,"FW,MF",25-209,23,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/bb9a138b/Jake-Areman,bb9a138b,d388e477,Jake Areman,USA,LM,27-162,90,0,0,0,0,0,0,1,0,1,2,0,3,0,2,0,0,0,LM,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/0bee33d7/Charlie-Dennis,0bee33d7,d388e477,Charlie Dennis,ENG,CM,27-324,90,0,0,0,0,0,0,1,0,3,1,0,5,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/80b9e218/Yann-Ekra,80b9e218,d388e477,Yann Ekra,FRA,CM,32-251,83,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/a2611a0a/Dayonn-Harris,a2611a0a,d388e477,Dayonn Harris,ATG,MF,25-354,7,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/ece860cc/Jordan-Doherty,ece860cc,d388e477,Jordan Doherty,IRL,RM,22-354,90,0,0,0,0,1,0,0,0,1,0,0,9,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/b4bb58c4/Aaron-Guillen,b4bb58c4,d388e477,Aaron Guillen,USA,CB,30-056,90,0,0,0,0,1,0,0,0,1,2,0,1,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/e068bed0/Freddy-Kleemann,e068bed0,d388e477,Freddy Kleemann,USA,CB,24-152,90,0,0,0,0,1,0,0,0,4,0,0,1,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/6396308d/Conner-Antley,6396308d,d388e477,Conner Antley,USA,CB,28-149,90,0,0,0,0,1,0,0,0,0,0,1,2,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/f3c1d6c2/Connor-Sparrow,f3c1d6c2,d388e477,Connor Sparrow,USA,GK,29-100,90,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,GK,2.0,1.0,2.0,100.0

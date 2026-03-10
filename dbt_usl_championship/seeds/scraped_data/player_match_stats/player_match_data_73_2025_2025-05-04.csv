@@ -1,0 +1,63 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Roots,https://fbref.com/en/players/c1d5599c/Wolfgang-Prentice,c1d5599c,8b2a9816,Wolfgang Prentice,USA,FW,25-009,85,0,0,0,0,2,1,0,0,1,3,0,4,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/28a99ed9/Luis-Saldana,28a99ed9,8b2a9816,Luis Saldana,USA,FW,21-056,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/b0f6bf47/Peter-Wilson,b0f6bf47,8b2a9816,Peter Wilson,LBR,FW,28-207,90,0,0,0,0,1,1,0,0,4,3,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/41bddc56/Jose-Luis-Sinisterra,41bddc56,8b2a9816,Jose Luis Sinisterra,COL,AM,26-285,69,0,0,0,0,0,0,0,0,2,2,0,2,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/16a37c7d/Emmanuel-Johnson,16a37c7d,8b2a9816,Emmanuel Johnson,USA,MF,21-358,21,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/ec5ce41a/Camden-Riley,ec5ce41a,8b2a9816,Camden Riley,USA,DM,28-257,52,0,0,0,0,1,0,0,0,0,1,0,2,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/02a9fccf/Panos-Armenakas,02a9fccf,8b2a9816,Panos Armenakas,AUS,"FW,MF",26-272,38,0,0,0,0,1,0,0,0,0,0,0,4,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/0cb564d0/Bobosi-Byaruhanga,0cb564d0,8b2a9816,Bobosi Byaruhanga,UGA,DM,23-152,90,0,0,0,0,1,0,0,0,3,1,0,2,0,2,0,0,0,DM,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/3c850ce0/Tyler-Gibson,3c850ce0,8b2a9816,Tyler Gibson,USA,DM,34-112,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DM,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/14beb1a2/Daniel-Gomez,14beb1a2,8b2a9816,Daniel Gomez,USA,MF,24-362,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/90bcfcca/Baboucarr-Njie,90bcfcca,8b2a9816,Baboucarr Njie,GAM,DM,29-333,70,0,0,0,0,3,1,0,0,4,3,0,4,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/989ecf23/Justin-Rasmussen,989ecf23,8b2a9816,Justin Rasmussen,USA,DF,26-140,20,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/998bfd72/Julian-Bravo,998bfd72,8b2a9816,Julian Bravo,USA,CB,24-216,90,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/fb5dbdc0/Neveal-Hackshaw,fb5dbdc0,8b2a9816,Neveal Hackshaw,TRI,CB,29-225,90,0,0,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/b5edefd3/Kai-Greene,b5edefd3,8b2a9816,Kai Greene,USA,CB,31-301,90,0,0,0,0,0,0,1,0,2,0,0,1,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Roots,https://fbref.com/en/players/d1f3e74b/Kendall-McIntosh,d1f3e74b,8b2a9816,Kendall McIntosh,USA,GK,31-100,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,1.0,1.0,1.0,100.0
+Sac Republic,https://fbref.com/en/players/e443cde3/Juan-Sebastian-Herrera,e443cde3,8b2a9816,Juan Sebastian Herrera,COL,FW,30-181,90,0,0,0,0,1,0,0,0,6,4,0,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/e99f57a7/Russell-Cicerone,e99f57a7,8b2a9816,Russell Cicerone,USA,FW,30-168,71,1,0,1,1,2,2,0,0,0,2,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/61cb0f34/Blake-Willey,61cb0f34,8b2a9816,Blake Willey,USA,MF,18-006,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/e2d8874f/Cristian-Parano,e2d8874f,8b2a9816,Cristian Parano,ARG,FW,25-261,81,0,0,0,0,0,0,0,0,2,3,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/230484f3/Dominik-Wanner,230484f3,8b2a9816,Dominik Wanner,GER,MF,26-000,9,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/0a494745/Michelle-Benitez,0a494745,8b2a9816,Michelle Benitez,MEX,LM,29-081,90,0,0,0,0,0,0,1,0,3,2,0,1,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/a07caf31/Luis-Felipe,a07caf31,8b2a9816,Luis Felipe,BRA,CM,29-095,90,0,0,0,0,2,0,1,0,0,0,0,1,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/29b51d26/Rodrigo-Lopez,29b51d26,8b2a9816,Rodrigo Lopez,USA,CM,37-359,81,0,0,0,0,0,0,0,0,1,0,0,5,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/1fdf3f69/Nick-Ross,1fdf3f69,8b2a9816,Nick Ross,SCO,MF,33-174,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/2ade3d9e/Jack-Gurr,2ade3d9e,8b2a9816,Jack Gurr,ENG,RM,29-159,90,0,0,0,0,0,0,0,0,2,3,1,4,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/84703bc6/Lee-Desmond,84703bc6,8b2a9816,Lee Desmond,IRL,CB,30-102,90,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/e068bed0/Freddy-Kleemann,e068bed0,8b2a9816,Freddy Kleemann,USA,CB,26-046,90,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/91769d2f/Jared-Timmer,91769d2f,8b2a9816,Jared Timmer,USA,CB,28-005,90,0,0,0,0,1,0,0,0,2,4,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Sac Republic,https://fbref.com/en/players/f0abea8c/Daniel-Vitiello,f0abea8c,8b2a9816,Daniel Vitiello,USA,GK,29-059,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,3.0,0.0,3.0,100.0
+Monterey Bay,https://fbref.com/en/players/c93e505d/Ilijah-Paul,c93e505d,cc0a612a,Ilijah Paul,USA,FW,22-282,55,1,0,0,0,2,1,1,0,2,2,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/74e30bd2/Luther-Archimede,74e30bd2,cc0a612a,Luther Archimede,GLP,FW,25-229,35,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/33064bf6/Adam-Larsson,33064bf6,cc0a612a,Adam Larsson,SWE,FW,25-241,67,0,0,0,0,2,1,0,0,2,0,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/15b821d6/Ethan-Bryant,15b821d6,cc0a612a,Ethan Bryant,USA,MF,23-257,23,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/f2edb93d/Mayele-Malango,f2edb93d,cc0a612a,Mayele Malango,MWI,AM,28-068,90,0,1,0,0,5,1,0,0,0,2,0,2,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/bf3e31aa/Adrian-Rebollar,bf3e31aa,cc0a612a,Adrian Rebollar,USA,AM,25-173,90,0,0,0,0,0,0,0,0,2,2,1,7,0,2,0,0,0,AM,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/ee08a338/Luke-Ivanovic,ee08a338,cc0a612a,Luke Ivanovic,AUS,AM,24-332,76,0,0,0,0,2,1,0,0,0,1,0,5,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/c8ad27e1/Pierce-Gallaway,c8ad27e1,cc0a612a,Pierce Gallaway,USA,MF,24-009,14,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/44a6728b/Wesley-Fonguck,44a6728b,cc0a612a,Wesley Fonguck,ENG,DM,27-292,90,0,0,0,0,1,1,0,0,2,1,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/e3dc71a7/Sami-Guediri,e3dc71a7,cc0a612a,Sami Guediri,USA,LB,27-259,76,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,0,0,LB,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/b4a650b1/Miles-Lyons,b4a650b1,cc0a612a,Miles Lyons,USA,DF,22-208,14,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DF,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/5ed4bcb5/Carlos-Guzman,5ed4bcb5,cc0a612a,Carlos Guzman,MEX,CB,30-350,67,0,0,0,0,0,0,1,0,2,2,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/8c4c2432/Alex-Lara,8c4c2432,cc0a612a,Alex Lara,USA,DF,26-231,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/882ce615/Nico-Gordon,882ce615,cc0a612a,Nico Gordon,MSR,CB,23-006,90,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/66edb867/Joel-Garcia,66edb867,cc0a612a,Joel Garcia,USA,RB,23-008,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Monterey Bay,https://fbref.com/en/players/d8409d78/Nicolas-Campuzano,d8409d78,cc0a612a,Nicolas Campuzano,ESP,GK,27-095,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,9.0,1.0,8.0,88.9
+Miami FC,https://fbref.com/en/players/848f0ed6/Francisco-Bonfiglio,848f0ed6,cc0a612a,Francisco Bonfiglio,ESP,FW,23-122,90,1,0,0,0,6,5,0,0,2,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/5244b91d/Tobias-Zarate,5244b91d,cc0a612a,Tobias Zarate,ARG,FW,24-301,55,0,0,0,0,3,2,1,0,1,1,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/dad5edbd/Michael-Lawrence,dad5edbd,cc0a612a,Michael Lawrence,USA,FW,25-298,35,0,0,0,0,1,0,0,0,0,2,0,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/4ddd0834/Sebastian-Blanco,4ddd0834,cc0a612a,Sebastian Blanco,ARG,LM,37-050,72,0,0,0,0,1,1,0,0,0,1,0,2,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/98a78008/Cristian-Vazquez,98a78008,cc0a612a,Cristian Vazquez,ARG,MF,26-174,18,0,1,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/3c780537/Diego-Mercado,3c780537,cc0a612a,Diego Mercado,ARG,CM,28-121,76,0,0,0,0,0,0,0,0,2,2,0,0,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/5caa2e74/Ricardo-Rivera,5caa2e74,cc0a612a,Ricardo Rivera,PUR,FW,28-017,14,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/b5dda2b5/Matias-Romero,b5dda2b5,cc0a612a,Matias Romero,ARG,CM,29-092,90,0,0,0,0,0,0,0,0,1,1,0,2,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/ec54cf3c/Allen-Gavilanes,ec54cf3c,cc0a612a,Allen Gavilanes,USA,RM,25-253,55,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/d7cca61a/Lucas-Melano,d7cca61a,cc0a612a,Lucas Melano,ARG,"FW,MF",32-064,35,0,0,0,0,3,1,0,0,1,2,0,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/eef6d077/Nicolas-Cardona,eef6d077,cc0a612a,Nicolas Cardona,PUR,LB,26-082,72,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/b569b012/Deian-Veron,b569b012,cc0a612a,Deian Veron,ARG,MF,24-221,18,0,0,0,0,0,0,0,0,4,0,0,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/8ed78284/Bolu-Akinyode,8ed78284,cc0a612a,Bolu Akinyode,NGA,CB,30-339,90,0,0,0,0,1,0,0,0,1,3,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/cbd371eb/Daltyn-Knutson,cbd371eb,cc0a612a,Daltyn Knutson,USA,CB,28-064,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/5e44c0c6/Jonathan-Ricketts,5e44c0c6,cc0a612a,Jonathan Ricketts,USA,RB,27-165,90,0,0,0,0,0,0,1,0,4,0,0,2,0,1,0,0,0,RB,0.0,0.0,0.0,0.0
+Miami FC,https://fbref.com/en/players/dbb6ff2c/Felipe-Rodriguez,dbb6ff2c,cc0a612a,Felipe Rodriguez,URU,GK,20-355,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,GK,5.0,1.0,4.0,80.0

@@ -1,0 +1,32 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Charleston,https://fbref.com/en/players/4bf74689/MD-Myers,4bf74689,dff6062d,MD Myers,USA,FW,23-004,89,1,0,0,0,5,3,0,0,0,3,2,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/98a70879/Josh-Drack,98a70879,dff6062d,Josh Drack,USA,DF,24-200,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/262b47fb/Juan-Torres,262b47fb,dff6062d,Juan Torres,COL,AM,23-009,74,0,1,0,0,3,0,1,0,1,2,0,4,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/4c89d918/Jake-LaCava,4c89d918,dff6062d,Jake LaCava,USA,"FW,MF",23-088,16,0,0,0,0,1,0,0,0,2,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/5bb6c69c/Emilio-Ycaza,5bb6c69c,dff6062d,Emilio Ycaza,USA,AM,26-274,89,0,0,0,0,2,2,0,0,0,7,0,1,0,1,0,0,0,AM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/79979a4e/Robbie-Crawford,79979a4e,dff6062d,Robbie Crawford,SCO,MF,31-021,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/65988c73/Nick-Markanich,65988c73,dff6062d,Nick Markanich,USA,AM,24-105,58,2,0,1,1,3,2,0,0,0,1,0,2,0,0,0,0,0,AM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/4903a306/Diego-Gutierrez,4903a306,dff6062d,Diego Gutierrez,USA,FW,24-344,32,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/38088899/Aaron-Molloy,38088899,dff6062d,Aaron Molloy,IRL,DM,27-089,90,0,0,0,1,2,1,0,0,2,3,0,6,0,3,0,0,0,DM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/bd929bce/Chris-Allan,bd929bce,dff6062d,Chris Allan,ENG,DM,25-195,90,0,0,0,0,2,1,0,0,3,1,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/f2bef821/Nathan-Dossantos,f2bef821,dff6062d,Nathan Dossantos,USA,LB,24-364,90,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/ae3330d0/Graham-Smith,ae3330d0,dff6062d,Graham Smith,USA,CB,28-136,90,0,0,0,0,1,0,0,0,1,3,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/bbb1e33e/Leland-Archer,bbb1e33e,dff6062d,Leland Archer,TRI,CB,28-092,90,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/a84af631/Mark-Segbers,a84af631,dff6062d,Mark Segbers,USA,RB,27-357,90,0,0,0,0,0,0,1,0,2,0,0,1,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Charleston,https://fbref.com/en/players/0d3f30b9/Adam-Grinwis,0d3f30b9,dff6062d,Adam Grinwis,USA,GK,31-354,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,2.0,2.0,50.0
+Louisville City,https://fbref.com/en/players/ca0756aa/Wilson-Harris,ca0756aa,dff6062d,Wilson Harris,USA,FW,24-133,90,0,0,0,0,3,1,1,0,3,1,2,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/13ae5335/Jorge-Gonzalez,13ae5335,dff6062d,Jorge Gonzalez,ESP,FW,25-163,45,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/298a167b/Adrien-Perez,298a167b,dff6062d,Adrien Perez,USA,"FW,MF",28-179,45,0,0,0,0,1,0,0,0,3,0,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/d8c0039e/Ray-Serrano,d8c0039e,dff6062d,Ray Serrano,USA,FW,21-336,85,0,0,0,0,1,1,0,0,1,2,0,4,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/96d8bcfb/Tola-Showunmi,96d8bcfb,dff6062d,Tola Showunmi,ENG,FW,23-281,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/1650e261/Amadou-Dia,1650e261,dff6062d,Amadou Dia,USA,LM,30-306,72,0,0,0,0,0,0,0,0,3,1,1,3,0,1,0,0,0,LM,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/056a4c3c/Jake-Morris,056a4c3c,dff6062d,Jake Morris,USA,"DF,MF",25-037,18,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/73eec431/Taylor-Davila,73eec431,dff6062d,Taylor Davila,USA,CM,23-249,90,1,0,0,0,2,1,1,0,3,1,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/ffb17329/Carlos-Moguel,ffb17329,dff6062d,Carlos Moguel,USA,CM,20-293,45,0,1,0,0,0,0,0,0,1,1,0,2,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/53171f69/Elijah-Wynder,53171f69,dff6062d,Elijah Wynder,USA,MF,21-030,45,0,0,0,0,0,0,0,0,2,1,0,2,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/eed1b8f6/Aiden-McFadden,eed1b8f6,dff6062d,Aiden McFadden,USA,RM,25-194,45,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/ecd87b88/Jansen-Wilson,ecd87b88,dff6062d,Jansen Wilson,USA,"FW,MF",22-300,45,0,0,0,0,1,0,0,0,0,1,0,3,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/759a31cd/Kyle-Adams,759a31cd,dff6062d,Kyle Adams,NZL,CB,27-141,90,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/16ecce68/Arturo-Ordonez,16ecce68,dff6062d,Arturo Ordonez,ESP,CB,26-323,90,0,1,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/70e35acb/Wesley-Charpie,70e35acb,dff6062d,Wesley Charpie,USA,CB,31-157,90,0,0,0,0,0,0,1,0,2,0,0,1,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Louisville City,https://fbref.com/en/players/2aa97663/Damian-Las,2aa97663,dff6062d,Damian Las,USA,GK,21-364,90,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,GK,6.0,3.0,5.0,66.7

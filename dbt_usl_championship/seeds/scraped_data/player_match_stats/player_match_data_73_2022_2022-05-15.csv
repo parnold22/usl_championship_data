@@ -1,0 +1,33 @@
+team_name,player_url,player_id,match_id,player,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
+Phx Rising,https://fbref.com/en/players/3d9e8e17/Greg-Hurst,3d9e8e17,e20af6ea,Greg Hurst,SCO,FW,25-037,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/c912dbcb/Claudio-Repetto,c912dbcb,e20af6ea,Claudio Repetto,ITA,FW,25-102,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/8d671482/Santi-Moar,8d671482,e20af6ea,Santi Moar,ESP,LM,28-252,74,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/24a23ac5/Richmond-Antwi,24a23ac5,e20af6ea,Richmond Antwi,GHA,FW,21-281,16,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/90710b70/Joey-Calistri,90710b70,e20af6ea,Joey Calistri,USA,CM,28-176,90,0,0,0,0,3,1,0,0,0,2,0,1,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/7d448cbe/Luis-Manuel-Seijas,7d448cbe,e20af6ea,Luis Manuel Seijas,VEN,CM,35-326,90,1,0,0,0,2,1,0,0,1,1,0,7,0,2,0,0,0,CM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/bc245aa5/Arturo-Rodriguez,bc245aa5,e20af6ea,Arturo Rodriguez,MEX,RM,23-151,74,0,1,0,0,3,1,0,0,1,1,0,5,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/f96ac15f/Jacob-Harris,f96ac15f,e20af6ea,Jacob Harris,USA,MF,18-124,16,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/4e4bc0e4/Ryan-Flood,4e4bc0e4,e20af6ea,Ryan Flood,USA,LB,23-210,90,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,LB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/afe98cfd/Manuel-Madrid-Quezada,afe98cfd,e20af6ea,Manuel Madrid Quezada,MEX,CB,28-259,53,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/2ad49384/Carlos-Anguiano,2ad49384,e20af6ea,Carlos Anguiano,USA,MF,22-244,37,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/8f87602d/Joe-Farrell,8f87602d,e20af6ea,Joe Farrell,USA,CB,28-091,68,0,0,0,0,1,0,2,1,2,1,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/2315ff38/Sivert-Haugli,2315ff38,e20af6ea,Sivert Haugli,NOR,CB,23-010,90,0,0,0,0,1,0,0,0,1,0,0,1,0,2,1,0,0,CB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/d116f714/Darnell-King,d116f714,e20af6ea,Darnell King,USA,RB,31-234,52,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,RB,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/7bb23f0e/Marcus-Epps,7bb23f0e,e20af6ea,Marcus Epps,USA,"FW,MF",27-119,38,0,0,0,0,2,1,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+Phx Rising,https://fbref.com/en/players/abe9908a/Benjamin-Lundt,abe9908a,e20af6ea,Benjamin Lundt,GER,GK,26-233,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,8.0,5.0,3.0,37.5
+TB Rowdies,https://fbref.com/en/players/dd8eddbb/Steevan-dos-Santos,dd8eddbb,e20af6ea,Steevan dos Santos,CPV,FW,32-240,78,0,0,0,0,3,1,0,0,2,2,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/d4a2c910/Lucky-Mkosana,d4a2c910,e20af6ea,Lucky Mkosana,ZIM,FW,34-227,12,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/4c89d918/Jake-LaCava,4c89d918,e20af6ea,Jake LaCava,USA,FW,21-123,78,1,1,0,0,2,2,0,0,0,1,1,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/473902d6/Juan-Tejada,473902d6,e20af6ea,Juan Tejada,PAN,"FW,MF",25-121,12,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/d90dd29e/Leo-Fernandes,d90dd29e,e20af6ea,Leo Fernandes,BRA,FW,30-143,90,0,1,0,0,3,1,0,0,1,1,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/bb9a138b/Jake-Areman,bb9a138b,e20af6ea,Jake Areman,USA,LM,26-067,45,1,0,0,0,1,1,0,0,1,1,0,4,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/fd531ced/Sebastian-Guenzatti,fd531ced,e20af6ea,Sebastian Guenzatti,URU,"FW,MF",30-311,45,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/80b9e218/Yann-Ekra,80b9e218,e20af6ea,Yann Ekra,FRA,CM,31-156,90,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/9e08ab4c/Lewis-Hilton,9e08ab4c,e20af6ea,Lewis Hilton,ENG,CM,28-205,90,0,1,0,0,1,0,1,0,1,0,0,4,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/a2611a0a/Dayonn-Harris,a2611a0a,e20af6ea,Dayonn Harris,ATG,RM,24-259,43,1,0,0,0,1,1,1,0,2,0,0,1,0,0,0,0,0,RM,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/14ef76ce/Sebastian-Dalgaard,14ef76ce,e20af6ea,Sebastian Dalgaard,DEN,MF,30-265,47,0,0,0,0,0,0,0,0,2,1,0,3,0,1,0,0,0,MF,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/b4bb58c4/Aaron-Guillen,b4bb58c4,e20af6ea,Aaron Guillen,USA,CB,28-326,90,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,CB,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/1a1614c5/Laurence-Wyke,1a1614c5,e20af6ea,Laurence Wyke,ENG,CB,25-237,90,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/c0423ac4/Jordan-Scarlett,c0423ac4,e20af6ea,Jordan Scarlett,JAM,CB,26-311,88,0,0,0,0,2,0,0,0,1,0,0,1,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/6a83c989/Timmy-Mehl,6a83c989,e20af6ea,Timmy Mehl,USA,DF,26-257,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DF,0.0,0.0,0.0,0.0
+TB Rowdies,https://fbref.com/en/players/7f2eedde/C-J-Cochran,7f2eedde,e20af6ea,C J Cochran,USA,GK,30-240,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,1.0,3.0,75.0
