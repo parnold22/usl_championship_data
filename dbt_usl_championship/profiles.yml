@@ -1,0 +1,10 @@
+# Connection config for dbt-duckdb. Run from this directory with:
+#   dbt run --profiles-dir .
+# Or copy this file to ~/.dbt/profiles.yml
+dbt_usl_championship:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: ../usl_championship_data.duckdb
+      threads: 1

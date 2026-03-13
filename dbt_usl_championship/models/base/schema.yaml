@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    # database omitted: uses profile connection (dbt-duckdb uses path basename: usl_championship_data)
+    tables:
+      - name: source_player_match_stats
+      - name: source_match_stats
+      - name: source_season_dims
