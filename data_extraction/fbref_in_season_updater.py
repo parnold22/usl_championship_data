@@ -109,6 +109,9 @@ def update_latest_season_match_stats(latest_path: str, endpoint_url: str) -> Non
     if schedule_df.empty:
         print(f"No schedule row for season {season_id}; skipping match_stats update.")
         return
+    schedule_url = schedule_df["url"].iloc[0]
+    print(f"Step 1a: Re-scraping match schedule for season {season_id} from FBRef (completed matches only)...")
+    print(f"         Schedule URL: {schedule_url}")
     match_scraper.endpoint_url = endpoint_url
     all_matches = match_scraper.get_match_data(schedule_df)
     if not all_matches:
@@ -149,11 +152,27 @@ def scrape_missing_player_dates(
         to_scrape = df[~df["_date_str"].isin(stored_dates)].copy()
     to_scrape = to_scrape.drop(columns=["_date_str"], errors="ignore")
     if to_scrape.empty:
-        print("No new dates to scrape for player_match_stats.")
+        print("Step 2: No new dates to scrape for player_match_stats (all dates already have CSVs).")
         return
+    missing_dates = sorted(to_scrape["date"].dropna().unique().tolist()) if "date" in to_scrape.columns else []
+    print(f"Step 2: Scraping player match stats for {len(missing_dates)} date(s) not yet in player_match_stats: {missing_dates[:5]}{'...' if len(missing_dates) > 5 else ''}")
     keep = [c for c in ["match_url", "season_id", "date", "notes"] if c in to_scrape.columns]
     match_level_data = to_scrape[keep].copy()
     player_scraper.scrape_player_match_data_for_season_date_groups(match_level_data, endpoint_url)
+
+
+def get_latest_match_date_for_latest_season(match_stats_dir: str = MATCH_STATS_DIR) -> str | None:
+    """Load match_stats for the latest season and return the most recent match date (YYYY-MM-DD)."""
+    path = get_latest_season_match_stats_path(match_stats_dir)
+    if not path:
+        return None
+    df = pd.read_csv(path)
+    if "date" not in df.columns or df["date"].empty:
+        return None
+    dates = pd.to_datetime(df["date"], errors="coerce").dropna()
+    if dates.empty:
+        return None
+    return dates.max().strftime("%Y-%m-%d")
 
 
 def run_in_season_update() -> None:
@@ -163,25 +182,40 @@ def run_in_season_update() -> None:
         print("No match_level_data CSV files found in", MATCH_STATS_DIR)
         return
     season_id = get_latest_season_id_from_path(latest_path)
-    print(f"Latest season: {season_id} -> {latest_path}")
+    print("=" * 60)
+    print("In-season update: re-scrape match schedule + player stats for missing dates")
+    print("=" * 60)
+    print(f"Latest season: {season_id}")
+    print(f"Match stats file: {latest_path}")
 
+    print("\nStarting browser (SeleniumBase CDP)...")
     sb = sb_cdp.Chrome()
     endpoint_url = sb.get_endpoint_url()
     match_scraper.sb = sb
+    player_scraper.sb = sb
+    if not endpoint_url:
+        print("ERROR: Could not get CDP endpoint_url. Is Chrome running with SeleniumBase?")
+        return
+    print("Browser ready.\n")
 
-    # 1) Update match_level_data for latest season (all completed matches)
+    # 1) Re-scrape match schedule for latest season (completed matches only) and overwrite latest_path
     update_latest_season_match_stats(latest_path, endpoint_url)
-    # Refresh consolidated match stats seed
+    print("Step 1b: Refreshing consolidated all_match_stats.csv...")
     match_scraper.csv_appender(MATCH_STATS_DIR, _cleaned_data_base, "all_match_stats.csv")
-    print("Updated all_match_stats.csv in", _cleaned_data_base)
+    print(f"         Wrote {_cleaned_data_base}/all_match_stats.csv\n")
 
-    # 2) Scrape player stats only for dates not already in player_match_stats
+    # 2) Scrape player stats only for (season_id, date) not already in player_match_stats
     scrape_missing_player_dates(latest_path, season_id, endpoint_url, PLAYER_MATCH_STATS_DIR)
 
     # 3) Rebuild consolidated all_player_match_stats.csv
-    export_dir = _cleaned_data_base
-    player_scraper.csv_appender(PLAYER_MATCH_STATS_DIR, export_dir, "all_player_match_stats.csv")
-    print("Updated all_player_match_stats.csv in", export_dir)
+    print("\nStep 3: Rebuilding consolidated all_player_match_stats.csv...")
+    player_scraper.csv_appender(PLAYER_MATCH_STATS_DIR, _cleaned_data_base, "all_player_match_stats.csv")
+    print(f"         Wrote {_cleaned_data_base}/all_player_match_stats.csv\n")
+
+    latest_date = get_latest_match_date_for_latest_season(MATCH_STATS_DIR)
+    print("=" * 60)
+    print("Done. Latest match date in match_stats:", latest_date or "(none)")
+    print("=" * 60)
 
 
 if __name__ == "__main__":
