@@ -2,7 +2,7 @@ with score_parsed as (
     select
         *
         , trim(score, ' ''') as score_clean
-    from {{ ref('base_raw_match_stats') }}
+    from {{ ref('all_match_stats') }}
 ),
 parsed as (
     select
@@ -33,7 +33,7 @@ parsed as (
 select
     match_stats.match_id::string as match_id
     , match_stats.season_id::string as season_id
-    , match_stats.round as game_type
+    , coalesce(match_stats.round, 'Regular Season') as game_type
     , match_stats.date::date as match_date
     , cast(match_stats.start_time as time) as match_time
     , case when hour(cast(match_stats.start_time as time)) <= 12 then 'Morning Kickoff'

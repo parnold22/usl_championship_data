@@ -3,6 +3,7 @@ Starting with setting all of the competitions and seasons we want to scrape
 Adding some default variables like base URLs
 '''
 
+import csv
 import glob
 import os
 import pandas as pd
@@ -124,7 +125,7 @@ def load_season_dims_schedule(season_dims_dir):
     dfs = []
     for path in sorted(files):
         try:
-            df = pd.read_csv(path)
+            df = pd.read_csv(path, dtype=str, keep_default_na=False)
             # Keep only columns that exist and are required; drop extras so concat is consistent
             cols = [c for c in SCHEDULE_REQUIRED_COLUMNS if c in df.columns]
             if cols:
@@ -251,6 +252,10 @@ def get_match_data(schedule_df):
 
 def _export_matches_df_to_season_csvs(matches_df):
     """Write matches_df to match_level_data_{safe_id}.csv per season_id. Applies score column formatting."""
+    # Force ID columns to string so they are quoted in CSV and never written as scientific notation
+    for col in ["match_id", "season_id"]:
+        if col in matches_df.columns:
+            matches_df[col] = matches_df[col].astype(str).replace("nan", "").replace("<NA>", "")
     # Keep score columns as strings; prefix with apostrophe so Excel/Sheets don't parse as dates
     _score_cols = ["score"]
     for col in _score_cols:
@@ -261,7 +266,7 @@ def _export_matches_df_to_season_csvs(matches_df):
         subset = matches_df[matches_df["season_id"] == season_id]
         safe_id = str(season_id).replace("/", "_").replace(" ", "_")
         csv_path_2 = match_stats_file_directory + f"match_level_data_{safe_id}.csv"
-        subset.to_csv(csv_path_2, index=False)
+        subset.to_csv(csv_path_2, index=False, date_format="%Y-%m-%d", quoting=csv.QUOTE_NONNUMERIC)
         print(f"Exported {len(subset)} rows to {csv_path_2}")
 
 
@@ -269,10 +274,15 @@ def csv_appender(file_directory, export_directory, export_name):
     all_files = glob.glob(os.path.join(file_directory, "*.csv"))
     new_df = []
     for file in all_files:
-        df = pd.read_csv(file)
+        df = pd.read_csv(file, dtype=str, keep_default_na=False)
         new_df.append(df)
-    final_df = pd.concat(new_df)
-    final_df.to_csv(os.path.join(export_directory, export_name), index=False)
+    final_df = pd.concat(new_df, ignore_index=True)
+    final_df.to_csv(
+        os.path.join(export_directory, export_name),
+        index=False,
+        date_format="%Y-%m-%d",
+        quoting=csv.QUOTE_NONNUMERIC,
+    )
 
 
 if __name__ == "__main__":

@@ -4,6 +4,7 @@ Adding some default variables like base URLs
 '''
 
 
+import csv
 import glob
 import os
 import pandas as pd
@@ -54,7 +55,7 @@ for season_id in league_fixture_urls["season_id"].unique():
     subset = league_fixture_urls[league_fixture_urls["season_id"] == season_id]
     safe_id = str(season_id).replace("/", "_").replace(" ", "_")
     csv_path = season_dims_file_directory + f"season_data_{safe_id}.csv"
-    subset.to_csv(csv_path, index=False)
+    subset.to_csv(csv_path, index=False, date_format="%Y-%m-%d", quoting=csv.QUOTE_NONNUMERIC)
     print(f"Exported {len(subset)} row(s) to {csv_path}")
 
 
@@ -69,11 +70,16 @@ def csv_appender(file_directory, export_directory, export_name):
     new_df = []
 
     for file in all_files:
-        df = pd.read_csv(file)
+        df = pd.read_csv(file, dtype=str, keep_default_na=False)
         new_df.append(df)
 
-    final_df = pd.concat(new_df)
-    final_df.to_csv(os.path.join(export_directory, export_name), index=False)
+    final_df = pd.concat(new_df, ignore_index=True)
+    final_df.to_csv(
+        os.path.join(export_directory, export_name),
+        index=False,
+        date_format="%Y-%m-%d",
+        quoting=csv.QUOTE_NONNUMERIC,
+    )
 
 csv_appender(season_dims_file_directory, cleaned_export_file_directory, season_dims_export_name)
 print(f"Exported {len(season_dims_files)} row(s) to {season_dims_export_name}")

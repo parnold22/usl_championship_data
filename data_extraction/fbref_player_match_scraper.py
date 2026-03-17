@@ -3,6 +3,7 @@ Starting with setting all of the competitions and seasons we want to scrape
 Adding some default variables like base URLs
 '''
 
+import csv
 import glob
 import os
 import pandas as pd
@@ -120,7 +121,7 @@ def load_match_level_data_from_cleaned_seed(csv_path):
     """
     if not os.path.isfile(csv_path):
         return pd.DataFrame(columns=MATCH_LEVEL_DATA_REQUIRED_COLUMNS)
-    df = pd.read_csv(csv_path)
+    df = pd.read_csv(csv_path, dtype=str, keep_default_na=False)
     # all_match_stats.csv uses "match_report" for the match page URL
     if "match_report" in df.columns and "match_url" not in df.columns:
         df = df.rename(columns={"match_report": "match_url"})
@@ -349,7 +350,7 @@ def get_player_match_data(match_urls, date, season_id, page=None):
     safe_season = str(season_id).replace("/", "_").replace(" ", "_")
     safe_date = str(date).replace("/", "-").replace(" ", "_").replace(":", "-")
     csv_path = player_match_stats_file_directory + f"player_match_data_{safe_season}_{safe_date}.csv"
-    merged.to_csv(csv_path, index=False, encoding="utf-8")
+    merged.to_csv(csv_path, index=False, encoding="utf-8", date_format="%Y-%m-%d", quoting=csv.QUOTE_NONNUMERIC)
     print(f"Exported {len(merged)} rows to {csv_path}")
     return merged
 
@@ -403,10 +404,15 @@ def csv_appender(file_directory, export_directory, export_name):
     all_files = glob.glob(os.path.join(file_directory, "*.csv"))
     new_df = []
     for file in all_files:
-        df = pd.read_csv(file)
+        df = pd.read_csv(file, dtype=str, keep_default_na=False)
         new_df.append(df)
-    final_df = pd.concat(new_df)
-    final_df.to_csv(os.path.join(export_directory, export_name), index=False)
+    final_df = pd.concat(new_df, ignore_index=True)
+    final_df.to_csv(
+        os.path.join(export_directory, export_name),
+        index=False,
+        date_format="%Y-%m-%d",
+        quoting=csv.QUOTE_NONNUMERIC,
+    )
 
 
 def scrape_player_match_data_for_season_date_groups(match_level_data, endpoint_url):
@@ -437,7 +443,7 @@ def scrape_player_match_data_for_season_date_groups(match_level_data, endpoint_u
         safe_season = str(season_id).replace("/", "_").replace(" ", "_")
         safe_date = str(date).replace("/", "-").replace(" ", "_").replace(":", "-")
         csv_path = player_match_stats_file_directory + f"player_match_data_{safe_season}_{safe_date}.csv"
-        merged.to_csv(csv_path, index=False, encoding="utf-8")
+        merged.to_csv(csv_path, index=False, encoding="utf-8", date_format="%Y-%m-%d", quoting=csv.QUOTE_NONNUMERIC)
         print(f"Exported {len(merged)} rows to {csv_path}")
 
 

@@ -14,7 +14,17 @@ profile: 'dbt_usl_championship'
 model-paths: ["models"]
 analysis-paths: ["analyses"]
 test-paths: ["tests"]
-seed-paths: ["seeds"]
+# Only seed the 3 cleaned CSVs; scraped_data CSVs are combined by csv_cleaner and loaded via load_source_data.py
+seed-paths: ["seeds/cleaned_data"]
+seeds:
+  dbt_usl_championship:
+    all_match_stats:
+      +column_types:
+        season_id: varchar
+        match_id: varchar
+        attendance: varchar  # values like "1,517" with comma
+        score: varchar
+        notes: varchar
 macro-paths: ["macros"]
 snapshot-paths: ["snapshots"]
 

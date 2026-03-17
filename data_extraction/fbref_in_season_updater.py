@@ -5,6 +5,7 @@ In-season updater: for the latest season in scraped_data/match_stats,
 Requires a browser started via SeleniumBase CDP (run with the same env as fbref_match_scraper / fbref_player_match_scraper).
 """
 
+import csv
 import glob
 import os
 import re
@@ -59,7 +60,7 @@ def build_schedule_row_for_season(season_id: str) -> pd.DataFrame:
         if not os.path.isfile(path):
             continue
         try:
-            df = pd.read_csv(path)
+            df = pd.read_csv(path, dtype=str, keep_default_na=False)
             if "season_id" not in df.columns or "url" not in df.columns:
                 continue
             row = df[df["season_id"].astype(str) == str(season_id)]
@@ -118,6 +119,10 @@ def update_latest_season_match_stats(latest_path: str, endpoint_url: str) -> Non
         print("No matches returned from schedule scrape; not overwriting", latest_path)
         return
     matches_df = pd.DataFrame(all_matches)
+    # Force ID columns to string so they are quoted in CSV and never written as scientific notation
+    for col in ["match_id", "season_id"]:
+        if col in matches_df.columns:
+            matches_df[col] = matches_df[col].astype(str).replace("nan", "").replace("<NA>", "")
     matches_df = matches_df[matches_df["season_id"].astype(str) == str(season_id)]
     if matches_df.empty:
         print("No matches for season", season_id, "; not overwriting", latest_path)
@@ -127,7 +132,7 @@ def update_latest_season_match_stats(latest_path: str, endpoint_url: str) -> Non
         if col in matches_df.columns:
             matches_df[col] = matches_df[col].fillna("").astype(str).replace("nan", "")
             matches_df[col] = matches_df[col].apply(lambda x: "'" + x if x else "")
-    matches_df.to_csv(latest_path, index=False)
+    matches_df.to_csv(latest_path, index=False, date_format="%Y-%m-%d", quoting=csv.QUOTE_NONNUMERIC)
     print(f"Exported {len(matches_df)} rows to {latest_path}")
 
 
@@ -138,7 +143,7 @@ def scrape_missing_player_dates(
     player_match_stats_dir: str = PLAYER_MATCH_STATS_DIR,
 ) -> None:
     """Load match_level_data from latest_path; for (season_id, date) not in player_match_stats, scrape and write."""
-    df = pd.read_csv(latest_path)
+    df = pd.read_csv(latest_path, dtype=str, keep_default_na=False)
     if "match_report" in df.columns and "match_url" not in df.columns:
         df = df.rename(columns={"match_report": "match_url"})
     for c in ["match_url", "season_id", "date"]:
@@ -166,7 +171,7 @@ def get_latest_match_date_for_latest_season(match_stats_dir: str = MATCH_STATS_D
     path = get_latest_season_match_stats_path(match_stats_dir)
     if not path:
         return None
-    df = pd.read_csv(path)
+    df = pd.read_csv(path, dtype=str, keep_default_na=False)
     if "date" not in df.columns or df["date"].empty:
         return None
     dates = pd.to_datetime(df["date"], errors="coerce").dropna()
