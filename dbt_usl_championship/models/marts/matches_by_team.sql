@@ -17,6 +17,7 @@ select distinct_teams.team_id
     , dim_match.match_date
     , dim_match.match_time
     , dim_match.season_id
+    , split_part(dim_match.season_id, '_', 2) as season
     , dim_match.game_type
     , case when distinct_teams.team_name = dim_match.home_team_name then 'Home' 
         else 'Away' 
@@ -42,6 +43,14 @@ select distinct_teams.team_id
                 or dim_match.match_result = 'Home Win on Penalties') then 'Loss'
         else 'Unknown'
         end as match_outcome
+    , case when distinct_teams.team_name = dim_match.home_team_name then dim_match.home_team_score
+        when distinct_teams.team_name = dim_match.away_team_name then dim_match.away_team_score
+        else 0
+        end as goals_scored
+    , case when distinct_teams.team_name = dim_match.home_team_name then dim_match.away_team_score
+        when distinct_teams.team_name = dim_match.away_team_name then dim_match.home_team_score
+        else 0
+        end as goals_conceded
     , case when dim_match.game_type = 'Regular Season' and match_outcome = 'Win' then 3
         when dim_match.game_type = 'Regular Season' and match_outcome = 'Draw' then 1
         else 0
@@ -54,9 +63,35 @@ where dim_match.game_type is not null
 )
 , match_order as (
 select matches.*
-    , row_number() over (partition by matches.team_id, matches.season_id order by matches.match_date asc) as match_week_number
+    , row_number() 
+        over (partition by matches.team_id, matches.season_id order by matches.match_date asc) as match_week_number
+    , sum(matches.match_points) 
+        over (partition by matches.team_id, matches.season_id order by matches.match_date asc) as season_points
+    , sum(case when matches.match_location = 'Home' then matches.match_points else 0 end) 
+        over (partition by matches.team_id, matches.season_id order by matches.match_date asc) as season_points_home
+    , sum(case when matches.match_location = 'Away' then matches.match_points else 0 end) 
+        over (partition by matches.team_id, matches.season_id order by matches.match_date asc) as season_points_away
+    , sum(matches.goals_scored) 
+        over (partition by matches.team_id, matches.season_id order by matches.match_date asc) as season_goals_scored
+    , sum(matches.goals_conceded) 
+        over (partition by matches.team_id, matches.season_id order by matches.match_date asc) as season_goals_conceded
 from matches
+group by 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
+)
+, season_positions as (
+select * 
+    , row_number() 
+        over (partition by season_id, match_week_number order by season_points desc) as current_match_week_position
+    , row_number() 
+        over (partition by season_id, match_week_number order by season_points_home desc) as current_match_week_position_home
+    , row_number() 
+        over (partition by season_id, match_week_number order by season_points_away desc) as current_match_week_position_away
+    , row_number() 
+        over (partition by season_id, match_week_number order by season_goals_scored desc) as current_match_week_position_goals_scored
+    , row_number() 
+        over (partition by season_id, match_week_number order by season_goals_conceded desc) as current_match_week_position_goals_conceded
+from match_order
 )
 
 select * 
-from match_order
+from season_positions
