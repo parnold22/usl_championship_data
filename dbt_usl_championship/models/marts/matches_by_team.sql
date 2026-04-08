@@ -75,13 +75,23 @@ select matches.*
         over (partition by matches.team_id, matches.season_id order by matches.match_date asc) as season_goals_scored
     , sum(matches.goals_conceded) 
         over (partition by matches.team_id, matches.season_id order by matches.match_date asc) as season_goals_conceded
+    , season_goals_scored - season_goals_conceded as season_goal_difference
 from matches
 group by 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
 )
+/* cum_non_wins: segments for consecutive wins. cum_wins: segments for consecutive winless (non-wins). */
+, match_order_with_cum as (
+select match_order.*
+    , sum(case when match_order.match_outcome != 'Win' then 1 else 0 end) 
+        over (partition by match_order.team_id, match_order.season_id order by match_order.match_date asc) as cum_non_wins
+    , sum(case when match_order.match_outcome = 'Win' then 1 else 0 end) 
+        over (partition by match_order.team_id, match_order.season_id order by match_order.match_date asc) as cum_wins
+from match_order
+)
 , season_positions as (
-select * 
+select match_order_with_cum.* exclude (cum_non_wins, cum_wins)
     , row_number() 
-        over (partition by season_id, match_week_number order by season_points desc) as current_match_week_position
+        over (partition by season_id, match_week_number order by season_points desc, season_goal_difference desc) as current_match_week_position
     , row_number() 
         over (partition by season_id, match_week_number order by season_points_home desc) as current_match_week_position_home
     , row_number() 
@@ -94,7 +104,17 @@ select *
         over (partition by season_id, match_week_number order by season_goals_conceded desc) as current_match_week_position_goals_conceded_worst_defence -- spelling mistake but keeping since it because there is no replace references function in Tableau public which makes correcting calcs using this field time consuming
     , row_number() 
         over (partition by season_id, match_week_number order by season_goals_conceded asc) as current_match_week_position_goals_conceded_best_defence -- spelling mistake and keeping for same reason
-from match_order
+    , case when match_order_with_cum.match_outcome = 'Win' then
+        sum(case when match_order_with_cum.match_outcome = 'Win' then 1 else 0 end) 
+            over (partition by match_order_with_cum.team_id, match_order_with_cum.season_id, match_order_with_cum.cum_non_wins order by match_order_with_cum.match_date asc)
+        else 0
+        end as consecutive_win_count
+    , case when match_order_with_cum.match_outcome != 'Win' then
+        sum(case when match_order_with_cum.match_outcome != 'Win' then 1 else 0 end) 
+            over (partition by match_order_with_cum.team_id, match_order_with_cum.season_id, match_order_with_cum.cum_wins order by match_order_with_cum.match_date asc)
+        else 0
+        end as consecutive_winless_count
+from match_order_with_cum
 )
 
 select * 

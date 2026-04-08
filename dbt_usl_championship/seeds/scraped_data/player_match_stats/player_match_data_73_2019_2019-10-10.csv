@@ -1,28 +1,28 @@
-team_name,player_url,player_id,match_id,player,lineup_status,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,fouls,fouled,offsides,crosses,tackles_wom,interceptions,own_goals,pens_won,penalties_conceded,primary_position,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct
-El Paso,https://fbref.com/en/players/7449fa6a/Josue-Gomez-Gomez,7449fa6a,b5ebf38f,Josue Gomez Gomez,Starter,MEX,FW,25-047,90,0,0,0,0,3,2,0,0,3,3,0,2,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
-El Paso,https://fbref.com/en/players/ee8fb451/Jerome-Kiesewetter,ee8fb451,b5ebf38f,Jerome Kiesewetter,Starter,USA,FW,26-243,82,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,0,FW,0.0,0.0,0.0,0.0
-El Paso,https://fbref.com/en/players/48d960c3/Alexy-Bosetti,48d960c3,b5ebf38f,Alexy Bosetti,Sub,FRA,"FW,MF",26-170,8,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
-El Paso,https://fbref.com/en/players/3477901e/Sebastian-Velasquez,3477901e,b5ebf38f,Sebastian Velasquez,Starter,COL,FW,28-241,90,1,0,1,1,3,1,0,0,0,5,0,3,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
-El Paso,https://fbref.com/en/players/1fdf3f69/Nick-Ross,1fdf3f69,b5ebf38f,Nick Ross,Starter,SCO,CM,27-333,90,0,0,0,0,0,0,0,0,1,1,1,2,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
-El Paso,https://fbref.com/en/players/1ad98a0a/Sebastian-Contreras,1ad98a0a,b5ebf38f,Sebastian Contreras,Starter,ARG,CM,29-188,58,0,0,0,0,2,0,0,0,2,3,0,2,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
-El Paso,https://fbref.com/en/players/afd014a5/Omar-Salgado,afd014a5,b5ebf38f,Omar Salgado,Sub,MEX,"FW,MF",26-030,32,0,0,0,0,2,0,0,0,0,0,0,2,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
-El Paso,https://fbref.com/en/players/ffc2f60e/Yuma,ffc2f60e,b5ebf38f,Yuma,Starter,ESP,DM,34-002,90,0,0,0,0,0,0,1,0,2,3,0,0,0,1,0,0,0,DM,0.0,0.0,0.0,0.0
-El Paso,https://fbref.com/en/players/7c2ed1a4/James-Kiffe,7c2ed1a4,b5ebf38f,James Kiffe,Starter,USA,LB,30-259,90,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,LB,0.0,0.0,0.0,0.0
-El Paso,https://fbref.com/en/players/681d6136/Andrew-Fox,681d6136,b5ebf38f,Andrew Fox,Starter,ENG,CB,26-268,90,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
-El Paso,https://fbref.com/en/players/43ed8014/Chiro-NToko,43ed8014,b5ebf38f,Chiro NToko,Starter,BEL,CB,31-253,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,CB,0.0,0.0,0.0,0.0
-El Paso,https://fbref.com/en/players/210b2e5d/Bryam-Rebellon,210b2e5d,b5ebf38f,Bryam Rebellon,Starter,COL,RB,27-261,90,0,0,0,0,0,0,0,0,3,0,1,3,0,3,0,0,0,RB,0.0,0.0,0.0,0.0
-El Paso,https://fbref.com/en/players/927c3059/Logan-Ketterer,927c3059,b5ebf38f,Logan Ketterer,Starter,USA,GK,25-335,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,4.0,1.0,3.0,75.0
-Bold,https://fbref.com/en/players/979cc205/Kleber,979cc205,b5ebf38f,Kleber,Starter,BRA,FW,36-059,90,0,0,0,0,1,0,1,0,1,5,0,1,0,0,0,0,0,FW,0.0,0.0,0.0,0.0
-Bold,https://fbref.com/en/players/c5d9c6a0/Andre-Lima,c5d9c6a0,b5ebf38f,Andre Lima,Starter,BRA,FW,34-160,90,1,0,0,0,2,2,1,0,6,2,0,0,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
-Bold,https://fbref.com/en/players/9ca4b140/Ema-Twumasi,9ca4b140,b5ebf38f,Ema Twumasi,Starter,GHA,LM,22-145,90,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,LM,0.0,0.0,0.0,0.0
-Bold,https://fbref.com/en/players/eee59c91/Amobi-Okugo,eee59c91,b5ebf38f,Amobi Okugo,Starter,USA,CM,28-211,76,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,0,0,CM,0.0,0.0,0.0,0.0
-Bold,https://fbref.com/en/players/409d5b26/George-Acosta,409d5b26,b5ebf38f,George Acosta,Sub,USA,MF,19-264,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MF,0.0,0.0,0.0,0.0
-Bold,https://fbref.com/en/players/97c373a7/Valeri-Saramutin,97c373a7,b5ebf38f,Valeri Saramutin,Starter,RUS,CM,24-146,52,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,CM,0.0,0.0,0.0,0.0
-Bold,https://fbref.com/en/players/003b1fe6/Thomas-De-Villardi,003b1fe6,b5ebf38f,Thomas De Villardi,Sub,FRA,FW,25-197,38,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,FW,0.0,0.0,0.0,0.0
-Bold,https://fbref.com/en/players/5767fe13/Calum-Mallace,5767fe13,b5ebf38f,Calum Mallace,Starter,SCO,RM,29-273,45,0,0,0,0,1,1,1,0,0,0,0,4,0,1,0,0,0,RM,0.0,0.0,0.0,0.0
-Bold,https://fbref.com/en/players/d8b6ef56/Kris-Tyrpak,d8b6ef56,b5ebf38f,Kris Tyrpak,Sub,USA,"FW,MF",27-205,45,0,0,0,0,2,0,0,0,0,1,0,1,0,2,0,0,0,FW,0.0,0.0,0.0,0.0
-Bold,https://fbref.com/en/players/513f83c8/Josue-Soto,513f83c8,b5ebf38f,Josue Soto,Starter,USA,LB,23-292,90,0,0,0,0,1,1,1,0,4,1,0,6,0,5,0,0,0,LB,0.0,0.0,0.0,0.0
-Bold,https://fbref.com/en/players/3074b7b0/Jermaine-Taylor,3074b7b0,b5ebf38f,Jermaine Taylor,Starter,JAM,CB,34-269,90,0,0,0,0,0,0,1,0,1,0,0,0,0,3,0,0,0,CB,0.0,0.0,0.0,0.0
-Bold,https://fbref.com/en/players/376f7f40/Gustavo-Rissi,376f7f40,b5ebf38f,Gustavo Rissi,Starter,BRA,CB,21-248,90,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,CB,0.0,0.0,0.0,0.0
-Bold,https://fbref.com/en/players/d83fa006/Sean-McFarlane,d83fa006,b5ebf38f,Sean McFarlane,Starter,JAM,RB,26-189,90,0,1,0,0,0,0,0,0,1,2,0,6,0,2,0,0,0,RB,0.0,0.0,0.0,0.0
-Bold,https://fbref.com/en/players/e9b44abf/Diego-Restrepo,e9b44abf,b5ebf38f,Diego Restrepo,Starter,USA,GK,31-227,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GK,3.0,1.0,3.0,100.0
+"team_name","player_url","player_id","match_id","player","lineup_status","nationality","position","age","minutes","goals","assists","pens_made","pens_att","shots","shots_on_target","cards_yellow","cards_red","fouls","fouled","offsides","crosses","tackles_won","interceptions","own_goals","pens_won","penalties_conceded","primary_position","gk_shots_on_target_against","gk_goals_against","gk_saves","gk_save_pct"
+"El Paso","https://fbref.com/en/players/7449fa6a/Aaron-Gomez","7449fa6a","b5ebf38f","Aaron Gomez","Starter","MEX","FW","25-047","90","0","0","0","0","3","2","0","0","3","3","0","2","0","0","0","0","0","FW",0.0,0.0,0.0,0.0
+"El Paso","https://fbref.com/en/players/ee8fb451/Jerome-Kiesewetter","ee8fb451","b5ebf38f","Jerome Kiesewetter","Starter","USA","FW","26-243","82","0","0","0","0","1","1","0","0","1","1","0","0","0","0","0","1","0","FW",0.0,0.0,0.0,0.0
+"El Paso","https://fbref.com/en/players/48d960c3/Alexy-Bosetti","48d960c3","b5ebf38f","Alexy Bosetti","Sub","FRA","FW,MF","26-170","8","0","0","0","0","0","0","0","0","1","1","0","0","1","0","0","0","0","FW",0.0,0.0,0.0,0.0
+"El Paso","https://fbref.com/en/players/3477901e/Sebastian-Velasquez","3477901e","b5ebf38f","Sebastian Velasquez","Starter","COL","FW","28-241","90","1","0","1","1","3","1","0","0","0","5","0","3","0","0","0","0","0","FW",0.0,0.0,0.0,0.0
+"El Paso","https://fbref.com/en/players/1fdf3f69/Nick-Ross","1fdf3f69","b5ebf38f","Nick Ross","Starter","SCO","CM","27-333","90","0","0","0","0","0","0","0","0","1","1","1","2","2","1","0","0","0","CM",0.0,0.0,0.0,0.0
+"El Paso","https://fbref.com/en/players/1ad98a0a/Sebastian-Contreras","1ad98a0a","b5ebf38f","Sebastian Contreras","Starter","ARG","CM","29-188","58","0","0","0","0","2","0","0","0","2","3","0","2","0","0","0","0","0","CM",0.0,0.0,0.0,0.0
+"El Paso","https://fbref.com/en/players/afd014a5/Omar-Salgado","afd014a5","b5ebf38f","Omar Salgado","Sub","MEX","FW,MF","26-030","32","0","0","0","0","2","0","0","0","0","0","0","2","0","1","0","0","0","FW",0.0,0.0,0.0,0.0
+"El Paso","https://fbref.com/en/players/ffc2f60e/Yuma","ffc2f60e","b5ebf38f","Yuma","Starter","ESP","DM","34-002","90","0","0","0","0","0","0","1","0","2","3","0","0","2","1","0","0","0","DM",0.0,0.0,0.0,0.0
+"El Paso","https://fbref.com/en/players/7c2ed1a4/James-Kiffe","7c2ed1a4","b5ebf38f","James Kiffe","Starter","USA","LB","30-259","90","0","0","0","0","0","0","0","0","0","1","0","4","1","0","0","0","0","LB",0.0,0.0,0.0,0.0
+"El Paso","https://fbref.com/en/players/681d6136/Andrew-Fox","681d6136","b5ebf38f","Andrew Fox","Starter","ENG","CB","26-268","90","0","0","0","0","0","0","0","0","1","1","0","0","0","1","0","0","0","CB",0.0,0.0,0.0,0.0
+"El Paso","https://fbref.com/en/players/43ed8014/Chiro-NToko","43ed8014","b5ebf38f","Chiro NToko","Starter","BEL","CB","31-253","90","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","CB",0.0,0.0,0.0,0.0
+"El Paso","https://fbref.com/en/players/210b2e5d/Bryam-Rebellon","210b2e5d","b5ebf38f","Bryam Rebellon","Starter","COL","RB","27-261","90","0","0","0","0","0","0","0","0","3","0","1","3","2","3","0","0","0","RB",0.0,0.0,0.0,0.0
+"El Paso","https://fbref.com/en/players/927c3059/Logan-Ketterer","927c3059","b5ebf38f","Logan Ketterer","Starter","USA","GK","25-335","90","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","GK",4.0,1.0,3.0,75.0
+"Bold","https://fbref.com/en/players/979cc205/Kleber","979cc205","b5ebf38f","Kleber","Starter","BRA","FW","36-059","90","0","0","0","0","1","0","1","0","1","5","0","1","0","0","0","0","0","FW",0.0,0.0,0.0,0.0
+"Bold","https://fbref.com/en/players/c5d9c6a0/Andre-Lima","c5d9c6a0","b5ebf38f","Andre Lima","Starter","BRA","FW","34-160","90","1","0","0","0","2","2","1","0","6","2","0","0","0","1","0","0","0","FW",0.0,0.0,0.0,0.0
+"Bold","https://fbref.com/en/players/9ca4b140/Ema-Twumasi","9ca4b140","b5ebf38f","Ema Twumasi","Starter","GHA","LM","22-145","90","0","0","0","0","0","0","0","0","1","0","0","2","0","0","0","0","0","LM",0.0,0.0,0.0,0.0
+"Bold","https://fbref.com/en/players/eee59c91/Amobi-Okugo","eee59c91","b5ebf38f","Amobi Okugo","Starter","USA","CM","28-211","76","0","0","0","0","0","0","1","0","1","2","0","0","0","0","0","0","0","CM",0.0,0.0,0.0,0.0
+"Bold","https://fbref.com/en/players/409d5b26/George-Acosta","409d5b26","b5ebf38f","George Acosta","Sub","USA","MF","19-264","14","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","MF",0.0,0.0,0.0,0.0
+"Bold","https://fbref.com/en/players/97c373a7/Valeri-Saramutin","97c373a7","b5ebf38f","Valeri Saramutin","Starter","RUS","CM","24-146","52","0","0","0","0","0","0","0","0","3","0","0","0","0","1","0","0","0","CM",0.0,0.0,0.0,0.0
+"Bold","https://fbref.com/en/players/003b1fe6/Thomas-De-Villardi","003b1fe6","b5ebf38f","Thomas De Villardi","Sub","FRA","FW","25-197","38","0","0","0","0","0","0","0","0","0","1","0","1","1","1","0","0","0","FW",0.0,0.0,0.0,0.0
+"Bold","https://fbref.com/en/players/5767fe13/Calum-Mallace","5767fe13","b5ebf38f","Calum Mallace","Starter","SCO","RM","29-273","45","0","0","0","0","1","1","1","0","0","0","0","4","0","1","0","0","0","RM",0.0,0.0,0.0,0.0
+"Bold","https://fbref.com/en/players/d8b6ef56/Kris-Tyrpak","d8b6ef56","b5ebf38f","Kris Tyrpak","Sub","USA","FW,MF","27-205","45","0","0","0","0","2","0","0","0","0","1","0","1","2","2","0","0","0","FW",0.0,0.0,0.0,0.0
+"Bold","https://fbref.com/en/players/513f83c8/Josue-Soto","513f83c8","b5ebf38f","Josue Soto","Starter","USA","LB","23-292","90","0","0","0","0","1","1","1","0","4","1","0","6","1","5","0","0","0","LB",0.0,0.0,0.0,0.0
+"Bold","https://fbref.com/en/players/3074b7b0/Jermaine-Taylor","3074b7b0","b5ebf38f","Jermaine Taylor","Starter","JAM","CB","34-269","90","0","0","0","0","0","0","1","0","1","0","0","0","2","3","0","0","0","CB",0.0,0.0,0.0,0.0
+"Bold","https://fbref.com/en/players/376f7f40/Gustavo-Rissi","376f7f40","b5ebf38f","Gustavo Rissi","Starter","BRA","CB","21-248","90","0","0","0","0","0","0","0","0","1","0","0","0","1","2","0","0","0","CB",0.0,0.0,0.0,0.0
+"Bold","https://fbref.com/en/players/d83fa006/Sean-McFarlane","d83fa006","b5ebf38f","Sean McFarlane","Starter","JAM","RB","26-189","90","0","1","0","0","0","0","0","0","1","2","0","6","3","2","0","0","0","RB",0.0,0.0,0.0,0.0
+"Bold","https://fbref.com/en/players/e9b44abf/Diego-Restrepo","e9b44abf","b5ebf38f","Diego Restrepo","Starter","USA","GK","31-227","90","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","GK",3.0,1.0,3.0,100.0
