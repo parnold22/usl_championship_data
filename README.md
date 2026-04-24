@@ -15,6 +15,6 @@ Once you have all of the match leve data, fbref_player_match_scraper.py is desig
 
 For smaller, in-season updates the fbref_in_season_updater.py file is setup to scrape matches and player-level data for any matches that have completed since the last time you scraped the data. This file combines both match-level and player-level into a singular script due to the limited number of pages that are needed for in-season updated
 
-After scraping, I created some models in dbt to transform the data into a more useable format and built some visualizations based on those models in Tableau. I plan to continue to manage/maintain this repo for upcming seasons and add visualizations along the way!
+After scraping, I created some models in dbt to transform the data into a more useable format and built some visualizations based on those models in Tableau. I plan to continue to manage/maintain this repo for upcoming seasons and add visualizations along the way!
 
 Thanks for checking out my work!
