@@ -49,5 +49,12 @@ left join playoff_history as playoff_history
     on team_end_of_regular_season_data.team_id = playoff_history.team_id
     and team_end_of_regular_season_data.season_id = playoff_history.season_id
 )
+, perfecting granularity as ( 
+select team_name
+    , team_id
+    , season_id
+    , 
+from append_team_playoff_data
+)
 
 select * from append_team_playoff_data where playoff_result <> 'Missed Playoffs'
