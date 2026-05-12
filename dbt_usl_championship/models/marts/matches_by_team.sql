@@ -116,6 +116,35 @@ select match_order_with_cum.* exclude (cum_non_wins, cum_wins)
         end as consecutive_winless_count
 from match_order_with_cum
 )
+, latest_season_positions as (
+select team_name
+    , season_id
+    , max_by(current_match_week_position, match_week_number) as latest_season_position
+    , max_by(current_match_week_position_goals_scored_best_offense, match_week_number) as latest_season_position_goals_scored_best_offense
+    , max_by(current_match_week_position_goals_conceded_best_defence, match_week_number) as latest_season_position_goals_conceded_best_defence
+    , max_by(season_points, match_week_number) as latest_season_points
+    , max_by(season_goal_difference, match_week_number) as latest_season_goal_difference
+    , max_by(season_goals_scored, match_week_number) as latest_season_goals_scored
+    , max_by(season_goals_conceded, match_week_number) as latest_season_goals_conceded
+    , max(match_week_number) as latest_season_match_week_number
+from season_positions
+where game_type = 'Regular Season'
+group by all
+)
+, append_latest_season_positions as (
+select season_positions.*
+    , latest_season_positions.latest_season_position as opponent_latest_season_position
+    , latest_season_positions.latest_season_position_goals_scored_best_offense as opponent_latest_season_position_goals_scored_best_offense
+    , latest_season_positions.latest_season_position_goals_conceded_best_defence as opponent_latest_season_position_goals_conceded_best_defence
+    , latest_season_positions.latest_season_points / latest_season_positions.latest_season_match_week_number as opponent_latest_season_points_per_game
+    , latest_season_positions.latest_season_goal_difference / latest_season_positions.latest_season_match_week_number as opponent_latest_season_goal_difference_per_game
+    , latest_season_positions.latest_season_goals_scored / latest_season_positions.latest_season_match_week_number as opponent_latest_season_goals_scored_per_game
+    , latest_season_positions.latest_season_goals_conceded / latest_season_positions.latest_season_match_week_number as opponent_latest_season_goals_conceded_per_game
+from season_positions
+left join latest_season_positions
+    on season_positions.opponent_team_name = latest_season_positions.team_name
+    and season_positions.season_id = latest_season_positions.season_id
+)
 
 select * 
-from season_positions
+from append_latest_season_positions
